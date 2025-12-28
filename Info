@@ -1,0 +1,3317 @@
+{
+  "Values": {
+    "Units": {
+      "Scarecrow Freddy": {
+        "Normal": {
+          "value": "0.05",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "3",
+          "demand": "N/A"
+        }
+      },
+      "BBnJ": {
+        "Shiny": {
+          "value": "0.1-0.14",
+          "demand": "N/A"
+        }
+      },
+      "Balloon Boy": {
+        "Normal": {
+          "value": "0.4+",
+          "demand": "9/10"
+        },
+        "Shiny": {
+          "value": "9-10+",
+          "demand": "7.5/10"
+        }
+      },
+      "Slasher Bonnie": {
+        "Normal": {
+          "value": "0.025",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1-1.1+",
+          "demand": "N/A"
+        }
+      },
+      "Dreadbear": {
+        "Normal": {
+          "value": "1.55",
+          "demand": "9.5/10"
+        },
+        "Shiny": {
+          "value": "28",
+          "demand": "10/10"
+        }
+      },
+      "Mangle": {
+        "Normal": {
+          "value": "1:1",
+          "demand": "9/10"
+        },
+        "Shiny": {
+          "value": "25+",
+          "demand": "9.9/10"
+        }
+      },
+      "Shadow Bonnie": {
+        "Normal": {
+          "value": "1.5+",
+          "demand": "7/10"
+        },
+        "Shiny": {
+          "value": "29",
+          "demand": "10/10"
+        }
+      },
+      "Headless Horseman Mangle": {
+        "Normal": {
+          "value": "0.15+",
+          "demand": "8.5/10"
+        },
+        "Shiny": {
+          "value": "8.5+",
+          "demand": "10/10"
+        }
+      },
+      "Purple Guy": {
+        "Normal": {
+          "value": "0.15+",
+          "demand": "9/10"
+        },
+        "Shiny": {
+          "value": "10-13",
+          "demand": "10/10"
+        }
+      },
+      "Party Glock Freddy": {
+        "Normal": {
+          "value": "0.05",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1.3+",
+          "demand": "6.5/10"
+        }
+      },
+      "Puppet's Alliance": {
+        "Normal": {
+          "value": "0.05",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1.75+",
+          "demand": "7/10"
+        }
+      },
+      "Party Packer Cupcake": {
+        "Normal": {
+          "value": "0.12-0.13",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1.8-2.2",
+          "demand": "6/10"
+        }
+      },
+      "Endo 02": {
+        "Normal": {
+          "value": "0.5+",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "11+",
+          "demand": "8+/10"
+        }
+      },
+      "Jack'O Bonnie": {
+        "Normal": {
+          "value": "0.4-0.5",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "6.5",
+          "demand": "N/A"
+        }
+      },
+      "Turkey Chica": {
+        "Normal": {
+          "value": "0.05",
+          "demand": "5.5/10"
+        },
+        "Shiny": {
+          "value": "1.5",
+          "demand": "6/10"
+        }
+      },
+      "Withered Freddy": {
+        "Normal": {
+          "value": "0.005",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.3+",
+          "demand": "8.5/10"
+        }
+      },
+      "Withered Golden Freddy": {
+        "Normal": {
+          "value": "0.005",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.15",
+          "demand": "N/A"
+        }
+      },
+      "Shadow Freddy": {
+        "Normal": {
+          "value": "0.0025",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.12+",
+          "demand": "N/A"
+        }
+      },
+      "Undead Chica": {
+        "Normal": {
+          "value": "0.001",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.1+",
+          "demand": "7/10"
+        }
+      },
+      "Conductor Toy Freddy": {
+        "Normal": {
+          "value": "0.06",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1.7-2",
+          "demand": "N/A"
+        }
+      },
+      "Movie Director Freddy": {
+        "Normal": {
+          "value": "0.05+",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.8-1.3+",
+          "demand": "N/A"
+        }
+      },
+      "Frostmancer Withered Bonnie": {
+        "Normal": {
+          "value": "0.05",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "0.2",
+          "demand": "9/10"
+        }
+      },
+      "Grinch Foxy": {
+        "Normal": {
+          "value": "1.5+",
+          "demand": "8/10"
+        },
+        "Shiny": {
+          "value": "33+",
+          "demand": "8.5/10"
+        }
+      },
+      "Krampus Purple Guy": {
+        "Normal": {
+          "value": "1",
+          "demand": "9/10"
+        },
+        "Shiny": {
+          "value": "18+",
+          "demand": "N/A"
+        }
+      },
+      "Scrooge Freddy": {
+        "Normal": {
+          "value": "0.07+",
+          "demand": "8.5+/10"
+        },
+        "Shiny": {
+          "value": "1.5-2",
+          "demand": "9/10"
+        }
+      },
+      "Frozen King Foxy": {
+        "Normal": {
+          "value": "0.75-1+",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "20+",
+          "demand": "N/A"
+        }
+      },
+      "Yeti Oni Bonnie": {
+        "Normal": {
+          "value": "1.75+",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "25-28",
+          "demand": "N/A"
+        }
+      },
+      "Popcorn Bot": {
+        "Normal": {
+          "value": "0.08",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "1.3+",
+          "demand": "N/A"
+        }
+      }
+    },
+    "Pets": {
+      "Golden Freddy": {
+        "value": "0.3",
+        "demand": "N/A"
+      },
+      "Gang Freddy": {
+        "value": "1.6+",
+        "demand": "N/A"
+      }
+    },
+    "Gamepasses": {
+      "Shiny Hunter": {
+        "value": "2+",
+        "demand": "N/A"
+      },
+      "VIP": {
+        "value": "0.3-0.4",
+        "demand": "N/A"
+      },
+      "Premium": {
+        "value": "1.75+",
+        "demand": "N/A"
+      },
+      "Event Premium": {
+        "value": "1.3",
+        "demand": "N/A"
+      },
+      "Quick Open": {
+        "value": "0.25",
+        "demand": "N/A"
+      }
+    },
+    "Banners": {
+      "The Brick Incident": {
+        "value": "1-1.2",
+        "demand": "N/A"
+      }
+    }
+  },
+  "Units": [
+    {
+      "Name": "Bonnie",
+      "Rarity": "Uncommon",
+      "PlacementPrice": 375,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 25,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 27.5,
+          "Damage": 25,
+          "Cooldown": 2,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 30,
+          "Damage": 30,
+          "Cooldown": 1.5,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 35,
+          "Damage": 35,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1200
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Uncommon Present (25%)",
+        "Merchant 150 Coins",
+        "Summons (50%)"
+      ]
+    },
+    {
+      "Name": "Chica",
+      "Rarity": "Uncommon",
+      "PlacementPrice": 300,
+      "Type": "Line",
+      "Element": "Fire",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 25,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 30,
+          "Cooldown": 2,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 22,
+          "Damage": 30,
+          "Cooldown": 1.5,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 25,
+          "Damage": 35,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1350
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Uncommon Present (25%)",
+        "Merchant 150 Coins",
+        "Summons (50%)"
+      ]
+    },
+    {
+      "Name": "Foxy",
+      "Rarity": "Uncommon",
+      "PlacementPrice": 350,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 5,
+      "BaseStats": {
+        "Range": 10,
+        "Damage": 25,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 11,
+          "Damage": 30,
+          "Cooldown": 2,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 13,
+          "Damage": 30,
+          "Cooldown": 1.5,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 15,
+          "Damage": 35,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1200
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Uncommon Present (25%)",
+        "Merchant 150 Coins",
+        "Summons (50%)"
+      ]
+    },
+    {
+      "Name": "Freddy",
+      "Rarity": "Uncommon",
+      "PlacementPrice": 250,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 6,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 35,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.5,
+          "Damage": 40,
+          "Cooldown": 2.5,
+          "UpgradePrice": 350
+        },
+        {
+          "Range": 25,
+          "Damage": 45,
+          "Cooldown": 2,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 27.5,
+          "Damage": 50,
+          "Cooldown": 2,
+          "UpgradePrice": 600
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Uncommon Present (25%)",
+        "Merchant 150 Coins",
+        "Summons (50%)"
+      ]
+    },
+    {
+      "Name": "JJ",
+      "Rarity": "Rare",
+      "PlacementPrice": 500,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 35,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 40,
+          "Cooldown": 2,
+          "UpgradePrice": 750
+        },
+        {
+          "Range": 25,
+          "Damage": 50,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 28,
+          "Damage": 60,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1400
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Rare Present (50%)",
+        "Merchant 500 Coins",
+        "Summons (30%)"
+      ]
+    },
+    {
+      "Name": "PaperPals",
+      "Rarity": "Rare",
+      "PlacementPrice": 450,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 50,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 26,
+          "Damage": 50,
+          "Cooldown": 2.5,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 28,
+          "Damage": 55,
+          "Cooldown": 2.5,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 30,
+          "Damage": 65,
+          "Cooldown": 2,
+          "UpgradePrice": 1250
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Rare Present (50%)",
+        "Merchant 500 Coins",
+        "Summons (30%)"
+      ]
+    },
+    {
+      "Name": "Undead Chica",
+      "Rarity": "Rare",
+      "PlacementPrice": 600,
+      "Type": "Summons",
+      "Element": "Rust",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 80,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 27,
+          "Damage": 90,
+          "Cooldown": 4,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 29,
+          "Damage": 100,
+          "Cooldown": 4,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 31,
+          "Damage": 120,
+          "Cooldown": 4,
+          "UpgradePrice": 1400
+        }
+      ],
+      "Passives": {
+        "Overwhelming Horde": "For each Zombie Cupcake (Zombie Chica’s summon) on the field, increases this units damage by 1% (up to 10%)"
+      },
+      "Obtainability": [
+        "Halloween Event Summons Craftable"
+      ]
+    },
+    {
+      "Name": "Balloon Boy",
+      "Rarity": "Epic",
+      "PlacementPrice": 400,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 15,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15,
+          "Cooldown": 0,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 16,
+          "Cooldown": 0,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 17,
+          "Cooldown": 0,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 18,
+          "Cooldown": 0,
+          "UpgradePrice": 1050
+        }
+      ],
+      "Passives": {
+        "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
+      },
+      "Obtainability": [
+        "Season 1 Premium Pass T1"
+      ]
+    },
+    {
+      "Name": "Cupcake",
+      "Rarity": "Epic",
+      "PlacementPrice": 400,
+      "Type": "Support",
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Cooldown": 0,
+          "UpgradePrice": 600
+        },
+        {
+          "Range": 17,
+          "Cooldown": 0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 18,
+          "Cooldown": 0,
+          "UpgradePrice": 1050
+        }
+      ],
+      "Passives": {
+        "Birthday Boy": "Provides a 3% buff to damage, range, and cooldown to every unit in its radius."
+      },
+      "Obtainability": [
+        "Epic Present (25%)",
+        "Merchant 1250 Coins",
+        "Summons (18%)"
+      ]
+    },
+    {
+      "Name": "Frosty the Snowcake",
+      "Rarity": "Epic",
+      "PlacementPrice": 1050,
+      "Type": "Circle",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 110,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15,
+          "Damage": 120,
+          "Cooldown": 4,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 16,
+          "Damage": 130,
+          "Cooldown": 4,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 20,
+          "Damage": 130,
+          "Cooldown": 3.6,
+          "UpgradePrice": 1950
+        },
+        {
+          "Range": 24,
+          "Damage": 140,
+          "Cooldown": 3.6,
+          "UpgradePrice": 2550
+        }
+      ],
+      "Passives": {
+        "Chilling Snowcake": "Each enemy damaged by this unit is slowed by 10% for 1s."
+      },
+      "Obtainability": [
+        "Christmas Present (90%)"
+      ]
+    },
+    {
+      "Name": "Santa Freddy",
+      "Rarity": "Epic",
+      "PlacementPrice": 450,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20.5,
+        "Damage": 65,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.5,
+          "Damage": 100,
+          "Cooldown": 3,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 24.5,
+          "Damage": 125,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1150
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Christmas Movie Event Summons 89%"
+      ]
+    },
+    {
+      "Name": "Toy Bonnie",
+      "Rarity": "Epic",
+      "PlacementPrice": 850,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 55,
+        "Cooldown": 2.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 65,
+          "Cooldown": 2.6,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 26,
+          "Damage": 80,
+          "Cooldown": 2.6,
+          "UpgradePrice": 1050
+        },
+        {
+          "Range": 28,
+          "Damage": 100,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 28,
+          "Damage": 120,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1850
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Epic Present (25%)",
+        "Merchant 1250 Coins",
+        "Summons (18%)"
+      ]
+    },
+    {
+      "Name": "Toy Freddy",
+      "Rarity": "Epic",
+      "PlacementPrice": 750,
+      "Type": "Cone",
+      "Element": "Fire",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 90,
+          "Cooldown": 2.8,
+          "UpgradePrice": 750
+        },
+        {
+          "Range": 22,
+          "Damage": 90,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1050
+        },
+        {
+          "Range": 24,
+          "Damage": 115,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 25,
+          "Damage": 125,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1750
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Epic Present (25%)",
+        "Merchant 1250 Coins",
+        "Summons (18%)"
+      ]
+    },
+    {
+      "Name": "Withered Chica",
+      "Rarity": "Epic",
+      "PlacementPrice": 800,
+      "Type": "Single",
+      "Element": "Electricity",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 100,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 130,
+          "Cooldown": 5,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 19,
+          "Damage": 150,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 170,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 22,
+          "Damage": 200,
+          "Cooldown": 4.2,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Epic Present (25%)",
+        "Merchant 1250 Coins",
+        "Summons (18%)"
+      ]
+    },
+    {
+      "Name": "BBnJ",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1400,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 160,
+        "Cooldown": 4.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 180,
+          "Cooldown": 4.2,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 18,
+          "Damage": 200,
+          "Cooldown": 4.2,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 19,
+          "Damage": 210,
+          "Cooldown": 3.8,
+          "UpgradePrice": 1900
+        },
+        {
+          "Range": 20,
+          "Damage": 230,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 21,
+          "Damage": 250,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Halloween Event Summons Craftable"
+      ]
+    },
+    {
+      "Name": "Endo 01",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1000,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 100,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 125,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 20,
+          "Damage": 140,
+          "Cooldown": 2.3,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 20,
+          "Damage": 175,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 200,
+          "Cooldown": 2,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Mythic Present (25%)",
+        "Merchant 7500 Coins",
+        "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Fazcade",
+      "Rarity": "Mythical",
+      "PlacementPrice": 450,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 3250
+        }
+      ],
+      "Passives": {
+        "Arcade Machine": "This unit makes money every wave based on its current upgrade. [Upgrade 1: 200 Cash, Upgrade 2: 450 Cash, Upgrade 3: 1000 Cash, Upgrade 4: 1600 Cash]"
+      },
+      "Obtainability": [
+        "Mythic Present (25%)",
+        "Merchant 7500 Coins",
+        "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Jack'O Bonnie",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1000,
+      "Type": "Circle",
+      "Element": "Fire",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 135,
+        "Cooldown": 4.7
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 150,
+          "Cooldown": 4.7,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 24,
+          "Damage": 165,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 24,
+          "Damage": 180,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 26,
+          "Damage": 200,
+          "Cooldown": 4.3,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 26,
+          "Damage": 225,
+          "Cooldown": 4.3,
+          "UpgradePrice": 2200
+        }
+      ],
+      "Passives": {
+        "Explosive Jack-O-Lanterns": "Every 5s, lays an exploding jack-o-lantern on the track somewhere within this unit’s range (Max of 3 pumpkins per placement). When an enemy touches this pumpkin, the pumpkin will explode, dealing 120% of this unit’s damage, and burning for 10% of that damage.",
+        "Jack-O Blaze": "All attacks from this unit apply a burn for 5% of its damage for 3s. When attacking a burned enemy, this unit does 20% more damage. (This damage boost does not apply to pumpkins)"
+      },
+      "Obtainability": [
+        "Halloween Event Free Pass T30"
+      ]
+    },
+    {
+      "Name": "Mrs Claus Toy Chica",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1250,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 23,
+        "Damage": 100,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.5,
+          "Damage": 125,
+          "Cooldown": 2.5,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 23.5,
+          "Damage": 130,
+          "Cooldown": 2.4,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 24,
+          "Damage": 135,
+          "Cooldown": 2.3,
+          "UpgradePrice": 950
+        },
+        {
+          "Range": 24.5,
+          "Damage": 140,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 24.5,
+          "Damage": 140,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 25,
+          "Damage": 170,
+          "Cooldown": 2.1,
+          "UpgradePrice": 1250
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Christmas Movie Event Summons 10%"
+      ]
+    },
+    {
+      "Name": "Toy Chica",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1200,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 40,
+        "Cooldown": 1.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 50,
+          "Cooldown": 1.6,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 22.5,
+          "Damage": 55,
+          "Cooldown": 1.6,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 22.5,
+          "Damage": 85,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25,
+          "Damage": 90,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 25,
+          "Damage": 100,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Mythic Present (25%)",
+        "Merchant 7500 Coins",
+        "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Withered Bonnie",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1100,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 90,
+        "Cooldown": 2.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 110,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 25,
+          "Damage": 130,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 30,
+          "Damage": 130,
+          "Cooldown": 1.3,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 30,
+          "Damage": 150,
+          "Cooldown": 1.3,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 35,
+          "Damage": 180,
+          "Cooldown": 1.3,
+          "UpgradePrice": 3000
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Mythic Present (25%)",
+        "Merchant 7500 Coins",
+        "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Conductor Toy Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 550,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15.5,
+        "Damage": 110,
+        "Cooldown": 7
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16.5,
+          "Damage": 120,
+          "Cooldown": 7,
+          "UpgradePrice": 400
+        },
+        {
+          "Range": 17,
+          "Damage": 130,
+          "Cooldown": 7,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 17.5,
+          "Damage": 140,
+          "Cooldown": 7,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 18.5,
+          "Damage": 150,
+          "Cooldown": 7,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 20,
+          "Damage": 175,
+          "Cooldown": 7,
+          "UpgradePrice": 1250
+        }
+      ],
+      "Passives": {
+        "All Aboard!": "On this unit's cooldown, summons a train on the track with 120% damage as health (does not damage bosses). While a train is on the track, this unit gains a 10% damage boost (capped at 1)."
+      },
+      "Obtainability": [
+        "Christmas Movie Event Exclusive 1299R$ / 25000 Gingerbread"
+      ]
+    },
+    {
+      "Name": "Endo 02",
+      "Rarity": "Secret",
+      "PlacementPrice": 2750,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 80,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 90,
+          "Cooldown": 2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 100,
+          "Cooldown": 2,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 120,
+          "Cooldown": 2.4,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 140,
+          "Cooldown": 2.4,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 28,
+          "Damage": 160,
+          "Cooldown": 2.4,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 28,
+          "Damage": 180,
+          "Cooldown": 2.4,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Engineer": "This unit places turrets that do Single Target attacks equal to this units damage and cooldown. Places a turret every 15s, turrets last 60s. Maximum of 3 turrets per Endo 02 placed. [Places somewhere randomly within range]"
+      },
+      "Obtainability": [
+        "Season 1 Free Pass T30"
+      ]
+    },
+    {
+      "Name": "Frostmancer Withered Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Circle",
+      "Element": "Water",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 19,
+        "Damage": 350,
+        "Cooldown": 5.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20.5,
+          "Damage": 450,
+          "Cooldown": 5.2,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 21,
+          "Damage": 500,
+          "Cooldown": 5.2,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 21,
+          "Damage": 550,
+          "Cooldown": 5.2,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 21.5,
+          "Damage": 650,
+          "Cooldown": 5.2,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 22,
+          "Damage": 700,
+          "Cooldown": 5.2,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22.5,
+          "Damage": 750,
+          "Cooldown": 5.2,
+          "UpgradePrice": 6250
+        }
+      ],
+      "Passives": {
+        "Herald of Winter": "This unit summons Snow Bonnies around itself (cap of 3) that provide 1 of 2 following buffs to itself: 10% DMG and RNG increase 15% slowing to all enemies in range While a Snow Bonnie is present, attacks freeze enemies for 1s."
+      },
+      "Obtainability": [
+        "Christmas Movie Event Summons .35%"
+      ]
+    },
+    {
+      "Name": "Krampus Purple Guy",
+      "Rarity": "Secret",
+      "PlacementPrice": 3250,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 650,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 700,
+          "Cooldown": 6,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 20,
+          "Damage": 750,
+          "Cooldown": 6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 20,
+          "Damage": 800,
+          "Cooldown": 6,
+          "UpgradePrice": 2550
+        },
+        {
+          "Range": 20,
+          "Damage": 800,
+          "Cooldown": 5.6,
+          "UpgradePrice": 2600
+        },
+        {
+          "Range": 20,
+          "Damage": 815,
+          "Cooldown": 5.5,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 20,
+          "Damage": 815,
+          "Cooldown": 5.4,
+          "UpgradePrice": 3250
+        }
+      ],
+      "Passives": {
+        "Punishment of Evil": "This unit stuns enemies it attacks for 1.8s. When attacking a stunned enemy, deal 35% more damage."
+      },
+      "Obtainability": [
+        "Christmas Movie Event Free Pass T30"
+      ]
+    },
+    {
+      "Name": "Movie Director Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 350,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 400
+        },
+        {
+          "Range": 22,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 23,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 24,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 550
+        },
+        {
+          "Range": 25,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 600
+        }
+      ],
+      "Passives": {
+        "Eye for Talent": "This unit boosts all forms of income by 10%, scaling by 2% per upgrade. [ends at 20%] This unit boosts the damage of the unit with the highest damage number in range by 25%."
+      },
+      "Obtainability": [
+        "Christmas Movie Event Exclusive 799R$ / 15000 Gingerbread"
+      ]
+    },
+    {
+      "Name": "Party Glock Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 750,
+      "Type": "Circle",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 150,
+        "Cooldown": 3.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 170,
+          "Cooldown": 3.6,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 24,
+          "Damage": 190,
+          "Cooldown": 3.6,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24,
+          "Damage": 200,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 220,
+          "Cooldown": 3.2,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 27,
+          "Damage": 260,
+          "Cooldown": 3.2,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "Celebration": "Every 60s this unit enters a Party Time mode for 30s, gaining 30% damage, reducing SPA by 15% and increasing range by 25%.",
+        "Party Poppers": "Every 15 seconds, spawns in 2 Party Poppers anywhere in this unit's range that aim at the enemy currently being targeted by the unit. Party Poppers deal 120% of this unit's current damage in a 70 degree Cone AOE."
+      },
+      "Obtainability": [
+        "1st Bi-Weekly Exclusive 599R$ / 12500 Coins"
+      ]
+    },
+    {
+      "Name": "Party Packer Cupcake",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Circle",
+      "Element": "Fire",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 125,
+        "Cooldown": 2.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 165,
+          "Cooldown": 2.2,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 18,
+          "Damage": 200,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 18,
+          "Damage": 240,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 20,
+          "Damage": 250,
+          "Cooldown": 2,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 20,
+          "Damage": 300,
+          "Cooldown": 2,
+          "UpgradePrice": 2600
+        },
+        {
+          "Range": 20,
+          "Damage": 320,
+          "Cooldown": 2,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "I.C.B.C.M (Inter-Continental Ballistic Cupcake Missile)": "Every 12 seconds the top of this unit's cupcake opens, and launches a cupcake missile that targets the highest HP enemy on the field dealing 200% damage.",
+        "Explosives Expert": "For every circle attack type unit in this unit's range increase damage and range by 3%. [15% max buff]",
+        "Fallout [Active Ability] [Upgrade 6+]": "Upon activation, for the next 17s I.C.B.C.M's are launched every 3.4s dealing 140% of this unit's current damage. After this for 3s, releases a wave of steam hitting 3 times for 120% of this unit's current damage (Cone AOE) applying burn for 3s dealing 40% of the damage dealt by the steam [13.3% dmg/tick]. [20s Duration] [120s Global CD]"
+      },
+      "Obtainability": [
+        "1st Starter Pack 249R$"
+      ]
+    },
+    {
+      "Name": "Popcorn Bot",
+      "Rarity": "Secret",
+      "PlacementPrice": 1750,
+      "Type": "Line",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 40,
+        "Cooldown": 1
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 65,
+          "Cooldown": 1,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 26,
+          "Damage": 75,
+          "Cooldown": 1,
+          "UpgradePrice": 1850
+        },
+        {
+          "Range": 27,
+          "Damage": 85,
+          "Cooldown": 1,
+          "UpgradePrice": 1925
+        },
+        {
+          "Range": 28,
+          "Damage": 125,
+          "Cooldown": 1,
+          "UpgradePrice": 2250
+        }
+      ],
+      "Passives": {
+        "Popcorn Party Pack": "Every 8 seconds this unit shots Popcorn with 1 of 3 different effects in this order. Spicy: 120 degree Cone, dealing 35% burn for 3s. Buttered: Single target Knockback Sweet: Boost all units and their stats by 5% for 7s."
+      },
+      "Obtainability": [
+        "4th Bi-Weekly Exclusive 799R$ / 35000 Coins"
+      ]
+    },
+    {
+      "Name": "Puppet's Alliance",
+      "Rarity": "Secret",
+      "PlacementPrice": 1500,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 330,
+        "Cooldown": 4.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 360,
+          "Cooldown": 4.2,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 27,
+          "Damage": 380,
+          "Cooldown": 4.2,
+          "UpgradePrice": 2050
+        },
+        {
+          "Range": 27,
+          "Damage": 380,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 28,
+          "Damage": 400,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 30,
+          "Damage": 400,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3650
+        }
+      ],
+      "Passives": {
+        "Soul Shock": "[Unstable] is applied to every 8th Enemy that enters the map. [Unstable] results in an explosion that deals 50% damage of the unit that killed it."
+      },
+      "Obtainability": [
+        "2nd Bi-Weekly Exclusive 799R$ / 35000 Coins"
+      ]
+    },
+    {
+      "Name": "Scarecrow Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1400,
+      "Type": "Support",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Cooldown": 0,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 20,
+          "Cooldown": 0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Cooldown": 0,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 22,
+          "Cooldown": 0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Cooldown": 0,
+          "UpgradePrice": 3600
+        }
+      ],
+      "Passives": {
+        "Guardian of the Fields": "While in (Guardian) form, this unit slows all enemies in range by 30%, and debuffs all towers in range by 5% Damage and 5% Range. Additionally while in (Guardian) form this unit does 40% of its damage every second passively to all enemies in range.",
+        "Crop Raiser": "While in (Raiser) form, this unit speeds up all enemies in range by 5%, and buffs all towers in range by 15% Damage and 15% Range. Additionally while in (Raiser) form, this unit will attack the strongest enemy in range every 3s for 200% of its damage."
+      },
+      "Obtainability": [
+        "Halloween Event Exclusive 1299R$ / 35000 Pumpkins"
+      ]
+    },
+    {
+      "Name": "Shadow Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 3500,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 500,
+        "Cooldown": 4.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 550,
+          "Cooldown": 4.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 27.5,
+          "Damage": 600,
+          "Cooldown": 4.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 27.5,
+          "Damage": 600,
+          "Cooldown": 4,
+          "UpgradePrice": 4500,
+          "Type": "Circle"
+        },
+        {
+          "Range": 24,
+          "Damage": 650,
+          "Cooldown": 5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 22,
+          "Damage": 600,
+          "Cooldown": 4.4,
+          "UpgradePrice": 4500,
+          "Type": "Full"
+        },
+        {
+          "Range": 24,
+          "Damage": 650,
+          "Cooldown": 4.3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 700,
+          "Cooldown": 4.2,
+          "UpgradePrice": 5500
+        }
+      ],
+      "Passives": {
+        "Agonizing Energy": "Attacks apply poison for 2s, dealing 20% of this unit's current damage. [10% dmg/tick]"
+      },
+      "Obtainability": [
+        "Season 1 Premium Pass T30"
+      ]
+    },
+    {
+      "Name": "Shadow Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 2500,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 250,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 280,
+          "Cooldown": 2.8,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 23,
+          "Damage": 300,
+          "Cooldown": 2.6,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 23,
+          "Damage": 330,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 360,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 350,
+          "Cooldown": 3,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 400,
+          "Cooldown": 3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 450,
+          "Cooldown": 3,
+          "UpgradePrice": 4500
+        }
+      ],
+      "Passives": {
+        "Corrosion": "Attacks reduce armor damage resistance for 5s by 5% per hit, up to 70%.",
+        "Energy Siphon": "This unit's range increases by 2% for each upgrade performed within its range. [30% max buff]"
+      },
+      "Obtainability": [
+        "Summons (0.25%)"
+      ]
+    },
+    {
+      "Name": "Slasher Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 2550,
+      "Type": "Cone",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 170,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 190,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 19,
+          "Damage": 210,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2100
+        },
+        {
+          "Range": 21,
+          "Damage": 240,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 23,
+          "Damage": 260,
+          "Cooldown": 2.6,
+          "UpgradePrice": 3300
+        },
+        {
+          "Range": 25,
+          "Damage": 280,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 26,
+          "Damage": 320,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3300
+        }
+      ],
+      "Passives": {
+        "Bloodlust": "For each enemy in range: increase damage by 5%, range by 3%, and decrease cooldown by 2%. (Max of 5 stacks; 25% damage, 15% range, 10% cooldown) Upon reaching its final upgrade, these stats increase to 7.5% damage, 5% range, and 3% cooldown. (Max 37.5% damage, 25% range, 15% cooldown)",
+        "Indiscriminate Bloodshed": "Bloodlust boost now becomes permanent once obtained, stack cap still applies. Once this unit reaches 5 Bloodlust stacks, this unit’s attack type changes to a 45 Degree Cone."
+      },
+      "Obtainability": [
+        "Halloween Event Exclusive 799R$ / 15000 Pumpkins"
+      ]
+    },
+    {
+      "Name": "Toy Maker Mangle",
+      "Rarity": "Secret",
+      "PlacementPrice": 1500,
+      "Type": "Summons",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 19,
+        "Damage": 450,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 550,
+          "Cooldown": 5.5,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 21,
+          "Damage": 650,
+          "Cooldown": 5,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 22.5,
+          "Damage": 750,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 23.5,
+          "Damage": 800,
+          "Cooldown": 4,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 850,
+          "Cooldown": 3.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 900,
+          "Cooldown": 3,
+          "UpgradePrice": 3000
+        }
+      ],
+      "Passives": {
+        "Toy Maker": " This unit summons its toys on the track every 10 seconds, cycling through them in the following order. 1: Toy Train - HP equal to 80% damage 2: Toy Soldier - HP equal to 50% damage, attacks the first enemy within 15 range for 30% damage every 3s. 3: Wind-Up Bomb Toy - HP equal to 20% damage. On death, explodes dealing 125% "
+      },
+      "Obtainability": [
+        "Christmas Present (9.5%)"
+      ]
+    },
+    {
+      "Name": "Turkey Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 750,
+      "Type": "Line",
+      "Element": "Fire",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 100,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 175,
+          "Cooldown": 3,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 20,
+          "Damage": 175,
+          "Cooldown": 2.8,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 21,
+          "Damage": 190,
+          "Cooldown": 2.7,
+          "UpgradePrice": 1900
+        },
+        {
+          "Range": 21,
+          "Damage": 225,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2450
+        },
+        {
+          "Range": 22,
+          "Damage": 250,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2750
+        }
+      ],
+      "Passives": {
+        "Horn of Plenty": "Every 7 seconds, the cornucopia this unit holds will give itself a random buff from the “Blessing of Abundance” list found here. Blessing of Abundance: Nuts: 50% damage buff for 5s Produce: 30% cooldown buff for 5s Flowers: 80% range buff for 5s"
+      },
+      "Obtainability": [
+        "3rd Bi-Weekly Exclusive 799R$ / 35000 Coins"
+      ]
+    },
+    {
+      "Name": "Withered Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 3250,
+      "Type": "Single",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 90,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Damage": 110,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 17,
+          "Damage": 130,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 18,
+          "Damage": 130,
+          "Cooldown": 1.2,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 18,
+          "Damage": 160,
+          "Cooldown": 1.6,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 19,
+          "Damage": 190,
+          "Cooldown": 1.6,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 20,
+          "Damage": 210,
+          "Cooldown": 1.5,
+          "UpgradePrice": 3500
+        }
+      ],
+      "Passives": {
+        "Sword Lunge": "When this unit first hits an enemy, does 30% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
+      },
+      "Obtainability": [
+        "Summons (0.25%)"
+      ]
+    },
+    {
+      "Name": "Withered Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1800,
+      "Type": "Cone",
+      "Element": "Rust",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 16,
+        "Cooldown": 0.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 18,
+          "Cooldown": 0.28,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 25,
+          "Damage": 20,
+          "Cooldown": 0.28,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 25,
+          "Damage": 24,
+          "Cooldown": 0.28,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 26,
+          "Cooldown": 0.26,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 29,
+          "Damage": 28,
+          "Cooldown": 0.26,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 29,
+          "Damage": 28,
+          "Cooldown": 0.2,
+          "UpgradePrice": 4250
+        }
+      ],
+      "Passives": {
+        "Armor Piercing Rounds": "This unit's attacks ignore armor damage resistance.",
+        "Focused Fire": "For every second that the unit targets the same enemy increase rng by 3% up to 35%. (Circle AOE)",
+        "Faz-Metal-Jacket": "Every second shot applies burn for 1s, dealing 10% of this unit's current damage. (Cone AOE)",
+        "Mode Swap [Active Ability]": "Changes this unit's attack and passive between Focused Fire and Faz-Metal-Jacket."
+      },
+      "Obtainability": [
+        "Summons (0.25%)"
+      ]
+    },
+    {
+      "Name": "Dreadbear",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 9
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 9,
+          "UpgradePrice": 3000,
+          "Type": "Line"
+        },
+        {
+          "Range": 20,
+          "Damage": 380,
+          "Cooldown": 9,
+          "UpgradePrice": 3600,
+          "Type": "Line"
+        },
+        {
+          "Range": 20,
+          "Damage": 420,
+          "Cooldown": 9,
+          "UpgradePrice": 4000,
+          "Type": "Line"
+        },
+        {
+          "Range": 24,
+          "Damage": 860,
+          "Cooldown": 9,
+          "UpgradePrice": 6000,
+          "Type": "Full"
+        },
+        {
+          "Range": 24,
+          "Damage": 940,
+          "Cooldown": 9,
+          "UpgradePrice": 6600,
+          "Type": "Full"
+        },
+        {
+          "Range": 25,
+          "Damage": 980,
+          "Cooldown": 9,
+          "UpgradePrice": 7200,
+          "Type": "Full"
+        },
+        {
+          "Range": 25,
+          "Damage": 1040,
+          "Cooldown": 9,
+          "UpgradePrice": 7800,
+          "Type": "Full"
+        },
+        {
+          "Range": 25,
+          "Damage": 1100,
+          "Cooldown": 9,
+          "UpgradePrice": 8400,
+          "Type": "Full"
+        }
+      ],
+      "Passives": {
+        "Curse of Dreadbear": "Upon placement, this unit receives a 30% damage, 10% cooldown, and 20% range boost. If another Dreadbear unit is placed within this unit’s range, this unit will lose all of these boosts.",
+        "Heartbeat Current": "Every 60 seconds an electric shock spreads from Dreadbear’s heart throughout the rest of his body, decreasing his cooldown by 15% for 20 seconds."
+      },
+      "Obtainability": [
+        "Halloween Event Premium Pass T30"
+      ]
+    },
+    {
+      "Name": "Grinch Foxy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2350,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 150,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 150,
+          "Cooldown": 1.9,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 25,
+          "Damage": 150,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 27,
+          "Damage": 150,
+          "Cooldown": 1.7,
+          "UpgradePrice": 2650
+        },
+        {
+          "Range": 29,
+          "Damage": 175,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 31,
+          "Damage": 210,
+          "Cooldown": 1.5,
+          "UpgradePrice": 3250
+        }
+      ],
+      "Passives": {
+        "Broken Ornaments": "When attacking an enemy, has a 33% chance to apply a 2 second bleed dealing 10% damage every second"
+      },
+      "Obtainability": [
+        "Christmas Movie Event Premium Pass T30"
+      ]
+    },
+    {
+      "Name": "Mangle",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3300,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 450,
+        "Cooldown": 5.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 490,
+          "Cooldown": 5.2,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 22,
+          "Damage": 540,
+          "Cooldown": 5.2,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 24,
+          "Damage": 570,
+          "Cooldown": 5,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 24,
+          "Damage": 620,
+          "Cooldown": 5,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 25,
+          "Damage": 680,
+          "Cooldown": 4.8,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25,
+          "Damage": 730,
+          "Cooldown": 4.8,
+          "UpgradePrice": 4400
+        },
+        {
+          "Range": 26,
+          "Damage": 750,
+          "Cooldown": 4.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 800,
+          "Cooldown": 4.5,
+          "UpgradePrice": 5600
+        }
+      ],
+      "Passives": {
+        "Amalgamation": "This unit has 3 different attacks that it cycles through while attacking. Every 3rd attack, it will cycle to the next attack. Attack 1: Light Cannon (Circle AOE), Attack 2: Flamethrower (Cone AOE), Attack 3: Bite (Single Target)",
+        "Take Apart & Put Together": "This unit's other head will attack enemies within 40% range dealing small Circle AoE damage. Enemies hit by this attack are inflicted with bleed for 3s dealing 40% of this unit's current damage [13.3% DMG per tick].",
+        "Radio Static": "When an enemy is within 50% of this unit's range for more than 6 seconds, this unit stuns the enemy for 0.75s. [10s stun CD]"
+      },
+      "Obtainability": [
+        "1st Exclusive Pack 2500R$"
+      ]
+    },
+    {
+      "Name": "Purple Guy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4000,
+      "Type": "Summons",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 400,
+        "Cooldown": 3.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 435,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 20,
+          "Damage": 470,
+          "Cooldown": 3,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 20,
+          "Damage": 510,
+          "Cooldown": 3.2,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 20,
+          "Damage": 545,
+          "Cooldown": 3.2,
+          "UpgradePrice": 3600
+        },
+        {
+          "Range": 20,
+          "Damage": 580,
+          "Cooldown": 2.8,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 20,
+          "Damage": 620,
+          "Cooldown": 2.8,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 20,
+          "Damage": 660,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 700,
+          "Cooldown": 2.6,
+          "UpgradePrice": 5800
+        },
+        {
+          "Range": 20,
+          "Damage": 750,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7000
+        }
+      ],
+      "Passives": {
+        "Endo Summon": "This unit doesn't attack, instead summons an Endo on the track on its cooldown, with health equal to 10% of his damage. Every 3rd summon, it will instead summon a Gun Endo which shoots enemies as it walks down the track doing 40% of this unit's current damage per shot (Single Target) and has 65% of this unit's current damage as health."
+      },
+      "Obtainability": [
+        "Season 1 Present Craftable"
+      ]
+    },
+    {
+      "Name": "Scrooge Freddy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2500,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 550,
+        "Cooldown": 4.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 650,
+          "Cooldown": 4.8,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 650,
+          "Cooldown": 4.4,
+          "UpgradePrice": 2600
+        },
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 4.4,
+          "UpgradePrice": 2650
+        },
+        {
+          "Range": 26,
+          "Damage": 750,
+          "Cooldown": 4,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 27,
+          "Damage": 800,
+          "Cooldown": 4,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 800,
+          "Cooldown": 3.8,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 31,
+          "Damage": 900,
+          "Cooldown": 3.5,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "Ghosts of Christmas Past and Future": "All attacks from this unit inflict [Darkfire]. Darkfire does 23% of this unit’s damage per tick for 2 seconds."
+      },
+      "Obtainability": [
+        "Christmas Movie Event Summons .35%"
+      ]
+    },
+    {
+      "Name": "Withered Golden Freddy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2900,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 26,
+        "Damage": 750,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 6,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 26,
+          "Damage": 950,
+          "Cooldown": 5.8,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 26,
+          "Damage": 1050,
+          "Cooldown": 5.8,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 28,
+          "Damage": 1150,
+          "Cooldown": 5.7,
+          "UpgradePrice": 3800
+        },
+        {
+          "Range": 28,
+          "Damage": 1150,
+          "Cooldown": 5.7,
+          "UpgradePrice": 4400
+        },
+        {
+          "Range": 30,
+          "Damage": 1250,
+          "Cooldown": 5.6,
+          "UpgradePrice": 4800
+        },
+        {
+          "Range": 30,
+          "Damage": 1450,
+          "Cooldown": 5.2,
+          "UpgradePrice": 5400
+        }
+      ],
+      "Passives": {
+        "Fear": "Enemies within 40% of this unit's range are slowed by 20%."
+      },
+      "Obtainability": [
+        "Summons (0.01%)"
+      ]
+    },
+    {
+      "Name": "Frozen King Foxy",
+      "Rarity": "Apex",
+      "PlacementPrice": 4500,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 1800,
+        "Cooldown": 10
+      },
+      "UpgradeStats": [
+        {
+          "Damage": 1900,
+          "Range": 20.5,
+          "Cooldown": 9.5,
+          "UpgradePrice": 3250
+        },
+        {
+          "Damage": 2000,
+          "Range": 21,
+          "Cooldown": 9.5,
+          "UpgradePrice": 4250
+        },
+        {
+          "Damage": 2100,
+          "Range": 21.5,
+          "Cooldown": 9.5,
+          "UpgradePrice": 5750
+        },
+        {
+          "Damage": 2150,
+          "Range": 21.5,
+          "Cooldown": 9.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Damage": 2150,
+          "Range": 21.5,
+          "Cooldown": 9,
+          "UpgradePrice": 7500,
+          "Type": "Cone"
+        },
+        {
+          "Damage": 2200,
+          "Range": 21.5,
+          "Cooldown": 9,
+          "UpgradePrice": 3500
+        },
+        {
+          "Damage": 2200,
+          "Range": 22,
+          "Cooldown": 8.5,
+          "UpgradePrice": 3750
+        },
+        {
+          "Damage": 2200,
+          "Range": 22,
+          "Cooldown": 8,
+          "UpgradePrice": 4000
+        },
+        {
+          "Damage": 2250,
+          "Range": 22,
+          "Cooldown": 7,
+          "UpgradePrice": 4250
+        },
+        {
+          "Damage": 2300,
+          "Range": 22,
+          "Cooldown": 6.5,
+          "UpgradePrice": 8500,
+          "Type": "Circle"
+        },
+        {
+          "Damage": 2400,
+          "Range": 22,
+          "Cooldown": 6,
+          "UpgradePrice": 3500
+        }
+      ],
+      "Passives": {
+        "Frozen Obelisk": "All enemies within this unit’s range are slowed by 10%. Additionally these enemies take 20% more damage from Water element units.",
+        "Crown of Permafrost": "Enemies hit by this unit are inflicted with [Permafrost]. [Permafrost] deals 3% of the unit’s damage every second until the enemy dies."
+      },
+      "Actives": [
+        {
+          "Name": "Black Ice Bifrost",
+          "Description": "When selected, Frozen King Foxy descends into the icy depths, allowing it to be placed anywhere on the map. After being placed, it will rise up and start attacking after 2s. Once 2s have passed, this unit gains 10% decreased CD for 3s",
+          "Cooldown": 12,
+          "Upgrade": 11
+        }
+      ],
+      "Obtainability": [
+        "Christmas Movie Event Special Endless (It's a random chance to get upon completion of wave 25.)"
+      ]
+    },
+    {
+      "Name": "Headless Horseman Mangle",
+      "Rarity": "Apex",
+      "PlacementPrice": 5400,
+      "Type": "Cone",
+      "Element": "Fire",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 800,
+        "Cooldown": 6.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 945,
+          "Cooldown": 6.4,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 26,
+          "Damage": 1160,
+          "Cooldown": 6.4,
+          "UpgradePrice": 3600
+        },
+        {
+          "Range": 26,
+          "Damage": 1245,
+          "Cooldown": 6,
+          "UpgradePrice": 4200
+        },
+        {
+          "Range": 27,
+          "Damage": 1420,
+          "Cooldown": 5.8,
+          "UpgradePrice": 4800
+        },
+        {
+          "Range": 27,
+          "Damage": 1680,
+          "Cooldown": 5.8,
+          "UpgradePrice": 5400
+        },
+        {
+          "Range": 31,
+          "Damage": 1840,
+          "Cooldown": 6.6,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 33,
+          "Damage": 2020,
+          "Cooldown": 6.3,
+          "UpgradePrice": 6600
+        },
+        {
+          "Range": 35,
+          "Damage": 2255,
+          "Cooldown": 6,
+          "UpgradePrice": 7200
+        },
+        {
+          "Range": 36,
+          "Damage": 2400,
+          "Cooldown": 5.6,
+          "UpgradePrice": 7800
+        }
+      ],
+      "Passives": {
+        "Rider’s Hellfire": "Every 45s causes a firestorm within this unit’s range for 15s. All enemies within this unit’s range during a firestorm are afflicted with a burn that deals 12% of this unit's damage every second as long as they are in range.",
+        "Mutilation": "Enemies struck by this unit are afflicted with a permanent bleed dealing 2% of this unit’s damage every second and stopping regeneration."
+      },
+      "Actives": [
+        {
+          "Name": "Hallowed Pumpkin Realm",
+          "Description": "While active, all none Dark or Fire element units cannot attack, none attack passives will still function. All Dark and Fire element unit’s damage is boosted by 70% for the duration of this ability.",
+          "Cooldown": 300,
+          "Upgrade": 9
+        }
+      ],
+      "Obtainability": [
+        "Halloween Event Endless Shop | 150K Bones"
+      ]
+    },
+    {
+      "Name": "Yeti Oni Bonnie",
+      "Rarity": "Apex",
+      "PlacementPrice": 10000,
+      "Type": "Cone",
+      "Degrees": 50,
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 2750,
+        "Cooldown": 12
+      },
+      "UpgradeStats": [
+        {
+          "Range": 28,
+          "Damage": 2750,
+          "Cooldown": 11.5,
+          "UpgradePrice": 7250
+        },
+        {
+          "Range": 29,
+          "Damage": 3000,
+          "Cooldown": 11.5,
+          "UpgradePrice": 7750
+        },
+        {
+          "Range": 31,
+          "Damage": 3250,
+          "Cooldown": 11.5,
+          "UpgradePrice": 7850
+        },
+        {
+          "Range": 32.5,
+          "Damage": 3250,
+          "Cooldown": 11,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 33,
+          "Damage": 3550,
+          "Cooldown": 11,
+          "UpgradePrice": 10000,
+          "Degrees": 90
+        },
+        {
+          "Range": 34.5,
+          "Damage": 4000,
+          "Cooldown": 10.5,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 35,
+          "Damage": 3750,
+          "Cooldown": 10,
+          "UpgradePrice": 12500,
+          "Degrees": 180
+        }
+      ],
+      "Passives": {
+        "Yeti’s Army": " On this unit’s cooldown, summons a Yeti Oni Apprentice on the track. Every 3rd summon, summons a Yeti Oni Sensei instead. Yeti Oni Apprentice: 30% damage as HP, attacks enemies within 23 range for 15% damage in a Single type with a 3s CD. Yeti Oni Sensei: 80% damage as HP, attacks enemies within 15 range for 30% damage in a Single type with a 2.5s CD. ",
+        "Frost Slash": "When attacking an enemy with more than 80% HP, immediately performs a follow up attack dealing 50% damage in a line."
+      },
+      "Actives": [
+        {
+          "Name": "Agony of The Snow Oni",
+          "Description": "Once activated,Yeti Oni Bonnie bursts into a fit of rage summoning clones of itself with 250% Damage as Health and switches Type to Full AoE for 20s",
+          "Cooldown": 40,
+          "Upgrade": 7
+        }
+      ],
+      "Obtainability": [
+        "Christmas Present (0.5%)"
+      ],
+      "Note": "This unit's damage is lowered in the final upgrade because its cone size increases from 90 to 180 degrees. Placement: 50 degrees, Upgrade 5: 90 degrees, Upgrade 7: 180 degrees."
+    },
+    {
+      "Name": "Golden Freddy",
+      "Rarity": "Hero",
+      "PlacementPrice": 750,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 45,
+        "Cooldown": 2.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15,
+          "Damage": 50,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 15,
+          "Damage": 55,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 15,
+          "Damage": 60,
+          "Cooldown": 3,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 15,
+          "Damage": 65,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 20,
+          "Damage": 70,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1600
+        },
+        {
+          "Range": 20,
+          "Damage": 75,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1900
+        },
+        {
+          "Range": 20,
+          "Damage": 80,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2100
+        },
+        {
+          "Range": 20,
+          "Damage": 85,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 20,
+          "Damage": 90,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 25,
+          "Damage": 95,
+          "Cooldown": 2.4,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 25,
+          "Damage": 105,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 115,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3800
+        },
+        {
+          "Range": 25,
+          "Damage": 125,
+          "Cooldown": 2.2,
+          "UpgradePrice": 4200
+        },
+        {
+          "Range": 25,
+          "Damage": 135,
+          "Cooldown": 2.2,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 145,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 155,
+          "Cooldown": 2,
+          "UpgradePrice": 5400
+        },
+        {
+          "Range": 27,
+          "Damage": 165,
+          "Cooldown": 2,
+          "UpgradePrice": 5800
+        },
+        {
+          "Range": 27,
+          "Damage": 175,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 27,
+          "Damage": 185,
+          "Cooldown": 2,
+          "UpgradePrice": 6200
+        },
+        {
+          "Range": 27,
+          "Damage": 195,
+          "Cooldown": 2,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Vengeful Spirit": "Every 20s, this hero's damage and range doubles, and cooldown halves, for 5s.",
+        "Restless Soul [Upgrade 5+]": "Every wave this hero receives a 2% damage boost. In endless modes, this boost is reduced to 0.8%. [100% max buff]",
+        "It's Me! [Upgrade 12+]": "Every 30s this hero stuns all enemies in range for 2s. While stunned, enemies take 20% more damage (20% wither)."
+      },
+      "Actives": [
+        {
+          "Name": "The one you should not have killed",
+          "Description": "Upon activation, this hero deals damage to all enemies on the track for 50% of its current damage.",
+          "Cooldown": 30,
+          "Upgrade": 18
+        }
+      ],
+      "Obtainability": [
+        "Golden Freddy Hero Quests"
+      ]
+    },
+    {
+      "Name": "Puppet",
+      "Rarity": "Hero",
+      "PlacementPrice": 1350,
+      "Type": "Circle",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 125,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 130,
+          "Cooldown": 3,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 20,
+          "Damage": 135,
+          "Cooldown": 3,
+          "UpgradePrice": 750
+        },
+        {
+          "Range": 20,
+          "Damage": 140,
+          "Cooldown": 3,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 20,
+          "Damage": 145,
+          "Cooldown": 3,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 25,
+          "Damage": 150,
+          "Cooldown": 3,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 25,
+          "Damage": 160,
+          "Cooldown": 3,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25,
+          "Damage": 170,
+          "Cooldown": 3,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 180,
+          "Cooldown": 3,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 190,
+          "Cooldown": 3,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 30,
+          "Damage": 200,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 30,
+          "Damage": 215,
+          "Cooldown": 2.8,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 30,
+          "Damage": 230,
+          "Cooldown": 2.8,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 30,
+          "Damage": 245,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 30,
+          "Damage": 260,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 35,
+          "Damage": 275,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 35,
+          "Damage": 295,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 35,
+          "Damage": 315,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 35,
+          "Damage": 335,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 35,
+          "Damage": 355,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 35,
+          "Damage": 375,
+          "Cooldown": 2.5,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "Music Box": "Every 10s this hero does damage to all enemies in range based on the number of units placed. Starting at 0%, scales by 5% of this hero's damage per unit placed. [150% max]",
+        "Soul Calling [Upgrade 5+]": "Every 15s summons a soul on the track that will walk through every enemy dealing 60% of this hero's current damage, does not damage bosses. Enemies hit by this soul are slowed by 20% for 5s."
+      },
+      "Actives": [
+        {
+          "Name": "Happiest Day",
+          "Description": "Upon activation, this hero boosts the damage of all placed units by 25% for 15s.",
+          "Cooldown": 45,
+          "Upgrade": 18
+        }
+      ],
+      "Obtainability": [
+        "Puppet Hero Quests"
+      ]
+    }
+  ],
+  "Enchants": {
+    "Damage I": {
+      "Description": "5% Damage Increase",
+      "Boost": {
+        "Damage": 1.05,
+        "Range": 1,
+        "Cooldown": 1
+      }
+    },
+    "Damage II": {
+      "Description": "10% Damage Increase",
+      "Boost": {
+        "Damage": 1.1,
+        "Range": 1,
+        "Cooldown": 1
+      }
+    },
+    "Damage III": {
+      "Description": "15% Damage Increase",
+      "Boost": {
+        "Damage": 1.15,
+        "Range": 1,
+        "Cooldown": 1
+      }
+    },
+    "Range I": {
+      "Description": "5% Range Increase",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1.05,
+        "Cooldown": 1
+      }
+    },
+    "Range II": {
+      "Description": "10% Range Increase",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1.1,
+        "Cooldown": 1
+      }
+    },
+    "Range III": {
+      "Description": "15% Range Increase",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1.15,
+        "Cooldown": 1
+      }
+    },
+    "Speed I": {
+      "Description": "Attacks 5% Faster",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 0.95
+      }
+    },
+    "Speed II": {
+      "Description": "Attacks 7.5% Faster",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 0.925
+      }
+    },
+    "Speed III": {
+      "Description": "Attacks 12.5% Faster",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 0.875
+      }
+    },
+    "Engineer": {
+      "Description": "+50% EXP",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 1,
+        "Exp": 1.5
+      }
+    },
+    "Puppet Nightmare": {
+      "Description": "30% Range Increase",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1.3,
+        "Cooldown": 1
+      }
+    },
+    "Investor": {
+      "Description": "+20% income, -10% cost",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 1,
+        "Cost": 0.9,
+        "Income": 1.2
+      }
+    },
+    "Haywire": {
+      "Description": "Attack 20% Faster",
+      "Boost": {
+        "Damage": 1,
+        "Range": 1,
+        "Cooldown": 0.8
+      }
+    },
+    "Champion": {
+      "Description": "40% Damage Increase + Attack 15% Faster",
+      "Boost": {
+        "Damage": 1.4,
+        "Range": 1,
+        "Cooldown": 0.85
+      }
+    },
+    "Phantom": {
+      "Description": "+10% Damage, Attacks 5% Faster, +35% Range",
+      "Boost": {
+        "Damage": 1.1,
+        "Range": 1.35,
+        "Cooldown": 0.95
+      }
+    },
+    "Blighted": {
+      "Description": "+20% Damage, Attacks 20% Faster, +5% Range",
+      "Boost": {
+        "Damage": 1.2,
+        "Range": 1.05,
+        "Cooldown": 0.8
+      }
+    },
+    "Shadow": {
+      "Description": "+35% Damage, Attacks 15% Faster",
+      "Boost": {
+        "Damage": 1.35,
+        "Range": 1,
+        "Cooldown": 0.85
+      }
+    },
+    "SpringLocked": {
+      "Description": "+15% Damage, 10% Range, +25% True Damage",
+      "Boost": {
+        "Damage": 1.15,
+        "Range": 1.1,
+        "Cooldown": 1,
+        "TrueDamage": 0.25
+      }
+    },
+    "Vengeance": {
+      "Description": "55% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 70%)",
+      "Boost": {
+        "Damage": 1.55,
+        "Range": 1.1,
+        "Cooldown": 0.95
+      }
+    },
+    "Vengeance (Max)": {
+      "Description": "55% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 70%)",
+      "Boost": {
+        "Damage": 1.7,
+        "Range": 1.1,
+        "Cooldown": 0.95
+      }
+    }
+  }
+}
