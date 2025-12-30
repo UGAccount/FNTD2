@@ -316,6 +316,46 @@
           "value": "N/A",
           "demand": "N/A"
         }
+      },
+      "Follow Me": {
+        "Normal": {
+          "value": "N/A",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "demand": "N/A"
+        }
+      },
+      "Phantom BB": {
+        "Normal": {
+          "value": "N/A",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "demand": "N/A"
+        }
+      },
+      "Spring Duo": {
+        "Normal": {
+          "value": "N/A",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "demand": "N/A"
+        }
+      },
+      "Phantom Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "demand": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "demand": "N/A"
+        }
       }
     },
     "Pets": {
