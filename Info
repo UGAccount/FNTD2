@@ -645,6 +645,39 @@
       ]
     },
     {
+      "Name": "Phantom Freddy",
+      "Rarity": "Rare",
+      "PlacementPrice": 1500,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 28,
+        "Damage": 100,
+        "Cooldown": 2.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 28,
+          "Damage": 135,
+          "Cooldown": 2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 28,
+          "Damage": 150,
+          "Cooldown": 1.9,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Season 2 Present (80%)"
+      ]
+    },
+    {
       "Name": "Undead Chica",
       "Rarity": "Rare",
       "PlacementPrice": 600,
@@ -803,6 +836,84 @@
       },
       "Obtainability": [
         "Christmas Present (90%)"
+      ]
+    },
+    {
+      "Name": "Golden Cupcake",
+      "Rarity": "Epic",
+      "PlacementPrice": 4000,
+      "Type": "Support",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 4250
+        }
+      ],
+      "Passives": {
+        "Golden Blessing": "This unit boosts all unit stats in range by 5%. For each Light element unit you have on your team, this boost is increased by 5% (capped at 15%, does not stack)."
+      },
+      "Obtainability": [
+        "Season 2 Premium Pass Tier 1"
+      ]
+    },
+    {
+      "Name": "Phantom Chica",
+      "Rarity": "Epic",
+      "PlacementPrice": 600,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 150,
+        "Cooldown": 4.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 175,
+          "Cooldown": 4,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 24,
+          "Damage": 200,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2550
+        },
+        {
+          "Range": 26,
+          "Damage": 230,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 28,
+          "Damage": 250,
+          "Cooldown": 3.6,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 26,
+          "Damage": 275,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3750
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Season 2 Present (15%)"
       ]
     },
     {
@@ -1224,6 +1335,90 @@
       ]
     },
     {
+      "Name": "Phantom BB",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1100,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 40,
+          "Cooldown": 2,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 24,
+          "Damage": 125,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 18,
+          "Damage": 158.5,
+          "Cooldown": 1,
+          "UpgradePrice": 3525,
+          "Type": "FullAOE"
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Phantom Foxy",
+      "Rarity": "Mythical",
+      "PlacementPrice": 2750,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 2.7
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 325,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24,
+          "Damage": 350,
+          "Cooldown": 2.3,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 26,
+          "Damage": 375,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1850,
+          "Type": "Cone"
+        },
+        {
+          "Range": 26,
+          "Damage": 400,
+          "Cooldown": 2,
+          "UpgradePrice": 2250
+        }
+      ],
+      "Passives": {},
+      "Obtainability": [
+        "Season 2 Present (5%)"
+      ]
+    },
+    {
       "Name": "Toy Chica",
       "Rarity": "Mythical",
       "PlacementPrice": 1200,
@@ -1327,6 +1522,63 @@
         "Mythic Present (25%)",
         "Merchant 7500 Coins",
         "Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Cloaked Sparky",
+      "Rarity": "Secret",
+      "PlacementPrice": 750,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 100,
+        "Cooldown": 2.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 110,
+          "Cooldown": 2.1,
+          "UpgradePrice": 750
+        },
+        {
+          "Range": 18,
+          "Damage": 130,
+          "Cooldown": 2,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 140,
+          "Cooldown": 1.9,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 150,
+          "Cooldown": 1.85,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 22,
+          "Damage": 160,
+          "Cooldown": 1.8,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 24,
+          "Damage": 175,
+          "Cooldown": 1.75,
+          "UpgradePrice": 950
+        }
+      ],
+      "Passives": {
+        "Shadow Surge": "After dealing 1.5k damage this unit becomes [Cloaked] for 5s, gaining increased DMG by 50%, decreased CD by 10% and switches this unit's type to 60 degree Cone for the duration. (This passive has a 10s cooldown)."
+      },
+      "Obtainability": [
+        "2nd Starter Pack (249 R$)"
       ]
     },
     {
@@ -1435,6 +1687,64 @@
       },
       "Obtainability": [
         "Season 1 Free Pass Tier 30"
+      ]
+    },
+    {
+      "Name": "Follow Me",
+      "Rarity": "Secret",
+      "PlacementPrice": 5250,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 650,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 650,
+          "Cooldown": 4.6,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 20,
+          "Damage": 650,
+          "Cooldown": 4.3,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 22,
+          "Damage": 675,
+          "Cooldown": 4,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 23,
+          "Damage": 700,
+          "Cooldown": 3.6,
+          "UpgradePrice": 7500,
+          "Type": "Cone"
+        },
+        {
+          "Range": 28,
+          "Damage": 750,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 800,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3500
+        }
+      ],
+      "Passives": {
+        "Dismantle": "Every 45s, Follow Me dismantles the lowest-placed unit in range for 10s (excluding Boosters and Heroes; ties broken by highest damage). During this time, all units are halted from attacking or using passives, and Follow Me gains 30% of the dismantled unit’s damage and knockback."
+      },
+      "Obtainability": [
+        "Season 2 Premium Pass Tier 30"
       ]
     },
     {
@@ -1711,6 +2021,108 @@
       },
       "Obtainability": [
         "1st Starter Pack (249 R$)"
+      ]
+    },
+    {
+      "Name": "Phantom Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "FullAOE",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 2800,
+        "Cooldown": 10
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 2950,
+          "Cooldown": 10,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 21,
+          "Damage": 3000,
+          "Cooldown": 9.5,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 22,
+          "Damage": 3000,
+          "Cooldown": 9,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Damage": 3250,
+          "Cooldown": 8.5,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 24,
+          "Damage": 3400,
+          "Cooldown": 8,
+          "UpgradePrice": 3250
+        }
+      ],
+      "Passives": {
+        "Doom Gloom": " When placed, this unit cannot be seen. For each enemy within range, Phantom Bonnie gains +0.25% damage, stacking up to +25% damage. While gaining damage, Phantom Bonnie becomes gradually more visible. Once [Gloom Doom] is fully stacked, Phantom Bonnie fully manifests, gaining 15% range and retains its 25% damage bonus. "
+      },
+      "Obtainability": [
+        "Season 2 Free Pass Tier 30"
+      ]
+    },
+    {
+      "Name": "Phantom Mangle",
+      "Rarity": "Secret",
+      "PlacementPrice": 1250,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 275,
+        "Cooldown": 5.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.5,
+          "Damage": 295,
+          "Cooldown": 5,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 23.5,
+          "Damage": 325,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 24.5,
+          "Damage": 385,
+          "Cooldown": 4,
+          "UpgradePrice": 1675
+        },
+        {
+          "Range": 25.5,
+          "Damage": 450,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1850
+        },
+        {
+          "Range": 27.5,
+          "Damage": 487.5,
+          "Cooldown": 3,
+          "UpgradePrice": 2525
+        }
+      ],
+      "Passives": {
+        "Phantom Fear": "Every 20s this unit applies full AOE poison, causing 50% of its damage for 5 ticks over 5s to every enemy in its range. Additionally, while an enemy is poisoned, there is a 6% chance to Crit for 25% more DMG from any source."
+      },
+      "Obtainability": [
+        "Season 2 Present (0.1%)"
       ]
     },
     {
@@ -2468,6 +2880,63 @@
       ]
     },
     {
+      "Name": "Phone Dude",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3750,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 425,
+        "Cooldown": 3.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 475,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 19,
+          "Damage": 525,
+          "Cooldown": 3.3,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 20,
+          "Damage": 575,
+          "Cooldown": 3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 21,
+          "Damage": 600,
+          "Cooldown": 3,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 22,
+          "Damage": 700,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5250
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Lethal Frame",
+          "Description": "When activated, a camera can be placed anywhere outside of this unit's range (cap of 4). Once placed, these cameras will attack in a 55 degree Cone dealing 50% of this unit's DMG with RNG and CD equal to it. ",
+          "Cooldown": 30,
+          "Upgrade": 2
+        }
+      ],
+      "Obtainability": [
+        "2nd Exclusive Pack (2500 R$)"
+      ]
+    },
+    {
       "Name": "Purple Guy",
       "Rarity": "Nightmare",
       "PlacementPrice": 4000,
@@ -2603,6 +3072,34 @@
       },
       "Obtainability": [
         "Christmas Movie Event Summons (0.025%)"
+      ]
+    },
+    {
+      "Name": "Spring Duo",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 9
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 9,
+          "UpgradePrice": 3000,
+          "Type": "Line"
+        }
+      ],
+      "Passives": {
+        "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
+      },
+      "Obtainability": [
+        "Season 2 Present Craftable"
       ]
     },
     {
@@ -3225,6 +3722,157 @@
       ],
       "Obtainability": [
         "Puppet Hero Quests"
+      ]
+    },
+    {
+      "Name": "Springtrap",
+      "Rarity": "Hero",
+      "PlacementPrice": 2500,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 37.5,
+        "Cooldown": 1
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 50,
+          "Cooldown": 1,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 21,
+          "Damage": 67,
+          "Cooldown": 1,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 21,
+          "Damage": 95.6,
+          "Cooldown": 1,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 21,
+          "Damage": 126,
+          "Cooldown": 1,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22,
+          "Damage": 155.5,
+          "Cooldown": 1,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22,
+          "Damage": 185,
+          "Cooldown": 1,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 23,
+          "Damage": 214.5,
+          "Cooldown": 1,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 23,
+          "Damage": 244,
+          "Cooldown": 1,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 273.5,
+          "Cooldown": 1,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 18,
+          "Damage": 303,
+          "Cooldown": 3,
+          "UpgradePrice": 7500,
+          "Type": "Cone"
+        },
+        {
+          "Range": 18,
+          "Damage": 332.5,
+          "Cooldown": 3,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 19,
+          "Damage": 362,
+          "Cooldown": 3,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 19,
+          "Damage": 391.5,
+          "Cooldown": 3,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 19,
+          "Damage": 421,
+          "Cooldown": 3,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 20,
+          "Damage": 450.5,
+          "Cooldown": 2.9,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 20,
+          "Damage": 480,
+          "Cooldown": 2.9,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 21,
+          "Damage": 509.5,
+          "Cooldown": 2.8,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 22,
+          "Damage": 539,
+          "Cooldown": 2.8,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 23,
+          "Damage": 568.5,
+          "Cooldown": 2.7,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 24,
+          "Damage": 598,
+          "Cooldown": 2.7,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "Agonized": "For each Fire or Dark unit on your team, this unit's 2nd and 3rd passives CD are decreased by 5%.",
+        "Axe Toss [Upgrade 10+]": "Every 20s this unit tosses their axe at the strongest enemy (anywhere on the map), dealing 70% damage in a Medium Circle AOE. If the targeted enemy is not within 30% of this unit's range, the axe will stay attached, dealing 2.5% bleed damage every second (Single). If the targeted enemy is within 30% of this unit's range his axe will be automatically recalled, dealing 70% damage again."
+      },
+      "Actives": [
+        {
+          "Name": " Ignited Rage",
+          "Description": "For the next 5s SpringTraps damage is increased by 100%. After that duration is over, 1 stack (10% DMG) is retained permanently (capped at 5 stacks/50% DMG). This 50% Stacks with this passive.",
+          "Cooldown": 30,
+          "Upgrade": 17
+        }
+      ],
+      "Obtainability": [
+        "Springtrap Hero Quests"
       ]
     }
   ],
