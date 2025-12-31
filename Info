@@ -3086,15 +3086,50 @@
         "Damage": 300,
         "Cooldown": 9
       },
-      "UpgradeStats": [
-        {
-          "Range": 20,
-          "Damage": 340,
-          "Cooldown": 9,
-          "UpgradePrice": 3000,
-          "Type": "Line"
-        }
-      ],
+      "UpgradeStats": {
+        "Fredbear": [
+          {
+            "Range": 18,
+            "Damage": 115,
+            "Cooldown": 1.3,
+            "UpgradePrice": 4250,
+            "Type": "Circle"
+          },
+          {
+            "Range": 19,
+            "Damage": 130,
+            "Cooldown": 1.2,
+            "UpgradePrice": 4750
+          },
+          {
+            "Range": 20,
+            "Damage": 195,
+            "Cooldown": 1,
+            "UpgradePrice": 5000
+          }
+        ],
+        "Bonnie": [
+          {
+            "Range": 24,
+            "Damage": 850,
+            "Cooldown": 3.2,
+            "UpgradePrice": 4250,
+            "Type": "Line"
+          },
+          {
+            "Range": 26,
+            "Damage": 900,
+            "Cooldown": 3,
+            "UpgradePrice": 4750
+          },
+          {
+            "Range": 28,
+            "Damage": 1000,
+            "Cooldown": 2.7,
+            "UpgradePrice": 5000
+          }
+        ]
+      },
       "Passives": {
         "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
       },
