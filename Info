@@ -3076,6 +3076,7 @@
     },
     {
       "Name": "Spring Duo",
+      "SwitchSpeed": 15,
       "Rarity": "Nightmare",
       "PlacementPrice": 3000,
       "Type": "Line",
