@@ -23,7 +23,7 @@
           "demand": "9/10"
         },
         "Shiny": {
-          "value": "9-10+",
+          "value": "9+",
           "demand": "7.5/10"
         }
       },
@@ -223,7 +223,7 @@
           "demand": "8/10"
         },
         "Shiny": {
-          "value": "28",
+          "value": "28-30",
           "demand": "8.5/10"
         }
       },
@@ -253,17 +253,17 @@
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "22+",
+          "value": "25-28",
           "demand": "N/A"
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "2.5-3",
+          "value": "3",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "35+",
+          "value": "35-40",
           "demand": "N/A"
         }
       },
@@ -283,13 +283,13 @@
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "30",
           "demand": "N/A"
         }
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "2+",
+          "value": "1.5-2",
           "demand": "N/A"
         },
         "Shiny": {
@@ -319,11 +319,11 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "N/A",
+          "value": "1.5+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "28-30+",
           "demand": "N/A"
         }
       },
@@ -339,21 +339,21 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "2.5-3",
+          "value": "3",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "30-32+",
           "demand": "N/A"
         }
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "1-1.5+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "25+",
           "demand": "N/A"
         }
       }
