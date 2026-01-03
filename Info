@@ -1,395 +1,468 @@
 {
   "Values": {
-    "Units": {
-      "Scarecrow Freddy": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "3",
-          "demand": "N/A"
-        }
+      "Units": {
+    "Scarecrow Freddy": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "N/A",
+        "status": "Stable"
       },
-      "BBnJ": {
-        "Shiny": {
-          "value": "0.1-0.14",
-          "demand": "N/A"
-        }
-      },
-      "Balloon Boy": {
-        "Normal": {
-          "value": "0.4+",
-          "demand": "9/10"
-        },
-        "Shiny": {
-          "value": "9",
-          "demand": "7.5/10"
-        }
-      },
-      "Slasher Bonnie": {
-        "Normal": {
-          "value": "0.025",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1-1.1+",
-          "demand": "N/A"
-        }
-      },
-      "Dreadbear": {
-        "Normal": {
-          "value": "1.55",
-          "demand": "9.5/10"
-        },
-        "Shiny": {
-          "value": "30+",
-          "demand": "10/10"
-        }
-      },
-      "Mangle": {
-        "Normal": {
-          "value": "1:1",
-          "demand": "9/10"
-        },
-        "Shiny": {
-          "value": "23+",
-          "demand": "9.9/10"
-        }
-      },
-      "Shadow Bonnie": {
-        "Normal": {
-          "value": "1.5+",
-          "demand": "7/10"
-        },
-        "Shiny": {
-          "value": "29",
-          "demand": "10/10"
-        }
-      },
-      "Headless Horseman Mangle": {
-        "Normal": {
-          "value": "0.15+",
-          "demand": "8.5/10"
-        },
-        "Shiny": {
-          "value": "9+",
-          "demand": "10/10"
-        }
-      },
-      "Purple Guy": {
-        "Normal": {
-          "value": "0.15+",
-          "demand": "9/10"
-        },
-        "Shiny": {
-          "value": "12-13",
-          "demand": "10/10"
-        }
-      },
-      "Party Glock Freddy": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.3+",
-          "demand": "6.5/10"
-        }
-      },
-      "Puppet's Alliance": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.75+",
-          "demand": "7/10"
-        }
-      },
-      "Party Packer Cupcake": {
-        "Normal": {
-          "value": "0.12-0.13",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.8-2.2",
-          "demand": "6/10"
-        }
-      },
-      "Endo 02": {
-        "Normal": {
-          "value": "0.5+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "12",
-          "demand": "8+/10"
-        }
-      },
-      "Jack'O Bonnie": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "6.5",
-          "demand": "N/A"
-        }
-      },
-      "Turkey Chica": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "5.5/10"
-        },
-        "Shiny": {
-          "value": "1.5+",
-          "demand": "6/10"
-        }
-      },
-      "Withered Freddy": {
-        "Normal": {
-          "value": "0.005",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.3+",
-          "demand": "8.5/10"
-        }
-      },
-      "Withered Golden Freddy": {
-        "Normal": {
-          "value": "0.005",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.15",
-          "demand": "N/A"
-        }
-      },
-      "Shadow Freddy": {
-        "Normal": {
-          "value": "0.0025",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.12+",
-          "demand": "N/A"
-        }
-      },
-      "Undead Chica": {
-        "Normal": {
-          "value": "0.001",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.1+",
-          "demand": "7/10"
-        }
-      },
-      "Conductor Toy Freddy": {
-        "Normal": {
-          "value": "0.06",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.7-2",
-          "demand": "N/A"
-        }
-      },
-      "Movie Director Freddy": {
-        "Normal": {
-          "value": "0.05+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.8-1.3+",
-          "demand": "N/A"
-        }
-      },
-      "Frostmancer Withered Bonnie": {
-        "Normal": {
-          "value": "0.05",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "0.2",
-          "demand": "9/10"
-        }
-      },
-      "Grinch Foxy": {
-        "Normal": {
-          "value": "1.4",
-          "demand": "8/10"
-        },
-        "Shiny": {
-          "value": "28-30",
-          "demand": "8.5/10"
-        }
-      },
-      "Krampus Purple Guy": {
-        "Normal": {
-          "value": "1",
-          "demand": "9/10"
-        },
-        "Shiny": {
-          "value": "13",
-          "demand": "N/A"
-        }
-      },
-      "Scrooge Freddy": {
-        "Normal": {
-          "value": "0.07+",
-          "demand": "8.5+/10"
-        },
-        "Shiny": {
-          "value": "2",
-          "demand": "9/10"
-        }
-      },
-      "Frozen King Foxy": {
-        "Normal": {
-          "value": "2+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "28+",
-          "demand": "N/A"
-        }
-      },
-      "Yeti Oni Bonnie": {
-        "Normal": {
-          "value": "3.3-4+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "38-40+",
-          "demand": "N/A"
-        }
-      },
-      "Popcorn Bot": {
-        "Normal": {
-          "value": "0.08",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.3+",
-          "demand": "N/A"
-        }
-      },
-      "Phone Dude": {
-        "Normal": {
-          "value": "1.5",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "30",
-          "demand": "N/A"
-        }
-      },
-      "Phantom Mangle": {
-        "Normal": {
-          "value": "1.5+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "7+",
-          "demand": "N/A"
-        }
-      },
-      "Cloaked Sparky": {
-        "Normal": {
-          "value": "0.12",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "1.75-2",
-          "demand": "N/A"
-        }
-      },
-      "Golden Cupcake": {
-        "Normal": {
-          "value": "0.4-0.5",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "6+",
-          "demand": "N/A"
-        }
-      },
-      "Follow Me": {
-        "Normal": {
-          "value": "1-1.5",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "28-30+",
-          "demand": "N/A"
-        }
-      },
-      "Phantom BB": {
-        "Normal": {
-          "value": "N/A",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "N/A",
-          "demand": "N/A"
-        }
-      },
-      "Spring Duo": {
-        "Normal": {
-          "value": "2.5",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "30",
-          "demand": "N/A"
-        }
-      },
-      "Phantom Bonnie": {
-        "Normal": {
-          "value": "1+",
-          "demand": "N/A"
-        },
-        "Shiny": {
-          "value": "22",
-          "demand": "N/A"
-        }
+      "Shiny": {
+        "value": "3",
+        "demand": "N/A",
+        "status": "Stable"
       }
     },
-    "Pets": {
-      "Golden Freddy": {
-        "value": "0.3",
-        "demand": "N/A"
-      },
-      "Gang Freddy": {
-        "value": "1.6+",
-        "demand": "N/A"
+    "BBnJ": {
+      "Shiny": {
+        "value": "0.1-0.14",
+        "demand": "N/A",
+        "status": "Stable"
       }
     },
-    "Gamepasses": {
-      "Shiny Hunter": {
-        "value": "2+",
-        "demand": "N/A"
+    "Balloon Boy": {
+      "Normal": {
+        "value": "0.4+",
+        "demand": "9/10",
+        "status": "Stable"
       },
-      "VIP": {
-        "value": "0.3-0.4",
-        "demand": "N/A"
+      "Shiny": {
+        "value": "9",
+        "demand": "7.5/10",
+        "status": "Slowly Dropping"
+      }
+    },
+    "Slasher Bonnie": {
+      "Normal": {
+        "value": "0.025",
+        "demand": "N/A",
+        "status": "Stable"
       },
-      "Premium": {
+      "Shiny": {
+        "value": "1-1.1+",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Dreadbear": {
+      "Normal": {
+        "value": "1.55",
+        "demand": "9.5/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "30+",
+        "demand": "10/10",
+        "status": "Rising"
+      }
+    },
+    "Mangle": {
+      "Normal": {
+        "value": "1:1",
+        "demand": "9/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "23+",
+        "demand": "9.9/10",
+        "status": "Stable"
+      }
+    },
+    "Shadow Bonnie": {
+      "Normal": {
+        "value": "1.5+",
+        "demand": "7/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "29",
+        "demand": "10/10",
+        "status": "Stable"
+      }
+    },
+    "Headless Horseman Mangle": {
+      "Normal": {
+        "value": "0.15+",
+        "demand": "8.5/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "9+",
+        "demand": "10/10",
+        "status": "Slowly Rising"
+      }
+    },
+    "Purple Guy": {
+      "Normal": {
+        "value": "0.15+",
+        "demand": "9/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "12-13",
+        "demand": "10/10",
+        "status": "Slowly Rising"
+      }
+    },
+    "Party Glock Freddy": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "1.3+",
+        "demand": "6.5/10",
+        "status": "Stable"
+      }
+    },
+    "Puppet's Alliance": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
         "value": "1.75+",
-        "demand": "N/A"
-      },
-      "Event Premium": {
-        "value": "1.3",
-        "demand": "N/A"
-      },
-      "Quick Open": {
-        "value": "0.25",
-        "demand": "N/A"
+        "demand": "7/10",
+        "status": "Stable"
       }
     },
+    "Party Packer Cupcake": {
+      "Normal": {
+        "value": "0.12-0.13",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "1.8-2.2",
+        "demand": "6/10",
+        "status": "Slowly Rising"
+      }
+    },
+    "Endo 02": {
+      "Normal": {
+        "value": "0.5+",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "12",
+        "demand": "8+/10",
+        "status": "Stable"
+      }
+    },
+    "Jack'O Bonnie": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "6.5",
+        "demand": "N/A",
+        "status": "Unstable"
+      }
+    },
+    "Turkey Chica": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "5.5/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "1.5+",
+        "demand": "6/10",
+        "status": "Stable"
+      }
+    },
+    "Withered Freddy": {
+      "Normal": {
+        "value": "0.005",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "0.3+",
+        "demand": "8.5/10",
+        "status": "Stable"
+      }
+    },
+    "Withered Golden Freddy": {
+      "Normal": {
+        "value": "0.005",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "0.15",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Shadow Freddy": {
+      "Normal": {
+        "value": "0.0025",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "0.12+",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Undead Chica": {
+      "Normal": {
+        "value": "0.001",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "0.1+",
+        "demand": "7/10",
+        "status": "Stable"
+      }
+    },
+    "Conductor Toy Freddy": {
+      "Normal": {
+        "value": "0.06",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "1.7-2",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Movie Director Freddy": {
+      "Normal": {
+        "value": "0.05+",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "0.8-1.3+",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Frostmancer Withered Bonnie": {
+      "Normal": {
+        "value": "0.05",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "0.2",
+        "demand": "9/10",
+        "status": "Stable"
+      }
+    },
+    "Grinch Foxy": {
+      "Normal": {
+        "value": "1.4",
+        "demand": "8/10",
+        "status": "Unstable"
+      },
+      "Shiny": {
+        "value": "28-30",
+        "demand": "8.5/10",
+        "status": "Unstable"
+      }
+    },
+    "Krampus Purple Guy": {
+      "Normal": {
+        "value": "1",
+        "demand": "9/10",
+        "status": "Unstable"
+      },
+      "Shiny": {
+        "value": "13",
+        "demand": "N/A",
+        "status": "Slowly Dropping"
+      }
+    },
+    "Scrooge Freddy": {
+      "Normal": {
+        "value": "0.07+",
+        "demand": "8.5+/10",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "2",
+        "demand": "9/10",
+        "status": "Slowly Dropping"
+      }
+    },
+    "Frozen King Foxy": {
+      "Normal": {
+        "value": "2+",
+        "demand": "N/A",
+        "status": "Slowly Rising"
+      },
+      "Shiny": {
+        "value": "28+",
+        "demand": "N/A",
+        "status": "Rising"
+      }
+    },
+    "Yeti Oni Bonnie": {
+      "Normal": {
+        "value": "3.3-4+",
+        "demand": "N/A",
+        "status": "Rising"
+      },
+      "Shiny": {
+        "value": "38-40+",
+        "demand": "N/A",
+        "status": "Rising"
+      }
+    },
+    "Popcorn Bot": {
+      "Normal": {
+        "value": "0.08",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shiny": {
+        "value": "1.3+",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Phone Dude": {
+      "Normal": {
+        "value": "1.5",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "30",
+        "demand": "N/A",
+        "status": "Unstable"
+      }
+    },
+    "Phantom Mangle": {
+      "Normal": {
+        "value": "1.5+",
+        "demand": "N/A",
+        "status": "Slowly Dropping"
+      },
+      "Shiny": {
+        "value": "7+",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Cloaked Sparky": {
+      "Normal": {
+        "value": "0.12",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shiny": {
+        "value": "1.75-2",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Golden Cupcake": {
+      "Normal": {
+        "value": "0.4-0.5",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Shiny": {
+        "value": "6+",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Follow Me": {
+      "Normal": {
+        "value": "1-1.5",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Shiny": {
+        "value": "28-30+",
+        "demand": "N/A",
+        "status": "Unstable"
+      }
+    },
+    "Spring Duo": {
+      "Normal": {
+        "value": "2.5",
+        "demand": "N/A",
+        "status": "Dropping"
+      },
+      "Shiny": {
+        "value": "30",
+        "demand": "N/A",
+        "status": "Dropping"
+      }
+    },
+    "Phantom Bonnie": {
+      "Normal": {
+        "value": "1+",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Shiny": {
+        "value": "22",
+        "demand": "N/A",
+        "status": "Dropping"
+      }
+    }
+  },
+  "Pets": {
+    "Golden Freddy": {
+      "value": "0.3",
+      "demand": "N/A",
+      "status": "Stable"
+    },
+    "Gang Freddy": {
+      "value": "1.6+",
+      "demand": "N/A",
+      "status": "Stable"
+    }
+  },
+  "Gamepasses": {
+    "Shiny Hunter": {
+      "value": "2+",
+      "demand": "N/A",
+      "status": "Stable"
+    },
+    "VIP": {
+      "value": "0.3-0.4",
+      "demand": "N/A",
+      "status": "Stable"
+    },
+    "Premium": {
+      "value": "1.75+",
+      "demand": "N/A",
+      "status": "Unstable"
+    },
+    "Event Premium": {
+      "value": "1.3",
+      "demand": "N/A",
+      "status": "Unstable"
+    },
+    "Quick Open": {
+      "value": "0.25",
+      "demand": "N/A",
+      "status": "Stable"
+    }
+  },
+  "Banners": {
+    "The Brick Incident": {
+      "value": "1-1.2",
+      "demand": "N/A",
+      "status": "N/A"
+    }
+  },
     "Banners": {
       "The Brick Incident": {
         "value": "1-1.2",
