@@ -1995,7 +1995,9 @@
         "Cosmic Greed": "The Moon will grow brighter every attack increasing Luminary Bonnie's Damage by +0.5%; after reaching +20% Damage, Dying Light will activate.",
         "Dying Light": "Luminary Bonnie will explode the Moon, dealing 250% Damage to all Enemies on the map; Cosmic Greed will reset and Luminary Bonnie will be inflicted with Stun for 5s."
       },
-      "Obtainability": []
+      "Obtainability": [
+        "5th Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
+      ]
     },
     {
       "Name": "Movie Director Freddy",
