@@ -51,7 +51,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "30-32+",
+          "value": "35+",
           "demand": "10/10",
           "status": "Rising"
         }
@@ -75,7 +75,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "29+",
+          "value": "29-30",
           "demand": "10/10",
           "status": "Stable"
         }
@@ -87,7 +87,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "9-9.5+",
+          "value": "9.5+",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
@@ -135,7 +135,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.8-2.2",
+          "value": "2+",
           "demand": "6/10",
           "status": "Slowly Rising"
         }
@@ -147,7 +147,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "12",
+          "value": "12+",
           "demand": "8+/10",
           "status": "Stable"
         }
@@ -303,19 +303,19 @@
           "status": "Slowly Rising"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "30-32+",
           "demand": "N/A",
           "status": "Rising"
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "3.5-4",
+          "value": "4",
           "demand": "N/A",
           "status": "Rising"
         },
         "Shiny": {
-          "value": "40+",
+          "value": "42+",
           "demand": "N/A",
           "status": "Rising"
         }
@@ -346,12 +346,12 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "1.5+",
+          "value": "1",
           "demand": "N/A",
           "status": "Slowly Dropping"
         },
         "Shiny": {
-          "value": "7+",
+          "value": "5-6",
           "demand": "N/A",
           "status": "N/A"
         }
@@ -387,19 +387,19 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "28-30+",
+          "value": "30+",
           "demand": "N/A",
           "status": "Unstable"
         }
       },
       "Spring Duo": {
         "Normal": {
-          "value": "2.5",
+          "value": "2",
           "demand": "N/A",
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "25",
+          "value": "20+",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -411,9 +411,21 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "20-22",
+          "value": "15-16",
           "demand": "N/A",
           "status": "Dropping"
+        }
+      },
+      "Luminary Shadow Bonnie": {
+        "Normal": {
+          "value": "0.1",
+          "demand": "N/A",
+          "status": "N/A"
+        },
+        "Shiny": {
+          "value": "2.5+",
+          "demand": "N/A",
+          "status": "N/A"
         }
       }
     },
@@ -1139,7 +1151,8 @@
           "Range": 21,
           "Damage": 170,
           "Cooldown": 4.5,
-          "UpgradePrice": 1600
+          "UpgradePrice": 1600,
+          "Type": "Line"
         },
         {
           "Range": 22,
@@ -1373,7 +1386,8 @@
           "Range": 24,
           "Damage": 135,
           "Cooldown": 2.3,
-          "UpgradePrice": 950
+          "UpgradePrice": 950,
+          "Type": "Cone"
         },
         {
           "Range": 24.5,
@@ -1383,7 +1397,7 @@
         },
         {
           "Range": 24.5,
-          "Damage": 140,
+          "Damage": 160,
           "Cooldown": 2.2,
           "UpgradePrice": 1150
         },
@@ -1514,7 +1528,8 @@
           "Range": 22.5,
           "Damage": 85,
           "Cooldown": 2.4,
-          "UpgradePrice": 2000
+          "UpgradePrice": 2000,
+          "Type": "Cone"
         },
         {
           "Range": 25,
@@ -1567,7 +1582,8 @@
           "Range": 30,
           "Damage": 130,
           "Cooldown": 1.3,
-          "UpgradePrice": 2000
+          "UpgradePrice": 2000,
+          "Type": "Single"
         },
         {
           "Range": 30,
@@ -1683,7 +1699,8 @@
           "Range": 18.5,
           "Damage": 150,
           "Cooldown": 7,
-          "UpgradePrice": 1000
+          "UpgradePrice": 1000,
+          "Type": "Cone"
         },
         {
           "Range": 20,
@@ -1708,49 +1725,50 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 22,
-        "Damage": 80,
+        "Damage": 101,
         "Cooldown": 2
       },
       "UpgradeStats": [
         {
           "Range": 22,
-          "Damage": 90,
+          "Damage": 123,
           "Cooldown": 2,
           "UpgradePrice": 2000
         },
         {
           "Range": 24,
-          "Damage": 100,
+          "Damage": 132,
           "Cooldown": 2,
           "UpgradePrice": 2500
         },
         {
           "Range": 24,
-          "Damage": 120,
+          "Damage": 156,
           "Cooldown": 2.4,
-          "UpgradePrice": 4000
+          "UpgradePrice": 4000,
+          "Type": "Line"
         },
         {
           "Range": 26,
-          "Damage": 140,
+          "Damage": 187,
           "Cooldown": 2.4,
           "UpgradePrice": 4500
         },
         {
           "Range": 28,
-          "Damage": 160,
+          "Damage": 212,
           "Cooldown": 2.4,
           "UpgradePrice": 4500
         },
         {
           "Range": 28,
-          "Damage": 180,
+          "Damage": 231.2,
           "Cooldown": 2.4,
           "UpgradePrice": 5000
         }
       ],
       "Passives": {
-        "Engineer": "This unit places turrets that do Single Target attacks equal to this units damage and cooldown. Places a turret every 15s, turrets last 60s. Maximum of 3 turrets per Endo 02 placed. [Places somewhere randomly within range]"
+        "Engineer": "Endo 02 places [Endo Turrets] within Range every 15 seconds, dealing 100% Damage to a [Single Target] with 100% Cooldown, lasting 45 seconds."
       },
       "Obtainability": [
         "Season 1 Free Pass Tier 30"
@@ -1777,38 +1795,38 @@
         },
         {
           "Range": 20,
-          "Damage": 650,
+          "Damage": 675,
           "Cooldown": 4.3,
           "UpgradePrice": 3250
         },
         {
           "Range": 22,
-          "Damage": 675,
+          "Damage": 700,
           "Cooldown": 4,
           "UpgradePrice": 3250
         },
         {
           "Range": 23,
-          "Damage": 700,
+          "Damage": 750,
           "Cooldown": 3.6,
           "UpgradePrice": 7500,
           "Type": "Cone"
         },
         {
           "Range": 28,
-          "Damage": 750,
+          "Damage": 800,
           "Cooldown": 3.5,
           "UpgradePrice": 3500
         },
         {
           "Range": 25,
-          "Damage": 800,
+          "Damage": 875,
           "Cooldown": 3.4,
           "UpgradePrice": 3500
         }
       ],
       "Passives": {
-        "Dismantle": "Every 45s, Follow Me dismantles the lowest-placed unit in range for 10s (excluding Boosters and Heroes; ties broken by highest damage). During this time, all units are halted from attacking or using passives, and Follow Me gains 30% of the dismantled unit’s damage and knockback."
+        "Dismantle": "Every 40s, Follow Me dismantles the lowest-placed unit in range for 10s (excluding Boosters and Heroes; ties broken by highest damage). During this time, all units are halted from attacking or using passives, and Follow Me gains 50% of the dismantled unit’s damage and knockback."
       },
       "Obtainability": [
         "Season 2 Premium Pass Tier 30"
@@ -1849,18 +1867,19 @@
           "Range": 21.5,
           "Damage": 650,
           "Cooldown": 5.2,
-          "UpgradePrice": 2800
+          "UpgradePrice": 2800,
+          "Type": "Single"
         },
         {
           "Range": 22,
           "Damage": 700,
-          "Cooldown": 5.2,
+          "Cooldown": 5,
           "UpgradePrice": 3000
         },
         {
           "Range": 22.5,
           "Damage": 750,
-          "Cooldown": 5.2,
+          "Cooldown": 4.8,
           "UpgradePrice": 6250
         }
       ],
@@ -1927,6 +1946,56 @@
       "Obtainability": [
         "Christmas Movie Event Free Pass Tier 30"
       ]
+    },
+    {
+      "Name": "Luminary Reporter Shadow Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 3250,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 575,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 635,
+          "Cooldown": 4,
+          "UpgradePrice": 2850
+        },
+        {
+          "Range": 19,
+          "Damage": 680,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 20,
+          "Damage": 715,
+          "Cooldown": 3.6,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 21,
+          "Damage": 740,
+          "Cooldown": 3.5,
+          "UpgradePrice": 4300
+        },
+        {
+          "Range": 22,
+          "Damage": 770,
+          "Cooldown": 3.3,
+          "UpgradePrice": 4800
+        }
+      ],
+      "Passives": {
+        "Cosmic Greed": "The Moon will grow brighter every attack increasing Luminary Bonnie's Damage by +0.5%; after reaching +20% Damage, Dying Light will activate.",
+        "Dying Light": "Luminary Bonnie will explode the Moon, dealing 250% Damage to all Enemies on the map; Cosmic Greed will reset and Luminary Bonnie will be inflicted with Stun for 5s."
+      },
+      "Obtainability": []
     },
     {
       "Name": "Movie Director Freddy",
@@ -2046,45 +2115,45 @@
       "UpgradeStats": [
         {
           "Range": 18,
-          "Damage": 165,
+          "Damage": 200,
           "Cooldown": 2.2,
           "UpgradePrice": 800
         },
         {
           "Range": 18,
-          "Damage": 200,
+          "Damage": 240,
           "Cooldown": 2.2,
           "UpgradePrice": 1200
         },
         {
           "Range": 18,
-          "Damage": 240,
+          "Damage": 270,
           "Cooldown": 2.2,
           "UpgradePrice": 1800
         },
         {
           "Range": 20,
-          "Damage": 250,
+          "Damage": 300,
           "Cooldown": 2,
           "UpgradePrice": 2200
         },
         {
           "Range": 20,
-          "Damage": 300,
+          "Damage": 350,
           "Cooldown": 2,
           "UpgradePrice": 2600
         },
         {
           "Range": 20,
-          "Damage": 320,
+          "Damage": 400,
           "Cooldown": 2,
           "UpgradePrice": 4000
         }
       ],
       "Passives": {
-        "I.C.B.C.M (Inter-Continental Ballistic Cupcake Missile)": "Every 12 seconds the top of this unit's cupcake opens, and launches a cupcake missile that targets the highest HP enemy on the field dealing 200% damage.",
-        "Explosives Expert": "For every circle attack type unit in this unit's range increase damage and range by 3%. [15% max buff]",
-        "Fallout [Active Ability] [Upgrade 6+]": "Upon activation, for the next 17s I.C.B.C.M's are launched every 3.4s dealing 140% of this unit's current damage. After this for 3s, releases a wave of steam hitting 3 times for 120% of this unit's current damage (Cone AOE) applying burn for 3s dealing 40% of the damage dealt by the steam [13.3% dmg/tick]. [20s Duration] [120s Global CD]"
+        "I.C.B.C.M (Inter-Continental Ballistic Cupcake Missile)": "Party Packer Cupcake launches a missile, targeting the Highest Health Enemy, dealing 200% Damage every 12 seconds.",
+        "Explosives Expert": "Party Packer Cupcake gains +3% Damage and Range for each [Circle Type] Unit in Range.",
+        "Fallout [Active Ability] [Upgrade 6+]": "Once activated, Party Packer Cupcake launches [I.C.B.C.Ms] every 3.4 seconds, dealing 140% damage for the next 17 seconds. Additionally, it releases three waves of steam, dealing 120% damage in a [Cone AoE] and applying [Burn], which deals 40% damage for 3 seconds."
       },
       "Obtainability": [
         "1st Starter Pack (249 R$)"
@@ -2098,38 +2167,38 @@
       "Element": "Rust",
       "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 20,
-        "Damage": 2800,
+        "Range": 17,
+        "Damage": 2050,
         "Cooldown": 10
       },
       "UpgradeStats": [
         {
-          "Range": 20,
-          "Damage": 2950,
+          "Range": 18,
+          "Damage": 2150,
           "Cooldown": 10,
           "UpgradePrice": 2750
         },
         {
-          "Range": 21,
-          "Damage": 3000,
+          "Range": 18,
+          "Damage": 2200,
           "Cooldown": 9.5,
           "UpgradePrice": 2750
         },
         {
-          "Range": 22,
-          "Damage": 3000,
+          "Range": 19,
+          "Damage": 2275,
           "Cooldown": 9,
           "UpgradePrice": 3000
         },
         {
-          "Range": 22,
-          "Damage": 3250,
+          "Range": 20,
+          "Damage": 2350,
           "Cooldown": 8.5,
           "UpgradePrice": 3250
         },
         {
-          "Range": 24,
-          "Damage": 3400,
+          "Range": 22,
+          "Damage": 2450,
           "Cooldown": 8,
           "UpgradePrice": 3250
         }
@@ -2176,7 +2245,8 @@
           "Range": 25.5,
           "Damage": 450,
           "Cooldown": 4.5,
-          "UpgradePrice": 1850
+          "UpgradePrice": 1850,
+          "Type": "Cone"
         },
         {
           "Range": 27.5,
@@ -2440,7 +2510,8 @@
           "Range": 25,
           "Damage": 350,
           "Cooldown": 3,
-          "UpgradePrice": 3500
+          "UpgradePrice": 3500,
+          "Type": "FullAOE"
         },
         {
           "Range": 26,
@@ -2468,12 +2539,15 @@
       "Rarity": "Secret",
       "PlacementPrice": 2550,
       "Type": "Cone",
+      "Degrees": 45,
       "Element": "Dark",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 15,
         "Damage": 170,
-        "Cooldown": 2.5
+        "Cooldown": 2.5,
+        "Type": "Cone",
+        "Degrees": 45
       },
       "UpgradeStats": [
         {
@@ -2504,7 +2578,9 @@
           "Range": 25,
           "Damage": 280,
           "Cooldown": 2.6,
-          "UpgradePrice": 2800
+          "UpgradePrice": 2800,
+          "Type": "Cone",
+          "Degrees": 65
         },
         {
           "Range": 26,
@@ -2652,7 +2728,8 @@
           "Range": 17,
           "Damage": 130,
           "Cooldown": 1.5,
-          "UpgradePrice": 2250
+          "UpgradePrice": 2250,
+          "Type": "Line"
         },
         {
           "Range": 18,
@@ -2664,7 +2741,8 @@
           "Range": 18,
           "Damage": 160,
           "Cooldown": 1.6,
-          "UpgradePrice": 3500
+          "UpgradePrice": 3500,
+          "Type": "Cone"
         },
         {
           "Range": 19,
@@ -2715,7 +2793,8 @@
           "Range": 25,
           "Damage": 24,
           "Cooldown": 0.28,
-          "UpgradePrice": 2250
+          "UpgradePrice": 2250,
+          "Type": "Circle"
         },
         {
           "Range": 25,
@@ -2727,7 +2806,8 @@
           "Range": 29,
           "Damage": 28,
           "Cooldown": 0.26,
-          "UpgradePrice": 3500
+          "UpgradePrice": 3500,
+          "Type": "Cone"
         },
         {
           "Range": 29,
@@ -2834,7 +2914,8 @@
       "BaseStats": {
         "Range": 22,
         "Damage": 150,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Type": "Cone"
       },
       "UpgradeStats": [
         {
@@ -3107,7 +3188,8 @@
           "Range": 25,
           "Damage": 700,
           "Cooldown": 4.4,
-          "UpgradePrice": 2650
+          "UpgradePrice": 2650,
+          "Type": "Circle"
         },
         {
           "Range": 26,
@@ -3125,7 +3207,8 @@
           "Range": 28,
           "Damage": 800,
           "Cooldown": 3.8,
-          "UpgradePrice": 4250
+          "UpgradePrice": 4250,
+          "Type": "Cone"
         },
         {
           "Range": 31,
@@ -3143,7 +3226,6 @@
     },
     {
       "Name": "Spring Duo",
-      "SwitchSpeed": 15,
       "Rarity": "Nightmare",
       "PlacementPrice": 3000,
       "Type": "Line",
@@ -3154,50 +3236,15 @@
         "Damage": 300,
         "Cooldown": 9
       },
-      "UpgradeStats": {
-        "Fredbear": [
-          {
-            "Range": 18,
-            "Damage": 115,
-            "Cooldown": 1.3,
-            "UpgradePrice": 4250,
-            "Type": "Circle"
-          },
-          {
-            "Range": 19,
-            "Damage": 130,
-            "Cooldown": 1.2,
-            "UpgradePrice": 4750
-          },
-          {
-            "Range": 20,
-            "Damage": 195,
-            "Cooldown": 1,
-            "UpgradePrice": 5000
-          }
-        ],
-        "Bonnie": [
-          {
-            "Range": 24,
-            "Damage": 850,
-            "Cooldown": 3.2,
-            "UpgradePrice": 4250,
-            "Type": "Line"
-          },
-          {
-            "Range": 26,
-            "Damage": 900,
-            "Cooldown": 3,
-            "UpgradePrice": 4750
-          },
-          {
-            "Range": 28,
-            "Damage": 1000,
-            "Cooldown": 2.7,
-            "UpgradePrice": 5000
-          }
-        ]
-      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 9,
+          "UpgradePrice": 3000,
+          "Type": "Line"
+        }
+      ],
       "Passives": {
         "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
       },
@@ -3246,7 +3293,8 @@
           "Range": 28,
           "Damage": 1150,
           "Cooldown": 5.7,
-          "UpgradePrice": 4400
+          "UpgradePrice": 4400,
+          "Type": "Cone"
         },
         {
           "Range": 30,
@@ -3376,7 +3424,8 @@
       "BaseStats": {
         "Range": 24,
         "Damage": 800,
-        "Cooldown": 6.4
+        "Cooldown": 6.4,
+        "Type": "Cone"
       },
       "UpgradeStats": [
         {
@@ -3413,7 +3462,8 @@
           "Range": 31,
           "Damage": 1840,
           "Cooldown": 6.6,
-          "UpgradePrice": 7000
+          "UpgradePrice": 7000,
+          "Type": "Cone"
         },
         {
           "Range": 33,
@@ -3510,7 +3560,7 @@
         }
       ],
       "Passives": {
-        "Yeti’s Army": " On this unit’s cooldown, summons a Yeti Oni Apprentice on the track. Every 3rd summon, summons a Yeti Oni Sensei instead. Yeti Oni Apprentice: 30% damage as HP, attacks enemies within 23 range for 15% damage in a Single type with a 3s CD. Yeti Oni Sensei: 80% damage as HP, attacks enemies within 15 range for 30% damage in a Single type with a 2.5s CD. ",
+        "Yeti’s Army": " On this unit’s cooldown, summons a Yeti Oni Apprentice on the track. Every 3rd summon, summons a Yeti Oni Sensei instead. Yeti Oni Apprentice: 30% damage as HP, attacks enemies within 23 range for 25% damage in a Single type with a 3s CD. Yeti Oni Sensei: 80% damage as HP, attacks enemies within 15 range for 45% damage in a Single type with a 2.5s CD. ",
         "Frost Slash": "When attacking an enemy with more than 80% HP, immediately performs a follow up attack dealing 50% damage in a line."
       },
       "Actives": [
@@ -3529,146 +3579,146 @@
     {
       "Name": "Golden Freddy",
       "Rarity": "Hero",
-      "PlacementPrice": 750,
+      "PlacementPrice": 1000,
       "Type": "Circle",
       "Element": "Neutral",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 15,
-        "Damage": 45,
+        "Damage": 70,
         "Cooldown": 2.6
       },
       "UpgradeStats": [
         {
           "Range": 15,
-          "Damage": 50,
+          "Damage": 75,
           "Cooldown": 2.4,
           "UpgradePrice": 1000
         },
         {
           "Range": 15,
-          "Damage": 55,
+          "Damage": 80,
           "Cooldown": 2.4,
           "UpgradePrice": 1200
         },
         {
           "Range": 15,
-          "Damage": 60,
+          "Damage": 100,
           "Cooldown": 3,
           "UpgradePrice": 1400
         },
         {
           "Range": 15,
-          "Damage": 65,
+          "Damage": 120,
           "Cooldown": 2.4,
           "UpgradePrice": 1500
         },
         {
           "Range": 20,
-          "Damage": 70,
+          "Damage": 120,
           "Cooldown": 2.4,
           "UpgradePrice": 1600
         },
         {
           "Range": 20,
-          "Damage": 75,
+          "Damage": 135,
           "Cooldown": 2.4,
           "UpgradePrice": 1900
         },
         {
           "Range": 20,
-          "Damage": 80,
+          "Damage": 140,
           "Cooldown": 2.4,
           "UpgradePrice": 2100
         },
         {
           "Range": 20,
-          "Damage": 85,
+          "Damage": 150,
           "Cooldown": 2.4,
           "UpgradePrice": 2400
         },
         {
           "Range": 20,
-          "Damage": 90,
+          "Damage": 160,
           "Cooldown": 2.4,
           "UpgradePrice": 2800
         },
         {
           "Range": 25,
-          "Damage": 95,
+          "Damage": 170,
           "Cooldown": 2.4,
           "UpgradePrice": 3200
         },
         {
           "Range": 25,
-          "Damage": 105,
+          "Damage": 200,
           "Cooldown": 2.2,
           "UpgradePrice": 3500
         },
         {
           "Range": 25,
-          "Damage": 115,
+          "Damage": 220,
           "Cooldown": 2.2,
           "UpgradePrice": 3800
         },
         {
           "Range": 25,
-          "Damage": 125,
+          "Damage": 240,
           "Cooldown": 2.2,
           "UpgradePrice": 4200
         },
         {
           "Range": 25,
-          "Damage": 135,
+          "Damage": 265,
           "Cooldown": 2.2,
           "UpgradePrice": 4500
         },
         {
           "Range": 25,
-          "Damage": 145,
+          "Damage": 295,
           "Cooldown": 2.2,
           "UpgradePrice": 5000
         },
         {
           "Range": 27,
-          "Damage": 155,
+          "Damage": 320,
           "Cooldown": 2,
           "UpgradePrice": 5400
         },
         {
           "Range": 27,
-          "Damage": 165,
+          "Damage": 350,
           "Cooldown": 2,
-          "UpgradePrice": 5800
+          "UpgradePrice": 6800
         },
         {
-          "Range": 27,
-          "Damage": 175,
+          "Range": 28,
+          "Damage": 390,
           "Cooldown": 2,
-          "UpgradePrice": 6000
+          "UpgradePrice": 7500
         },
         {
-          "Range": 27,
-          "Damage": 185,
+          "Range": 28,
+          "Damage": 425,
           "Cooldown": 2,
-          "UpgradePrice": 6200
+          "UpgradePrice": 7750
         },
         {
-          "Range": 27,
-          "Damage": 195,
+          "Range": 29,
+          "Damage": 445,
           "Cooldown": 2,
-          "UpgradePrice": 6500
+          "UpgradePrice": 8000
         }
       ],
       "Passives": {
-        "Vengeful Spirit": "Every 20s, this hero's damage and range doubles, and cooldown halves, for 5s.",
-        "Restless Soul [Upgrade 5+]": "Every wave this hero receives a 2% damage boost. In endless modes, this boost is reduced to 0.8%. [100% max buff]",
-        "It's Me! [Upgrade 12+]": "Every 30s this hero stuns all enemies in range for 2s. While stunned, enemies take 20% more damage (20% wither)."
+        "Vengeful Spirit": "Once every 20 seconds, Golden Freddy increases his Damage and Range by 100% and decreases Cooldown by 50% for 5 seconds.",
+        "Restless Soul [Upgrade 5+]": "Golden Freddy receives +2% Damage, +0.8% in Endless, for each Wave completed, with a maximum of +100% Damage.",
+        "It's Me! [Upgrade 12+]": "Once every 30 seconds, Golden Freddy applies [Stun] to all Enemies in Range for 2 seconds, making Enemies take +20% Damage."
       },
       "Actives": [
         {
           "Name": "The one you should not have killed",
-          "Description": "Upon activation, this hero deals damage to all enemies on the track for 50% of its current damage.",
+          "Description": "Upon activation,Golden Freddy deals 500% Damage to all Enemies on the map.",
           "Cooldown": 30,
           "Upgrade": 18
         }
@@ -3680,79 +3730,80 @@
     {
       "Name": "Puppet",
       "Rarity": "Hero",
-      "PlacementPrice": 1350,
+      "PlacementPrice": 2400,
       "Type": "Circle",
       "Element": "Light",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 20,
-        "Damage": 125,
+        "Damage": 150,
         "Cooldown": 3
       },
       "UpgradeStats": [
         {
+          "Damage": 155,
           "Range": 20,
-          "Damage": 130,
           "Cooldown": 3,
           "UpgradePrice": 500
         },
         {
+          "Damage": 160,
           "Range": 20,
-          "Damage": 135,
-          "Cooldown": 3,
-          "UpgradePrice": 750
-        },
-        {
-          "Range": 20,
-          "Damage": 140,
           "Cooldown": 3,
           "UpgradePrice": 1000
         },
         {
+          "Damage": 165,
           "Range": 20,
-          "Damage": 145,
           "Cooldown": 3,
-          "UpgradePrice": 1250
+          "UpgradePrice": 1000
         },
         {
+          "Damage": 170,
+          "Range": 20,
+          "Cooldown": 3,
+          "UpgradePrice": 1500
+        },
+        {
+          "Damage": 175,
           "Range": 25,
-          "Damage": 150,
           "Cooldown": 3,
           "UpgradePrice": 1750
         },
         {
+          "Damage": 180,
           "Range": 25,
-          "Damage": 160,
           "Cooldown": 3,
           "UpgradePrice": 2000
         },
         {
+          "Damage": 185,
           "Range": 25,
-          "Damage": 170,
           "Cooldown": 3,
           "UpgradePrice": 2250
         },
         {
           "Range": 25,
-          "Damage": 180,
+          "Damage": 190,
           "Cooldown": 3,
           "UpgradePrice": 2500
         },
         {
+          "Damage": 195,
           "Range": 25,
-          "Damage": 190,
           "Cooldown": 3,
           "UpgradePrice": 2750
         },
         {
-          "Range": 30,
           "Damage": 200,
+          "Range": 30,
           "Cooldown": 2.8,
-          "UpgradePrice": 3500
+          "UpgradePrice": 3500,
+          "Type": "Circle"
         },
         {
-          "Range": 30,
           "Damage": 215,
+          "Range": 30,
           "Cooldown": 2.8,
           "UpgradePrice": 4000
         },
@@ -3763,63 +3814,63 @@
           "UpgradePrice": 4500
         },
         {
-          "Range": 30,
           "Damage": 245,
+          "Range": 30,
           "Cooldown": 2.8,
           "UpgradePrice": 5000
         },
         {
-          "Range": 30,
           "Damage": 260,
+          "Range": 30,
           "Cooldown": 2.8,
           "UpgradePrice": 5500
         },
         {
-          "Range": 35,
           "Damage": 275,
+          "Range": 35,
           "Cooldown": 2.5,
           "UpgradePrice": 6500
         },
         {
-          "Range": 35,
           "Damage": 295,
+          "Range": 35,
           "Cooldown": 2.5,
           "UpgradePrice": 7000
         },
         {
+          "Damage": 325,
           "Range": 35,
-          "Damage": 315,
           "Cooldown": 2.5,
           "UpgradePrice": 7500
         },
         {
+          "Damage": 355,
           "Range": 35,
-          "Damage": 335,
           "Cooldown": 2.5,
           "UpgradePrice": 8000
         },
         {
+          "Damage": 375,
           "Range": 35,
-          "Damage": 355,
           "Cooldown": 2.5,
           "UpgradePrice": 8500
         },
         {
+          "Damage": 400,
           "Range": 35,
-          "Damage": 375,
           "Cooldown": 2.5,
-          "UpgradePrice": 9000
+          "UpgradePrice": 10000
         }
       ],
       "Passives": {
-        "Music Box": "Every 10s this hero does damage to all enemies in range based on the number of units placed. Starting at 0%, scales by 5% of this hero's damage per unit placed. [150% max]",
-        "Soul Calling [Upgrade 5+]": "Every 15s summons a soul on the track that will walk through every enemy dealing 60% of this hero's current damage, does not damage bosses. Enemies hit by this soul are slowed by 20% for 5s."
+        "Music Box": "Once every 10 seconds, Puppet deals +5% Damage for all Units placed to all Enemies in Range, with a maximum of 150% Damage.",
+        "Soul Calling [Upgrade 5+]": "Once every 15 seconds, Puppet summons a [Soul Kid] that deals 60% Damage and applies 20% [Slow] for 5 seconds to each Enemy it walks through, including Bosses."
       },
       "Actives": [
         {
           "Name": "Happiest Day",
-          "Description": "Upon activation, this hero boosts the damage of all placed units by 25% for 15s.",
-          "Cooldown": 45,
+          "Description": "Upon activation, Puppet increases Damage by 30% for 15 seconds to all Units.",
+          "Cooldown": 40,
           "Upgrade": 18
         }
       ],
