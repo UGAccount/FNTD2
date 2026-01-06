@@ -476,57 +476,27 @@
       }
     },
     "Presents": {
-    "Dreadbear Present": {
-      "value": "5-6+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Shadow Bonnie Present": {
-      "value": "4-5+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Grinch Foxy Present": {
-      "value": "1.5-2",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Krampus Purple Guy Present": {
-      "value": "1-1.5+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Follow Me Present": {
-      "value": "1.5+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Phantom Bonnie Present": {
-      "value": "1+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Balloon Boy Present": {
-      "value": "0.5-1+",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Cloaked Sparky Present": {
-      "value": "0.5",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Luminary Reporter Present": {
+    "Season 1 Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
     },
-    "Phone Dude Present": {
+    "Season 2 Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
     },
-    "Golden Cupcake Present": {
+    "Party Glock Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Puppets Alliance Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Turkey Chica Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
@@ -536,7 +506,87 @@
       "demand": "N/A",
       "status": "N/A"
     },
-    "Season 2 Present": {
+    "Luminary Reporter Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "PPC Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Cloaked Sparky Present": {
+      "value": "0.5",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Mangle Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Phone Dude Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Balloon Boy Present": {
+      "value": "0.5-1+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Endo 02 Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Shadow Bonnie Present": {
+      "value": "4-5+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Golden Cupcake Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Phantom Bonnie Present": {
+      "value": "1+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Follow Me Present": {
+      "value": "1.5+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Halloween Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Jack O Bonnie Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Dreadbear Present": {
+      "value": "5-6+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Slasher Bonnie Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Scarecrow Present": {
+      "value": "N/A",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Headless Horseman Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
@@ -551,7 +601,17 @@
       "demand": "N/A",
       "status": "N/A"
     },
-    "Frozen King Foxy Present": {
+    "Krampus Purple Guy Present": {
+      "value": "1-1.5+",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Grinch Foxy Present": {
+      "value": "1.5-2",
+      "demand": "N/A",
+      "status": "N/A"
+    },
+    "Movie Director Freddy Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
@@ -561,82 +621,7 @@
       "demand": "N/A",
       "status": "N/A"
     },
-    "Movie Director Freddy Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Headless Horseman Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Slasher Bonnie Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Turkey Chica Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Halloween Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Jack O Bonnie Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Puppets Alliance Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Scarecrow Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Endo 02 Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Mangle Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Party Glock Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "PPC Present": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Hero Present 1": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Hero Present 2": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Hero Present 3": {
-      "value": "N/A",
-      "demand": "N/A",
-      "status": "N/A"
-    },
-    "Season 1 Present": {
+    "Frozen King Foxy Present": {
       "value": "N/A",
       "demand": "N/A",
       "status": "N/A"
