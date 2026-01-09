@@ -87,14 +87,14 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "13.1+",
+          "value": "15+",
           "demand": "10/10",
-          "status": "Slowly Rising"
+          "status": "Rising"
         }
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.25+",
           "demand": "9/10",
           "status": "Stable"
         },
@@ -171,7 +171,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.5+",
+          "value": "2+",
           "demand": "6/10",
           "status": "Stable"
         }
@@ -267,9 +267,9 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "27-29",
+          "value": "27",
           "demand": "8.5/10",
-          "status": "Unstable"
+          "status": "Slowly Dropping"
         }
       },
       "Krampus Purple Guy": {
@@ -346,7 +346,7 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.5",
           "demand": "N/A",
           "status": "Slowly Dropping"
         },
@@ -382,7 +382,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "1-1.5",
+          "value": "1+",
           "demand": "N/A",
           "status": "Unstable"
         },
@@ -394,12 +394,12 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "1.5",
+          "value": "1+",
           "demand": "N/A",
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "17-20",
+          "value": "17",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -411,7 +411,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "15-16",
+          "value": "9-10",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -423,7 +423,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.5-2",
           "demand": "N/A",
           "status": "N/A"
         }
@@ -453,7 +453,7 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1.5",
+        "value": "1.4",
         "demand": "N/A",
         "status": "Unstable"
       },
@@ -507,7 +507,7 @@
         "status": "N/A"
       },
       "Luminary Reporter Present": {
-        "value": "N/A",
+        "value": "0.15+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -587,7 +587,7 @@
         "status": "N/A"
       },
       "Headless Horseman Present": {
-        "value": "N/A",
+        "value": "1+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -622,7 +622,7 @@
         "status": "N/A"
       },
       "Frozen King Foxy Present": {
-        "value": "N/A",
+        "value": "3-4+",
         "demand": "N/A",
         "status": "N/A"
       }
