@@ -625,6 +625,12 @@
         "value": "3-4+",
         "demand": "N/A",
         "status": "N/A"
+      },
+    "Currency": {
+      "Souls": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       }
     }
   },
