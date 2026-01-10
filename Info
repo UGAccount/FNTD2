@@ -310,12 +310,12 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "5.5+",
+          "value": "6+",
           "demand": "N/A",
           "status": "Rising"
         },
         "Shiny": {
-          "value": "45+",
+          "value": "52+",
           "demand": "N/A",
           "status": "Rising"
         }
@@ -334,7 +334,7 @@
       },
       "Phone Dude": {
         "Normal": {
-          "value": "1.75+",
+          "value": "1.55+",
           "demand": "N/A",
           "status": "N/A"
         },
@@ -399,7 +399,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "10+",
+          "value": "11.5",
           "demand": "N/A",
           "status": "Dropping"
         }
