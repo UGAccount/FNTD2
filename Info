@@ -1,283 +1,5 @@
 {
   "Values": {
-    "Currency": {
-      "Souls": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      }
-    },
-    "Gamepasses": {
-      "Shiny Hunter": {
-        "value": "2.2+",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "VIP": {
-        "value": "0.6+",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Premium": {
-        "value": "1.4",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
-      "Event Premium": {
-        "value": "1.3",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
-      "Quick Open": {
-        "value": "0.25",
-        "demand": "N/A",
-        "status": "Stable"
-      }
-    },
-    "Pets": {
-      "Golden Freddy": {
-        "value": "0.3",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Gang Freddy": {
-        "value": "1.6+",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Phantom BB": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phantom Foxy": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Springtrap": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "8-Bit Shadow Bonnie": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Deer Mangle": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Elf Endo": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Grinch Foxy": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Bonnie": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Ghost Bonnie": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Ice Queen Toy Chica": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Jack'O Chica": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Harvest Festival Foxy": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Mangle": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Mummy Freddy": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Puppet": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Freddy": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      }
-    },
-    "Presents": {
-      "Season 1 Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Season 2 Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Party Glock Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Puppets Alliance Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Turkey Chica Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Popcorn Bot Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Luminary Reporter Present": {
-        "value": "0.15+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "PPC Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Cloaked Sparky Present": {
-        "value": "0.5",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Mangle Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phone Dude Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Balloon Boy Present": {
-        "value": "0.5-1+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Endo 02 Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Shadow Bonnie Present": {
-        "value": "4-5+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Golden Cupcake Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phantom Bonnie Present": {
-        "value": "0.8+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Follow Me Present": {
-        "value": "1+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Halloween Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Jack O Bonnie Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Dreadbear Present": {
-        "value": "5-6+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Slasher Bonnie Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Scarecrow Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Headless Horseman Present": {
-        "value": "1+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Christmas Event Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Christmas Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Krampus Purple Guy Present": {
-        "value": "1.3+",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Grinch Foxy Present": {
-        "value": "1.5-2",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Movie Director Freddy Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Conductor Freddy Present": {
-        "value": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Frozen King Foxy Present": {
-        "value": "3+",
-        "demand": "N/A",
-        "status": "N/A"
-      }
-    },
     "Units": {
       "Scarecrow Freddy": {
         "Normal": {
@@ -705,6 +427,284 @@
           "demand": "N/A",
           "status": "N/A"
         }
+      }
+    },
+    "Presents": {
+      "Season 1 Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Season 2 Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Party Glock Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Puppets Alliance Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Turkey Chica Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Popcorn Bot Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Luminary Reporter Present": {
+        "value": "0.15+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "PPC Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Cloaked Sparky Present": {
+        "value": "0.5",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Mangle Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phone Dude Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Balloon Boy Present": {
+        "value": "0.5-1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Endo 02 Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shadow Bonnie Present": {
+        "value": "4-5+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Golden Cupcake Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phantom Bonnie Present": {
+        "value": "0.8+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Follow Me Present": {
+        "value": "1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Halloween Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Jack O Bonnie Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Dreadbear Present": {
+        "value": "5-6+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Slasher Bonnie Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Scarecrow Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Headless Horseman Present": {
+        "value": "1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Christmas Event Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Christmas Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Krampus Purple Guy Present": {
+        "value": "1.3+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Grinch Foxy Present": {
+        "value": "1.5-2",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Movie Director Freddy Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Conductor Freddy Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Frozen King Foxy Present": {
+        "value": "3+",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Pets": {
+      "Golden Freddy": {
+        "value": "0.3",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Gang Freddy": {
+        "value": "1.6+",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phantom BB": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phantom Foxy": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Springtrap": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "8-Bit Shadow Bonnie": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Deer Mangle": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Elf Endo": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Grinch Foxy": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Bonnie": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Ghost Bonnie": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Ice Queen Toy Chica": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Jack'O Chica": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Harvest Festival Foxy": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Mangle": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Mummy Freddy": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Puppet": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Freddy": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
+    "Gamepasses": {
+      "Shiny Hunter": {
+        "value": "2.2+",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "VIP": {
+        "value": "0.6+",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Premium": {
+        "value": "1.4",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Event Premium": {
+        "value": "1.3",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Quick Open": {
+        "value": "0.25",
+        "demand": "N/A",
+        "status": "Stable"
+      }
+    },
+    "Currency": {
+      "Souls": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       }
     }
   },
