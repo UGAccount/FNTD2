@@ -46,12 +46,12 @@
       },
       "Dreadbear": {
         "Normal": {
-          "value": "1.55",
+          "value": "1.6+",
           "demand": "9.5/10",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "40+",
+          "value": "42+",
           "demand": "10/10",
           "status": "Stable"
         }
@@ -75,7 +75,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "32-35",
           "demand": "9/10",
           "status": "Stable"
         }
@@ -171,7 +171,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2.75+",
           "demand": "6/10",
           "status": "Stable"
         }
@@ -267,7 +267,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "27",
+          "value": "25+",
           "demand": "8.5/10",
           "status": "Slowly Dropping"
         }
@@ -300,12 +300,12 @@
         "Normal": {
           "value": "3+",
           "demand": "N/A",
-          "status": "Slowly Rising"
+          "status": "Slowly Dropping"
         },
         "Shiny": {
-          "value": "35-37+",
+          "value": "35+",
           "demand": "N/A",
-          "status": "Rising"
+          "status": "Slowly Dropping"
         }
       },
       "Yeti Oni Bonnie": {
@@ -351,7 +351,7 @@
           "status": "Slowly Dropping"
         },
         "Shiny": {
-          "value": "5-6",
+          "value": "3-4+",
           "demand": "N/A",
           "status": "N/A"
         }
@@ -382,12 +382,12 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "1+",
+          "value": "0.8-1",
           "demand": "N/A",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "17",
+          "value": "15",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -399,19 +399,19 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "11.5",
+          "value": "9-10+",
           "demand": "N/A",
           "status": "Dropping"
         }
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "0.8-1",
+          "value": "0.6+",
           "demand": "N/A",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "7+",
+          "value": "5+",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -423,7 +423,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "1.5-2",
+          "value": "1.5",
           "demand": "N/A",
           "status": "N/A"
         }
@@ -552,12 +552,12 @@
         "status": "N/A"
       },
       "Phantom Bonnie Present": {
-        "value": "1+",
+        "value": "0.8+",
         "demand": "N/A",
         "status": "N/A"
       },
       "Follow Me Present": {
-        "value": "1.5+",
+        "value": "1+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -602,7 +602,7 @@
         "status": "N/A"
       },
       "Krampus Purple Guy Present": {
-        "value": "1-1.5+",
+        "value": "1.3+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -622,7 +622,7 @@
         "status": "N/A"
       },
       "Frozen King Foxy Present": {
-        "value": "3-4+",
+        "value": "3+",
         "demand": "N/A",
         "status": "N/A"
       }
