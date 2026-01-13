@@ -5,24 +5,24 @@
         "Normal": {
           "value": "6-8",
           "soul": "60,000-80,000",
-          "demand": "N/A",
+          "demand": "9.9/10",
           "status": "Rising"
         },
         "Shiny": {
           "value": "55+",
-          "demand": "N/A",
+          "demand": "10/10",
           "status": "Rising"
         }
       },
       "Toy Maker Mangle": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.99999999",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -102,12 +102,12 @@
         "Normal": {
           "value": "2.5-3",
           "soul": "25,000-30,000",
-          "demand": "N/A",
+          "demand": "8/10",
           "status": "Slowly Dropping"
         },
         "Shiny": {
-          "value": "32+",
-          "demand": "N/A",
+          "value": "30+",
+          "demand": "8.5/10",
           "status": "Dropping"
         }
       },
@@ -201,9 +201,9 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "16+",
+          "value": "17.5+",
           "demand": "10/10",
-          "status": "Rising"
+          "status": "Stable"
         }
       },
       "Scarecrow Freddy": {
@@ -255,21 +255,21 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "6.5",
+          "value": "4.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Stable"
         }
       },
       "Luminary Reporter Shadow Bonnie": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.06",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -291,7 +291,7 @@
       },
       "Turkey Chica": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable"
@@ -305,13 +305,13 @@
       },
       "Puppet's Alliance": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.75+",
+          "value": "2+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable"
@@ -450,7 +450,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.5-0.75",
+          "value": "0.35-0.5",
           "soul": "5,000-8,000",
           "demand": "N/A",
           "status": "Unstable"
@@ -463,7 +463,7 @@
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "0.6+",
+          "value": "0.45+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable"
@@ -491,7 +491,7 @@
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.3+",
           "soul": "3000-5000",
           "demand": "9/10",
           "status": "Stable"
@@ -530,9 +530,9 @@
       },
       "Balloon Boy": {
         "Normal": {
-          "value": "0.4+",
+          "value": "0.2",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "7/10",
           "status": "Stable"
         },
         "Shiny": {
@@ -803,7 +803,7 @@
         "status": "N/A"
       },
       "Luminary Reporter Present": {
-        "value": "0.15+",
+        "value": "0.1+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -813,7 +813,7 @@
         "status": "N/A"
       },
       "Cloaked Sparky Present": {
-        "value": "0.5",
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -838,7 +838,7 @@
         "status": "N/A"
       },
       "Shadow Bonnie Present": {
-        "value": "4-5+",
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -853,7 +853,7 @@
         "status": "N/A"
       },
       "Follow Me Present": {
-        "value": "1+",
+        "value": "0.8+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -868,7 +868,7 @@
         "status": "N/A"
       },
       "Dreadbear Present": {
-        "value": "5-6+",
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -883,7 +883,7 @@
         "status": "N/A"
       },
       "Headless Horseman Present": {
-        "value": "1+",
+        "value": "1.5+",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -903,7 +903,7 @@
         "status": "N/A"
       },
       "Grinch Foxy Present": {
-        "value": "1.5-2",
+        "value": "1",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -1041,7 +1041,7 @@
         "status": "Stable"
       },
       "VIP": {
-        "value": "0.6+",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
