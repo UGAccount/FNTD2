@@ -3190,9 +3190,7 @@
           "Range": 25,
           "Damage": 280,
           "Cooldown": 2.6,
-          "UpgradePrice": 2800,
-          "Type": "Cone",
-          "Degrees": 65
+          "UpgradePrice": 2800
         },
         {
           "Range": 26,
@@ -3383,7 +3381,7 @@
       "Rarity": "Secret",
       "PlacementPrice": 1800,
       "Type": "Cone",
-      "Degrees": 35,
+      "Degrees": 45,
       "Element": "Rust",
       "MaxPlaced": 3,
       "BaseStats": {
