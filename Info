@@ -147,8 +147,9 @@
                     "status": "Dropping"
                 },
                 "Shiny": {
-                    "value": "18",
-                    "soul": "N/A",
+                    "value": "15-16",
+                    "soul": 
+"150,000-160,000",
                     "demand": "8.5/10",
                     "status": "Dropping"
                 }
@@ -302,7 +303,7 @@
                 "Shiny": {
                     "value": "3.2+",
                     "soul": "N/A",
-                    "demand": "6/10",
+                    "demand": "8.5/10",
                     "status": "Stable"
                 }
             },
@@ -392,8 +393,8 @@
             },
             "Spring Duo": {
                 "Normal": {
-                    "value": "1+",
-                    "soul": "N/A",
+                    "value": "0.8+",
+                    "soul": "8000+",
                     "demand": "N/A",
                     "status": "Dropping"
                 },
