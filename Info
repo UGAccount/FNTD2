@@ -58,7 +58,7 @@
             },
             "Frostmancer Withered Bonnie": {
                 "Normal": {
-                    "value": "0.02",
+                    "value": "0.01",
                     "soul": "N/A",
                     "demand": "N/A",
                     "status": "N/A"
@@ -66,7 +66,7 @@
                 "Shiny": {
                     "value": "0.2",
                     "soul": "N/A",
-                    "demand": "9/10",
+                    "demand": "7/10",
                     "status": "Stable"
                 }
             },
@@ -100,14 +100,14 @@
             },
             "Frozen King Foxy": {
                 "Normal": {
-                    "value": "2.75+",
-                    "soul": "27,500+",
+                    "value": "3+",
+                    "soul": "N/A",
                     "demand": "8/10",
                     "status": "Slowly Dropping"
                 },
                 "Shiny": {
-                    "value": "35+",
-                    "soul": "N/A",
+                    "value": "40+",
+                    "soul": "430,000+",
                     "demand": "8.5/10",
                     "status": "Stable"
                 }
@@ -399,8 +399,8 @@
                     "status": "Dropping"
                 },
                 "Shiny": {
-                    "value": "10.5+",
-                    "soul": "N/A",
+                    "value": "11+",
+                    "soul": "115,000+",
                     "demand": "N/A",
                     "status": "Stable"
                 }
