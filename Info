@@ -9,9 +9,9 @@
           "status": "Rising"
         },
         "Shiny": {
-          "value": "55+",
-          "demand": "10/10",
-          "status": "Rising"
+          "value": "50-55",
+          "demand": "8.5",
+          "status": "Stable"
         }
       },
       "Toy Maker Mangle": {
@@ -100,7 +100,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "3+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Slowly Dropping"
@@ -1974,6 +1974,78 @@
       },
       "Obtainability": [
         "Halloween Event Summons Craftable"
+      ]
+    },
+    {
+      "Name": "Blossom Chica",
+      "Rarity": "Mythical",
+      "PlacementPrice": 6000,
+      "Type": "Single",
+      "Degrees": 80,
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 17,
+        "Damage": 770,
+        "Cooldown": 3.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 825,
+          "Cooldown": 3.4,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 17,
+          "Damage": 850,
+          "Cooldown": 3.2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 18,
+          "Damage": 900,
+          "Cooldown": 3.2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 19,
+          "Damage": 1000,
+          "Cooldown": 3,
+          "UpgradePrice": 7750
+        },
+        {
+          "Range": 18,
+          "Damage": 750,
+          "Cooldown": 3.4,
+          "UpgradePrice": 8000,
+          "Type": "Cone",
+          "Degrees": 80
+        },
+        {
+          "Range": 19,
+          "Damage": 850,
+          "Cooldown": 3,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 21,
+          "Damage": 900,
+          "Cooldown": 2.8,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Blossom Boom",
+          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
+          "Cooldown": 12,
+          "Upgrade": 3
+        }
+      ],
+      "Obtainability": [
+        "Boss Raid Present (0.5%)"
       ]
     },
     {
@@ -4709,6 +4781,161 @@
       ],
       "Obtainability": [
         "Golden Freddy Hero Quests"
+      ]
+    },
+    {
+      "Name": "Old Man Consequences",
+      "Rarity": "Hero",
+      "PlacementPrice": 1134,
+      "Type": "Line",
+      "Degrees": 130,
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 66,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 120,
+          "Cooldown": 2,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 18,
+          "Damage": 154,
+          "Cooldown": 2,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 19,
+          "Damage": 180,
+          "Cooldown": 2,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 20,
+          "Damage": 200,
+          "Cooldown": 1.9,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 20,
+          "Damage": 227,
+          "Cooldown": 1.9,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 245,
+          "Cooldown": 1.8,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 25,
+          "Damage": 270,
+          "Cooldown": 1.8,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 16,
+          "Damage": 400,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8000,
+          "Type": "Circle"
+        },
+        {
+          "Range": 16,
+          "Damage": 473.5,
+          "Cooldown": 3.5,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 17,
+          "Damage": 560,
+          "Cooldown": 3.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 18,
+          "Damage": 650,
+          "Cooldown": 3.4,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 19,
+          "Damage": 747,
+          "Cooldown": 3.4,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 19,
+          "Damage": 870,
+          "Cooldown": 3.3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 20,
+          "Damage": 900,
+          "Cooldown": 3.3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 21,
+          "Damage": 700,
+          "Cooldown": 2.9,
+          "UpgradePrice": 12500,
+          "Type": "Cone",
+          "Degrees": 130
+        },
+        {
+          "Range": 23,
+          "Damage": 785,
+          "Cooldown": 2.9,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 24,
+          "Damage": 835,
+          "Cooldown": 2.8,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 25,
+          "Damage": 860,
+          "Cooldown": 2.8,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 26,
+          "Damage": 900,
+          "Cooldown": 2.8,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 28,
+          "Damage": 945,
+          "Cooldown": 2.8,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Guiding Whistle": "Old Man Consequences empowers all `[Water]` Units with +10% Damage, +25% Range, and -10% Cooldown.",
+        "Purgatory's Reimbursement [Upgrade 5+]": "When Old Man Consequences attacks an Enemy with below 25% Health remaining, he deals +200% Damage.",
+        "Ferryman's Blessing [Upgrade 15+]": "When the Player reaches 0 Base Health without a Boss exiting, Old Man Consequences prevents death and gains +166% Damage and applies `[Stun]` to all Enemies on the map for 6s."
+      },
+      "Actives": [
+        {
+          "Name": "Hellish Consequences",
+          "Description": "Hooks the highest-HP enemy, creating a red pool beneath them for 6 seconds. The pool deals damage equal to 66% of this unit’s damage, bosses take +200% increased damage from the pool.",
+          "Cooldown": 90,
+          "Upgrade": 1
+        }
+      ],
+      "Obtainability": [
+        "OMC Unlock Quests (Need Help? Click Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
       ]
     },
     {
