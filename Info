@@ -1665,41 +1665,6 @@
       ]
     },
     {
-      "Name": "Overgrown Foxy",
-      "Rarity": "Epic",
-      "PlacementPrice": 1250,
-      "Type": "Support",
-      "Element": "Neutral",
-      "MaxPlaced": 3,
-      "BaseStats": {
-        "Range": 16,
-        "Cooldown": 0
-      },
-      "UpgradeStats": [
-        {
-          "Range": 18,
-          "Cooldown": 0,
-          "UpgradePrice": 1500
-        },
-        {
-          "Range": 20,
-          "Cooldown": 0,
-          "UpgradePrice": 2000
-        },
-        {
-          "Range": 24,
-          "Cooldown": 0,
-          "UpgradePrice": 2500
-        }
-      ],
-      "Passives": {
-        "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
-      },
-      "Obtainability": [
-        "Boss Raid Present (4.5%)"
-      ]
-    },
-    {
       "Name": "Phantom Chica",
       "Rarity": "Epic",
       "PlacementPrice": 600,
@@ -2924,6 +2889,41 @@
       ]
     },
     {
+      "Name": "Overgrown Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1250,
+      "Type": "Support",
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 16,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Cooldown": 0,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 20,
+          "Cooldown": 0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Cooldown": 0,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
+      },
+      "Obtainability": [
+        "Boss Raid Present (4.5%)"
+      ]
+    },
+    {
       "Name": "Party Glock Freddy",
       "Rarity": "Secret",
       "PlacementPrice": 750,
@@ -3778,57 +3778,50 @@
           "Range": 20,
           "Damage": 340,
           "Cooldown": 9,
-          "UpgradePrice": 3000,
-          "Type": "Line"
+          "UpgradePrice": 3000
         },
         {
           "Range": 20,
           "Damage": 380,
           "Cooldown": 9,
-          "UpgradePrice": 3600,
-          "Type": "Line"
+          "UpgradePrice": 3600
         },
         {
           "Range": 20,
           "Damage": 420,
           "Cooldown": 9,
-          "UpgradePrice": 4000,
-          "Type": "Line"
+          "UpgradePrice": 4000
         },
         {
           "Range": 24,
           "Damage": 860,
           "Cooldown": 9,
           "UpgradePrice": 6000,
-          "Type": "Full"
+          "Type": "FullAOE"
         },
         {
           "Range": 24,
           "Damage": 940,
           "Cooldown": 9,
-          "UpgradePrice": 6600,
-          "Type": "Full"
+          "UpgradePrice": 6600
         },
         {
           "Range": 25,
           "Damage": 980,
           "Cooldown": 9,
-          "UpgradePrice": 7200,
-          "Type": "Full"
+          "UpgradePrice": 7200
         },
         {
           "Range": 25,
           "Damage": 1040,
           "Cooldown": 9,
-          "UpgradePrice": 7800,
-          "Type": "Full"
+          "UpgradePrice": 7800
         },
         {
           "Range": 25,
           "Damage": 1100,
           "Cooldown": 9,
-          "UpgradePrice": 8400,
-          "Type": "Full"
+          "UpgradePrice": 8400
         }
       ],
       "Passives": {
@@ -4441,7 +4434,7 @@
         }
       ],
       "Passives": {
-        "Frozen Obelisk": "All enemies within this unit’s range are slowed by 10%. Additionally these enemies take 20% more damage from Water element units.",
+        "Frozen Obelisk": "All enemies within this unit’s range are slowed by 25%. Additionally these enemies take 20% more damage from Water element units.",
         "Crown of Permafrost": "Enemies hit by this unit are inflicted with [Permafrost]. [Permafrost] deals 3% of the unit’s damage every second until the enemy dies."
       },
       "Actives": [
@@ -4575,7 +4568,9 @@
           "Range": 31,
           "Damage": 3250,
           "Cooldown": 11.5,
-          "UpgradePrice": 7850
+          "UpgradePrice": 7850,
+          "Type": "Cone",
+          "Degrees": 90
         },
         {
           "Range": 32.5,
@@ -4587,21 +4582,21 @@
           "Range": 33,
           "Damage": 3550,
           "Cooldown": 11,
-          "UpgradePrice": 10000,
-          "Degrees": 90
+          "UpgradePrice": 10000
         },
         {
           "Range": 34.5,
           "Damage": 4000,
           "Cooldown": 10.5,
-          "UpgradePrice": 6250
+          "UpgradePrice": 6250,
+          "Type": "Cone",
+          "Degrees": 120
         },
         {
           "Range": 35,
           "Damage": 3750,
           "Cooldown": 10,
-          "UpgradePrice": 12500,
-          "Degrees": 180
+          "UpgradePrice": 12500
         }
       ],
       "Passives": {
@@ -4876,7 +4871,7 @@
           "Cooldown": 2.9,
           "UpgradePrice": 12500,
           "Type": "Cone",
-          "Degrees": 130
+          "Degrees": 180
         },
         {
           "Range": 23,
