@@ -3,8 +3,8 @@
     "Units": {
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "7-8",
-          "soul": "80,000+",
+          "value": "8+",
+          "soul": "92,500+",
           "demand": "9.9/10",
           "status": "Rising"
         },
@@ -50,9 +50,9 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.8-2",
+          "value": "1.8+",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "6.5/10",
           "status": "Stable"
         }
       },
@@ -100,13 +100,13 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "4+",
+          "value": "5+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Rising"
         },
         "Shiny": {
-          "value": "40+",
+          "value": "45+",
           "soul": "430,000+",
           "demand": "9.9/10",
           "status": "Stable"
@@ -120,9 +120,9 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2.5+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "9/10",
           "status": "Stable"
         }
       },
@@ -134,7 +134,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "0.8-1.3+",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -150,14 +150,14 @@
         "Shiny": {
           "value": "15-16",
           "soul": "N/A",
-          "demand": "8.5/10",
-          "status": "Dropping"
+          "demand": "6/10",
+          "status": "Stable"
         }
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "1.2+",
-          "soul": "10,000-12,000+",
+          "value": "0.8",
+          "soul": "N/A",
           "demand": "8.5+/10",
           "status": "Stable"
         },
@@ -200,7 +200,7 @@
         "Normal": {
           "value": "1",
           "soul": "10,000+",
-          "demand": "9/10",
+          "demand": "7/10",
           "status": "Stable"
         },
         "Shiny": {
@@ -212,7 +212,7 @@
       },
       "Scarecrow Freddy": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -240,13 +240,13 @@
       },
       "Dreadbear": {
         "Normal": {
-          "value": "1.6+",
+          "value": "1.8+",
           "soul": "N/A",
-          "demand": "9.5/10",
+          "demand": "7/10",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "42+",
+          "value": "45+",
           "demand": "10/10",
           "status": "Stable"
         }
@@ -315,8 +315,8 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "3.75+",
-          "soul": "N/A",
+          "value": "4+",
+          "soul": "45,000+",
           "demand": "8.5/10",
           "status": "Stable"
         }
@@ -357,10 +357,10 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "29-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Stable"
         }
       },
       "Mangle": {
@@ -379,13 +379,13 @@
       },
       "Cloaked Sparky": {
         "Normal": {
-          "value": "0.12",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2.25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -407,23 +407,23 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.8+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Dropping"
+          "value": "0.75",
+          "soul": "7,000-7,500",
+          "demand": "6/10",
+          "status": "Stable"
         },
         "Shiny": {
-          "value": "11+",
-          "soul": "115,000+",
+          "value": "11.5+",
+          "soul": "120,000+",
           "demand": "N/A",
           "status": "Stable"
         }
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.2",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4.5/10",
           "status": "Dropping"
         },
         "Shiny": {
@@ -483,7 +483,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "10+",
+          "value": "7.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping"
@@ -511,7 +511,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -519,14 +519,14 @@
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.3+",
-          "soul": "3000-5000",
+          "value": "0.5+",
+          "soul": "N/A",
           "demand": "9/10",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "13.5+",
-          "soul": "140,000+",
+          "value": "14.5+",
+          "soul": "150,000+",
           "demand": "8.5/10",
           "status": "Stable"
         }
@@ -566,18 +566,18 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "7.5+",
-          "soul": "75,000-80,000+",
+          "value": "7",
+          "soul": "N/A",
           "demand": "7.5/10",
           "status": "Slowly Dropping"
         }
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "1.5-2+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A"
+          "demand": "8/10",
+          "status": "Dropping"
         },
         "Shiny": {
           "value": "N/A",
@@ -588,16 +588,16 @@
       },
       "Overgrown Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A"
+          "demand": "6/10",
+          "status": "Stable"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.5+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A"
+          "demand": "7.5/10",
+          "status": "Dropping"
         }
       },
       "Clockwork Cupcake": {
@@ -616,9 +616,9 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "2.5-3",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "9/10",
           "status": "N/A"
         },
         "Shiny": {
@@ -636,7 +636,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "0.15",
+          "value": "0.35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -678,7 +678,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "0.12+",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
