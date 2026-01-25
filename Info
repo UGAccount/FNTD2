@@ -64,7 +64,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "0.2",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable"
@@ -108,13 +108,13 @@
         "Shiny": {
           "value": "45+",
           "soul": "430,000+",
-          "demand": "9.9/10",
+          "demand": "9.5/10",
           "status": "Stable"
         }
       },
       "Conductor Toy Freddy": {
         "Normal": {
-          "value": "0.06",
+          "value": "0.11+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -142,14 +142,14 @@
       },
       "Grinch Foxy": {
         "Normal": {
-          "value": "0.75-1",
-          "soul": "7,500-10,000",
+          "value": "0.7+",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "13+",
-          "soul": "130,000-140,000+",
+          "value": "11.5+",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping"
         }
@@ -212,13 +212,13 @@
       },
       "Scarecrow Freddy": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.12",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "3",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -226,13 +226,13 @@
       },
       "Slasher Bonnie": {
         "Normal": {
-          "value": "0.025",
+          "value": "0.05+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.25+",
+          "value": "1.45+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -301,8 +301,8 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "1.4+",
-          "soul": "14,000+",
+          "value": "1.3",
+          "soul": "13,000+",
           "demand": "N/A",
           "status": "Stable"
         }
@@ -351,7 +351,7 @@
       },
       "Phone Dude": {
         "Normal": {
-          "value": "1.55+",
+          "value": "1.35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -407,13 +407,13 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.75",
-          "soul": "7,000-7,500",
+          "value": "0.7",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "11+",
+          "value": "11.5+",
           "soul": "120,000+",
           "demand": "N/A",
           "status": "Stable"
@@ -427,7 +427,7 @@
           "status": "Slowly Dropping"
         },
         "Shiny": {
-          "value": "3+",
+          "value": "2-2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -477,21 +477,21 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.35-0.5",
-          "soul": "3500-5000",
+          "value": "0.32",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "6.5-7",
+          "value": "4.5-5+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "6/10",
           "status": "Dropping"
         }
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable"
@@ -505,13 +505,13 @@
       },
       "Golden Cupcake": {
         "Normal": {
-          "value": "0.1+",
-          "soul": "1,000+",
+          "value": "0.06",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -527,7 +527,7 @@
         "Shiny": {
           "value": "14.5+",
           "soul": "150,000+",
-          "demand": "8.5/10",
+          "demand": "9.5/10",
           "status": "Stable"
         }
       },
@@ -539,8 +539,9 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "33+",
+          "value": "35+",
           "demand": "9/10",
+          "soul": "N/A",
           "status": "Stable"
         }
       },
@@ -580,9 +581,9 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "6+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "8/10",
           "status": "Dropping"
         }
       },
@@ -616,15 +617,15 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "1.5-2",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "10-13+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "7.5/10",
           "status": "Dropping"
         }
       },
@@ -664,7 +665,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "0.3+",
+          "value": "0.25-0.3",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable"
@@ -678,7 +679,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "0.3+",
+          "value": "0.25-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -897,7 +898,7 @@
     },
     "Presents": {
       "Boss Raid Present": {
-        "value": "0.05-0.08",
+        "value": "0.06",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
