@@ -145,13 +145,13 @@
           "value": "0.7+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable"
+          "status": "Dropping"
         },
         "Shiny": {
           "value": "11.5+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Dropping"
+          "status": "Stable"
         }
       },
       "Krampus Purple Guy": {
@@ -159,7 +159,7 @@
           "value": "0.8",
           "soul": "N/A",
           "demand": "8.5+/10",
-          "status": "Unstable"
+          "status": "Stable"
         },
         "Shiny": {
           "value": "15+",
@@ -207,7 +207,7 @@
           "value": "17.5+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Unstable"
+          "status": "Stable"
         }
       },
       "Scarecrow Freddy": {
@@ -262,7 +262,7 @@
           "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Stable"
         }
       },
       "Popeyes Toy Freddy": {
@@ -410,7 +410,7 @@
           "value": "0.5",
           "soul": "5,500+",
           "demand": "6/10",
-          "status": "Unstable"
+          "status": "Stable"
         },
         "Shiny": {
           "value": "11.5+",
@@ -480,7 +480,7 @@
           "value": "0.32",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Dropping"
         },
         "Shiny": {
           "value": "4.5-5+",
@@ -494,7 +494,7 @@
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Dropping"
         },
         "Shiny": {
           "value": "4+",
@@ -571,6 +571,48 @@
           "soul": "60,000-65,000",
           "demand": "7.5/10",
           "status": "Unstable"
+        }
+      },
+      "Shark Withered Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
+        }
+      },
+      "Serpent Endo": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
+        }
+      },
+      "Fisherman Toy Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A"
         }
       },
       "Blossom Chica": {
@@ -897,6 +939,12 @@
       }
     },
     "Presents": {
+      "AFK Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Boss Raid Present": {
         "value": "0.06",
         "soul": "N/A",
@@ -1612,6 +1660,53 @@
       ]
     },
     {
+      "Name": "Fisherman Toy Bonnie",
+      "Rarity": "Epic",
+      "PlacementPrice": 2300,
+      "Type": "Single",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 26,
+        "Damage": 180,
+        "Cooldown": 4.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 27,
+          "Damage": 265,
+          "Cooldown": 4.7,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 28,
+          "Damage": 320,
+          "Cooldown": 4.5,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 23,
+          "Damage": 380,
+          "Cooldown": 4.5,
+          "UpgradePrice": 2500,
+          "Type": "Cone",
+          "Degrees": 60
+        },
+        {
+          "Range": 24,
+          "Damage": 435,
+          "Cooldown": 4.3,
+          "UpgradePrice": 3000
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "AFK Present (98%)"
+      ]
+    },
+    {
       "Name": "Frosty the Snowcake",
       "Rarity": "Epic",
       "PlacementPrice": 1050,
@@ -1959,77 +2054,6 @@
       ]
     },
     {
-      "Name": "Blossom Chica",
-      "Rarity": "Nightmare",
-      "PlacementPrice": 6000,
-      "Type": "Single",
-      "Element": "Fire",
-      "MaxPlaced": 2,
-      "BaseStats": {
-        "Range": 17,
-        "Damage": 770,
-        "Cooldown": 3.4
-      },
-      "UpgradeStats": [
-        {
-          "Range": 17,
-          "Damage": 825,
-          "Cooldown": 3.4,
-          "UpgradePrice": 6250
-        },
-        {
-          "Range": 17,
-          "Damage": 850,
-          "Cooldown": 3.2,
-          "UpgradePrice": 7000
-        },
-        {
-          "Range": 18,
-          "Damage": 900,
-          "Cooldown": 3.2,
-          "UpgradePrice": 7000
-        },
-        {
-          "Range": 19,
-          "Damage": 1000,
-          "Cooldown": 3,
-          "UpgradePrice": 7750
-        },
-        {
-          "Range": 18,
-          "Damage": 750,
-          "Cooldown": 3.4,
-          "UpgradePrice": 8000,
-          "Type": "Cone",
-          "Degrees": 80
-        },
-        {
-          "Range": 19,
-          "Damage": 850,
-          "Cooldown": 3,
-          "UpgradePrice": 8500
-        },
-        {
-          "Range": 21,
-          "Damage": 900,
-          "Cooldown": 2.8,
-          "UpgradePrice": 9000
-        }
-      ],
-      "Passives": {},
-      "Actives": [
-        {
-          "Name": "Blossom Boom",
-          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
-          "Cooldown": 12,
-          "Upgrade": 3
-        }
-      ],
-      "Obtainability": [
-        "Boss Raid Present (0.5%)"
-      ]
-    },
-    {
       "Name": "Clockwork Cupcake",
       "Rarity": "Mythical",
       "PlacementPrice": 1500,
@@ -2272,7 +2296,7 @@
       "PlacementPrice": 1100,
       "Type": "Circle",
       "Element": "Dark",
-      "MaxPlaced": 3,
+      "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
         "Damage": 75,
@@ -2910,7 +2934,7 @@
       "Rarity": "Secret",
       "PlacementPrice": 1250,
       "Type": "Support",
-      "Element": "Neutral",
+      "Element": "Nature",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 16,
@@ -3352,6 +3376,52 @@
       ]
     },
     {
+      "Name": "Serpent Endo",
+      "Rarity": "Secret",
+      "PlacementPrice": 2750,
+      "Type": "Single",
+      "Element": "Water",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 545,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 605,
+          "Cooldown": 2.7,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 22,
+          "Damage": 650,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 25,
+          "Damage": 775,
+          "Cooldown": 3.3,
+          "UpgradePrice": 2000,
+          "Type": "Line"
+        },
+        {
+          "Range": 27,
+          "Damage": 835,
+          "Cooldown": 3.1,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Serpent Grasp": "After its 5th attack will throw his chain on enemies in a 180 cone, which will slow them by 20% for 3 seconds"
+      },
+      "Obtainability": [
+        "AFK Present (2%)"
+      ]
+    },
+    {
       "Name": "Shadow Bonnie",
       "Rarity": "Secret",
       "PlacementPrice": 3500,
@@ -3779,6 +3849,77 @@
       ]
     },
     {
+      "Name": "Blossom Chica",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6000,
+      "Type": "Single",
+      "Element": "Nature",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 17,
+        "Damage": 770,
+        "Cooldown": 3.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 825,
+          "Cooldown": 3.4,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 17,
+          "Damage": 850,
+          "Cooldown": 3.2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 18,
+          "Damage": 900,
+          "Cooldown": 3.2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 19,
+          "Damage": 1000,
+          "Cooldown": 3,
+          "UpgradePrice": 7750
+        },
+        {
+          "Range": 18,
+          "Damage": 750,
+          "Cooldown": 3.4,
+          "UpgradePrice": 8000,
+          "Type": "Cone",
+          "Degrees": 80
+        },
+        {
+          "Range": 19,
+          "Damage": 850,
+          "Cooldown": 3,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 21,
+          "Damage": 900,
+          "Cooldown": 2.8,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Blossom Boom",
+          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
+          "Cooldown": 12,
+          "Upgrade": 3
+        }
+      ],
+      "Obtainability": [
+        "Boss Raid Present (0.5%)"
+      ]
+    },
+    {
       "Name": "Dreadbear",
       "Rarity": "Nightmare",
       "PlacementPrice": 3000,
@@ -4170,6 +4311,66 @@
       },
       "Obtainability": [
         "Christmas Movie Event Summons (0.025%)"
+      ]
+    },
+    {
+      "Name": "Shark Withered Foxy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3250,
+      "Type": "Cone",
+      "Degrees": 60,
+      "Element": "Water",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 650,
+        "Cooldown": 4,
+        "Degrees": 60
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 26,
+          "Damage": 735,
+          "Cooldown": 3.7,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 27,
+          "Damage": 750,
+          "Cooldown": 3.5,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 28,
+          "Damage": 785,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3500,
+          "Type": "Line"
+        },
+        {
+          "Range": 28,
+          "Damage": 845,
+          "Cooldown": 3.2,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 30,
+          "Damage": 935,
+          "Cooldown": 3,
+          "UpgradePrice": 5500
+        }
+      ],
+      "Passives": {
+        "Blood In The Water": "The longer an enemy is in Shark Withered Foxy's range, the more damage they take from Shark Withered Foxy (+2% per second)"
+      },
+      "Obtainability": [
+        "AFK Present (0.1-0.5%)"
       ]
     },
     {
