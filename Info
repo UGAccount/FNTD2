@@ -44,8 +44,8 @@
       },
       "Scrooge Freddy": {
         "Normal": {
-          "value": "0.07+",
-          "soul": "700+",
+          "value": "0.09+",
+          "soul": "N/A",
           "demand": "8.5+/10",
           "status": "Stable"
         },
@@ -212,7 +212,7 @@
       },
       "Scarecrow Freddy": {
         "Normal": {
-          "value": "0.12",
+          "value": "0.18+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -227,7 +227,7 @@
       "Slasher Bonnie": {
         "Normal": {
           "value": "0.05+",
-          "soul": "N/A",
+          "soul": "1,000+",
           "demand": "N/A",
           "status": "Stable"
         },
@@ -273,7 +273,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "1.3",
+          "value": "1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -357,10 +357,10 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "27-28",
+          "value": "25",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable"
+          "demand": "7/10",
+          "status": "Slowly Dropping"
         }
       },
       "Mangle": {
@@ -407,8 +407,8 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.7",
-          "soul": "N/A",
+          "value": "0.5",
+          "soul": "5,500+",
           "demand": "6/10",
           "status": "Unstable"
         },
@@ -561,7 +561,7 @@
       },
       "Balloon Boy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable"
