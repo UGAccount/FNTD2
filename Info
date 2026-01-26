@@ -148,7 +148,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "11.5+",
+          "value": "12+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable"
@@ -253,7 +253,7 @@
       },
       "Jack'O Bonnie": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -413,8 +413,8 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "11.5+",
-          "soul": "120,000+",
+          "value": "11",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
         }
@@ -575,16 +575,16 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "10-14",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A"
+          "status": "Dropping"
         }
       },
       "Serpent Endo": {
@@ -665,7 +665,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "10-13+",
+          "value": "10",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping"
@@ -946,7 +946,7 @@
         "status": "N/A"
       },
       "Boss Raid Present": {
-        "value": "0.06",
+        "value": "0.03",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
