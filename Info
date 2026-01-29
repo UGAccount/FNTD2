@@ -414,7 +414,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "10",
+          "value": "9+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -582,8 +582,8 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "8",
-          "soul": "80,000-90,000",
+          "value": "7",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -618,7 +618,7 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "1",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping"
@@ -660,7 +660,7 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "1.5+",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping"
