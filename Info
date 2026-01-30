@@ -4,7 +4,7 @@
       "Yeti Oni Bonnie": {
         "Normal": {
           "value": "9+",
-          "soul": "110,000+",
+          "soul": "100,000+",
           "demand": "10/10",
           "status": "Unstable",
           "exists": 6539
@@ -139,7 +139,7 @@
         },
         "Shiny": {
           "value": "3+",
-          "soul": "N/A",
+          "soul": "40,000",
           "demand": "9/10",
           "status": "Stable",
           "exists": 1205
@@ -174,7 +174,7 @@
           "soul": "155,000-160,000",
           "demand": "8/10",
           "status": "Overhyped",
-          "exists": 124
+          "exists": 127
         }
       },
       "Krampus Purple Guy": {
@@ -317,7 +317,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 602
+          "exists": 620
         }
       },
       "Luminary Reporter Shadow Bonnie": {
@@ -338,7 +338,7 @@
       },
       "Popcorn Bot": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -441,8 +441,8 @@
           "exists": 26743
         },
         "Shiny": {
-          "value": "2.25+",
-          "soul": "N/A",
+          "value": "2.5+",
+          "soul": "25,000-30,000",
           "demand": "N/A",
           "status": "N/A",
           "exists": 630
@@ -467,7 +467,7 @@
       "Spring Duo": {
         "Normal": {
           "value": "0.5",
-          "soul": "5,500+",
+          "soul": "5,000",
           "demand": "6/10",
           "status": "Stable",
           "exists": 15121
@@ -476,7 +476,7 @@
           "value": "7",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "dropping",
           "exists": 451
         }
       },
@@ -498,8 +498,8 @@
       },
       "Phantom Foxy": {
         "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
+          "value": "0.005",
+          "soul": "50",
           "demand": "N/A",
           "status": "N/A",
           "exists": 1267019
@@ -546,7 +546,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.32",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -674,15 +674,15 @@
       },
       "Serpent Endo": {
         "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
+          "value": "150",
+          "soul": "0.015",
           "demand": "N/A",
           "status": "N/A",
           "exists": 60756
         },
         "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
+          "value": "0.1",
+          "soul": "1,000",
           "demand": "N/A",
           "status": "N/A",
           "exists": 1620
@@ -754,14 +754,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "1+",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
           "exists": 3002
         },
         "Shiny": {
-          "value": "7.5-10",
+          "value": "8.5-10",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -827,7 +827,7 @@
         "Shiny": {
           "value": "0.2",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "5/10",
           "status": "N/A",
           "exists": 8069
         }
