@@ -14,7 +14,7 @@
           "soul": "550,000+",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 141
+          "exists": 140
         }
       },
       "Toy Maker Mangle": {
@@ -413,7 +413,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
-          "exists": 91
+          "exists": 93
         }
       },
       "Mangle": {
@@ -553,11 +553,11 @@
           "exists": 6554
         },
         "Shiny": {
-          "value": "4.5-5+",
+          "value": "4-4.5",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Dropping",
-          "exists": 171
+          "status": "Slowly dropping",
+          "exists": 180
         }
       },
       "Phantom Bonnie": {
@@ -569,11 +569,11 @@
           "exists": 11074
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5-4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
-          "exists": 237
+          "status": "Stable",
+          "exists": 254
         }
       },
       "Golden Cupcake": {
@@ -587,9 +587,9 @@
         "Shiny": {
           "value": "2",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4/10",
           "status": "N/A",
-          "exists": 256
+          "exists": 260
         }
       },
       "Purple Guy": {
