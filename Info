@@ -499,7 +499,7 @@
       "Phantom Foxy": {
         "Normal": {
           "value": "0.005",
-          "soul": "50",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 1267019
@@ -722,14 +722,14 @@
       },
       "Overgrown Foxy": {
         "Normal": {
-          "value": "0.05+",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 19544
         },
         "Shiny": {
-          "value": "0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
