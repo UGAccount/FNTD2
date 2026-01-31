@@ -674,8 +674,8 @@
       },
       "Serpent Endo": {
         "Normal": {
-          "value": "150",
-          "soul": "0.015",
+          "value": "0.015",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 60756
