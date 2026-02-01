@@ -167,14 +167,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 5124
+          "exists": 5328
         },
         "Shiny": {
           "value": "15.5+",
           "soul": "155,000-160,000",
           "demand": "8/10",
           "status": "Overhyped",
-          "exists": 127
+          "exists": 130
         }
       },
       "Krampus Purple Guy": {
@@ -470,14 +470,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 15121
+          "exists": 17216
         },
         "Shiny": {
           "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "dropping",
-          "exists": 477
+          "exists": 512
         }
       },
       "Phantom Mangle": {
@@ -662,14 +662,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 10361
+          "exists": 14710
         },
         "Shiny": {
           "value": "4-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 253
+          "exists": 375
         }
       },
       "Serpent Endo": {
