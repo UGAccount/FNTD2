@@ -35,7 +35,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "3.5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "10/10",
           "status": "Unstable",
@@ -99,7 +99,7 @@
       },
       "Rockin Bonnie": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -317,7 +317,7 @@
           "value": "15.5+",
           "soul": "155,000-160,000",
           "demand": "8/10",
-          "status": "Overhyped",
+          "status": "Stable",
           "exists": 133
         }
       },
@@ -626,14 +626,14 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 18457
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "dropping",
@@ -642,7 +642,7 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.09",
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Slowly Dropping",
