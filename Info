@@ -86,7 +86,7 @@
           "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 10377
         },
         "Shiny": {
@@ -102,7 +102,7 @@
           "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 10627
         },
         "Shiny": {
@@ -118,7 +118,7 @@
           "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 96
         },
         "Shiny": {
@@ -636,7 +636,7 @@
           "value": "5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "dropping",
+          "status": "Dropping",
           "exists": 552
         }
       },
