@@ -1377,10 +1377,10 @@
         "status": "Stable"
       },
       "Event Premium": {
-        "value": "1.3",
+        "value": "2+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Stable"
+        "status": "Unstable"
       },
       "Quick Open": {
         "value": "0.25",
