@@ -10,10 +10,10 @@
           "exists": 492
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20-25+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "8.5/10",
+          "status": "Unstable",
           "exists": 11
         }
       },
@@ -26,27 +26,27 @@
           "exists": 400
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "22.5-25+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 9
+          "demand": "8.5/10",
+          "status": "Unstable",
+          "exists": 10
         }
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "4.-5",
+          "value": "4.5-5",
           "soul": "N/A",
           "demand": "10/10",
           "status": "Unstable",
           "exists": 385
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "30-35+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 10
+          "demand": "9.9/10",
+          "status": "Unstable",
+          "exists": 11
         }
       },
       "Leviathan Mangle": {
@@ -58,10 +58,10 @@
           "exists": 392
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "8.5/10",
+          "status": "Unstable",
           "exists": 8
         }
       },
