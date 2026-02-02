@@ -3,11 +3,11 @@
     "Units": {
       "Gravelord Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
-          "exists": 233
+          "status": "Unstable",
+          "exists": 255
         },
         "Shiny": {
           "value": "N/A",
@@ -19,10 +19,10 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 232
         },
         "Shiny": {
@@ -35,10 +35,10 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "3.5+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "10/10",
+          "status": "Unstable",
           "exists": 250
         },
         "Shiny": {
@@ -51,10 +51,10 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "8/10",
+          "status": "Unstable",
           "exists": 232
         },
         "Shiny": {
@@ -83,7 +83,7 @@
       },
       "War Machine Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -99,18 +99,18 @@
       },
       "Rockin Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 5790
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
-          "exists": 131
+          "status": "Unstable",
+          "exists": 157
         }
       },
       "Blighted Endo Freddy": {
