@@ -35,8 +35,8 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "4.5-5",
-          "soul": "40,000-50,000",
+          "value": "4.5+",
+          "soul": "N/A",
           "demand": "10/10",
           "status": "Unstable",
           "exists": 385
