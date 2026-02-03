@@ -115,14 +115,14 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "3+",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 96
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
