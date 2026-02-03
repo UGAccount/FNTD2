@@ -921,11 +921,11 @@
           "exists": 4656
         },
         "Shiny": {
-          "value": "8.5-10",
+          "value": "6",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 95
+          "exists": 99
         }
       },
       "Withered Golden Freddy": {
