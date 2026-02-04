@@ -93,8 +93,8 @@
           "value": "1.6+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 310
+          "status": "Dropping",
+          "exists": 537
         }
       },
       "Rockin Bonnie": {
@@ -109,8 +109,8 @@
           "value": "1-1.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 356
+          "status": "Dropping",
+          "exists": 496
         }
       },
       "Blighted Endo Freddy": {
@@ -131,10 +131,10 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "1.35",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "6.5/10",
+          "status": "Unstable",
           "exists": 100
         },
         "Shiny": {
