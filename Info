@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 96
+          "exists": 469
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 14
+          "exists": 23
         }
       },
       "Tarnished Spring Bonnie": {
@@ -135,14 +135,14 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Unstable",
-          "exists": 100
+          "exists": 482
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 3
+          "exists": 20
         }
       },
       "Yeti Oni Bonnie": {
@@ -825,11 +825,11 @@
           "exists": 16528
         },
         "Shiny": {
-          "value": "2.5-3",
+          "value": "1.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 578
+          "exists": 643
         }
       },
       "Serpent Endo": {
