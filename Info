@@ -22,7 +22,7 @@
           "value": "2.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 976
         },
         "Shiny": {
@@ -38,7 +38,7 @@
           "value": "3.5",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 1563
         },
         "Shiny": {
@@ -54,7 +54,7 @@
           "value": "2.5",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 1047
         },
         "Shiny": {
