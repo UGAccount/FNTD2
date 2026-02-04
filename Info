@@ -14,7 +14,7 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstable",
-          "exists": 11
+          "exists": 33
         }
       },
       "Deadeye Freddy": {
@@ -42,11 +42,11 @@
           "exists": 1563
         },
         "Shiny": {
-          "value": "35+",
+          "value": "30-35",
           "soul": "N/A",
           "demand": "9.9/10",
-          "status": "Overhyped",
-          "exists": 28
+          "status": "Unstable",
+          "exists": 64
         }
       },
       "Leviathan Mangle": {
