@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstable",
-          "exists": 492
+          "exists": 879
         },
         "Shiny": {
           "value": "N/A",
@@ -23,7 +23,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 400
+          "exists": 874
         },
         "Shiny": {
           "value": "22.5-25+",
@@ -35,11 +35,11 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "4.5+",
+          "value": "4-4.5",
           "soul": "N/A",
           "demand": "10/10",
           "status": "Unstable",
-          "exists": 385
+          "exists": 1,483
         },
         "Shiny": {
           "value": "35+",
@@ -1573,7 +1573,7 @@
         "status": "Stable"
       },
       "Event Premium": {
-        "value": "2+",
+        "value": "1.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
