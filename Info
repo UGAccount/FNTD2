@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstable",
-          "exists": 879
+          "exists": 963
         },
         "Shiny": {
           "value": "N/A",
@@ -23,7 +23,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 874
+          "exists": 976
         },
         "Shiny": {
           "value": "22.5-25+",
@@ -39,7 +39,7 @@
           "soul": "N/A",
           "demand": "10/10",
           "status": "Unstable",
-          "exists": 1483
+          "exists": 1563
         },
         "Shiny": {
           "value": "35+",
@@ -55,7 +55,7 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
-          "exists": 392
+          "exists": 1047
         },
         "Shiny": {
           "value": "N/A",
@@ -94,7 +94,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 537
+          "exists": 682
         }
       },
       "Rockin Bonnie": {
@@ -110,7 +110,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 496
+          "exists": 756
         }
       },
       "Blighted Endo Freddy": {
@@ -318,7 +318,7 @@
           "soul": "155,000-160,000",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 133
+          "exists": 135
         }
       },
       "Krampus Purple Guy": {
@@ -334,7 +334,7 @@
           "soul": "155,000-160,000+",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 251
+          "exists": 253
         }
       },
       "Undead Chica": {
@@ -382,7 +382,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 705
+          "exists": 706
         }
       },
       "Scarecrow Freddy": {
@@ -454,14 +454,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 7923
+          "exists": 13716
         },
         "Shiny": {
           "value": "1.55",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 232
+          "exists": 379
         }
       },
       "Popeyes Toy Freddy": {
@@ -630,14 +630,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 18457
+          "exists": 19567
         },
         "Shiny": {
           "value": "5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 552
+          "exists": 585
         }
       },
       "Phantom Mangle": {
@@ -710,14 +710,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 7456
+          "exists": 7718
         },
         "Shiny": {
           "value": "2.5",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 194
+          "exists": 198
         }
       },
       "Phantom Bonnie": {
@@ -726,14 +726,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 13705
+          "exists": 14464
         },
         "Shiny": {
           "value": "3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 294
+          "exists": 310
         }
       },
       "Golden Cupcake": {
@@ -742,14 +742,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 11351
+          "exists": 11537
         },
         "Shiny": {
           "value": "1.8",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 273
+          "exists": 276
         }
       },
       "Purple Guy": {
@@ -765,7 +765,7 @@
           "soul": "N/A",
           "demand": "9.5/10",
           "status": "Stable",
-          "exists": 697
+          "exists": 698
         }
       },
       "Shadow Bonnie": {
@@ -916,7 +916,7 @@
         "Normal": {
           "value": "0.8",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8/10",
           "status": "Dropping",
           "exists": 4656
         },
@@ -925,7 +925,7 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 99
+          "exists": 100
         }
       },
       "Withered Golden Freddy": {
