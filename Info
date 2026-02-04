@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Dropping",
-          "exists": 963
+          "exists": 1503
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstable",
-          "exists": 33
+          "exists": 38
         }
       },
       "Deadeye Freddy": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 976
+          "exists": 1547
         },
         "Shiny": {
           "value": "22.5-25+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 48
+          "exists": 43
         }
       },
       "Valkyrie Chica": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
-          "exists": 1563
+          "exists": 2545
         },
         "Shiny": {
           "value": "30-35",
           "soul": "N/A",
           "demand": "9.9/10",
           "status": "Unstable",
-          "exists": 64
+          "exists": 71
         }
       },
       "Leviathan Mangle": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 1047
+          "exists": 1659
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 8
+          "exists": 52
         }
       },
       "Freddy With a Glock": {
