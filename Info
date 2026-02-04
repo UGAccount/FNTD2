@@ -204,8 +204,8 @@
         "Shiny": {
           "value": "1.5+",
           "soul": "N/A",
-          "demand": "6.5/10",
-          "status": "Slowly Dropping",
+          "demand": "3/10",
+          "status": "Stable",
           "exists": 1493
         }
       },
