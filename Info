@@ -10,11 +10,11 @@
           "exists": 1773
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "25",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstable",
-          "exists": 52
+          "exists": 70
         }
       },
       "Deadeye Freddy": {
@@ -26,11 +26,11 @@
           "exists": 1816
         },
         "Shiny": {
-          "value": "22",
+          "value": "20",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 48
+          "exists": 77
         }
       },
       "Valkyrie Chica": {
@@ -46,7 +46,7 @@
           "soul": "N/A",
           "demand": "9.7/10",
           "status": "Unstable",
-          "exists": 87
+          "exists": 131
         }
       },
       "Leviathan Mangle": {
@@ -62,7 +62,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 56
+          "exists": 81
         }
       },
       "Freddy With a Glock": {
@@ -83,7 +83,7 @@
       },
       "War Machine Foxy": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -106,7 +106,7 @@
           "exists": 10627
         },
         "Shiny": {
-          "value": "1-1.4",
+          "value": "0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -115,7 +115,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "2",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -131,7 +131,7 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "1.35",
+          "value": "0.9",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Unstable",
