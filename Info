@@ -35,14 +35,14 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "1.5+",
+          "value": "1.3+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
           "exists": 5680
         },
         "Shiny": {
-          "value": "30",
+          "value": "27",
           "soul": "N/A",
           "demand": "9.7/10",
           "status": "Dropping",
@@ -58,7 +58,7 @@
           "exists": 3520
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
