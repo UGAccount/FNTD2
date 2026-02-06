@@ -10,10 +10,10 @@
           "exists": 3260
         },
         "Shiny": {
-          "value": "25",
+          "value": "20",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 86
         }
       },
@@ -26,10 +26,10 @@
           "exists": 3417
         },
         "Shiny": {
-          "value": "20",
+          "value": "17",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 95
         }
       },
@@ -61,7 +61,7 @@
           "value": "20",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 94
         }
       },
