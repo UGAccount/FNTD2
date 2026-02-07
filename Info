@@ -115,7 +115,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "1.5+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
