@@ -122,10 +122,10 @@
           "exists": 999
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 34
         }
       },
