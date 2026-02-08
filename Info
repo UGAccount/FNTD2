@@ -1591,6 +1591,32 @@
         "status": "Stable"
       }
     },
+"Skins": {
+      "Fredbear": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Jack'O Springtrap": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Puppeteer": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Tragedy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
     "Currency": {
       "Souls": {
         "value": "0.0001",
