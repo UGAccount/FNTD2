@@ -10,7 +10,7 @@
           "exists": 5570
         },
         "Shiny": {
-          "value": "8.5",
+          "value": "7.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -26,7 +26,7 @@
           "exists": 6055
         },
         "Shiny": {
-          "value": "8.5",
+          "value": "7.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -42,7 +42,7 @@
           "exists": 9768
         },
         "Shiny": {
-          "value": "10-15",
+          "value": "10+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Unstale",
@@ -58,7 +58,7 @@
           "exists": 6152
         },
         "Shiny": {
-          "value": "8.5",
+          "value": "7.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -90,7 +90,7 @@
           "exists": 57947
         },
         "Shiny": {
-          "value": "1.6+",
+          "value": "1.25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -106,7 +106,7 @@
           "exists": 60996
         },
         "Shiny": {
-          "value": "0.9",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -138,19 +138,19 @@
           "exists": 1471
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 55
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
           "value": "9+",
-          "soul": "100,000+",
-          "demand": "10/10",
-          "status": "Unstable",
+          "soul": "N/A",
+          "demand": "9/10",
+          "status": "Dropping",
           "exists": 6552
         },
         "Shiny": {
