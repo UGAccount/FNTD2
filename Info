@@ -5859,7 +5859,8 @@
       "Skins": [
         {
           "Name": "Fredbear",
-          "Obtainability": "Milestones (35K FazRating)"
+          "Obtainability": "Milestones (35K FazRating)",
+          "Rarity": "Rare"
         }
       ]
     },
@@ -6170,11 +6171,13 @@
       "Skins": [
         {
           "Name": "Tragedy",
-          "Obtainability": "Merchant (25K Tokens)"
+          "Obtainability": "Merchant (25K Tokens)",
+          "Rarity": "Rare"
         },
         {
           "Name": "Puppeteer",
-          "Obtainability": "Milestones (100K FazRating)"
+          "Obtainability": "Milestones (100K FazRating)",
+          "Rarity": "Rare"
         }
       ]
     },
@@ -6332,7 +6335,8 @@
       "Skins": [
         {
           "Name": "Jack'O Springtrap",
-          "Obtainability": "Exclusive Skin Bundle (199 R$)"
+          "Obtainability": "Exclusive Skin Bundle (199 R$)",
+          "Rarity": "Rare"
         }
       ]
     }
