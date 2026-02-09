@@ -1241,7 +1241,7 @@
         "status": "N/A"
       },
       "Boss Raid Present": {
-        "value": "0.03",
+        "value": "0.02-0.03",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1257,8 +1257,8 @@
         "status": "N/A"
       },
       "Season 2 Present": {
-        "value": "N/A",
-        "demand": "N/A",
+        "value": "0.002",
+        "demand": "4/10",
         "status": "N/A"
       },
       "Party Glock Present": {
