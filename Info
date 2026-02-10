@@ -10,7 +10,7 @@
           "exists": 6717
         },
         "Shiny": {
-          "value": "7",
+          "value": "6-7",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -90,7 +90,7 @@
           "exists": 64190
         },
         "Shiny": {
-          "value": "1.25+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -275,7 +275,7 @@
       },
       "Conductor Toy Freddy": {
         "Normal": {
-          "value": "0.11+",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -601,8 +601,8 @@
           "exists": 31466
         },
         "Shiny": {
-          "value": "3",
-          "soul": "30,000",
+          "value": "2.5+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 756
