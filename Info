@@ -330,7 +330,7 @@
           "exists": 9103
         },
         "Shiny": {
-          "value": "13",
+          "value": "12.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -562,7 +562,7 @@
       },
       "Phone Dude": {
         "Normal": {
-          "value": "0.7",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -585,7 +585,7 @@
           "exists": 5479
         },
         "Shiny": {
-          "value": "25-28",
+          "value": "28+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
