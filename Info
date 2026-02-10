@@ -1257,7 +1257,7 @@
         "status": "N/A"
       },
       "Season 2 Present": {
-        "value": "0.002",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "4/10",
         "status": "N/A"
@@ -1388,12 +1388,12 @@
         "status": "N/A"
       },
       "Krampus Purple Guy Present": {
-        "value": "1.3+",
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Grinch Foxy Present": {
-        "value": "1",
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
