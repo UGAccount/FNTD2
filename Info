@@ -914,14 +914,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
           "exists": 5799
         },
         "Shiny": {
-          "value": "6",
+          "value": "4",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
