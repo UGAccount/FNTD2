@@ -131,14 +131,14 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.45+",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Unstable",
           "exists": 2109
         },
         "Shiny": {
-          "value": "17+",
+          "value": "15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
