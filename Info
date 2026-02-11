@@ -330,7 +330,7 @@
           "exists": 9105
         },
         "Shiny": {
-          "value": "11.5",
+          "value": "10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -761,7 +761,7 @@
           "exists": 45858
         },
         "Shiny": {
-          "value": "14",
+          "value": "13.5+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -818,7 +818,7 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -866,14 +866,14 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.25+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
           "exists": 4977
         },
         "Shiny": {
-          "value": "5+",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
