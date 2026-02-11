@@ -1248,11 +1248,13 @@
       },
       "Time Lord Withered Freddy Present": {
         "value": "0.65",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Season 1 Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -1264,151 +1266,181 @@
       },
       "Party Glock Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Puppets Alliance Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Turkey Chica Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Popcorn Bot Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Luminary Reporter Present": {
         "value": "0.1+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Popeyes Toy Freddy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Mecha Cupcake Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "PPC Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Cloaked Sparky Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Mangle Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Phone Dude Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Balloon Boy Present": {
         "value": "0.5-1+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Endo 02 Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Shadow Bonnie Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Golden Cupcake Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Phantom Bonnie Present": {
         "value": "0.8+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Follow Me Present": {
         "value": "0.8+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Halloween Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Jack O Bonnie Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Dreadbear Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Slasher Bonnie Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Scarecrow Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Headless Horseman Present": {
         "value": "1.5+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Christmas Event Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Christmas Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Krampus Purple Guy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Grinch Foxy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Movie Director Freddy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Conductor Freddy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Frozen King Foxy Present": {
         "value": "6.5+",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -1420,21 +1452,25 @@
       },
       "Tarnished Spring Bonnie Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Blighted Endo Freddy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Rockin Bonnie Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "War Machine Foxy Present": {
         "value": "N/A",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       }
