@@ -115,7 +115,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "1+",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -323,14 +323,14 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
           "exists": 9105
         },
         "Shiny": {
-          "value": "10",
+          "value": "8.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -1241,7 +1241,7 @@
         "status": "N/A"
       },
       "Boss Raid Present": {
-        "value": "0.02-0.03",
+        "value": "0.02",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1355,13 +1355,13 @@
         "status": "N/A"
       },
       "Phantom Bonnie Present": {
-        "value": "0.8+",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
       "Follow Me Present": {
-        "value": "0.8+",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1445,7 +1445,7 @@
         "status": "N/A"
       },
       "OG Present": {
-        "value": "0.015+",
+        "value": "0.005",
         "soul": "N/A",
         "demand": "7/10",
         "status": "Stable"
