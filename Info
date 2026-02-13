@@ -1611,13 +1611,13 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1",
+        "value": "0.6",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
       },
       "Event Premium": {
-        "value": "1+",
+        "value": "0.8+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
