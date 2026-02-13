@@ -3,14 +3,14 @@
     "Units": {
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.35",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
           "exists": 9311
         },
         "Shiny": {
-          "value": "6-7",
+          "value": "6",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -19,7 +19,7 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.35",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -35,7 +35,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.35",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
@@ -51,7 +51,7 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "0.35",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -147,9 +147,9 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "9+",
+          "value": "8.5-9",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8.5/10",
           "status": "Stable",
           "exists": 6551
         },
