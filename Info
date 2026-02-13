@@ -428,7 +428,7 @@
         "Shiny": {
           "value": "50+",
           "demand": "8.5/10",
-          "status": "Slowly Rising",
+          "status": "Stable",
           "exists": 76
         }
       },
@@ -443,7 +443,7 @@
         "Shiny": {
           "value": "5+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 175
         }
@@ -634,7 +634,7 @@
         },
         "Shiny": {
           "value": "3.5-4",
-          "soul": "N/A",
+          "soul": "5/10",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 765
