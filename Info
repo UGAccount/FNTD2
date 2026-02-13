@@ -634,8 +634,8 @@
         },
         "Shiny": {
           "value": "3.5-4",
-          "soul": "5/10",
-          "demand": "N/A",
+          "soul": "N/A",
+          "demand": "5/10",
           "status": "Dropping",
           "exists": 765
         }
