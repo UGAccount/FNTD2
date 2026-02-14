@@ -90,7 +90,7 @@
           "exists": 75214
         },
         "Shiny": {
-          "value": "0.8",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -106,7 +106,7 @@
           "exists": 80817
         },
         "Shiny": {
-          "value": "0.45+",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -138,7 +138,7 @@
           "exists": 2433
         },
         "Shiny": {
-          "value": "15+",
+          "value": "12.5-13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -914,9 +914,9 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.5",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "7.5/10",
           "status": "Dropping",
           "exists": 6186
         },
@@ -1247,7 +1247,7 @@
         "status": "N/A"
       },
       "Time Lord Withered Freddy Present": {
-        "value": "0.65",
+        "value": "0.51",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
