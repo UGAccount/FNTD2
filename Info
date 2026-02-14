@@ -3,7 +3,7 @@
     "Units": {
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -19,14 +19,14 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
           "exists": 10673
         },
         "Shiny": {
-          "value": "5+",
+          "value": "4.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -51,7 +51,7 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -268,7 +268,7 @@
         "Shiny": {
           "value": "43-45",
           "soul": "N/A",
-          "demand": "8.5/10",
+          "demand": "9/10",
           "status": "Stable",
           "exists": 149
         }
@@ -761,7 +761,7 @@
           "exists": 45870
         },
         "Shiny": {
-          "value": "13",
+          "value": "12.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
