@@ -83,7 +83,7 @@
       },
       "War Machine Foxy": {
         "Normal": {
-          "value": "0.03",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -99,7 +99,7 @@
       },
       "Rockin Bonnie": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -131,14 +131,14 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "0.45+",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 2877
         },
         "Shiny": {
-          "value": "12.5-13",
+          "value": "12.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -307,14 +307,14 @@
       },
       "Grinch Foxy": {
         "Normal": {
-          "value": "0.7+",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 5456
         },
         "Shiny": {
-          "value": "13.5+",
+          "value": "13",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -323,17 +323,17 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "0.5",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
           "exists": 9112
         },
         "Shiny": {
-          "value": "8",
+          "value": "7.5-8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly dropping",
+          "status": "Dropping",
           "exists": 252
         }
       },
@@ -419,7 +419,7 @@
       },
       "Dreadbear": {
         "Normal": {
-          "value": "1.8+",
+          "value": "1.8-2",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -466,33 +466,33 @@
       },
       "Popeyes Toy Freddy": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 26112
         },
         "Shiny": {
-          "value": "1.2",
+          "value": "0.75+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 678
         }
       },
       "Luminary Reporter Shadow Bonnie": {
         "Normal": {
-          "value": "0.06",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 48283
         },
         "Shiny": {
-          "value": "1.3",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 1194
         }
       },
@@ -585,16 +585,16 @@
           "exists": 5478
         },
         "Shiny": {
-          "value": "28+",
+          "value": "28-30",
           "soul": "N/A",
-          "demand": "7/10",
-          "status": "Unstable",
+          "demand": "8.5/10",
+          "status": "Overhyped",
           "exists": 96
         }
       },
       "Cloaked Sparky": {
         "Normal": {
-          "value": "0.1+",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -610,7 +610,7 @@
       },
       "Party Packer Cupcake": {
         "Normal": {
-          "value": "0.12-0.13",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -642,17 +642,17 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.09",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "4.5/10",
-          "status": "Slowly Dropping",
+          "status": "Dropping",
           "exists": 71331
         },
         "Shiny": {
-          "value": "2",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 1194
         }
       },
@@ -706,7 +706,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -722,7 +722,7 @@
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.075+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -754,9 +754,9 @@
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.5+",
+          "value": "0.5",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "7/10",
           "status": "Stable",
           "exists": 45887
         },
@@ -764,7 +764,7 @@
           "value": "12",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 707
         }
       },
@@ -818,7 +818,7 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
