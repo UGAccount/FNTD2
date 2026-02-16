@@ -26,7 +26,7 @@
           "exists": 13358
         },
         "Shiny": {
-          "value": "4.5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -35,7 +35,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
@@ -138,7 +138,7 @@
           "exists": 3153
         },
         "Shiny": {
-          "value": "12",
+          "value": "10.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -266,9 +266,9 @@
           "exists": 6245
         },
         "Shiny": {
-          "value": "43-45",
+          "value": "45+",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "9.5/10",
           "status": "Stable",
           "exists": 149
         }
@@ -314,7 +314,7 @@
           "exists": 5456
         },
         "Shiny": {
-          "value": "13",
+          "value": "12+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -450,17 +450,17 @@
       },
       "Sweetheart Toy Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 6153
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 199
         }
       },
@@ -473,7 +473,7 @@
           "exists": 24424
         },
         "Shiny": {
-          "value": "0.9+",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -642,14 +642,14 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
           "exists": 26844
         },
         "Shiny": {
-          "value": "3.5-4",
+          "value": "3+",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Dropping",
@@ -777,7 +777,7 @@
           "exists": 45900
         },
         "Shiny": {
-          "value": "10",
+          "value": "9",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -889,7 +889,7 @@
           "exists": 5657
         },
         "Shiny": {
-          "value": "3.5",
+          "value": "2",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -930,14 +930,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.5",
+          "value": "0.375",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
           "exists": 6546
         },
         "Shiny": {
-          "value": "3.5",
+          "value": "2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
