@@ -448,6 +448,22 @@
           "exists": 181
         }
       },
+      "Sweetheart Toy Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Mecha Cupcake": {
         "Normal": {
           "value": "0.05",
