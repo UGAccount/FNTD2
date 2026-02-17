@@ -426,9 +426,9 @@
           "exists": 3837
         },
         "Shiny": {
-          "value": "50+",
-          "demand": "8.5/10",
-          "status": "Stable",
+          "value": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
           "exists": 76
         }
       },
@@ -601,9 +601,9 @@
           "exists": 5478
         },
         "Shiny": {
-          "value": "28-30",
+          "value": "N/A",
           "soul": "N/A",
-          "demand": "8.5/10",
+          "demand": "N/A",
           "status": "Overhyped",
           "exists": 96
         }
