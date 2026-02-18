@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 11441
+          "exists": 12479
         },
         "Shiny": {
           "value": "4+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 308
+          "exists": 335
         }
       },
       "Deadeye Freddy": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 13358
+          "exists": 14712
         },
         "Shiny": {
           "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 363
+          "exists": 400
         }
       },
       "Valkyrie Chica": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
-          "exists": 21114
+          "exists": 23137
         },
         "Shiny": {
           "value": "8+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
-          "exists": 627
+          "exists": 679
         }
       },
       "Leviathan Mangle": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 12434
+          "exists": 13436
         },
         "Shiny": {
           "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 329
+          "exists": 355
         }
       },
       "Freddy With a Glock": {
@@ -71,14 +71,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4231156
+          "exists": 4405762
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 119618
+          "exists": 124474
         }
       },
       "War Machine Foxy": {
@@ -87,14 +87,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 83315
+          "exists": 89174
         },
         "Shiny": {
           "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1940
+          "exists": 2095
         }
       },
       "Rockin Bonnie": {
@@ -103,14 +103,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 90423
+          "exists": 97343
         },
         "Shiny": {
           "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 2345
+          "exists": 2531
         }
       },
       "Blighted Endo Freddy": {
@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 2747
+          "exists": 3114
         },
         "Shiny": {
           "value": "15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 78
+          "exists": 86
         }
       },
       "Tarnished Spring Bonnie": {
@@ -135,14 +135,14 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Dropping",
-          "exists": 3153
+          "exists": 3627
         },
         "Shiny": {
           "value": "10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 109
+          "exists": 121
         }
       },
       "Yeti Oni Bonnie": {
@@ -151,7 +151,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 6559
+          "exists": 6560
         },
         "Shiny": {
           "value": "50-55",
@@ -167,7 +167,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 92781
+          "exists": 92731
         },
         "Shiny": {
           "value": "0.5",
@@ -183,14 +183,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 426487
+          "exists": 425629
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 19581
+          "exists": 19568
         }
       },
       "Scrooge Freddy": {
@@ -199,7 +199,7 @@
           "soul": "N/A",
           "demand": "8.5+/10",
           "status": "Stable",
-          "exists": 46950
+          "exists": 46939
         },
         "Shiny": {
           "value": "1.5+",
@@ -215,14 +215,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 373469
+          "exists": 373177
         },
         "Shiny": {
           "value": "0.2+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 13928
+          "exists": 13925
         }
       },
       "Mrs Claus Toy Chica": {
@@ -231,14 +231,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2890491
+          "exists": 2887023
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 208390
+          "exists": 208157
         }
       },
       "Santa Freddy": {
@@ -247,14 +247,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 18835099
+          "exists": 18797160
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 1248750
+          "exists": 1245793
         }
       },
       "Frozen King Foxy": {
@@ -263,7 +263,7 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 6245
+          "exists": 6248
         },
         "Shiny": {
           "value": "45+",
@@ -279,14 +279,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 50931
+          "exists": 50942
         },
         "Shiny": {
           "value": "3+",
           "soul": "35,000",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 1268
+          "exists": 1271
         }
       },
       "Movie Director Freddy": {
@@ -295,7 +295,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 39222
+          "exists": 39217
         },
         "Shiny": {
           "value": "1.2+",
@@ -311,7 +311,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 5456
+          "exists": 5458
         },
         "Shiny": {
           "value": "12+",
@@ -327,7 +327,7 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
-          "exists": 9117
+          "exists": 9122
         },
         "Shiny": {
           "value": "7",
@@ -343,14 +343,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 163586
+          "exists": 163688
         },
         "Shiny": {
           "value": "0.1+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 8338
+          "exists": 8349
         }
       },
       "BBnJ": {
@@ -359,14 +359,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 28747
+          "exists": 28765
         },
         "Shiny": {
           "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 967
+          "exists": 968
         }
       },
       "Headless Horseman Mangle": {
@@ -382,7 +382,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 706
+          "exists": 707
         }
       },
       "Scarecrow Freddy": {
@@ -391,7 +391,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 31451
+          "exists": 31440
         },
         "Shiny": {
           "value": "3.5",
@@ -407,7 +407,7 @@
           "soul": "1,000+",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 50205
+          "exists": 50197
         },
         "Shiny": {
           "value": "1.45+",
@@ -423,7 +423,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 3837
+          "exists": 3838
         },
         "Shiny": {
           "value": "N/A",
@@ -438,14 +438,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 3831
+          "exists": 3858
         },
         "Shiny": {
           "value": "5+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 181
+          "exists": 185
         }
       },
       "Sweetheart Toy Foxy": {
@@ -454,14 +454,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 6153
+          "exists": 12274
         },
         "Shiny": {
           "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 199
+          "exists": 340
         }
       },
       "Mecha Cupcake": {
@@ -470,14 +470,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 24424
+          "exists": 24437
         },
         "Shiny": {
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 692
+          "exists": 695
         }
       },
       "Popeyes Toy Freddy": {
@@ -486,14 +486,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 26075
+          "exists": 26081
         },
         "Shiny": {
           "value": "0.75+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 678
+          "exists": 677
         }
       },
       "Luminary Reporter Shadow Bonnie": {
@@ -502,7 +502,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 48269
+          "exists": 48260
         },
         "Shiny": {
           "value": "1",
@@ -518,7 +518,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 34335
+          "exists": 34323
         },
         "Shiny": {
           "value": "1.3",
@@ -534,7 +534,7 @@
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
-          "exists": 12830
+          "exists": 12826
         },
         "Shiny": {
           "value": "5+",
@@ -550,7 +550,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 17466
+          "exists": 17467
         },
         "Shiny": {
           "value": "3+",
@@ -566,7 +566,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 86142
+          "exists": 86137
         },
         "Shiny": {
           "value": "1.3+",
@@ -582,14 +582,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4664
+          "exists": 4752
         },
         "Shiny": {
           "value": "13+",
           "soul": "120,000-130,000",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 120
+          "exists": 121
         }
       },
       "Mangle": {
@@ -598,7 +598,7 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Stable",
-          "exists": 5478
+          "exists": 5477
         },
         "Shiny": {
           "value": "N/A",
@@ -614,14 +614,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 33329
+          "exists": 33707
         },
         "Shiny": {
           "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 812
+          "exists": 821
         }
       },
       "Party Packer Cupcake": {
@@ -637,7 +637,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 486
+          "exists": 485
         }
       },
       "Spring Duo": {
@@ -646,14 +646,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 26844
+          "exists": 27638
         },
         "Shiny": {
           "value": "3+",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Dropping",
-          "exists": 812
+          "exists": 839
         }
       },
       "Phantom Mangle": {
@@ -662,14 +662,14 @@
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Dropping",
-          "exists": 73301
+          "exists": 75796
         },
         "Shiny": {
           "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1229
+          "exists": 1259
         }
       },
       "Phantom Foxy": {
@@ -678,14 +678,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2248954
+          "exists": 2312788
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 76642
+          "exists": 79066
         }
       },
       "Phantom Chica": {
@@ -694,14 +694,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 5690131
+          "exists": 5856782
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 191157
+          "exists": 197379
         }
       },
       "Phantom Freddy": {
@@ -710,14 +710,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 26048974
+          "exists": 26683983
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 946678
+          "exists": 972191
         }
       },
       "Follow Me": {
@@ -726,14 +726,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 9145
+          "exists": 9321
         },
         "Shiny": {
           "value": "2.5",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 237
+          "exists": 243
         }
       },
       "Phantom Bonnie": {
@@ -742,14 +742,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 19178
+          "exists": 19775
         },
         "Shiny": {
           "value": "1.75",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 415
+          "exists": 434
         }
       },
       "Golden Cupcake": {
@@ -758,14 +758,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 12939
+          "exists": 13097
         },
         "Shiny": {
           "value": "1.5",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 313
+          "exists": 317
         }
       },
       "Purple Guy": {
@@ -774,14 +774,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 45900
+          "exists": 45913
         },
         "Shiny": {
           "value": "7.5+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 706
+          "exists": 707
         }
       },
       "Shadow Bonnie": {
@@ -822,7 +822,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 6870
+          "exists": 6869
         },
         "Shiny": {
           "value": "6.5",
@@ -838,14 +838,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 32388
+          "exists": 33190
         },
         "Shiny": {
           "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 791
+          "exists": 815
         }
       },
       "Serpent Endo": {
@@ -854,14 +854,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 193746
+          "exists": 201555
         },
         "Shiny": {
           "value": "0.1",
           "soul": "1,000",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6838
+          "exists": 7190
         }
       },
       "Fisherman Toy Bonnie": {
@@ -870,14 +870,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4118259
+          "exists": 4203350
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 185925
+          "exists": 194755
         }
       },
       "Blossom Chica": {
@@ -886,14 +886,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 5657
+          "exists": 5863
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 113
+          "exists": 116
         }
       },
       "Overgrown Foxy": {
@@ -902,14 +902,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 43101
+          "exists": 44709
         },
         "Shiny": {
           "value": "0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 1147
+          "exists": 1179
         }
       },
       "Clockwork Cupcake": {
@@ -918,14 +918,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 518725
+          "exists": 534549
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 18802
+          "exists": 19478
         }
       },
       "Time Lord Withered Freddy": {
@@ -934,14 +934,14 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 6546
+          "exists": 6719
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 139
+          "exists": 144
         }
       },
       "Withered Golden Freddy": {
@@ -950,14 +950,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 181388
+          "exists": 183032
         },
         "Shiny": {
           "value": "0.15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 6825
+          "exists": 6923
         }
       },
       "Withered Foxy": {
@@ -966,14 +966,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 211398
+          "exists": 213429
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 8780
+          "exists": 8931
         }
       },
       "Withered Freddy": {
@@ -982,14 +982,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 245986
+          "exists": 247632
         },
         "Shiny": {
           "value": "0.1",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 10570
+          "exists": 10720
         }
       },
       "Shadow Freddy": {
@@ -998,14 +998,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 223450
+          "exists": 225786
         },
         "Shiny": {
           "value": "0.1",
           "soul": "N/A",
           "demand": "5/10",
           "status": "N/A",
-          "exists": 9442
+          "exists": 9607
         }
       },
       "Phantom BB": {
@@ -1014,14 +1014,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 242457
+          "exists": 248925
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 23623
+          "exists": 24420
         }
       },
       "Withered Bonnie": {
@@ -1030,14 +1030,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 530648
+          "exists": 535752
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 54428
+          "exists": 54987
         }
       },
       "Toy Chica": {
@@ -1046,14 +1046,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 465717
+          "exists": 468257
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 41682
+          "exists": 42006
         }
       },
       "Fazcade": {
@@ -1062,14 +1062,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 475772
+          "exists": 485831
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 40070
+          "exists": 41330
         }
       },
       "Endo 01": {
@@ -1078,14 +1078,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 475413
+          "exists": 480025
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 42547
+          "exists": 43127
         }
       },
       "Withered Chica": {
@@ -1094,14 +1094,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2193949
+          "exists": 2230288
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 281094
+          "exists": 288717
         }
       },
       "Toy Freddy": {
@@ -1110,14 +1110,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 1946575
+          "exists": 1993018
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 258806
+          "exists": 268709
         }
       },
       "Toy Bonnie": {
@@ -1126,14 +1126,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2147809
+          "exists": 2164513
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 297819
+          "exists": 301845
         }
       },
       "Cupcake": {
@@ -1142,14 +1142,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2392178
+          "exists": 2430733
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 321608
+          "exists": 328331
         }
       },
       "PaperPals": {
@@ -1158,14 +1158,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6119292
+          "exists": 6214889
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 720168
+          "exists": 738743
         }
       },
       "JJ": {
@@ -1174,14 +1174,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6006577
+          "exists": 6079619
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 773539
+          "exists": 791471
         }
       },
       "Foxy": {
@@ -1190,14 +1190,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2081280
+          "exists": 2076942
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 254144
+          "exists": 253693
         }
       },
       "Chica": {
@@ -1206,14 +1206,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2074648
+          "exists": 2072688
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 252507
+          "exists": 252375
         }
       },
       "Bonnie": {
@@ -1222,14 +1222,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2100910
+          "exists": 2122040
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 244778
+          "exists": 247602
         }
       },
       "Freddy": {
@@ -1238,14 +1238,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6526778
+          "exists": 6539632
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 247137
+          "exists": 247840
         }
       }
     },
