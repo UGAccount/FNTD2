@@ -315,7 +315,7 @@
         },
         "Shiny": {
           "value": "12+",
-          "soul": "N/A",
+          "soul": "100,000-120,000",
           "demand": "8/10",
           "status": "Stable",
           "exists": 135
@@ -428,7 +428,7 @@
         "Shiny": {
           "value": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Manipulated",
           "exists": 76
         }
       },
@@ -604,7 +604,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Manipulated",
           "exists": 96
         }
       },
@@ -787,7 +787,7 @@
       "Shadow Bonnie": {
         "Normal": {
           "value": "1.1",
-          "soul": "11,000",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 3785
@@ -796,7 +796,7 @@
           "value": "35+",
           "demand": "8/10",
           "soul": "N/A",
-          "status": "Unstable",
+          "status": "Manipulated",
           "exists": 88
         }
       },
