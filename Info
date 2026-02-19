@@ -115,17 +115,17 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "0.7+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 3114
         },
         "Shiny": {
-          "value": "15+",
+          "value": "14+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 86
         }
       },
@@ -138,7 +138,7 @@
           "exists": 3627
         },
         "Shiny": {
-          "value": "10",
+          "value": "9+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -314,10 +314,10 @@
           "exists": 5458
         },
         "Shiny": {
-          "value": "12+",
-          "soul": "100,000-120,000",
+          "value": "10+",
+          "soul": "N/A",
           "demand": "8/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 135
         }
       },
