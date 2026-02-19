@@ -10,9 +10,9 @@
           "exists": 12479
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5+",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "8.5/10",
           "status": "Dropping",
           "exists": 335
         }
@@ -26,7 +26,7 @@
           "exists": 14712
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -37,14 +37,14 @@
         "Normal": {
           "value": "0.25",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8.5/10",
           "status": "Dropping",
           "exists": 23137
         },
         "Shiny": {
-          "value": "8+",
+          "value": "8",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8/10",
           "status": "Dropping",
           "exists": 679
         }
@@ -58,7 +58,7 @@
           "exists": 13436
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -122,7 +122,7 @@
           "exists": 3114
         },
         "Shiny": {
-          "value": "14+",
+          "value": "13.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
