@@ -202,9 +202,9 @@
           "exists": 46939
         },
         "Shiny": {
-          "value": "1.5+",
+          "value": "1.2+",
           "soul": "N/A",
-          "demand": "3/10",
+          "demand": "5/10",
           "status": "Stable",
           "exists": 1495
         }
@@ -298,7 +298,7 @@
           "exists": 39217
         },
         "Shiny": {
-          "value": "1.2+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -466,7 +466,7 @@
       },
       "Mecha Cupcake": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -482,7 +482,7 @@
       },
       "Popeyes Toy Freddy": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -498,7 +498,7 @@
       },
       "Luminary Reporter Shadow Bonnie": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -514,7 +514,7 @@
       },
       "Popcorn Bot": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -578,15 +578,15 @@
       },
       "Phone Dude": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 4752
         },
         "Shiny": {
-          "value": "13+",
-          "soul": "120,000-130,000",
+          "value": "11-12",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 121
@@ -610,14 +610,14 @@
       },
       "Cloaked Sparky": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 33707
         },
         "Shiny": {
-          "value": "2+",
+          "value": "1.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -665,7 +665,7 @@
           "exists": 75796
         },
         "Shiny": {
-          "value": "0.8",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -841,7 +841,7 @@
           "exists": 33190
         },
         "Shiny": {
-          "value": "1+",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -898,7 +898,7 @@
       },
       "Overgrown Foxy": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -953,7 +953,7 @@
           "exists": 183032
         },
         "Shiny": {
-          "value": "0.15+",
+          "value": "0.08+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -962,14 +962,14 @@
       },
       "Withered Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.0005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 213429
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
