@@ -3,7 +3,7 @@
     "Units": {
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -19,7 +19,7 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -35,7 +35,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Dropping",
@@ -51,7 +51,7 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
