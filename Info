@@ -122,7 +122,7 @@
           "exists": 3358
         },
         "Shiny": {
-          "value": "13",
+          "value": "12.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -147,7 +147,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "8.5-9",
+          "value": "9+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
@@ -259,7 +259,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "6",
+          "value": "6+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -649,9 +649,9 @@
           "exists": 28653
         },
         "Shiny": {
-          "value": "3+",
+          "value": "3.5+",
           "soul": "N/A",
-          "demand": "5/10",
+          "demand": "7/10",
           "status": "Dropping",
           "exists": 867
         }
