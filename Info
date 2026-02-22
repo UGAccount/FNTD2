@@ -364,7 +364,7 @@
         "Shiny": {
           "value": "0.6+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "2/10",
           "status": "Stable",
           "exists": 968
         }
