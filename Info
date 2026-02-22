@@ -122,10 +122,10 @@
           "exists": 3358
         },
         "Shiny": {
-          "value": "13.5+",
+          "value": "13",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Dropping",
           "exists": 91
         }
       },
@@ -195,7 +195,7 @@
       },
       "Scrooge Freddy": {
         "Normal": {
-          "value": "0.09+",
+          "value": "0.11+",
           "soul": "N/A",
           "demand": "8.5+/10",
           "status": "Stable",
@@ -314,7 +314,7 @@
           "exists": 5459
         },
         "Shiny": {
-          "value": "10+",
+          "value": "9+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -362,7 +362,7 @@
           "exists": 28758
         },
         "Shiny": {
-          "value": "0.8+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -394,7 +394,7 @@
           "exists": 31441
         },
         "Shiny": {
-          "value": "3.5",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -530,7 +530,7 @@
       },
       "Turkey Chica": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
@@ -546,7 +546,7 @@
       },
       "Puppet's Alliance": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -626,7 +626,7 @@
       },
       "Party Packer Cupcake": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.06",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -738,7 +738,7 @@
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "0.075+",
+          "value": "0.05+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -818,7 +818,7 @@
       },
       "Balloon Boy": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -978,7 +978,7 @@
       },
       "Withered Freddy": {
         "Normal": {
-          "value": "0.005",
+          "value": "0.0005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -994,14 +994,14 @@
       },
       "Shadow Freddy": {
         "Normal": {
-          "value": "0.0025",
+          "value": "0.0005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 228976
         },
         "Shiny": {
-          "value": "0.1",
+          "value": "0.06",
           "soul": "N/A",
           "demand": "5/10",
           "status": "N/A",
