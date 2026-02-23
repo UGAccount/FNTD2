@@ -330,7 +330,7 @@
           "exists": 6273
         },
         "Shiny": {
-          "value": "45+",
+          "value": "47+",
           "soul": "N/A",
           "demand": "9.5/10",
           "status": "Overhyped",
@@ -786,7 +786,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.1+",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
