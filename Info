@@ -276,9 +276,9 @@
       "Frostmancer Withered Bonnie": {
         "Normal": {
           "value": "0.01",
-          "soul": "N/A",
+          "soul": "200+",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 372488
         },
         "Shiny": {
@@ -789,14 +789,14 @@
           "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 9808
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "2.5-4",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 255
         }
       },
