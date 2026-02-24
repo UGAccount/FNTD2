@@ -19,7 +19,7 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
