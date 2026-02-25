@@ -3,7 +3,7 @@
     "Units": {
       "Hades Bonnie": {
         "Normal": {
-          "value": "2+",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -42,7 +42,7 @@
           "exists": 81961
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -793,7 +793,7 @@
           "exists": 9918
         },
         "Shiny": {
-          "value": "2.5-4",
+          "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
