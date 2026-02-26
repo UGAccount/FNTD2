@@ -3,7 +3,7 @@
     "Units": {
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -19,14 +19,14 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.1+",
+          "value": "0.06+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 2823
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
