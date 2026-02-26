@@ -994,7 +994,7 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -1327,7 +1327,7 @@
         "status": "N/A"
       },
       "Time Lord Withered Freddy Present": {
-        "value": "0.3",
+        "value": "0.21",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
