@@ -1321,7 +1321,7 @@
         "status": "N/A"
       },
       "Boss Raid Present": {
-        "value": "0.008",
+        "value": "0.004",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1411,7 +1411,7 @@
         "status": "N/A"
       },
       "Balloon Boy Present": {
-        "value": "0.5-1+",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1525,7 +1525,7 @@
         "status": "N/A"
       },
       "OG Present": {
-        "value": "0.005",
+        "value": "0.0025",
         "soul": "N/A",
         "demand": "7/10",
         "status": "Stable"
