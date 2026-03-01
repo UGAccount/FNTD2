@@ -3,17 +3,17 @@
     "Units": {
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.5",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 1249
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "10-18",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 24
         }
       },
@@ -67,14 +67,14 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.15-0.175",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
           "exists": 15187
         },
         "Shiny": {
-          "value": "3.75+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
@@ -83,14 +83,14 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15-0.175",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
           "exists": 18256
         },
         "Shiny": {
-          "value": "3.5+",
+          "value": "3.75+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -99,7 +99,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.15-0.175",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Dropping",
@@ -115,14 +115,14 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "0.15-0.175",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
           "exists": 16364
         },
         "Shiny": {
-          "value": "3.75+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -282,7 +282,7 @@
           "exists": 372163
         },
         "Shiny": {
-          "value": "0.25+",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -549,7 +549,7 @@
           "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 25966
         },
         "Shiny": {
@@ -652,7 +652,7 @@
           "value": "15+",
           "soul": "N/A",
           "demand": "7.5/10",
-          "status": "Slowly rosing",
+          "status": "Slowly Rising",
           "exists": 125
         }
       },
@@ -713,7 +713,7 @@
           "exists": 30502
         },
         "Shiny": {
-          "value": "5+",
+          "value": "5.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
@@ -793,7 +793,7 @@
           "exists": 10179
         },
         "Shiny": {
-          "value": "3.5-5",
+          "value": "5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
