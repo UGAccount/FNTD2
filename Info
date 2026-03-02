@@ -298,10 +298,10 @@
           "exists": 371937
         },
         "Shiny": {
-          "value": "0.3+",
+          "value": "0.4+",
           "soul": "N/A",
-          "demand": "7/10",
-          "status": "Stable",
+          "demand": "8.5/10",
+          "status": "Slowly Rising",
           "exists": 13925
         }
       },
