@@ -3,17 +3,17 @@
     "Units": {
       "Hacker King RWQFSFASXC": {
         "Normal": {
-          "value": "N/A",
+          "value": "0,05",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 6635
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 191
         }
       },
