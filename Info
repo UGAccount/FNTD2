@@ -484,7 +484,7 @@
       "Slasher Bonnie": {
         "Normal": {
           "value": "0.05+",
-          "soul": "1,000+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 50168
@@ -962,17 +962,17 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "0.25+",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
           "exists": 7322
         },
         "Shiny": {
-          "value": "2",
+          "value": "2.5",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 147
         }
       },
