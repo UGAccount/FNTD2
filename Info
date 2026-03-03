@@ -202,7 +202,7 @@
           "exists": 4028
         },
         "Shiny": {
-          "value": "11+",
+          "value": "10+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1573,7 +1573,7 @@
     },
     "Pets": {
       "Golden Freddy": {
-        "value": "1+",
+        "value": "2+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
