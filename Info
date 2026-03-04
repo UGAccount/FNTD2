@@ -83,14 +83,14 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.15-0.2",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
           "exists": 15792
         },
         "Shiny": {
-          "value": "4+",
+          "value": "5.5+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
@@ -173,7 +173,7 @@
           "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 2448
         }
       },
@@ -230,7 +230,7 @@
           "value": "10.5+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Fluctating",
+          "status": "Unstable",
           "exists": 6575
         },
         "Shiny": {
@@ -339,7 +339,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "8+",
+          "value": "8.5+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Overhyped",
@@ -490,7 +490,7 @@
           "exists": 50168
         },
         "Shiny": {
-          "value": "1.45+",
+          "value": "1.55+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -540,7 +540,7 @@
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 527
         }
       },
@@ -633,7 +633,7 @@
           "exists": 17452
         },
         "Shiny": {
-          "value": "3+",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -665,7 +665,7 @@
           "exists": 5081
         },
         "Shiny": {
-          "value": "16.5+",
+          "value": "17.5+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Overhyped",
@@ -745,10 +745,10 @@
           "exists": 85697
         },
         "Shiny": {
-          "value": "0.5",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 1384
         }
       },
@@ -809,10 +809,10 @@
           "exists": 10393
         },
         "Shiny": {
-          "value": "5+",
+          "value": "6+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Overhyped",
           "exists": 275
         }
       },
@@ -921,7 +921,7 @@
           "exists": 37089
         },
         "Shiny": {
-          "value": "0.8+",
+          "value": "0.9+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
