@@ -722,14 +722,14 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.12-0.15",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
           "exists": 31243
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
@@ -1707,10 +1707,10 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "0.6",
+        "value": "1",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Stable"
+        "status": "Unstable"
       },
       "Event Premium": {
         "value": "0.8+",
