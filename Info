@@ -125,7 +125,7 @@
           "value": "7.5+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Dropping",
+          "status": "Fluctuating",
           "exists": 964
         }
       },
@@ -202,7 +202,7 @@
           "exists": 4331
         },
         "Shiny": {
-          "value": "10.5+",
+          "value": "11+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -230,7 +230,7 @@
           "value": "10.5+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Unstable",
+          "status": "Fluctuating",
           "exists": 6575
         },
         "Shiny": {
@@ -339,17 +339,17 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "8.5+",
+          "value": "8.5-9",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 6290
         },
         "Shiny": {
           "value": "50+",
           "soul": "N/A",
           "demand": "9.5/10",
-          "status": "Unstable",
+          "status": "Fluctuating",
           "exists": 126
         }
       },
@@ -809,7 +809,7 @@
           "exists": 10740
         },
         "Shiny": {
-          "value": "6.5+",
+          "value": "7+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
