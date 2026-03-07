@@ -237,7 +237,7 @@
           "value": "60+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Unstable",
+          "status": "Fluctuating",
           "exists": 117
         }
       },
@@ -1713,7 +1713,7 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1",
+        "value": "1.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
