@@ -355,26 +355,26 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 3955
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 259
         }
       },
       "Amalgam": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.35-0.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 958
         },
         "Shiny": {
@@ -755,17 +755,17 @@
       },
       "Psychic Friend Fredbear": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 1890
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 54
         }
       },
@@ -778,10 +778,10 @@
           "exists": 90
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "6-7",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 6
         }
       },
@@ -851,10 +851,10 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.7-1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 2090
         },
         "Shiny": {
@@ -915,17 +915,17 @@
       },
       "Crying Child": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 2567
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2-2.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 69
         }
       },
@@ -963,10 +963,10 @@
       },
       "Nightmarionne": {
         "Normal": {
-          "value": "N/A",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 737
         },
         "Shiny": {
