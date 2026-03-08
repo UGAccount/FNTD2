@@ -19,14 +19,14 @@
       },
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.3+",
+          "value": "0.3-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 2406
         },
         "Shiny": {
-          "value": "10+",
+          "value": "11-16",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -106,7 +106,7 @@
           "exists": 20315
         },
         "Shiny": {
-          "value": "3.75+",
+          "value": "4",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -115,7 +115,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.125",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Dropping",
@@ -138,7 +138,7 @@
           "exists": 18010
         },
         "Shiny": {
-          "value": "4+",
+          "value": "4-4.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -195,7 +195,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "0.55+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -221,7 +221,7 @@
           "value": "9",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 156
         }
       },
@@ -277,7 +277,7 @@
         "Normal": {
           "value": "0.11+",
           "soul": "N/A",
-          "demand": "8.5+/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 46862
         },
@@ -339,10 +339,10 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "8.5+",
+          "value": "8-8.5",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 6290
         },
         "Shiny": {
@@ -397,7 +397,7 @@
           "value": "9+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 133
         }
       },
@@ -410,10 +410,10 @@
           "exists": 9122
         },
         "Shiny": {
-          "value": "7-7.5",
+          "value": "7.5",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "Dropping",
+          "demand": "7/10",
+          "status": "Stable",
           "exists": 250
         }
       },
@@ -458,9 +458,9 @@
           "exists": 27704
         },
         "Shiny": {
-          "value": "13.5+",
+          "value": "13.5",
           "soul": "N/A",
-          "demand": "8.5/10",
+          "demand": "7/10",
           "status": "Stable",
           "exists": 714
         }
@@ -676,7 +676,7 @@
         "Normal": {
           "value": "1",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "6.7/10",
           "status": "Stable",
           "exists": 5476
         },
@@ -706,7 +706,7 @@
       },
       "Party Packer Cupcake": {
         "Normal": {
-          "value": "0.06",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -732,13 +732,13 @@
           "value": "5+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Overhyped",
+          "status": "Stable",
           "exists": 995
         }
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.04-0.05",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Dropping",
@@ -825,10 +825,10 @@
           "exists": 23657
         },
         "Shiny": {
-          "value": "1.8+",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 519
         }
       },
@@ -852,7 +852,7 @@
         "Normal": {
           "value": "0.5",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "5/10",
           "status": "Stable",
           "exists": 45963
         },
@@ -866,9 +866,9 @@
       },
       "Shadow Bonnie": {
         "Normal": {
-          "value": "1.1",
+          "value": "1",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 3798
         },
@@ -921,10 +921,10 @@
           "exists": 38250
         },
         "Shiny": {
-          "value": "0.9+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 987
         }
       },
