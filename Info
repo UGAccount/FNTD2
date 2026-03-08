@@ -362,7 +362,7 @@
           "exists": 3955
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Dropping",
@@ -371,14 +371,14 @@
       },
       "Amalgam": {
         "Normal": {
-          "value": "0.35-0.5",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 958
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.75-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -435,7 +435,7 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -666,7 +666,7 @@
           "exists": 10838
         },
         "Shiny": {
-          "value": "7+",
+          "value": "8+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
@@ -771,7 +771,7 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "0.5-0.8",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -787,17 +787,17 @@
       },
       "Freddles": {
         "Normal": {
-          "value": "N/A",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 80
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "12+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 2
         }
       },
@@ -851,7 +851,7 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.6-0.9",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -965,7 +965,7 @@
         "Normal": {
           "value": "2+",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "9/10",
           "status": "Fluctuating",
           "exists": 737
         },
@@ -1193,7 +1193,7 @@
           "exists": 27701
         },
         "Shiny": {
-          "value": "13.5",
+          "value": "13.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1298,7 +1298,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "8",
+          "value": "7.5+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
@@ -1410,10 +1410,10 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "10.5+",
+          "value": "10",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 6575
         },
         "Shiny": {
@@ -1433,7 +1433,7 @@
           "exists": 5361
         },
         "Shiny": {
-          "value": "9",
+          "value": "9.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
