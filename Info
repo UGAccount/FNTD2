@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6956581
+          "exists": 6995381
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 277493
+          "exists": 275052
         }
       },
       "Bonnie": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2277046
+          "exists": 2277494
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 276907
+          "exists": 275305
         }
       },
       "Chica": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2218451
+          "exists": 2222738
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 276607
+          "exists": 275831
         }
       },
       "Foxy": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2239874
+          "exists": 2233272
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 282620
+          "exists": 280293
         }
       },
       "JJ": {
@@ -71,14 +71,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6493469
+          "exists": 6589853
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 868295
+          "exists": 883844
         }
       },
       "PaperPals": {
@@ -87,14 +87,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6632587
+          "exists": 6779270
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 821209
+          "exists": 864912
         }
       },
       "Cupcake": {
@@ -103,14 +103,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2590853
+          "exists": 2631595
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 362506
+          "exists": 375529
         }
       },
       "Toy Bonnie": {
@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2338910
+          "exists": 2403199
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 333421
+          "exists": 355744
         }
       },
       "Toy Freddy": {
@@ -135,14 +135,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2169410
+          "exists": 2171043
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 302761
+          "exists": 312419
         }
       },
       "Withered Chica": {
@@ -151,14 +151,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2363827
+          "exists": 2449088
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 316382
+          "exists": 346708
+        }
+      },
+      "Nightmare Cupcake": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 48591
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 19748
         }
       },
       "Endo 01": {
@@ -167,14 +183,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 510154
+          "exists": 508524
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 47833
+          "exists": 47748
         }
       },
       "Fazcade": {
@@ -183,14 +199,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 517602
+          "exists": 530866
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 45873
+          "exists": 49581
         }
       },
       "Toy Chica": {
@@ -199,14 +215,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 492994
+          "exists": 499909
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 44851
+          "exists": 46743
         }
       },
       "Withered Bonnie": {
@@ -215,14 +231,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 562256
+          "exists": 578183
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 58205
+          "exists": 65378
+        }
+      },
+      "Nightmare Endo": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 9124
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 3389
         }
       },
       "Phantom BB": {
@@ -231,14 +263,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 276590
+          "exists": 283043
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 27777
+          "exists": 29656
         }
       },
       "Shadow Freddy": {
@@ -247,14 +279,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 241517
+          "exists": 247371
         },
         "Shiny": {
           "value": "0.06",
           "soul": "N/A",
           "demand": "5/10",
           "status": "N/A",
-          "exists": 10561
+          "exists": 11242
         }
       },
       "Withered Freddy": {
@@ -263,14 +295,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 263275
+          "exists": 266474
         },
         "Shiny": {
           "value": "0.1",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 11656
+          "exists": 12100
         }
       },
       "Withered Foxy": {
@@ -279,14 +311,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 228153
+          "exists": 231068
         },
         "Shiny": {
           "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 9826
+          "exists": 10172
+        }
+      },
+      "Nightmare BB": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 10500
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 754
         }
       },
       "Withered Golden Freddy": {
@@ -295,14 +343,46 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 197043
+          "exists": 199909
         },
         "Shiny": {
           "value": "0.08+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 7618
+          "exists": 7849
+        }
+      },
+      "Nightmare Mangle": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 3955
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 259
+        }
+      },
+      "Amalgam": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 958
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 55
         }
       },
       "Time Lord Withered Freddy": {
@@ -311,14 +391,14 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 7843
+          "exists": 7981
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
-          "exists": 169
+          "exists": 168
         }
       },
       "Clockwork Cupcake": {
@@ -327,14 +407,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 673505
+          "exists": 656986
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 25560
+          "exists": 25901
         }
       },
       "Overgrown Foxy": {
@@ -343,14 +423,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 58081
+          "exists": 58765
         },
         "Shiny": {
           "value": "0.4+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
-          "exists": 1594
+          "exists": 1626
         }
       },
       "Blossom Chica": {
@@ -359,14 +439,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
-          "exists": 7744
+          "exists": 7932
         },
         "Shiny": {
           "value": "2.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 157
+          "exists": 165
         }
       },
       "Fisherman Toy Bonnie": {
@@ -375,14 +455,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4607459
+          "exists": 4365115
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 239451
+          "exists": 237196
         }
       },
       "Serpent Endo": {
@@ -391,14 +471,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 242712
+          "exists": 239822
         },
         "Shiny": {
           "value": "0.1",
           "soul": "1,000",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 9405
+          "exists": 9596
         }
       },
       "Shark Withered Foxy": {
@@ -407,14 +487,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 38250
+          "exists": 38505
         },
         "Shiny": {
           "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 987
+          "exists": 992
         }
       },
       "Dead Soul Freddy": {
@@ -423,14 +503,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2284465
+          "exists": 2401990
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 75495
+          "exists": 83958
         }
       },
       "Soul Prisoner Foxy": {
@@ -439,14 +519,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 614044
+          "exists": 654437
         },
         "Shiny": {
           "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 19314
+          "exists": 21837
         }
       },
       "Cerberus Freddy": {
@@ -455,14 +535,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 30272
+          "exists": 34126
         },
         "Shiny": {
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 511
+          "exists": 593
         }
       },
       "Hades Bonnie": {
@@ -471,14 +551,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 2406
+          "exists": 2767
         },
         "Shiny": {
           "value": "11-16",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 52
+          "exists": 59
         }
       },
       "Balloon Boy": {
@@ -487,7 +567,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 6911
+          "exists": 6913
         },
         "Shiny": {
           "value": "6.5",
@@ -503,7 +583,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 4820
+          "exists": 4818
         },
         "Shiny": {
           "value": "12+",
@@ -519,7 +599,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 3798
+          "exists": 3796
         },
         "Shiny": {
           "value": "35+",
@@ -535,7 +615,7 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
-          "exists": 45963
+          "exists": 45959
         },
         "Shiny": {
           "value": "7.5+",
@@ -551,14 +631,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 14243
+          "exists": 14189
         },
         "Shiny": {
           "value": "1.5",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Stable",
-          "exists": 353
+          "exists": 355
         }
       },
       "Phantom Bonnie": {
@@ -567,14 +647,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 23657
+          "exists": 23899
         },
         "Shiny": {
           "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 519
+          "exists": 523
         }
       },
       "Follow Me": {
@@ -583,14 +663,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 10740
+          "exists": 10838
         },
         "Shiny": {
           "value": "7+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
-          "exists": 283
+          "exists": 286
         }
       },
       "Phantom Freddy": {
@@ -599,14 +679,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 29583533
+          "exists": 28283595
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 1081174
+          "exists": 1083055
         }
       },
       "Phantom Chica": {
@@ -615,14 +695,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6574829
+          "exists": 6370435
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 222567
+          "exists": 231858
         }
       },
       "Phantom Foxy": {
@@ -631,14 +711,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2589690
+          "exists": 2525188
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 89013
+          "exists": 90694
         }
       },
       "Phantom Mangle": {
@@ -647,14 +727,14 @@
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Dropping",
-          "exists": 88224
+          "exists": 88836
         },
         "Shiny": {
           "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 1423
+          "exists": 1454
         }
       },
       "Spring Duo": {
@@ -663,14 +743,142 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 32358
+          "exists": 32615
         },
         "Shiny": {
           "value": "5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 995
+          "exists": 1001
+        }
+      },
+      "Psychic Friend Fredbear": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 1890
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 54
+        }
+      },
+      "Plushtrap": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 90
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 6
+        }
+      },
+      "Freddles": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 80
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 2
+        }
+      },
+      "Nightmare Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 1020758
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 34697
+        }
+      },
+      "Nightmare Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 226254
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 7146
+        }
+      },
+      "Nightmare Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 86975
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 2488
+        }
+      },
+      "Nightmare Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 2090
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 50
+        }
+      },
+      "Masked Bullies": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 72
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 4
         }
       },
       "Party Packer Cupcake": {
@@ -679,7 +887,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 33920
+          "exists": 33903
         },
         "Shiny": {
           "value": "2+",
@@ -695,14 +903,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 36335
+          "exists": 36389
         },
         "Shiny": {
           "value": "1.8+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 893
+          "exists": 896
+        }
+      },
+      "Crying Child": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 2567
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 69
         }
       },
       "Mangle": {
@@ -727,7 +951,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 5170
+          "exists": 5177
         },
         "Shiny": {
           "value": "17.5+",
@@ -737,13 +961,29 @@
           "exists": 134
         }
       },
+      "Nightmarionne": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 737
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 20
+        }
+      },
       "Party Glock Freddy": {
         "Normal": {
           "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 86113
+          "exists": 86000
         },
         "Shiny": {
           "value": "1.3+",
@@ -759,7 +999,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 17447
+          "exists": 17438
         },
         "Shiny": {
           "value": "3-3.5",
@@ -775,7 +1015,7 @@
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
-          "exists": 12793
+          "exists": 12779
         },
         "Shiny": {
           "value": "5+",
@@ -791,7 +1031,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 34281
+          "exists": 34254
         },
         "Shiny": {
           "value": "1.4+",
@@ -807,14 +1047,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 48133
+          "exists": 47858
         },
         "Shiny": {
           "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1196
+          "exists": 1194
         }
       },
       "Popeyes Toy Freddy": {
@@ -823,14 +1063,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 25860
+          "exists": 25814
         },
         "Shiny": {
           "value": "0.75+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 679
+          "exists": 680
         }
       },
       "Mecha Cupcake": {
@@ -839,7 +1079,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 24361
+          "exists": 24312
         },
         "Shiny": {
           "value": "0.8+",
@@ -855,14 +1095,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 19485
+          "exists": 19036
         },
         "Shiny": {
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 528
+          "exists": 530
         }
       },
       "Hacker King RWQFSFASXC": {
@@ -871,14 +1111,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 15836
+          "exists": 19587
         },
         "Shiny": {
           "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 423
+          "exists": 531
         }
       },
       "Jack'O Bonnie": {
@@ -887,7 +1127,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 4065
+          "exists": 4062
         },
         "Shiny": {
           "value": "6+",
@@ -903,7 +1143,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 3836
+          "exists": 3835
         },
         "Shiny": {
           "value": "N/A",
@@ -918,7 +1158,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 50152
+          "exists": 50131
         },
         "Shiny": {
           "value": "1.55+",
@@ -934,7 +1174,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 31458
+          "exists": 31442
         },
         "Shiny": {
           "value": "3-3.5",
@@ -950,7 +1190,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 27704
+          "exists": 27701
         },
         "Shiny": {
           "value": "13.5",
@@ -966,14 +1206,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 28742
+          "exists": 28752
         },
         "Shiny": {
           "value": "0.6+",
           "soul": "N/A",
           "demand": "2/10",
           "status": "Stable",
-          "exists": 970
+          "exists": 993
         }
       },
       "Undead Chica": {
@@ -982,14 +1222,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 163551
+          "exists": 192578
         },
         "Shiny": {
           "value": "0.1+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 8455
+          "exists": 18581
         }
       },
       "Krampus Purple Guy": {
@@ -998,7 +1238,7 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
-          "exists": 9122
+          "exists": 9120
         },
         "Shiny": {
           "value": "7.5",
@@ -1014,7 +1254,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 5465
+          "exists": 5463
         },
         "Shiny": {
           "value": "9+",
@@ -1030,14 +1270,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 39154
+          "exists": 38915
         },
         "Shiny": {
           "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 953
+          "exists": 952
         }
       },
       "Conductor Toy Freddy": {
@@ -1062,7 +1302,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
-          "exists": 6290
+          "exists": 6286
         },
         "Shiny": {
           "value": "50+",
@@ -1078,14 +1318,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 18608758
+          "exists": 18565881
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 1233520
+          "exists": 1232697
         }
       },
       "Mrs Claus Toy Chica": {
@@ -1094,14 +1334,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2867510
+          "exists": 2865828
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 207030
+          "exists": 207913
         }
       },
       "Frostmancer Withered Bonnie": {
@@ -1110,14 +1350,14 @@
           "soul": "200+",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 371445
+          "exists": 370683
         },
         "Shiny": {
           "value": "0.5+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Overhyped",
-          "exists": 13922
+          "exists": 13914
         }
       },
       "Scrooge Freddy": {
@@ -1126,7 +1366,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 46862
+          "exists": 46836
         },
         "Shiny": {
           "value": "1.2+",
@@ -1142,14 +1382,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 422232
+          "exists": 420647
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 21305
+          "exists": 21276
         }
       },
       "Toy Maker Mangle": {
@@ -1158,14 +1398,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 92603
+          "exists": 92468
         },
         "Shiny": {
           "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 2973
+          "exists": 2971
         }
       },
       "Yeti Oni Bonnie": {
@@ -1181,7 +1421,7 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Fluctuating",
-          "exists": 117
+          "exists": 116
         }
       },
       "Tarnished Spring Bonnie": {
@@ -1190,14 +1430,14 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Dropping",
-          "exists": 5183
+          "exists": 5361
         },
         "Shiny": {
           "value": "9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 156
+          "exists": 164
         }
       },
       "Blighted Endo Freddy": {
@@ -1206,14 +1446,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 4331
+          "exists": 4474
         },
         "Shiny": {
           "value": "11+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 114
+          "exists": 118
         }
       },
       "Rockin Bonnie": {
@@ -1222,14 +1462,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 117760
+          "exists": 119081
         },
         "Shiny": {
           "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 3128
+          "exists": 3187
         }
       },
       "War Machine Foxy": {
@@ -1238,14 +1478,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 104447
+          "exists": 105771
         },
         "Shiny": {
           "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 2537
+          "exists": 2573
         }
       },
       "Freddy With a Glock": {
@@ -1254,14 +1494,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4876277
+          "exists": 4801601
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 140319
+          "exists": 141320
         }
       },
       "Leviathan Mangle": {
@@ -1270,14 +1510,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 18010
+          "exists": 18541
         },
         "Shiny": {
           "value": "4-4.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 482
+          "exists": 490
         }
       },
       "Valkyrie Chica": {
@@ -1286,14 +1526,14 @@
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Dropping",
-          "exists": 32272
+          "exists": 33235
         },
         "Shiny": {
           "value": "7.5+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
-          "exists": 964
+          "exists": 988
         }
       },
       "Deadeye Freddy": {
@@ -1302,14 +1542,14 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Dropping",
-          "exists": 20315
+          "exists": 20936
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 568
+          "exists": 586
         }
       },
       "Gravelord Foxy": {
@@ -1318,26 +1558,44 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
-          "exists": 16724
+          "exists": 17114
         },
         "Shiny": {
           "value": "6.5+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 461
+          "exists": 477
         }
       }
     },
     "Presents": {
-      "AFK Present": {
+      "Uncommon Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
-      "Boss Raid Present": {
-        "value": "0.004",
+      "Rare Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Epic Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Mythic Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Secret Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -1348,7 +1606,61 @@
         "demand": "N/A",
         "status": "N/A"
       },
+      "Boss Raid Present": {
+        "value": "0.004",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "AFK Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Season 1 Clan Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Balloon Boy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Endo 02 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shadow Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Season 1 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Golden Cupcake Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phantom Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Follow Me Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -1358,6 +1670,66 @@
         "value": "0.0005",
         "soul": "N/A",
         "demand": "4/10",
+        "status": "N/A"
+      },
+      "Psychic Friend Fredbear Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Plushtrap Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Freddles Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Season 3 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "PPC Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Cloaked Sparky Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Crying Child Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Mangle Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phone Dude Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Nightmarionne Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
         "status": "N/A"
       },
       "Party Glock Present": {
@@ -1402,73 +1774,13 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "PPC Present": {
+      "Sweetheart Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
-      "Cloaked Sparky Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Hacker King Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Mangle Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phone Dude Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Balloon Boy Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Endo 02 Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Shadow Bonnie Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Golden Cupcake Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phantom Bonnie Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Follow Me Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Halloween Present": {
+      "Hacker Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -1504,18 +1816,6 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Christmas Event Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Christmas Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "Krampus Purple Guy Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -1546,11 +1846,17 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "OG Present": {
-        "value": "0.0025",
+      "Christmas Event Present": {
+        "value": "N/A",
         "soul": "N/A",
-        "demand": "7/10",
-        "status": "Stable"
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Christmas Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       },
       "Tarnished Spring Bonnie Present": {
         "value": "N/A",
@@ -1571,6 +1877,18 @@
         "status": "N/A"
       },
       "War Machine Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "OG Present": {
+        "value": "0.0025",
+        "soul": "N/A",
+        "demand": "7/10",
+        "status": "Stable"
+      },
+      "Halloween Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -1751,6 +2069,12 @@
         "status": "N/A"
       },
       "Tragedy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Remnant Fredbear": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -2012,6 +2336,57 @@
       ]
     },
     {
+      "Name": "Nightmare Freddy",
+      "Rarity": "Rare",
+      "PlacementPrice": 1000,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 3.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 340,
+          "Cooldown": 3.2,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 23,
+          "Damage": 385,
+          "Cooldown": 3,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 24,
+          "Damage": 435,
+          "Cooldown": 3,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 475,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 500,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3500
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Season 3 Present (80%)"
+      ]
+    },
+    {
       "Name": "PaperPals",
       "Rarity": "Rare",
       "PlacementPrice": 450,
@@ -2161,6 +2536,7 @@
         "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
       },
       "Obtainability": [
+        "Balloon Boy Present (100%)",
         "Season 1 Premium Pass Tier 1"
       ]
     },
@@ -2269,9 +2645,7 @@
           "Range": 23,
           "Damage": 380,
           "Cooldown": 4.5,
-          "UpgradePrice": 2500,
-          "Type": "Cone",
-          "Degrees": 60
+          "UpgradePrice": 2500
         },
         {
           "Range": 24,
@@ -2284,7 +2658,7 @@
         "NO PASSIVE": "This unit has no active passive :("
       },
       "Obtainability": [
-        "AFK Present (98%)"
+        "AFK Present (97.9%)"
       ]
     },
     {
@@ -2354,7 +2728,83 @@
         "Golden Blessing": "This unit boosts all unit stats in range by 5%. For each Light element unit you have on your team, this boost is increased by 5% (capped at 15%, does not stack)."
       },
       "Obtainability": [
+        "Golden Cupcake Present (100%)",
         "Season 2 Premium Pass Tier 1"
+      ]
+    },
+    {
+      "Name": "Nightmare Bonnie",
+      "Rarity": "Epic",
+      "PlacementPrice": 3500,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 685,
+        "Cooldown": 2.9
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 2.6,
+          "UpgradePrice": 3450
+        },
+        {
+          "Range": 25,
+          "Damage": 735,
+          "Cooldown": 2.4,
+          "UpgradePrice": 3800
+        },
+        {
+          "Range": 26,
+          "Damage": 765,
+          "Cooldown": 2.4,
+          "UpgradePrice": 4200
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Season 3 Present (15%)"
+      ]
+    },
+    {
+      "Name": "Nightmare Cupcake",
+      "Rarity": "Epic",
+      "PlacementPrice": 450,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 145,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 190,
+          "Cooldown": 3,
+          "UpgradePrice": 600
+        },
+        {
+          "Range": 22,
+          "Damage": 215,
+          "Cooldown": 2.9,
+          "UpgradePrice": 700
+        },
+        {
+          "Range": 22,
+          "Damage": 245,
+          "Cooldown": 2.7,
+          "UpgradePrice": 800
+        }
+      ],
+      "Obtainability": [
+        "Coin Summons (18%)"
       ]
     },
     {
@@ -2438,7 +2888,7 @@
         "NO PASSIVE": "This unit has no active passive :("
       },
       "Obtainability": [
-        "Christmas Movie Event Summons (89%)"
+        "Christmas Event Present (89%)"
       ]
     },
     {
@@ -2564,8 +3014,7 @@
           "Range": 21,
           "Damage": 170,
           "Cooldown": 4.5,
-          "UpgradePrice": 1600,
-          "Type": "Line"
+          "UpgradePrice": 1600
         },
         {
           "Range": 22,
@@ -2806,6 +3255,7 @@
         "Jack-O Blaze": "All attacks from this unit apply a burn for 5% of its damage for 3s. When attacking a burned enemy, this unit does 20% more damage. (This damage boost does not apply to pumpkins)"
       },
       "Obtainability": [
+        "Jack O Bonnie Present (100%)",
         "Halloween Event Free Pass Tier 30"
       ]
     },
@@ -2814,15 +3264,12 @@
       "Rarity": "Mythical",
       "PlacementPrice": 1250,
       "Type": "Cone",
-      "Degrees": 35,
       "Element": "Neutral",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 23,
         "Damage": 100,
-        "Cooldown": 2.5,
-        "Type": "Cone",
-        "Degrees": 35
+        "Cooldown": 2.5
       },
       "UpgradeStats": [
         {
@@ -2841,9 +3288,7 @@
           "Range": 24,
           "Damage": 135,
           "Cooldown": 2.3,
-          "UpgradePrice": 950,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 950
         },
         {
           "Range": 24.5,
@@ -2868,7 +3313,91 @@
         "NO PASSIVE": "This unit has no active passive :("
       },
       "Obtainability": [
-        "Christmas Movie Event Summons (10%)"
+        "Christmas Event Present (10%)"
+      ]
+    },
+    {
+      "Name": "Nightmare Endo",
+      "Rarity": "Mythical",
+      "PlacementPrice": 2250,
+      "Type": "Circle",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 14,
+        "Damage": 385,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15,
+          "Damage": 400,
+          "Cooldown": 2,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 17,
+          "Damage": 435,
+          "Cooldown": 1.7,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 17,
+          "Damage": 455,
+          "Cooldown": 1.7,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 485,
+          "Cooldown": 1.5,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Coin Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Nightmare Foxy",
+      "Rarity": "Mythical",
+      "PlacementPrice": 2150,
+      "Type": "Cone",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 350,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 385,
+          "Cooldown": 2.3,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 25,
+          "Damage": 400,
+          "Cooldown": 2.1,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 27,
+          "Damage": 450,
+          "Cooldown": 2,
+          "UpgradePrice": 2350
+        }
+      ],
+      "Passives": {
+        "NO PASSIVE": "This unit has no active passive :("
+      },
+      "Obtainability": [
+        "Season 3 Present (5%)"
       ]
     },
     {
@@ -2900,8 +3429,7 @@
           "Range": 18,
           "Damage": 158.5,
           "Cooldown": 1,
-          "UpgradePrice": 3525,
-          "Type": "FullAOE"
+          "UpgradePrice": 3525
         }
       ],
       "Passives": {
@@ -2940,9 +3468,7 @@
           "Range": 26,
           "Damage": 375,
           "Cooldown": 2.2,
-          "UpgradePrice": 1850,
-          "Type": "Cone",
-          "Degrees": 55
+          "UpgradePrice": 1850
         },
         {
           "Range": 26,
@@ -2951,7 +3477,6 @@
           "UpgradePrice": 2250
         }
       ],
-      "Passives": {},
       "Obtainability": [
         "Season 2 Present (5%)"
       ]
@@ -2961,15 +3486,12 @@
       "Rarity": "Mythical",
       "PlacementPrice": 925,
       "Type": "Cone",
-      "Degrees": 60,
       "Element": "Dark",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 18,
         "Damage": 80,
-        "Cooldown": 2,
-        "Type": "Cone",
-        "Degrees": 60
+        "Cooldown": 2
       },
       "UpgradeStats": [
         {
@@ -3027,9 +3549,7 @@
           "Range": 22.5,
           "Damage": 85,
           "Cooldown": 2.4,
-          "UpgradePrice": 2000,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 2000
         },
         {
           "Range": 25,
@@ -3082,8 +3602,7 @@
           "Range": 30,
           "Damage": 140,
           "Cooldown": 1.3,
-          "UpgradePrice": 2000,
-          "Type": "Single"
+          "UpgradePrice": 2000
         },
         {
           "Range": 30,
@@ -3136,8 +3655,7 @@
           "Range": 19,
           "Damage": 575,
           "Cooldown": 3.4,
-          "UpgradePrice": 2350,
-          "Type": "Circle"
+          "UpgradePrice": 2350
         },
         {
           "Range": 20,
@@ -3146,9 +3664,6 @@
           "UpgradePrice": 2200
         }
       ],
-      "Passives": {
-        "Hazardous Bite": "Cerberus Freddy’s heads apply different effects based on the active head, these switch every 25s. \\"
-      },
       "Obtainability": [
         "Season 1 Clan Present (0.5%)",
         "Season 1 Clan Pass Tier 50"
@@ -3208,6 +3723,7 @@
         "Shadow Surge": "After dealing 1.5k damage this unit becomes [Cloaked] for 5s, gaining increased DMG by 50%, decreased CD by 10% and switches this unit's type to 60 degree Cone for the duration. (This passive has a 10s cooldown)."
       },
       "Obtainability": [
+        "Cloaked Sparky Present (100%)",
         "2nd Starter Pack (249 R$)"
       ]
     },
@@ -3246,9 +3762,7 @@
           "Range": 18.5,
           "Damage": 150,
           "Cooldown": 7,
-          "UpgradePrice": 1000,
-          "Type": "Cone",
-          "Degrees": 45
+          "UpgradePrice": 1000
         },
         {
           "Range": 20,
@@ -3261,7 +3775,48 @@
         "All Aboard!": "On this unit's cooldown, summons a train on the track with 120% damage as health (does not damage bosses). While a train is on the track, this unit gains a 10% damage boost (capped at 1)."
       },
       "Obtainability": [
-        "Christmas Movie Event Exclusive (1299 R$ / 25000 Gingerbread)"
+        "Christmas Movie Event Exclusive (1299 R$ / 25000 Gingerbread)",
+        "Conductor Freddy Present (100%)"
+      ]
+    },
+    {
+      "Name": "Crying Child",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 0,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.5,
+          "Damage": 0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 25,
+          "Damage": 0,
+          "Cooldown": 2,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 27.5,
+          "Damage": 0,
+          "Cooldown": 2,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Thermal Runaway": "Every 30 seconds, the flashlight overheats. Crying Child throws it, leaving a stackable puddle that slows by 10% and applies 25% withered to enemies that walk over it. Lasts 8 seconds."
+      },
+      "Obtainability": [
+        "Crying Child Present (100%)",
+        "3rd Starter Pack (249 R$)"
       ]
     },
     {
@@ -3293,8 +3848,7 @@
           "Range": 24,
           "Damage": 235,
           "Cooldown": 2.4,
-          "UpgradePrice": 4000,
-          "Type": "Line"
+          "UpgradePrice": 4000
         },
         {
           "Range": 26,
@@ -3319,6 +3873,7 @@
         "Engineer": "Endo 02 places [Endo Turrets] within Range every 15 seconds, dealing 100% Damage to a [Single Target] with 100% Cooldown, lasting 45 seconds."
       },
       "Obtainability": [
+        "Endo 02 Present (100%)",
         "Season 1 Free Pass Tier 30"
       ]
     },
@@ -3357,9 +3912,7 @@
           "Range": 23,
           "Damage": 750,
           "Cooldown": 3.6,
-          "UpgradePrice": 7500,
-          "Type": "Cone",
-          "Degrees": 55
+          "UpgradePrice": 7500
         },
         {
           "Range": 28,
@@ -3378,7 +3931,60 @@
         "Dismantle": "Every 35s, Follow Me dismantles the lowest-placed unit in range for 15s (excluding Boosters and Heroes; ties broken by highest damage). During this time, all units are halted from attacking or using passives, and Follow Me gains 75% of the dismantled unit’s damage and knockback."
       },
       "Obtainability": [
+        "Follow Me Present (100%)",
         "Season 2 Premium Pass Tier 30"
+      ]
+    },
+    {
+      "Name": "Freddles",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 375,
+        "Cooldown": 2.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 400,
+          "Cooldown": 2.4,
+          "UpgradePrice": 3350
+        },
+        {
+          "Range": 23,
+          "Damage": 425,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 485,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 520,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 25,
+          "Damage": 550,
+          "Cooldown": 2,
+          "UpgradePrice": 6450
+        }
+      ],
+      "Passives": {
+        "Freddles Army ": "Upon attack, freddles summon a freddle on track for 100% of damage as health"
+      },
+      "Obtainability": [
+        "Freddles Present (100%)",
+        "Season 3 Premium Pass Tier 30"
       ]
     },
     {
@@ -3416,8 +4022,7 @@
           "Range": 21.5,
           "Damage": 650,
           "Cooldown": 5.2,
-          "UpgradePrice": 2800,
-          "Type": "Single"
+          "UpgradePrice": 2800
         },
         {
           "Range": 22,
@@ -3436,7 +4041,7 @@
         "Herald of Winter": "This unit summons Snow Bonnies around itself (cap of 3) that provide 1 of 2 following buffs to itself: 10% DMG and RNG increase 15% slowing to all enemies in range While a Snow Bonnie is present, attacks freeze enemies for 1s."
       },
       "Obtainability": [
-        "Christmas Movie Event Summons (0.35%)"
+        "Christmas Event Present (0.5%)"
       ]
     },
     {
@@ -3468,8 +4073,7 @@
           "Range": 24,
           "Damage": 700,
           "Cooldown": 2,
-          "UpgradePrice": 4500,
-          "Type": "Circle"
+          "UpgradePrice": 4500
         },
         {
           "Range": 25,
@@ -3481,8 +4085,7 @@
           "Range": 23,
           "Damage": 700,
           "Cooldown": 2.4,
-          "UpgradePrice": 4500,
-          "Type": "FullAOE"
+          "UpgradePrice": 4500
         },
         {
           "Range": 24,
@@ -3498,10 +4101,11 @@
         }
       ],
       "Passives": {
-        "Decode": "Every 45 seconds hacker Bonnie will hack all units in range inflecting 15% slow and 10% wither for 8 seconds"
+        "Decode": "Every 45 seconds hacker Bonnie will hack all enemies in range inflecting 15% slow and 10% wither for 8 seconds"
       },
       "Obtainability": [
-        "9th Bi-Weekly Exclusive (699 R$ / 65000 Coins / 1500 Souls)"
+        "9th Bi-Weekly Exclusive (699 R$ / 65000 Coins / 1500 Souls)",
+        "Hacker Bonnie Present (100%)"
       ]
     },
     {
@@ -3558,6 +4162,7 @@
         "Punishment of Evil": "This unit stuns enemies it attacks for 1.8s. When attacking a stunned enemy, deal 35% more damage."
       },
       "Obtainability": [
+        "Krampus Purple Guy Present (100%)",
         "Christmas Movie Event Free Pass Tier 30"
       ]
     },
@@ -3606,11 +4211,12 @@
         }
       ],
       "Passives": {
-        "Cosmic Greed": "The Moon will grow brighter every attack increasing Luminary Bonnie's Damage by +0.5%; after reaching +20% Damage, Dying Light will activate.",
-        "Dying Light": "Luminary Bonnie will explode the Moon, dealing 250% Damage to all Enemies on the map; Cosmic Greed will reset and Luminary Bonnie will be inflicted with Stun for 5s."
+        "Cosmic Greed": "The Moon will grow brighter every attack increasing Luminary Bonnie's Damage by +0.5%; after reaching +20% Damage, \\Dying Light\\ will activate.",
+        "Dying Light": "Luminary Bonnie will explode the Moon, dealing 250% Damage to all Enemies on the map; \\Cosmic Greed\\ will reset and Luminary Bonnie will be inflicted with \\Stun\\ for 5s."
       },
       "Obtainability": [
-        "5th Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
+        "5th Bi-Weekly Exclusive (799 R$ / 35000 Coins)",
+        "Luminary Reporter Present (100%)"
       ]
     },
     {
@@ -3618,15 +4224,12 @@
       "Rarity": "Secret",
       "PlacementPrice": 3500,
       "Type": "Cone",
-      "Degrees": 35,
       "Element": "Fire",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 18,
         "Damage": 180,
-        "Cooldown": 1.3,
-        "Type": "Cone",
-        "Degrees": 35
+        "Cooldown": 1.3
       },
       "UpgradeStats": [
         {
@@ -3651,9 +4254,7 @@
           "Range": 20,
           "Damage": 210,
           "Cooldown": 1.14,
-          "UpgradePrice": 4750,
-          "Type": "Cone",
-          "Degrees": 50
+          "UpgradePrice": 4750
         },
         {
           "Range": 21,
@@ -3666,7 +4267,8 @@
         "Eternal Blaze": "If 6 or more enemies are hit, flames turn blue, dealing 50% extra damage and applying a 15% burn effect lasting 3 seconds."
       },
       "Obtainability": [
-        "7th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)"
+        "7th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)",
+        "Mecha Cupcake Present (100%)"
       ]
     },
     {
@@ -3717,7 +4319,110 @@
         "Eye for Talent": "This unit boosts all forms of income by 10%, scaling by 2% per upgrade. [ends at 20%] This unit boosts the damage of the unit with the highest damage number in range by 25%."
       },
       "Obtainability": [
-        "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)"
+        "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)",
+        "Movie Director Freddy Present (100%)"
+      ]
+    },
+    {
+      "Name": "Nightmare BB",
+      "Rarity": "Secret",
+      "PlacementPrice": 1350,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 435,
+        "Cooldown": 2.1
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 460,
+          "Cooldown": 2,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 23,
+          "Damage": 500,
+          "Cooldown": 2,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 24,
+          "Damage": 520,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 545,
+          "Cooldown": 1.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 570,
+          "Cooldown": 1.6,
+          "UpgradePrice": 3500
+        }
+      ],
+      "Passives": {
+        "X Mark The Spot": "This unit deals 15% more damage to enemies in the outer 50% of it's range."
+      },
+      "Obtainability": [
+        "Coin Summons (0.25%)"
+      ]
+    },
+    {
+      "Name": "Nightmare Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 3500,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 17,
+        "Damage": 500,
+        "Cooldown": 3.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 545,
+          "Cooldown": 3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 18,
+          "Damage": 580,
+          "Cooldown": 3,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 19,
+          "Damage": 600,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 19,
+          "Damage": 665,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 21,
+          "Damage": 735,
+          "Cooldown": 2.6,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "The First": "She has seen everything. Every 5th attack increases her range by 1% (capped at 10%) Additionally any enemy in range gets slowed by 10% and increases damage taken by dark type units by 8%"
+      },
+      "Obtainability": [
+        "Season 3 Present (0.1%)"
       ]
     },
     {
@@ -3749,7 +4454,7 @@
         }
       ],
       "Passives": {
-        "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
+        "Countdown ": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
       },
       "Obtainability": [
         "Boss Raid Present (4.5%)"
@@ -3804,6 +4509,7 @@
         "Party Poppers": "Every 15 seconds, spawns in 2 Party Poppers anywhere in this unit's range that aim at the enemy currently being targeted by the unit. Party Poppers deal 120% of this unit's current damage in a 70 degree Cone AOE."
       },
       "Obtainability": [
+        "Party Glock Present (100%)",
         "1st Bi-Weekly Exclusive (599 R$ / 12500 Coins)"
       ]
     },
@@ -3863,6 +4569,7 @@
         "Fallout [Active Ability] [Upgrade 6+]": "Once activated, Party Packer Cupcake launches [I.C.B.C.Ms] every 3.4 seconds, dealing 140% damage for the next 17 seconds. Additionally, it releases three waves of steam, dealing 120% damage in a [Cone AoE] and applying [Burn], which deals 40% damage for 3 seconds."
       },
       "Obtainability": [
+        "PPC Present (100%)",
         "1st Starter Pack (249 R$)"
       ]
     },
@@ -3910,10 +4617,8 @@
           "UpgradePrice": 3250
         }
       ],
-      "Passives": {
-        "Doom Gloom": " When placed, this unit cannot be seen. For each enemy within range, Phantom Bonnie gains +0.25% damage, stacking up to +25% damage. While gaining damage, Phantom Bonnie becomes gradually more visible. Once [Gloom Doom] is fully stacked, Phantom Bonnie fully manifests, gaining 15% range and retains its 25% damage bonus. "
-      },
       "Obtainability": [
+        "Phantom Bonnie Present (100%)",
         "Season 2 Free Pass Tier 30"
       ]
     },
@@ -3952,9 +4657,7 @@
           "Range": 25.5,
           "Damage": 450,
           "Cooldown": 4.5,
-          "UpgradePrice": 1850,
-          "Type": "Cone",
-          "Degrees": 65
+          "UpgradePrice": 1850
         },
         {
           "Range": 27.5,
@@ -3968,6 +4671,58 @@
       },
       "Obtainability": [
         "Season 2 Present (0.1%)"
+      ]
+    },
+    {
+      "Name": "Plushtrap",
+      "Rarity": "Secret",
+      "PlacementPrice": 3450,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 450,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 470,
+          "Cooldown": 2,
+          "UpgradePrice": 3050
+        },
+        {
+          "Range": 24,
+          "Damage": 500,
+          "Cooldown": 1.8,
+          "UpgradePrice": 3450
+        },
+        {
+          "Range": 24,
+          "Damage": 545,
+          "Cooldown": 1.8,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25,
+          "Damage": 600,
+          "Cooldown": 1.6,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 635,
+          "Cooldown": 1.6,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Photophobia": "Every 5 seconds plush trap will make a movement to the x. If a light enemy, or unit is in range during this time it fails. After 5 successful movement he will perform an attack which will be rapid biting every second for 5 seconds."
+      },
+      "Obtainability": [
+        "Plushtrap Present (100%)",
+        "Season 3 Free Pass Tier 30"
       ]
     },
     {
@@ -4012,7 +4767,8 @@
         "Popcorn Party Pack": "Every 8 seconds this unit shots Popcorn with 1 of 3 different effects in this order. Spicy: 120 degree Cone, dealing 35% burn for 3s. Buttered: Single target Knockback Sweet: Boost all units and their stats by 5% for 7s."
       },
       "Obtainability": [
-        "4th Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
+        "4th Bi-Weekly Exclusive (799 R$ / 35000 Coins)",
+        "Popcorn Bot Present (1%)"
       ]
     },
     {
@@ -4020,15 +4776,12 @@
       "Rarity": "Secret",
       "PlacementPrice": 2250,
       "Type": "Cone",
-      "Degrees": 35,
       "Element": "Fire",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 19,
         "Damage": 270,
-        "Cooldown": 2.6,
-        "Type": "Cone",
-        "Degrees": 35
+        "Cooldown": 2.6
       },
       "UpgradeStats": [
         {
@@ -4066,7 +4819,63 @@
         "Flaming Hot Sauce": "A chicken will be laid down for 50% of damage, and will effect burn on enemies dealing 15% of damage every second for 3 seconds"
       },
       "Obtainability": [
-        "6th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)"
+        "6th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)",
+        "Popeyes Toy Freddy Present (100%)"
+      ]
+    },
+    {
+      "Name": "Psychic Friend Fredbear",
+      "Rarity": "Secret",
+      "PlacementPrice": 5000,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 195,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 200,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 23,
+          "Damage": 225,
+          "Cooldown": 2,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 250,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 25,
+          "Damage": 260,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 27,
+          "Damage": 285,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 30,
+          "Damage": 345,
+          "Cooldown": 2,
+          "UpgradePrice": 7500
+        }
+      ],
+      "Obtainability": [
+        "Psychic Friend Fredbear Present (100%)",
+        "Season 3 Premium Pass Tier 1"
       ]
     },
     {
@@ -4117,6 +4926,7 @@
         "Soul Shock": "[Unstable] is applied to every 8th Enemy that enters the map. [Unstable] results in an explosion that deals 50% damage of the unit that killed it."
       },
       "Obtainability": [
+        "Puppets Alliance Present (100%)",
         "2nd Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
       ]
     },
@@ -4143,9 +4953,7 @@
           "Range": 24,
           "Damage": 165,
           "Cooldown": 2.6,
-          "UpgradePrice": 1350,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 1350
         },
         {
           "Range": 26,
@@ -4165,7 +4973,8 @@
         "Rockin Vibes": "Due to the music played by rockin bonnie, all units in range receive 8% CD reduction"
       },
       "Obtainability": [
-        "OG Event Exclusive (799 R$ / 15000 Hourglasses / 1500 Souls)"
+        "OG Event Exclusive (799 R$ / 15000 Hourglasses / 1500 Souls)",
+        "Rockin Bonnie Present (100%)"
       ],
       "Note": "A lead tester stated: 'wmf is good, rockin bonnie is good too as he does 12.5% cd boost'."
     },
@@ -4212,7 +5021,8 @@
         "Crop Raiser": "While in (Raiser) form, this unit speeds up all enemies in range by 5%, and buffs all towers in range by 15% Damage and 15% Range. Additionally while in (Raiser) form, this unit will attack the strongest enemy in range every 3s for 200% of its damage."
       },
       "Obtainability": [
-        "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)"
+        "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)",
+        "Scarecrow Present (100%)"
       ]
     },
     {
@@ -4244,8 +5054,7 @@
           "Range": 25,
           "Damage": 775,
           "Cooldown": 3.3,
-          "UpgradePrice": 2000,
-          "Type": "Line"
+          "UpgradePrice": 2000
         },
         {
           "Range": 27,
@@ -4290,8 +5099,7 @@
           "Range": 27.5,
           "Damage": 660,
           "Cooldown": 3.7,
-          "UpgradePrice": 4500,
-          "Type": "Circle"
+          "UpgradePrice": 4500
         },
         {
           "Range": 24,
@@ -4303,8 +5111,7 @@
           "Range": 22,
           "Damage": 665,
           "Cooldown": 4,
-          "UpgradePrice": 4500,
-          "Type": "FullAOE"
+          "UpgradePrice": 4500
         },
         {
           "Range": 24,
@@ -4323,6 +5130,7 @@
         "Agonizing Energy": "Attacks apply poison for 2s, dealing 20% of this unit's current damage. [10% dmg/tick]"
       },
       "Obtainability": [
+        "Shadow Bonnie Present (100%)",
         "Season 1 Premium Pass Tier 30"
       ]
     },
@@ -4367,8 +5175,7 @@
           "Range": 25,
           "Damage": 485,
           "Cooldown": 3,
-          "UpgradePrice": 3500,
-          "Type": "FullAOE"
+          "UpgradePrice": 3500
         },
         {
           "Range": 26,
@@ -4388,6 +5195,7 @@
         "Energy Siphon": "This unit's range increases by 2% for each upgrade performed within its range. [30% max buff]"
       },
       "Obtainability": [
+        "Secret Present (33%)",
         "Coin Summons (0.25%)"
       ]
     },
@@ -4396,15 +5204,12 @@
       "Rarity": "Secret",
       "PlacementPrice": 2550,
       "Type": "Cone",
-      "Degrees": 45,
       "Element": "Dark",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 15,
         "Damage": 170,
-        "Cooldown": 2.5,
-        "Type": "Cone",
-        "Degrees": 45
+        "Cooldown": 2.5
       },
       "UpgradeStats": [
         {
@@ -4435,9 +5240,7 @@
           "Range": 25,
           "Damage": 280,
           "Cooldown": 2.6,
-          "UpgradePrice": 2800,
-          "Type": "Cone",
-          "Degrees": 65
+          "UpgradePrice": 2800
         },
         {
           "Range": 26,
@@ -4451,7 +5254,8 @@
         "Indiscriminate Bloodshed": "Bloodlust boost now becomes permanent once obtained, stack cap still applies. Once this unit reaches 5 Bloodlust stacks, this unit’s attack type changes to a 45 Degree Cone."
       },
       "Obtainability": [
-        "Halloween Event Exclusive (799 R$ / 15000 Pumpkins)"
+        "Halloween Event Exclusive (799 R$ / 15000 Pumpkins)",
+        "Slasher Bonnie Present (100%)"
       ]
     },
     {
@@ -4489,8 +5293,7 @@
           "Range": 26,
           "Damage": 465,
           "Cooldown": 2.3,
-          "UpgradePrice": 6000,
-          "Type": "Line"
+          "UpgradePrice": 6000
         },
         {
           "Range": 27,
@@ -4500,10 +5303,11 @@
         }
       ],
       "Passives": {
-        "Love Shot": "Upon placement will shoot 2 random units and make them share the average attack speed between them, but at the cost of reducing both units damage by 20%"
+        "Love Shot": "Upon placement will shoot 2 random units and make them share the average attack speed between them, but at the cost of reducing both units damage by 35%"
       },
       "Obtainability": [
-        "8th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)"
+        "8th Bi-Weekly Exclusive (799 R$ / 65000 Coins / 1500 Souls)",
+        "Sweetheart Present (100%)"
       ]
     },
     {
@@ -4529,9 +5333,7 @@
           "Range": 21,
           "Damage": 640,
           "Cooldown": 2.8,
-          "UpgradePrice": 6500,
-          "Type": "Cone",
-          "Degrees": 80
+          "UpgradePrice": 6500
         },
         {
           "Range": 24,
@@ -4544,7 +5346,8 @@
         "Malevolent Frenzy": "Every 15s, perform 8 rapid attacks dealing 15% damage each and applying [bleed] equal to 40% of damage dealt for 4s."
       },
       "Obtainability": [
-        "OG Event Free Pass Tier 30"
+        "OG Event Free Pass Tier 30",
+        "Tarnished Spring Bonnie Present (100%)"
       ]
     },
     {
@@ -4597,9 +5400,6 @@
           "UpgradePrice": 3000
         }
       ],
-      "Passives": {
-        "Toy Maker": " This unit summons its toys on the track every 10 seconds, cycling through them in the following order. 1: Toy Train - HP equal to 80% damage 2: Toy Soldier - HP equal to 50% damage, attacks the first enemy within 15 range for 30% damage every 3s. 3: Wind-Up Bomb Toy - HP equal to 20% damage. On death, explodes dealing 125% "
-      },
       "Obtainability": [
         "Christmas Present (9.5%)"
       ]
@@ -4652,7 +5452,8 @@
         "Horn of Plenty": "Every 7 seconds, the cornucopia this unit holds will give itself a random buff from the “Blessing of Abundance” list found here. Blessing of Abundance: Nuts: 50% damage buff for 5s Produce: 30% cooldown buff for 5s Flowers: 80% range buff for 5s"
       },
       "Obtainability": [
-        "3rd Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
+        "3rd Bi-Weekly Exclusive (799 R$ / 35000 Coins)",
+        "Turkey Chica Present (100%)"
       ]
     },
     {
@@ -4660,15 +5461,12 @@
       "Rarity": "Secret",
       "PlacementPrice": 5000,
       "Type": "Cone",
-      "Degrees": 35,
       "Element": "Rust",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 23,
         "Damage": 165,
-        "Cooldown": 1,
-        "Type": "Cone",
-        "Degrees": 35
+        "Cooldown": 1
       },
       "UpgradeStats": [
         {
@@ -4693,9 +5491,7 @@
           "Range": 26,
           "Damage": 190,
           "Cooldown": 0.75,
-          "UpgradePrice": 4750,
-          "Type": "Cone",
-          "Degrees": 55
+          "UpgradePrice": 4750
         },
         {
           "Range": 27,
@@ -4708,7 +5504,8 @@
         "Overheat": "Always active unless stunned. Damage starts at 130% and decreases every 1.5s over 30s to a minimum of 85%, then is stunned for 3s to cool down."
       },
       "Obtainability": [
-        "OG Event Exclusive (1299 R$ / 25000 Hourglasses / 3000 Souls)"
+        "OG Event Exclusive (1299 R$ / 25000 Hourglasses / 3000 Souls)",
+        "War Machine Foxy Present (100%)"
       ]
     },
     {
@@ -4734,8 +5531,7 @@
           "Range": 17,
           "Damage": 130,
           "Cooldown": 1.5,
-          "UpgradePrice": 2250,
-          "Type": "Line"
+          "UpgradePrice": 2250
         },
         {
           "Range": 18,
@@ -4747,9 +5543,7 @@
           "Range": 18,
           "Damage": 160,
           "Cooldown": 1.6,
-          "UpgradePrice": 3500,
-          "Type": "Cone",
-          "Degrees": 65
+          "UpgradePrice": 3500
         },
         {
           "Range": 19,
@@ -4768,6 +5562,7 @@
         "Sword Lunge": "When this unit first hits an enemy, does 30% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
       },
       "Obtainability": [
+        "Secret Present (33%)",
         "Coin Summons (0.25%)"
       ]
     },
@@ -4776,15 +5571,12 @@
       "Rarity": "Secret",
       "PlacementPrice": 1800,
       "Type": "Cone",
-      "Degrees": 20,
       "Element": "Rust",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 22,
         "Damage": 16,
-        "Cooldown": 0.3,
-        "Type": "Cone",
-        "Degrees": 20
+        "Cooldown": 0.3
       },
       "UpgradeStats": [
         {
@@ -4803,8 +5595,7 @@
           "Range": 25,
           "Damage": 24,
           "Cooldown": 0.28,
-          "UpgradePrice": 2250,
-          "Type": "Circle"
+          "UpgradePrice": 2250
         },
         {
           "Range": 25,
@@ -4816,9 +5607,7 @@
           "Range": 29,
           "Damage": 28,
           "Cooldown": 0.26,
-          "UpgradePrice": 3500,
-          "Type": "Cone",
-          "Degrees": 35
+          "UpgradePrice": 3500
         },
         {
           "Range": 29,
@@ -4834,7 +5623,56 @@
         "Mode Swap [Active Ability]": "Changes this unit's attack and passive between Focused Fire and Faz-Metal-Jacket."
       },
       "Obtainability": [
+        "Secret Present (33%)",
         "Coin Summons (0.25%)"
+      ]
+    },
+    {
+      "Name": "Amalgam",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4500,
+      "Type": "Single",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 650,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 695,
+          "Cooldown": 2.9,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 27,
+          "Damage": 735,
+          "Cooldown": 2.7,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 780,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 830,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6850
+        },
+        {
+          "Range": 28,
+          "Damage": 885,
+          "Cooldown": 2.3,
+          "UpgradePrice": 7350
+        }
+      ],
+      "Obtainability": [
+        "Soul Summons (0.01%)"
       ]
     },
     {
@@ -4860,8 +5698,7 @@
           "Range": 23,
           "Damage": 600,
           "Cooldown": 2.3,
-          "UpgradePrice": 3750,
-          "Type": "Circle"
+          "UpgradePrice": 3750
         },
         {
           "Range": 25,
@@ -4879,16 +5716,12 @@
           "Range": 26,
           "Damage": 1250,
           "Cooldown": 3.3,
-          "UpgradePrice": 8500,
-          "Type": "Cone",
-          "Degrees": 180
+          "UpgradePrice": 8500
         }
       ],
-      "Passives": {
-        "Shadow Slasher": " Blighted Endo Freddy will deal damage based on the enemies current HP, ranging from 150% - 75% DMG. 100%-80% HP -> 150% DMG 70%-50% HP -> 125% DMG 50%-30% HP -> 90% DMG 30%-0% HP -> 75% DMG "
-      },
       "Obtainability": [
-        "OG Event Premium Pass Tier 30"
+        "OG Event Premium Pass Tier 30",
+        "Blighted Endo Freddy Present (100%)"
       ]
     },
     {
@@ -4932,9 +5765,7 @@
           "Range": 18,
           "Damage": 750,
           "Cooldown": 3.4,
-          "UpgradePrice": 8000,
-          "Type": "Cone",
-          "Degrees": 80
+          "UpgradePrice": 8000
         },
         {
           "Range": 19,
@@ -4949,13 +5780,10 @@
           "UpgradePrice": 9000
         }
       ],
-      "Passives": {},
       "Actives": [
         {
           "Name": "Blossom Boom",
-          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
-          "Cooldown": 12,
-          "Upgrade": 3
+          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed"
         }
       ],
       "Obtainability": [
@@ -4997,8 +5825,7 @@
           "Range": 30,
           "Damage": 1150,
           "Cooldown": 3.25,
-          "UpgradePrice": 9500,
-          "Type": "Line"
+          "UpgradePrice": 9500
         },
         {
           "Range": 30,
@@ -5007,13 +5834,10 @@
           "UpgradePrice": 10000
         }
       ],
-      "Passives": {},
       "Actives": [
         {
           "Name": "High Noon",
-          "Description": "Deadeye Freddy fires a piercing shot in a straight line dealing 125% damage, with a 35% chance to deal an additional 85% damage. 25s CD",
-          "Cooldown": 25,
-          "Upgrade": 3
+          "Description": "Deadeye Freddy fires a piercing shot in a straight line dealing 125% damage, with a 35% chance to deal an additional 85% damage. 25s CD"
         }
       ],
       "Obtainability": [
@@ -5056,8 +5880,7 @@
           "Range": 24,
           "Damage": 860,
           "Cooldown": 6,
-          "UpgradePrice": 6000,
-          "Type": "FullAOE"
+          "UpgradePrice": 6000
         },
         {
           "Range": 24,
@@ -5089,6 +5912,7 @@
         "Heartbeat Current": "Every 60 seconds an electric shock spreads from Dreadbear’s heart throughout the rest of his body, decreasing his cooldown by 15% for 20 seconds."
       },
       "Obtainability": [
+        "Dreadbear Present (100%)",
         "Halloween Event Premium Pass Tier 30"
       ]
     },
@@ -5133,8 +5957,7 @@
           "Range": 24,
           "Damage": 2475,
           "Cooldown": 6.6,
-          "UpgradePrice": 7000,
-          "Type": "Circle"
+          "UpgradePrice": 7000
         },
         {
           "Range": 24,
@@ -5162,15 +5985,12 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 2350,
       "Type": "Cone",
-      "Degrees": 45,
       "Element": "Neutral",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 22,
         "Damage": 150,
-        "Cooldown": 2,
-        "Type": "Cone",
-        "Degrees": 45
+        "Cooldown": 2
       },
       "UpgradeStats": [
         {
@@ -5208,6 +6028,7 @@
         "Broken Ornaments": "When attacking an enemy, has a 33% chance to apply a 4 second bleed dealing 15% damage every second"
       },
       "Obtainability": [
+        "Grinch Foxy Present (100%)",
         "Christmas Movie Event Premium Pass Tier 30"
       ]
     },
@@ -5240,8 +6061,7 @@
           "Range": 24,
           "Damage": 660,
           "Cooldown": 3,
-          "UpgradePrice": 7000,
-          "Type": "Circle"
+          "UpgradePrice": 7000
         },
         {
           "Range": 24,
@@ -5259,9 +6079,7 @@
           "Range": 25,
           "Damage": 800,
           "Cooldown": 2.7,
-          "UpgradePrice": 9000,
-          "Type": "Cone",
-          "Degrees": 75
+          "UpgradePrice": 9000
         },
         {
           "Range": 25,
@@ -5301,9 +6119,7 @@
           "Range": 20,
           "Damage": 1150,
           "Cooldown": 3.6,
-          "UpgradePrice": 6500,
-          "Type": "Cone",
-          "Degrees": 75
+          "UpgradePrice": 6500
         },
         {
           "Range": 22,
@@ -5400,7 +6216,217 @@
         "Radio Static": "When an enemy is within 50% of this unit's range for more than 2 seconds, this unit stuns the enemy for 3s. [12.5s stun CD]"
       },
       "Obtainability": [
+        "Mangle Present (100%)",
+        "Season 1 Present (80%)",
         "1st Exclusive Pack (2500 R$)"
+      ]
+    },
+    {
+      "Name": "Masked Bullies",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 850,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 17,
+        "Damage": 190,
+        "Cooldown": 2.7
+      },
+      "UpgradeStats": [
+        {
+          "Range": 17,
+          "Damage": 215,
+          "Cooldown": 2.6,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 18,
+          "Damage": 255,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1450
+        },
+        {
+          "Range": 18,
+          "Damage": 288,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 19,
+          "Damage": 345,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 20,
+          "Damage": 400,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3350
+        },
+        {
+          "Range": 20,
+          "Damage": 450,
+          "Cooldown": 2.2,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 22,
+          "Damage": 505,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "Crying Cannon": "The Foxy bully will shoot the crying child out every 4th attack resulting in the bullies dealing 150% damage"
+      },
+      "Actives": [
+        {
+          "Name": "Heckle",
+          "Description": "The group of teenagers will start yelling causing the enemies to be insecure. Deals 3 knockback and 20% damage every second."
+        }
+      ],
+      "Obtainability": [
+        "Season 3 Present Craftable"
+      ]
+    },
+    {
+      "Name": "Nightmare Mangle",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3650,
+      "Type": "FullAOE",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 19,
+        "Damage": 250,
+        "Cooldown": 2.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 285,
+          "Cooldown": 2.3,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 20,
+          "Damage": 300,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 21,
+          "Damage": 335,
+          "Cooldown": 2.2,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 21,
+          "Damage": 360,
+          "Cooldown": 2.1,
+          "UpgradePrice": 7350
+        },
+        {
+          "Range": 22,
+          "Damage": 385,
+          "Cooldown": 2.1,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 22,
+          "Damage": 400,
+          "Cooldown": 1.9,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 23,
+          "Damage": 415,
+          "Cooldown": 1.9,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 23,
+          "Damage": 435,
+          "Cooldown": 1.7,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Actives": [
+        {
+          "Name": "Static Cry",
+          "Description": "Once activated, Both of Nightmare Mangle’s heads produces a static scream at enemies (cone), for the duration of the scream nightmare mangle does no damage but stuns the enemies for 3 seconds last 7 seconds "
+        }
+      ],
+      "Obtainability": [
+        "Coin Summons (0.01%)"
+      ]
+    },
+    {
+      "Name": "Nightmarionne",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 3450,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 600,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 635,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3450
+        },
+        {
+          "Range": 22,
+          "Damage": 675,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3450
+        },
+        {
+          "Range": 22,
+          "Damage": 730,
+          "Cooldown": 2.6,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 23,
+          "Damage": 765,
+          "Cooldown": 2.6,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 23,
+          "Damage": 820,
+          "Cooldown": 2.4,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 24,
+          "Damage": 865,
+          "Cooldown": 2.4,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 24,
+          "Damage": 900,
+          "Cooldown": 2.2,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 25,
+          "Damage": 935,
+          "Cooldown": 2.2,
+          "UpgradePrice": 7500
+        }
+      ],
+      "Obtainability": [
+        "Nightmarionne Present (100%)",
+        "3rd Exclusive Pack (2500 R$)"
       ]
     },
     {
@@ -5447,7 +6473,6 @@
           "UpgradePrice": 5250
         }
       ],
-      "Passives": {},
       "Actives": [
         {
           "Name": "Lethal Frame",
@@ -5457,6 +6482,7 @@
         }
       ],
       "Obtainability": [
+        "Phone Dude Present (100%)",
         "2nd Exclusive Pack (2500 R$)"
       ]
     },
@@ -5564,8 +6590,7 @@
           "Range": 25,
           "Damage": 700,
           "Cooldown": 4.4,
-          "UpgradePrice": 2650,
-          "Type": "Circle"
+          "UpgradePrice": 2650
         },
         {
           "Range": 26,
@@ -5583,9 +6608,7 @@
           "Range": 28,
           "Damage": 800,
           "Cooldown": 3.8,
-          "UpgradePrice": 4250,
-          "Type": "Cone",
-          "Degrees": 45
+          "UpgradePrice": 4250
         },
         {
           "Range": 31,
@@ -5598,7 +6621,7 @@
         "Ghosts of Christmas Past and Future": "All attacks from this unit inflict [Darkfire]. Darkfire does 23% of this unit’s damage per tick for 2 seconds."
       },
       "Obtainability": [
-        "Christmas Movie Event Summons (0.025%)"
+        "Christmas Event Present (0.04%)"
       ]
     },
     {
@@ -5606,14 +6629,12 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 3250,
       "Type": "Cone",
-      "Degrees": 60,
       "Element": "Water",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 25,
         "Damage": 650,
-        "Cooldown": 4,
-        "Degrees": 60
+        "Cooldown": 4
       },
       "UpgradeStats": [
         {
@@ -5638,8 +6659,7 @@
           "Range": 28,
           "Damage": 785,
           "Cooldown": 3.4,
-          "UpgradePrice": 3500,
-          "Type": "Line"
+          "UpgradePrice": 3500
         },
         {
           "Range": 28,
@@ -5658,12 +6678,11 @@
         "Blood In The Water": "The longer an enemy is in Shark Withered Foxy's range, the more damage they take from Shark Withered Foxy (+2% per second)"
       },
       "Obtainability": [
-        "AFK Present (0.1-0.5%)"
+        "AFK Present (0.1%)"
       ]
     },
     {
       "Name": "Spring Duo",
-      "SwitchSpeed": 15,
       "Rarity": "Nightmare",
       "PlacementPrice": 3000,
       "Type": "Line",
@@ -5674,56 +6693,18 @@
         "Damage": 300,
         "Cooldown": 3
       },
-      "UpgradeStats": {
-        "Fredbear": [
-          {
-            "Range": 18,
-            "Damage": 115,
-            "Cooldown": 1.3,
-            "UpgradePrice": 4250,
-            "Type": "Circle"
-          },
-          {
-            "Range": 19,
-            "Damage": 130,
-            "Cooldown": 1.2,
-            "UpgradePrice": 4750
-          },
-          {
-            "Range": 20,
-            "Damage": 195,
-            "Cooldown": 1,
-            "UpgradePrice": 5000
-          }
-        ],
-        "Bonnie": [
-          {
-            "Range": 24,
-            "Damage": 850,
-            "Cooldown": 3.2,
-            "UpgradePrice": 4250,
-            "Type": "Line"
-          },
-          {
-            "Range": 26,
-            "Damage": 900,
-            "Cooldown": 3,
-            "UpgradePrice": 4750
-          },
-          {
-            "Range": 28,
-            "Damage": 1000,
-            "Cooldown": 2.7,
-            "UpgradePrice": 5000
-          }
-        ]
-      },
-      "Passives": {
-        "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
-      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 3,
+          "UpgradePrice": 3000
+        }
+      ],
       "Obtainability": [
         "Season 2 Present Craftable"
-      ]
+      ],
+      "SwitchSpeed": 15
     },
     {
       "Name": "Time Lord Withered Freddy",
@@ -5748,9 +6729,7 @@
           "Range": 20,
           "Damage": 700,
           "Cooldown": 2.8,
-          "UpgradePrice": 7000,
-          "Type": "Cone",
-          "Degrees": 60
+          "UpgradePrice": 7000
         },
         {
           "Range": 20,
@@ -5777,7 +6756,6 @@
           "UpgradePrice": 6000
         }
       ],
-      "Passives": {},
       "Actives": [
         {
           "Name": "Time Stop",
@@ -5787,6 +6765,7 @@
         }
       ],
       "Obtainability": [
+        "Time Lord Withered Freddy Present (100%)",
         "Game Mode Shop (350 Raid Coins)"
       ]
     },
@@ -5813,9 +6792,7 @@
           "Range": 22,
           "Damage": 215,
           "Cooldown": 0.63,
-          "UpgradePrice": 15000,
-          "Type": "Cone",
-          "Degrees": 45
+          "UpgradePrice": 15000
         },
         {
           "Range": 23,
@@ -5827,9 +6804,7 @@
           "Range": 24,
           "Damage": 240,
           "Cooldown": 0.54,
-          "UpgradePrice": 20000,
-          "Type": "Cone",
-          "Degrees": 70
+          "UpgradePrice": 20000
         },
         {
           "Range": 24,
@@ -5838,13 +6813,10 @@
           "UpgradePrice": 25000
         }
       ],
-      "Passives": {},
       "Actives": [
         {
           "Name": "Crash Landing",
-          "Description": "Valkyrie spins and swoops to the ground dealing 230% damage in a line 25% larger than her current range.",
-          "Cooldown": 70,
-          "Upgrade": 1
+          "Description": "Valkyrie spins and swoops to the ground dealing 230% damage in a line 25% larger than her current range."
         }
       ],
       "Obtainability": [
@@ -5893,9 +6865,7 @@
           "Range": 28,
           "Damage": 1150,
           "Cooldown": 5.7,
-          "UpgradePrice": 4400,
-          "Type": "Cone",
-          "Degrees": 65
+          "UpgradePrice": 4400
         },
         {
           "Range": 30,
@@ -5931,90 +6901,84 @@
       },
       "UpgradeStats": [
         {
-          "Damage": 2000,
           "Range": 20.5,
+          "Damage": 2000,
           "Cooldown": 9.5,
           "UpgradePrice": 3250
         },
         {
-          "Damage": 2200,
           "Range": 21,
+          "Damage": 2200,
           "Cooldown": 9.5,
           "UpgradePrice": 4250
         },
         {
-          "Damage": 2300,
           "Range": 22,
+          "Damage": 2300,
           "Cooldown": 9.5,
           "UpgradePrice": 5750
         },
         {
-          "Damage": 2450,
           "Range": 23,
+          "Damage": 2450,
           "Cooldown": 9.5,
           "UpgradePrice": 2500
         },
         {
-          "Damage": 2000,
           "Range": 25,
+          "Damage": 2000,
           "Cooldown": 9,
-          "UpgradePrice": 7500,
-          "Type": "Cone",
-          "Degrees": 60
+          "UpgradePrice": 7500
         },
         {
-          "Damage": 2200,
           "Range": 25,
+          "Damage": 2200,
           "Cooldown": 9,
           "UpgradePrice": 3500
         },
         {
-          "Damage": 2300,
           "Range": 26,
+          "Damage": 2300,
           "Cooldown": 8.5,
           "UpgradePrice": 3750
         },
         {
-          "Damage": 2400,
           "Range": 27,
+          "Damage": 2400,
           "Cooldown": 8,
           "UpgradePrice": 4000
         },
         {
-          "Damage": 2500,
           "Range": 28,
+          "Damage": 2500,
           "Cooldown": 7.5,
           "UpgradePrice": 4250
         },
         {
-          "Damage": 2600,
           "Range": 28,
+          "Damage": 2600,
           "Cooldown": 7,
-          "UpgradePrice": 8500,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 8500
         },
         {
-          "Damage": 2750,
           "Range": 30,
+          "Damage": 2750,
           "Cooldown": 7,
           "UpgradePrice": 3500
         }
       ],
       "Passives": {
-        "Frozen Obelisk": "All enemies within this unit’s range are slowed by 25%. Additionally these enemies take 20% more damage from Water element units.",
-        "Crown of Permafrost": "Enemies hit by this unit are inflicted with [Permafrost]. [Permafrost] deals 3% of the unit’s damage every second until the enemy dies."
+        "Frozen Obelisk": "All enemies within this unit’s range are slowed by 25%. Additionally these enemies take 20% more damage from Water element units."
       },
       "Actives": [
         {
           "Name": "Black Ice Bifrost",
-          "Description": "When selected, Frozen King Foxy descends into the icy depths, allowing it to be placed anywhere on the map. After being placed, it will rise up and start attacking after 2s. Once 2s have passed, this unit gains 10% decreased CD for 3s",
-          "Cooldown": 12,
-          "Upgrade": 11
+          "Description": "When selected, Frozen King Foxy descends into the icy depths, allowing it to be placed anywhere on the map. After being placed, it will rise up and start attacking after 2s. Once 2s have passed, this unit gains 10% decreased CD for 3s"
         }
       ],
       "Obtainability": [
-        "Christmas Movie Event Special Endless (Random chance upon completion of wave 25)"
+        "Christmas Movie Event Special Endless (Random chance upon completion of wave 25)",
+        "Frozen King Foxy Present (100%)"
       ]
     },
     {
@@ -6022,15 +6986,12 @@
       "Rarity": "Apex",
       "PlacementPrice": 5400,
       "Type": "Cone",
-      "Degrees": 65,
       "Element": "Fire",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 24,
         "Damage": 800,
-        "Cooldown": 5.8,
-        "Type": "Cone",
-        "Degrees": 65
+        "Cooldown": 5.8
       },
       "UpgradeStats": [
         {
@@ -6067,9 +7028,7 @@
           "Range": 31,
           "Damage": 1840,
           "Cooldown": 5.8,
-          "UpgradePrice": 7000,
-          "Type": "Cone",
-          "Degrees": 120
+          "UpgradePrice": 7000
         },
         {
           "Range": 33,
@@ -6103,7 +7062,8 @@
         }
       ],
       "Obtainability": [
-        "Halloween Event Endless Shop (150K Bones)"
+        "Halloween Event Endless Shop (150K Bones)",
+        "Headless Horseman Present (100%)"
       ]
     },
     {
@@ -6111,7 +7071,6 @@
       "Rarity": "Apex",
       "PlacementPrice": 10000,
       "Type": "Cone",
-      "Degrees": 50,
       "Element": "Water",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -6136,9 +7095,7 @@
           "Range": 31,
           "Damage": 3045,
           "Cooldown": 11.5,
-          "UpgradePrice": 7850,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 7850
         },
         {
           "Range": 32.5,
@@ -6156,9 +7113,7 @@
           "Range": 34.5,
           "Damage": 3795,
           "Cooldown": 10.5,
-          "UpgradePrice": 6250,
-          "Type": "Cone",
-          "Degrees": 120
+          "UpgradePrice": 6250
         },
         {
           "Range": 35,
@@ -6168,7 +7123,6 @@
         }
       ],
       "Passives": {
-        "Yeti’s Army": " On this unit’s cooldown, summons a Yeti Oni Apprentice on the track. Every 3rd summon, summons a Yeti Oni Sensei instead. Yeti Oni Apprentice: 30% damage as HP, attacks enemies within 23 range for 25% damage in a Single type with a 3s CD. Yeti Oni Sensei: 80% damage as HP, attacks enemies within 15 range for 45% damage in a Single type with a 2.5s CD. ",
         "Frost Slash": "When attacking an enemy with more than 80% HP, immediately performs a follow up attack dealing 50% damage in a line."
       },
       "Actives": [
@@ -6326,9 +7280,7 @@
       "Actives": [
         {
           "Name": "The one you should not have killed",
-          "Description": "Upon activation,Golden Freddy deals 250% Damage to all Enemies on the map.",
-          "Cooldown": 30,
-          "Upgrade": 18
+          "Description": "Upon activation,Golden Freddy deals 250% Damage to all Enemies on the map."
         }
       ],
       "Obtainability": [
@@ -6339,6 +7291,161 @@
           "Name": "Fredbear",
           "Obtainability": "Milestones (35K FazRating)",
           "Rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "Name": "Nightmare Fredbear",
+      "Rarity": "Hero",
+      "PlacementPrice": 7500,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 90,
+        "Cooldown": 2.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 120,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 25,
+          "Damage": 140,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 26,
+          "Damage": 175,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 220,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 260,
+          "Cooldown": 2.4,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 27,
+          "Damage": 275,
+          "Cooldown": 2.3,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 27,
+          "Damage": 320,
+          "Cooldown": 2.2,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 20,
+          "Damage": 475,
+          "Cooldown": 3.7,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 20,
+          "Damage": 490,
+          "Cooldown": 3.7,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 22,
+          "Damage": 520,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 22,
+          "Damage": 560,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 600,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 630,
+          "Cooldown": 3.5,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 25,
+          "Damage": 675,
+          "Cooldown": 3.5,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 26,
+          "Damage": 720,
+          "Cooldown": 3.5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 26,
+          "Damage": 775,
+          "Cooldown": 3.4,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 27,
+          "Damage": 925,
+          "Cooldown": 3.4,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 24,
+          "Damage": 1075,
+          "Cooldown": 3.6,
+          "UpgradePrice": 18500
+        },
+        {
+          "Range": 25,
+          "Damage": 1225,
+          "Cooldown": 3.5,
+          "UpgradePrice": 20000
+        },
+        {
+          "Range": 26,
+          "Damage": 1425,
+          "Cooldown": 3.4,
+          "UpgradePrice": 22500
+        }
+      ],
+      "Passives": {
+        "Feeding the Fear": "All Dark units gain +10% DMG and +10% RNG. This bonus increases by an additional 10% per Dark unit on your team. Each attack grants 1 stack of Fear. Every stack increases SPA by 0.5 and DMG by 5% (max 10 stacks). Upon reaching max Fear, activate Passive 2.",
+        "Darkest Eclipse": "Swap to Nightmare for 30s; Unleash a wave of darkness, slowing all enemies by 25% and applying Death. When attacking a slowed enemy, deal 125% damage."
+      },
+      "Actives": [
+        {
+          "Name": "Nightmarish Cry",
+          "Description": "Stun all current enemies and increase ally unit SPA by 75% for 10s (does not include self). During this time, Nightmare Fredbear can attack anywhere on the map and deals 1%-75% increased damage based on distance from this unit."
+        }
+      ],
+      "Obtainability": [
+        "Nightmare Fredbear Hero Quests"
+      ],
+      "Skins": [
+        {
+          "Name": "Remnant Fredbear",
+          "Obtainability": "2nd Exclusive Skin Bundle (199 R$)",
+          "Rarity": "Mythic"
         }
       ]
     },
@@ -6401,8 +7508,7 @@
           "Range": 16,
           "Damage": 400,
           "Cooldown": 3.6,
-          "UpgradePrice": 8000,
-          "Type": "Circle"
+          "UpgradePrice": 8000
         },
         {
           "Range": 16,
@@ -6444,9 +7550,7 @@
           "Range": 21,
           "Damage": 700,
           "Cooldown": 2.9,
-          "UpgradePrice": 12500,
-          "Type": "Cone",
-          "Degrees": 180
+          "UpgradePrice": 12500
         },
         {
           "Range": 23,
@@ -6487,13 +7591,11 @@
       "Actives": [
         {
           "Name": "Hellish Consequences",
-          "Description": "Hooks the highest-HP enemy, creating a red pool beneath them for 6 seconds. The pool deals damage equal to 66% of this unit’s damage, bosses take +200% increased damage from the pool.",
-          "Cooldown": 90,
-          "Upgrade": 1
+          "Description": "Hooks the highest-HP enemy, creating a red pool beneath them for 6 seconds. The pool deals damage equal to 66% of this unit’s damage, bosses take +200% increased damage from the pool."
         }
       ],
       "Obtainability": [
-        "OMC Unlock Quests (Need Help? Click Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
+        "OMC Unlock Quests (Need Help? Check Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
       ]
     },
     {
@@ -6510,44 +7612,44 @@
       },
       "UpgradeStats": [
         {
-          "Damage": 155,
           "Range": 20,
+          "Damage": 155,
           "Cooldown": 3,
           "UpgradePrice": 500
         },
         {
+          "Range": 20,
           "Damage": 160,
-          "Range": 20,
           "Cooldown": 3,
           "UpgradePrice": 1000
         },
         {
+          "Range": 20,
           "Damage": 165,
-          "Range": 20,
           "Cooldown": 3,
           "UpgradePrice": 1000
         },
         {
-          "Damage": 170,
           "Range": 20,
+          "Damage": 170,
           "Cooldown": 3,
           "UpgradePrice": 1500
         },
         {
-          "Damage": 175,
           "Range": 25,
+          "Damage": 175,
           "Cooldown": 3,
           "UpgradePrice": 1750
         },
         {
-          "Damage": 180,
           "Range": 25,
+          "Damage": 180,
           "Cooldown": 3,
           "UpgradePrice": 2000
         },
         {
-          "Damage": 185,
           "Range": 25,
+          "Damage": 185,
           "Cooldown": 3,
           "UpgradePrice": 2250
         },
@@ -6558,21 +7660,20 @@
           "UpgradePrice": 2500
         },
         {
-          "Damage": 195,
           "Range": 25,
+          "Damage": 195,
           "Cooldown": 3,
           "UpgradePrice": 2750
         },
         {
-          "Damage": 200,
           "Range": 30,
+          "Damage": 200,
           "Cooldown": 2.8,
-          "UpgradePrice": 3500,
-          "Type": "Circle"
+          "UpgradePrice": 3500
         },
         {
-          "Damage": 215,
           "Range": 30,
+          "Damage": 215,
           "Cooldown": 2.8,
           "UpgradePrice": 4000
         },
@@ -6583,50 +7684,50 @@
           "UpgradePrice": 4500
         },
         {
-          "Damage": 245,
           "Range": 30,
+          "Damage": 245,
           "Cooldown": 2.8,
           "UpgradePrice": 5000
         },
         {
-          "Damage": 260,
           "Range": 30,
+          "Damage": 260,
           "Cooldown": 2.8,
           "UpgradePrice": 5500
         },
         {
-          "Damage": 275,
           "Range": 35,
+          "Damage": 275,
           "Cooldown": 2.5,
           "UpgradePrice": 6500
         },
         {
-          "Damage": 295,
           "Range": 35,
+          "Damage": 295,
           "Cooldown": 2.5,
           "UpgradePrice": 7000
         },
         {
-          "Damage": 325,
           "Range": 35,
+          "Damage": 325,
           "Cooldown": 2.5,
           "UpgradePrice": 7500
         },
         {
-          "Damage": 355,
           "Range": 35,
+          "Damage": 355,
           "Cooldown": 2.5,
           "UpgradePrice": 8000
         },
         {
-          "Damage": 375,
           "Range": 35,
+          "Damage": 375,
           "Cooldown": 2.5,
           "UpgradePrice": 8500
         },
         {
-          "Damage": 400,
           "Range": 35,
+          "Damage": 400,
           "Cooldown": 2.5,
           "UpgradePrice": 10000
         }
@@ -6638,9 +7739,7 @@
       "Actives": [
         {
           "Name": "Happiest Day",
-          "Description": "Upon activation, Puppet increases Damage by 30% for 15 seconds to all Units.",
-          "Cooldown": 40,
-          "Upgrade": 18
+          "Description": "Upon activation, Puppet increases Damage by 30% for 15 seconds to all Units."
         }
       ],
       "Obtainability": [
@@ -6730,9 +7829,7 @@
           "Range": 18,
           "Damage": 303,
           "Cooldown": 3,
-          "UpgradePrice": 7500,
-          "Type": "Cone",
-          "Degrees": 90
+          "UpgradePrice": 7500
         },
         {
           "Range": 18,
@@ -6802,9 +7899,7 @@
       "Actives": [
         {
           "Name": " Ignited Rage",
-          "Description": "For the next 5s SpringTraps damage is increased by 100%. After that duration is over, 1 stack (15% DMG) is retained permanently (capped at 5 stacks/75% DMG). This 75% Stacks with this passive.",
-          "Cooldown": 30,
-          "Upgrade": 17
+          "Description": "For the next 5s SpringTraps damage is increased by 100%. After that duration is over, 1 stack (15% DMG) is retained permanently (capped at 5 stacks/75% DMG). This 75% Stacks with this passive."
         }
       ],
       "Obtainability": [
