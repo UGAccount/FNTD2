@@ -851,17 +851,17 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.6-1",
+          "value": "0.6-0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 2090
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 50
         }
       },
