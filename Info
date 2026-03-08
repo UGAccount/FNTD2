@@ -1058,9 +1058,9 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "8-8.5",
+          "value": "8",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8.5/10",
           "status": "Stable",
           "exists": 6290
         },
