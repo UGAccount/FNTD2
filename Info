@@ -378,10 +378,10 @@
           "exists": 958
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 55
         }
       },
@@ -771,10 +771,10 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 90
         },
         "Shiny": {
@@ -867,10 +867,10 @@
       },
       "Masked Bullies": {
         "Normal": {
-          "value": "N/A",
+          "value": "1-2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 72
         },
         "Shiny": {
@@ -915,10 +915,10 @@
       },
       "Crying Child": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 2567
         },
         "Shiny": {
@@ -954,10 +954,10 @@
           "exists": 5177
         },
         "Shiny": {
-          "value": "17.5+",
+          "value": "18+",
           "soul": "N/A",
           "demand": "7.5/10",
-          "status": "Overhyped",
+          "status": "Stable",
           "exists": 134
         }
       },
@@ -965,15 +965,15 @@
         "Normal": {
           "value": "2+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "8/10",
           "status": "Fluctuating",
           "exists": 737
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "12-20",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
+          "demand": "9/10",
+          "status": "Fluctuating",
           "exists": 20
         }
       },
