@@ -378,7 +378,7 @@
           "exists": 1323
         },
         "Shiny": {
-          "value": "1.75-2",
+          "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -586,10 +586,10 @@
           "exists": 4816
         },
         "Shiny": {
-          "value": "12+",
+          "value": "12-16",
           "soul": "N/A",
           "demand": "8+/10",
-          "status": "Unstable",
+          "status": "Manipulated",
           "exists": 121
         }
       },
@@ -746,7 +746,7 @@
           "exists": 32585
         },
         "Shiny": {
-          "value": "5+",
+          "value": "4.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -787,7 +787,7 @@
       },
       "Freddles": {
         "Normal": {
-          "value": "1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -963,7 +963,7 @@
       },
       "Nightmarionne": {
         "Normal": {
-          "value": "2+",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Fluctuating",
@@ -1452,7 +1452,7 @@
           "value": "11+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 120
         }
       },
