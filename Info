@@ -1540,8 +1540,8 @@
         "Normal": {
           "value": "0.15-0.2",
           "soul": "N/A",
-          "demand": "5/10",
-          "status": "Dropping",
+          "demand": "7/10",
+          "status": "Unstable",
           "exists": 21622
         },
         "Shiny": {
