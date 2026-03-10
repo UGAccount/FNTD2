@@ -355,7 +355,7 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.09",
+          "value": "0.06",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -666,10 +666,10 @@
           "exists": 10834
         },
         "Shiny": {
-          "value": "8+",
+          "value": "8",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Overhyped",
+          "status": "Stable",
           "exists": 286
         }
       },
@@ -746,7 +746,7 @@
           "exists": 32569
         },
         "Shiny": {
-          "value": "4.5",
+          "value": "4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -762,7 +762,7 @@
           "exists": 2990
         },
         "Shiny": {
-          "value": "4",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -794,7 +794,7 @@
           "exists": 658
         },
         "Shiny": {
-          "value": "12+",
+          "value": "10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -899,7 +899,7 @@
       },
       "Cloaked Sparky": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.07+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -970,7 +970,7 @@
           "exists": 1278
         },
         "Shiny": {
-          "value": "18+",
+          "value": "18-20+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Fluctuating",
@@ -1298,7 +1298,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "7.5+",
+          "value": "7.5-8",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
@@ -1538,23 +1538,23 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.15-2",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Dropping",
           "exists": 21622
         },
         "Shiny": {
-          "value": "4",
+          "value": "5+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Overhyped",
           "exists": 611
         }
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.175",
+          "value": "0.175-0.2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
