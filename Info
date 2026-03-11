@@ -787,7 +787,7 @@
       },
       "Freddles": {
         "Normal": {
-          "value": "0.7+",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -842,7 +842,7 @@
           "exists": 248177
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -851,7 +851,7 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.4+",
+          "value": "0.35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -867,7 +867,7 @@
       },
       "Masked Bullies": {
         "Normal": {
-          "value": "1",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
