@@ -330,7 +330,7 @@
           "exists": 21538
         },
         "Shiny": {
-          "value": "0.05",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -389,7 +389,7 @@
         "Normal": {
           "value": "0.2",
           "soul": "N/A",
-          "demand": "7.5/10",
+          "demand": "6/10",
           "status": "Dropping",
           "exists": 8181
         },
@@ -437,8 +437,8 @@
         "Normal": {
           "value": "0.1+",
           "soul": "N/A",
-          "demand": "8/10",
-          "status": "Dropping",
+          "demand": "6/10",
+          "status": "Stable",
           "exists": 8180
         },
         "Shiny": {
@@ -486,7 +486,7 @@
           "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 39088
         },
         "Shiny": {
@@ -531,7 +531,7 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -550,7 +550,7 @@
           "value": "0.3-0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 3368
         },
         "Shiny": {
@@ -565,14 +565,14 @@
         "Normal": {
           "value": "0.1",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "5/10",
           "status": "Stable",
           "exists": 6906
         },
         "Shiny": {
           "value": "6.5",
           "soul": "N/A",
-          "demand": "7.5/10",
+          "demand": "5/10",
           "status": "Unstable",
           "exists": 144
         }
@@ -621,7 +621,7 @@
           "value": "7.5+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 706
         }
       },
@@ -646,7 +646,7 @@
           "value": "0.05+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 23892
         },
         "Shiny": {
@@ -726,7 +726,7 @@
           "value": "0.04",
           "soul": "N/A",
           "demand": "4.5/10",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 88581
         },
         "Shiny": {
@@ -741,7 +741,7 @@
         "Normal": {
           "value": "0.125+",
           "soul": "N/A",
-          "demand": "6/10",
+          "demand": "5/10",
           "status": "Dropping",
           "exists": 32569
         },
@@ -787,14 +787,14 @@
       },
       "Freddles": {
         "Normal": {
-          "value": "0.5+",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 658
         },
         "Shiny": {
-          "value": "10",
+          "value": "7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -908,7 +908,7 @@
         "Shiny": {
           "value": "2+",
           "soul": "N/A",
-          "demand": "6/10",
+          "demand": "6.5/10",
           "status": "Stable",
           "exists": 896
         }
@@ -1298,7 +1298,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "7.5-8",
+          "value": "7.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -1520,12 +1520,12 @@
           "exists": 505
         }
       },
-      "Valkyrie Chica": {
+      "Valkyrie ": {
         "Normal": {
           "value": "0.125",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 34124
         },
         "Shiny": {
@@ -1538,7 +1538,7 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15-0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -1554,7 +1554,7 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.175-0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -5900,7 +5900,7 @@
       "Actives": [
         {
           "Name": "Blossom Boom",
-          "Description": "Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
+          "Description": "Blossom Chica will summon in a rose thorn bush trap for 45% of her damage. Additional will grant 30% damage done as income. As well if in boss rush all units that are knocked out will be healed",
           "Cooldown": 12,
           "Upgrade": 3
         }
