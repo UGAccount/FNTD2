@@ -278,14 +278,14 @@
           "value": "0.0005",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 255871
         },
         "Shiny": {
           "value": "0.06",
           "soul": "N/A",
           "demand": "5/10",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 11990
         }
       },
@@ -294,7 +294,7 @@
           "value": "0.0005",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 273382
         },
         "Shiny": {
@@ -326,14 +326,14 @@
           "value": "0.004",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 21538
         },
         "Shiny": {
           "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 1506
         }
       },
@@ -390,14 +390,14 @@
           "value": "0.2",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 8181
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "7.5/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 171
         }
       },
@@ -470,14 +470,14 @@
           "value": "0.015",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 241632
         },
         "Shiny": {
           "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 9836
         }
       },
@@ -525,7 +525,7 @@
           "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 25897
         }
       },
@@ -534,14 +534,14 @@
           "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 41400
         },
         "Shiny": {
           "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 730
         }
       },
@@ -573,7 +573,7 @@
           "value": "6.5",
           "soul": "N/A",
           "demand": "5/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 144
         }
       },
@@ -621,7 +621,7 @@
           "value": "7.5+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 706
         }
       },
@@ -733,7 +733,7 @@
           "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 1456
         }
       },
@@ -778,7 +778,7 @@
           "exists": 1043
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5.5-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -794,7 +794,7 @@
           "exists": 658
         },
         "Shiny": {
-          "value": "8-9",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -851,7 +851,7 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -874,7 +874,7 @@
           "exists": 913
         },
         "Shiny": {
-          "value": "6-8",
+          "value": "6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -950,7 +950,7 @@
           "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 5175
         },
         "Shiny": {
@@ -1298,10 +1298,10 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "7.5",
+          "value": "7",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 6287
         },
         "Shiny": {
@@ -1429,7 +1429,7 @@
           "value": "0.2",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 5539
         },
         "Shiny": {
@@ -1468,7 +1468,7 @@
           "value": "0.35-0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 3266
         }
       },
@@ -1604,13 +1604,13 @@
         "value": "0.21",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "Boss Raid Present": {
         "value": "0.004",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "AFK Present": {
         "value": "N/A",
@@ -1667,10 +1667,10 @@
         "status": "N/A"
       },
       "Season 2 Present": {
-        "value": "0.0005",
+        "value": "0.0001",
         "soul": "N/A",
         "demand": "4/10",
-        "status": "N/A"
+        "status": "Unstable"
       },
       "Psychic Friend Fredbear Present": {
         "value": "N/A",
@@ -1691,10 +1691,10 @@
         "status": "N/A"
       },
       "Season 3 Present": {
-        "value": "N/A",
+        "value": "0.0003",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       },
       "PPC Present": {
         "value": "N/A",
@@ -1760,7 +1760,7 @@
         "value": "0.1+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "Popeyes Toy Freddy Present": {
         "value": "N/A",
@@ -1814,7 +1814,7 @@
         "value": "1.5+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "Krampus Purple Guy Present": {
         "value": "N/A",
@@ -1883,10 +1883,10 @@
         "status": "N/A"
       },
       "OG Present": {
-        "value": "0.001",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "7/10",
-        "status": "Stable"
+        "status": "Unstable"
       },
       "Halloween Present": {
         "value": "N/A",
