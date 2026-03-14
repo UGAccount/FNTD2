@@ -3430,7 +3430,7 @@
       "Rarity": "Mythical",
       "PlacementPrice": 1100,
       "Type": "Circle",
-      "Element": "Dark",
+      "Element": "Fire",
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
