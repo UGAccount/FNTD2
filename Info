@@ -611,7 +611,7 @@
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.5",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
@@ -1234,14 +1234,14 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
           "exists": 9120
         },
         "Shiny": {
-          "value": "7.5",
+          "value": "7.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
