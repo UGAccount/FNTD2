@@ -2113,6 +2113,12 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+      },
+      "Deep Sea Nautilus": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       }
     },
     "Currency": {
@@ -6573,6 +6579,13 @@
       ],
       "Obtainability": [
         "OMC Unlock Quests (Need Help? Check Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
+      ],
+      "Skins": [
+        {
+          "Name": "Deep Sea Nautilus",
+          "Obtainability": "AFK Present (0.01%)",
+          "Rarity": "Nightmare"
+        }
       ]
     },
     {
