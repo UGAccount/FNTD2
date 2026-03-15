@@ -595,7 +595,7 @@
       },
       "Shadow Bonnie": {
         "Normal": {
-          "value": "1",
+          "value": "0.9+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -627,7 +627,7 @@
       },
       "Golden Cupcake": {
         "Normal": {
-          "value": "0.06",
+          "value": "0.08-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1123,14 +1123,14 @@
       },
       "UFO Tangle": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.04-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 7635
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.9-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1257,7 +1257,7 @@
           "exists": 9117
         },
         "Shiny": {
-          "value": "7.5+",
+          "value": "8+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
