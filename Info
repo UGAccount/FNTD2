@@ -531,7 +531,7 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.03",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -666,7 +666,7 @@
           "exists": 10850
         },
         "Shiny": {
-          "value": "8",
+          "value": "7.5-8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -762,7 +762,7 @@
           "exists": 4913
         },
         "Shiny": {
-          "value": "3+",
+          "value": "2.5-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -771,7 +771,7 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "0.2-0.3",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1114,7 +1114,7 @@
           "exists": 28715
         },
         "Shiny": {
-          "value": "1.75+",
+          "value": "1.8-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1449,7 +1449,7 @@
           "exists": 5948
         },
         "Shiny": {
-          "value": "12+",
+          "value": "13-16",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
@@ -1465,7 +1465,7 @@
           "exists": 4960
         },
         "Shiny": {
-          "value": "15+",
+          "value": "15-20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
@@ -2065,16 +2065,16 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1",
+        "value": "0.8+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "0.8+",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "Overhyped"
       },
       "Quick Open": {
         "value": "0.25",
