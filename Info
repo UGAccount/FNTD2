@@ -554,7 +554,7 @@
           "exists": 4275
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "10+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
@@ -778,7 +778,7 @@
           "exists": 3890
         },
         "Shiny": {
-          "value": "5",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -858,7 +858,7 @@
           "exists": 10976
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1130,7 +1130,7 @@
           "exists": 7635
         },
         "Shiny": {
-          "value": "0.9-1.2",
+          "value": "0.9+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1162,7 +1162,7 @@
           "exists": 3835
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "60+",
           "demand": "N/A",
           "status": "Manipulated",
           "exists": 77
@@ -1385,7 +1385,7 @@
           "exists": 46791
         },
         "Shiny": {
-          "value": "1.2+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
@@ -1442,14 +1442,14 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.2+",
           "soul": "N/A",
-          "demand": "6.5/10",
+          "demand": "7/10",
           "status": "Stable",
           "exists": 5948
         },
         "Shiny": {
-          "value": "13-16",
+          "value": "13+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
@@ -1481,7 +1481,7 @@
           "exists": 127894
         },
         "Shiny": {
-          "value": "0.35-0.4",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1497,7 +1497,7 @@
           "exists": 113107
         },
         "Shiny": {
-          "value": "0.6+",
+          "value": "0.55+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
