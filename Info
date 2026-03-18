@@ -771,33 +771,33 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 5713
         },
         "Shiny": {
           "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 160
         }
       },
       "Freddles": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 2968
         },
         "Shiny": {
-          "value": "7.5",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 103
         }
       },
