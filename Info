@@ -874,7 +874,7 @@
           "exists": 5355
         },
         "Shiny": {
-          "value": "4-4.5",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -934,7 +934,7 @@
           "value": "1",
           "soul": "N/A",
           "demand": "6.7/10",
-          "status": "Stable",
+          "status": "Underpaid For",
           "exists": 5471
         },
         "Shiny": {
@@ -1204,8 +1204,8 @@
         "Normal": {
           "value": "1",
           "soul": "N/A",
-          "demand": "7/10",
-          "status": "Stable",
+          "demand": "6/10",
+          "status": "Underpaid For",
           "exists": 27711
         },
         "Shiny": {
@@ -1458,7 +1458,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "0.6-0.7+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
