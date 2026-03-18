@@ -547,14 +547,14 @@
       },
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 4706
         },
         "Shiny": {
-          "value": "12-14",
+          "value": "12-15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
