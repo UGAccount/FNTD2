@@ -755,7 +755,7 @@
       },
       "Psychic Friend Fredbear": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -778,7 +778,7 @@
           "exists": 5713
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5#",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -842,7 +842,7 @@
           "exists": 628692
         },
         "Shiny": {
-          "value": "0.05",
+          "value": "0.015",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1034,10 +1034,10 @@
           "exists": 34204
         },
         "Shiny": {
-          "value": "1.4+",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Overhyped",
           "exists": 781
         }
       },
@@ -1130,7 +1130,7 @@
           "exists": 15055
         },
         "Shiny": {
-          "value": "0.9+",
+          "value": "0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -2109,10 +2109,10 @@
         "status": "N/A"
       },
       "Remnant Fredbear": {
-        "value": "0.25+",
+        "value": "0.25-0.3",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Deep Sea Nautilus": {
         "value": "N/A",
