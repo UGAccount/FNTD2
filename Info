@@ -1027,7 +1027,7 @@
       },
       "Popcorn Bot": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
