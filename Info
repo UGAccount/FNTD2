@@ -723,7 +723,7 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.03+",
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Stable",
@@ -851,7 +851,7 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1027,7 +1027,7 @@
       },
       "Popcorn Bot": {
         "Normal": {
-          "value": "0.03",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1107,7 +1107,7 @@
       },
       "Hacker King RWQFSFASXC": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1298,7 +1298,7 @@
       },
       "Conductor Toy Freddy": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.15-0.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1650,13 +1650,13 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Shadow Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Season 1 Present": {
         "value": "N/A",
@@ -1734,13 +1734,13 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Phone Dude Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Nightmarionne Present": {
         "value": "N/A",
@@ -1812,13 +1812,13 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Dreadbear Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Slasher Bonnie Present": {
         "value": "N/A",
@@ -1952,13 +1952,13 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Nightmarionne": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Old Man Consequences": {
         "value": "N/A",
@@ -1982,13 +1982,13 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Grinch Foxy": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Bonnie": {
         "value": "N/A",
@@ -2024,7 +2024,7 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Mangle": {
         "value": "N/A",
@@ -2048,7 +2048,7 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       }
     },
     "Gamepasses": {
@@ -2088,37 +2088,37 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Jack'O Springtrap": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Puppeteer": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Tragedy": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Remnant Fredbear": {
         "value": "0.25-0.3",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Fluctuating"
+        "status": "O/C"
       },
       "Deep Sea Nautilus": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       }
     },
     "Currency": {
