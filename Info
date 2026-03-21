@@ -8363,14 +8363,6 @@
         "Cooldown": 0.8
       }
     },
-    "Champion": {
-      "Description": "40% Damage Increase + Attack 15% Faster",
-      "Boost": {
-        "Damage": 1.4,
-        "Range": 1,
-        "Cooldown": 0.85
-      }
-    },
     "Phantom": {
       "Description": "+10% Damage, Attacks 5% Faster, +35% Range",
       "Boost": {
@@ -8396,12 +8388,29 @@
       }
     },
     "SpringLocked": {
-      "Description": "+15% Damage, 10% Range, +25% True Damage",
+      "Description": "+15% Damage, 10% Range, 25% True Damage",
       "Boost": {
         "Damage": 1.15,
         "Range": 1.1,
         "Cooldown": 1,
         "TrueDamage": 0.25
+      }
+    },
+    "Prototype": {
+      "Description": "+30% Damage, 10% Range, 20% True Damage, Attacks 12% Faster",
+      "Boost": {
+        "Damage": 1.3,
+        "Range": 1.1,
+        "Cooldown": 0.88,
+        "TrueDamage": 0.20
+      }
+    },
+    "Champion": {
+      "Description": "+60% Damage, Attacks 10% Faster, +25% Range",
+      "Boost": {
+        "Damage": 1.6,
+        "Range": 1.25,
+        "Cooldown": 0.9
       }
     },
     "Vengeance": {
