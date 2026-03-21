@@ -934,7 +934,7 @@
           "value": "1",
           "soul": "N/A",
           "demand": "6.7/10",
-          "status": "Underpaid For",
+          "status": "Underpaid",
           "exists": 5471
         },
         "Shiny": {
@@ -1205,7 +1205,7 @@
           "value": "1",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Underpaid For",
+          "status": "Underpaid",
           "exists": 27712
         },
         "Shiny": {
