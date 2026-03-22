@@ -355,7 +355,7 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -531,7 +531,7 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -586,7 +586,7 @@
           "exists": 4813
         },
         "Shiny": {
-          "value": "12-16",
+          "value": "12-14",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -739,10 +739,10 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.125+",
+          "value": "0.1-0.125",
           "soul": "N/A",
           "demand": "5/10",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 32531
         },
         "Shiny": {
@@ -762,7 +762,7 @@
           "exists": 6323
         },
         "Shiny": {
-          "value": "2.5-3",
+          "value": "2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -771,14 +771,14 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 6823
         },
         "Shiny": {
-          "value": "3.5#",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -787,14 +787,14 @@
       },
       "Freddles": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 3429
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -858,7 +858,7 @@
           "exists": 15271
         },
         "Shiny": {
-          "value": "1+",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -867,10 +867,10 @@
       },
       "Masked Bullies": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25-0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Slowly Dropping",
           "exists": 6527
         },
         "Shiny": {
@@ -925,7 +925,7 @@
           "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Slowly Dropping",
           "exists": 212
         }
       },
@@ -1126,14 +1126,14 @@
           "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 17228
         },
         "Shiny": {
-          "value": "0.7",
+          "value": "0.5-0.7",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 510
         }
       },
