@@ -1059,14 +1059,14 @@
       },
       "Crying Child": {
         "Normal": {
-          "value": "0.07",
+          "value": "0.07+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 8921
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
