@@ -6467,7 +6467,7 @@
         }
       ],
       "Passives": {
-        "Crème Brūlaze": "Due to the raw ember inside of Dragon Endo, all fire types will now set enemies on fire at 10% damage for 3 seconds. Additionally previous units that can set enemies on fire will now have an extra 5% and 1.5 seconds",
+        "Crème Brûlaze": "Due to the raw ember inside of Dragon Endo, all fire types will now set enemies on fire at 10% damage for 3 seconds. Additionally previous units that can set enemies on fire will now have an extra 5% and 1.5 seconds",
         "Intense Flame": "Dragon endo will set enemies on fire for 20% damage of its damage for 3 seconds on hit."
       },
       "Actives": [
