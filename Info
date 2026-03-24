@@ -2311,6 +2311,12 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+      },
+      "Dark Knight": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       }
     },
     "Currency": {
@@ -7391,6 +7397,11 @@
           "Name": "Puppeteer",
           "Obtainability": "Milestones (100K FazRating)",
           "Rarity": "Rare"
+        },
+        {
+          "Name": "Dark Knight",
+          "Obtainability": "Medieval Event Merchant (32500 Coins)",
+          "Rarity": "Mythic"
         },
         {
           "Name": "Monarch",
