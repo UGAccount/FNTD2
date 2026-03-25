@@ -90,7 +90,7 @@
           "exists": 5133
         },
         "Shiny": {
-          "value": "1.4+",
+          "value": "1.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
