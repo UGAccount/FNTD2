@@ -3,7 +3,7 @@
     "Units": {
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1.5",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -42,7 +42,7 @@
           "exists": 1216
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -154,7 +154,7 @@
           "exists": 7672
         },
         "Shiny": {
-          "value": "4",
+          "value": "3.75-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -170,7 +170,7 @@
           "exists": 3949
         },
         "Shiny": {
-          "value": "3.5+",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -307,14 +307,14 @@
       },
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.25-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 5169
         },
         "Shiny": {
-          "value": "12-15",
+          "value": "11-15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
@@ -1234,7 +1234,7 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -2043,7 +2043,7 @@
         "status": "N/A"
       },
       "Time Lord Withered Freddy Present": {
-        "value": "0.21",
+        "value": "0.151",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
