@@ -42,7 +42,7 @@
           "exists": 1216
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -58,7 +58,7 @@
           "exists": 4171
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -147,14 +147,14 @@
       },
       "Masked Bullies": {
         "Normal": {
-          "value": "0.25-0.3",
+          "value": "0.2-0.25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 7672
         },
         "Shiny": {
-          "value": "3.75-4",
+          "value": "3.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -179,7 +179,7 @@
       },
       "Plushtrap": {
         "Normal": {
-          "value": "0.06",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -490,9 +490,9 @@
           "exists": 12766
         },
         "Shiny": {
-          "value": "5+",
+          "value": "4.5+",
           "soul": "N/A",
-          "demand": "8.5/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 305
         }
@@ -506,9 +506,9 @@
           "exists": 17420
         },
         "Shiny": {
-          "value": "3-3.5",
+          "value": "3+",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 387
         }
@@ -522,7 +522,7 @@
           "exists": 85851
         },
         "Shiny": {
-          "value": "1.3+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
