@@ -3,7 +3,7 @@
     "Units": {
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1.5-2",
+          "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -83,7 +83,7 @@
       },
       "Cursed Jester Spring Bonnie": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -723,7 +723,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "7.5+",
+          "value": "7+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
