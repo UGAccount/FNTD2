@@ -3,14 +3,14 @@
     "Units": {
       "Dragon Endo 01": {
         "Normal": {
-          "value": "0.8+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 2113
         },
         "Shiny": {
-          "value": "20+",
+          "value": "15-20+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
