@@ -74,7 +74,7 @@
           "exists": 13313
         },
         "Shiny": {
-          "value": "0.8+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -83,14 +83,14 @@
       },
       "Cursed Jester Spring Bonnie": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 11106
         },
         "Shiny": {
-          "value": "0.8+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -99,14 +99,14 @@
       },
       "Barbarian Boy": {
         "Normal": {
-          "value": "0.01+",
+          "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 62496
         },
         "Shiny": {
-          "value": "0.06",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -115,14 +115,14 @@
       },
       "Harlequin Mangle": {
         "Normal": {
-          "value": "0.01+",
+          "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 59190
         },
         "Shiny": {
-          "value": "0.06",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -131,14 +131,14 @@
       },
       "Hag Withered Chica": {
         "Normal": {
-          "value": "0.01+",
+          "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 56841
         },
         "Shiny": {
-          "value": "0.06",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1138,10 +1138,10 @@
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.35+",
           "soul": "N/A",
           "demand": "5/10",
-          "status": "Stable",
+          "status": "Underpaid",
           "exists": 45933
         },
         "Shiny": {
@@ -1417,9 +1417,9 @@
           "exists": 296771
         },
         "Shiny": {
-          "value": "0.08",
+          "value": "0.05",
           "soul": "N/A",
-          "demand": "8.5/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 14229
         }
