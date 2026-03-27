@@ -602,10 +602,10 @@
           "exists": 5766
         },
         "Shiny": {
-          "value": "15-20",
+          "value": "18+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Unstable",
           "exists": 155
         }
       },
@@ -621,7 +621,7 @@
           "value": "13+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Stable",
           "exists": 221
         }
       },
