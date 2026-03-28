@@ -3,16 +3,16 @@
     "Units": {
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1.5",
+          "value": "1.5-1.6+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
+          "demand": "6/10",
+          "status": "Fluctuating",
           "exists": 2542
         },
         "Shiny": {
           "value": "15-20+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "7/10",
           "status": "Fluctuating",
           "exists": 75
         }
@@ -21,12 +21,12 @@
         "Normal": {
           "value": "0.4+",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "5.5/10",
           "status": "Dropping",
           "exists": 2250
         },
         "Shiny": {
-          "value": "13+",
+          "value": "12-13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -37,7 +37,7 @@
         "Normal": {
           "value": "0.1",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4/10",
           "status": "Dropping",
           "exists": 4789
         },
@@ -53,7 +53,7 @@
         "Normal": {
           "value": "0.07",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "5/10",
           "status": "Unstable",
           "exists": 7824
         },
@@ -69,7 +69,7 @@
         "Normal": {
           "value": "0.05",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4.5/10",
           "status": "Unstable",
           "exists": 14205
         },
@@ -85,7 +85,7 @@
         "Normal": {
           "value": "0.05",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "6/10",
           "status": "Dropping",
           "exists": 12223
         },
@@ -101,7 +101,7 @@
         "Normal": {
           "value": "0.005",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4/10",
           "status": "Dropping",
           "exists": 67045
         },
@@ -117,7 +117,7 @@
         "Normal": {
           "value": "0.005",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4/10",
           "status": "Dropping",
           "exists": 64616
         },
@@ -133,7 +133,7 @@
         "Normal": {
           "value": "0.005",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "4/10",
           "status": "Dropping",
           "exists": 62672
         },
@@ -323,7 +323,7 @@
       },
       "Cerberus Freddy": {
         "Normal": {
-          "value": "0.008",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "1/10",
           "status": "Stable",
@@ -531,7 +531,7 @@
       },
       "Leviathan Mangle": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -547,7 +547,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -563,14 +563,14 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 26978
         },
         "Shiny": {
-          "value": "6.5+",
+          "value": "6+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Overhyped",
@@ -579,14 +579,14 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.125",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
           "exists": 20725
         },
         "Shiny": {
-          "value": "6.5+",
+          "value": "6.25",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
@@ -723,7 +723,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "7+",
+          "value": "6.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -746,7 +746,7 @@
           "exists": 5469
         },
         "Shiny": {
-          "value": "10.5+",
+          "value": "11+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -826,7 +826,7 @@
           "exists": 367951
         },
         "Shiny": {
-          "value": "0.5+",
+          "value": "0.x4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -985,10 +985,10 @@
           "exists": 32523
         },
         "Shiny": {
-          "value": "3.5-4",
+          "value": "3.5+",
           "soul": "N/A",
-          "demand": "7/10",
-          "status": "Stable",
+          "demand": "5.5/10",
+          "status": "Underpaid",
           "exists": 1001
         }
       },
@@ -1049,7 +1049,7 @@
           "exists": 5178
         },
         "Shiny": {
-          "value": "19+",
+          "value": "18",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -1362,7 +1362,7 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.008",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -1417,10 +1417,10 @@
           "exists": 298295
         },
         "Shiny": {
-          "value": "0.06-0.1",
+          "value": "0.1+",
           "soul": "N/A",
-          "demand": "6/10",
-          "status": "Stable",
+          "demand": "7/10",
+          "status": "Overhyped",
           "exists": 14229
         }
       },
@@ -1506,14 +1506,14 @@
       },
       "Fazcade": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 593216
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
