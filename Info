@@ -314,7 +314,7 @@
           "exists": 5266
         },
         "Shiny": {
-          "value": "11-15",
+          "value": "11-13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
@@ -570,10 +570,10 @@
           "exists": 26978
         },
         "Shiny": {
-          "value": "6+",
+          "value": "6",
           "soul": "N/A",
-          "demand": "8/10",
-          "status": "Overhyped",
+          "demand": "6.5/10",
+          "status": "Stable",
           "exists": 793
         }
       },
@@ -678,7 +678,7 @@
           "value": "9.5+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Stable",
+          "status": "Underpaid",
           "exists": 6610
         },
         "Shiny": {
@@ -2239,7 +2239,7 @@
         "status": "Stable"
       },
       "VIP": {
-        "value": "0.8-1",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
