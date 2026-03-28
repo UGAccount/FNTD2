@@ -26,10 +26,10 @@
           "exists": 2010
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "13",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 70
         }
       },
@@ -563,7 +563,7 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
