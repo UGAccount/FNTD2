@@ -3,7 +3,7 @@
     "Units": {
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1+",
+          "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -19,7 +19,7 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "0.5+",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -914,7 +914,7 @@
       },
       "Scarecrow Freddy": {
         "Normal": {
-          "value": "0.18+",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
