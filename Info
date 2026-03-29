@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Fluctuating",
-          "exists": 2642
+          "exists": 2818
         },
         "Shiny": {
           "value": "15-20+",
@@ -23,7 +23,7 @@
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Dropping",
-          "exists": 2335
+          "exists": 2440
         },
         "Shiny": {
           "value": "12-13",
@@ -39,7 +39,7 @@
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 4965
+          "exists": 5211
         },
         "Shiny": {
           "value": "2",
@@ -55,7 +55,7 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Unstable",
-          "exists": 8018
+          "exists": 8285
         },
         "Shiny": {
           "value": "1",
@@ -71,7 +71,7 @@
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Unstable",
-          "exists": 14501
+          "exists": 14890
         },
         "Shiny": {
           "value": "0.5+",
@@ -87,7 +87,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 12578
+          "exists": 13124
         },
         "Shiny": {
           "value": "0.6+",
@@ -103,7 +103,7 @@
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 68738
+          "exists": 70631
         },
         "Shiny": {
           "value": "0.04",
@@ -119,7 +119,7 @@
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 66267
+          "exists": 68578
         },
         "Shiny": {
           "value": "0.04",
@@ -135,7 +135,7 @@
           "soul": "N/A",
           "demand": "4/10",
           "status": "Dropping",
-          "exists": 64388
+          "exists": 67465
         },
         "Shiny": {
           "value": "0.04",
@@ -151,7 +151,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 8787
+          "exists": 8901
         },
         "Shiny": {
           "value": "3",
@@ -167,7 +167,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 4450
+          "exists": 4493
         },
         "Shiny": {
           "value": "3",
@@ -183,7 +183,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 9318
+          "exists": 9430
         },
         "Shiny": {
           "value": "1.7",
@@ -199,7 +199,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 7549
+          "exists": 7614
         },
         "Shiny": {
           "value": "1.7",
@@ -215,7 +215,7 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 2948
+          "exists": 2966
         },
         "Shiny": {
           "value": "20-23",
@@ -231,7 +231,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 11724
+          "exists": 11881
         },
         "Shiny": {
           "value": "2+",
@@ -247,7 +247,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 20447
+          "exists": 20656
         },
         "Shiny": {
           "value": "0.6+",
@@ -263,7 +263,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 908216
+          "exists": 919121
         },
         "Shiny": {
           "value": "0.015",
@@ -279,7 +279,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2299862
+          "exists": 2329161
         },
         "Shiny": {
           "value": "N/A",
@@ -295,7 +295,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 9657611
+          "exists": 9780543
         },
         "Shiny": {
           "value": "N/A",
@@ -311,7 +311,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 5268
+          "exists": 5275
         },
         "Shiny": {
           "value": "11-13",
@@ -327,7 +327,7 @@
           "soul": "N/A",
           "demand": "1/10",
           "status": "Stable",
-          "exists": 63597
+          "exists": 63653
         },
         "Shiny": {
           "value": "0.1+",
@@ -343,7 +343,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 995867
+          "exists": 995234
         },
         "Shiny": {
           "value": "0.02",
@@ -359,7 +359,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 3448981
+          "exists": 3447232
         },
         "Shiny": {
           "value": "N/A",
@@ -375,7 +375,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 21905
+          "exists": 22071
         },
         "Shiny": {
           "value": "0.5-0.7",
@@ -391,7 +391,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 28639
+          "exists": 28634
         },
         "Shiny": {
           "value": "1.5+",
@@ -407,7 +407,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 18816
+          "exists": 18817
         },
         "Shiny": {
           "value": "0.7+",
@@ -455,7 +455,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 47573
+          "exists": 47572
         },
         "Shiny": {
           "value": "1",
@@ -471,7 +471,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 34160
+          "exists": 34161
         },
         "Shiny": {
           "value": "1.5-2+",
@@ -535,7 +535,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 22380
+          "exists": 22383
         },
         "Shiny": {
           "value": "4.5",
@@ -551,7 +551,7 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 41910
+          "exists": 41911
         },
         "Shiny": {
           "value": "8.5-9",
@@ -567,7 +567,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 26979
+          "exists": 26981
         },
         "Shiny": {
           "value": "6",
@@ -583,7 +583,7 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
-          "exists": 20728
+          "exists": 20730
         },
         "Shiny": {
           "value": "6.25",
@@ -615,7 +615,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 6951
+          "exists": 6952
         },
         "Shiny": {
           "value": "13+",
@@ -631,7 +631,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 120795
+          "exists": 120796
         },
         "Shiny": {
           "value": "0.55+",
@@ -647,7 +647,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 137567
+          "exists": 137559
         },
         "Shiny": {
           "value": "0.4+",
@@ -663,7 +663,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4629669
+          "exists": 4618221
         },
         "Shiny": {
           "value": "N/A",
@@ -695,7 +695,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 92034
+          "exists": 92031
         },
         "Shiny": {
           "value": "0.5",
@@ -711,7 +711,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 413448
+          "exists": 413392
         },
         "Shiny": {
           "value": "N/A",
@@ -743,7 +743,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 5470
+          "exists": 5471
         },
         "Shiny": {
           "value": "11+",
@@ -759,7 +759,7 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
-          "exists": 9117
+          "exists": 9118
         },
         "Shiny": {
           "value": "8+",
@@ -775,7 +775,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 51179
+          "exists": 51181
         },
         "Shiny": {
           "value": "3-3.5",
@@ -791,7 +791,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 38669
+          "exists": 38670
         },
         "Shiny": {
           "value": "1+",
@@ -823,7 +823,7 @@
           "soul": "200+",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 367899
+          "exists": 367885
         },
         "Shiny": {
           "value": "0.x4+",
@@ -839,7 +839,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2831890
+          "exists": 2831679
         },
         "Shiny": {
           "value": "N/A",
@@ -855,7 +855,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 18241855
+          "exists": 18237307
         },
         "Shiny": {
           "value": "N/A",
@@ -950,7 +950,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 28549
+          "exists": 28548
         },
         "Shiny": {
           "value": "0.6+",
@@ -966,7 +966,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 283556
+          "exists": 284997
         },
         "Shiny": {
           "value": "0.01",
@@ -1014,7 +1014,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 23952
+          "exists": 23953
         },
         "Shiny": {
           "value": "2+",
@@ -1046,7 +1046,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 5178
+          "exists": 5179
         },
         "Shiny": {
           "value": "18",
@@ -1078,7 +1078,7 @@
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Stable",
-          "exists": 88415
+          "exists": 88414
         },
         "Shiny": {
           "value": "0.5+",
@@ -1094,7 +1094,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2216348
+          "exists": 2214475
         },
         "Shiny": {
           "value": "N/A",
@@ -1110,7 +1110,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 5401456
+          "exists": 5394812
         },
         "Shiny": {
           "value": "N/A",
@@ -1126,7 +1126,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 22675944
+          "exists": 22641205
         },
         "Shiny": {
           "value": "N/A",
@@ -1190,7 +1190,7 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
-          "exists": 6948
+          "exists": 6950
         },
         "Shiny": {
           "value": "6.5",
@@ -1238,7 +1238,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
-          "exists": 9136
+          "exists": 9150
         },
         "Shiny": {
           "value": "2",
@@ -1254,7 +1254,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 9638
+          "exists": 9659
         },
         "Shiny": {
           "value": "2",
@@ -1270,7 +1270,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 69571
+          "exists": 69714
         },
         "Shiny": {
           "value": "0.4+",
@@ -1286,7 +1286,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 714044
+          "exists": 714929
         },
         "Shiny": {
           "value": "N/A",
@@ -1302,7 +1302,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 47122
+          "exists": 47291
         },
         "Shiny": {
           "value": "0.8",
@@ -1318,7 +1318,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 315594
+          "exists": 317793
         },
         "Shiny": {
           "value": "0.02",
@@ -1334,7 +1334,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 5397607
+          "exists": 5445215
         },
         "Shiny": {
           "value": "N/A",
@@ -1350,7 +1350,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 3020
+          "exists": 3041
         },
         "Shiny": {
           "value": "1.5",
@@ -1366,7 +1366,7 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 40084
+          "exists": 40563
         },
         "Shiny": {
           "value": "0.2",
@@ -1382,7 +1382,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 210583
+          "exists": 210826
         },
         "Shiny": {
           "value": "0.08+",
@@ -1398,7 +1398,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 58939
+          "exists": 59671
         },
         "Shiny": {
           "value": "0.1",
@@ -1414,7 +1414,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 298988
+          "exists": 299398
         },
         "Shiny": {
           "value": "0.1+",
@@ -1430,7 +1430,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 273891
+          "exists": 274386
         },
         "Shiny": {
           "value": "0.06",
@@ -1446,7 +1446,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 254986
+          "exists": 255682
         },
         "Shiny": {
           "value": "0.03",
@@ -1462,7 +1462,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 122005
+          "exists": 122457
         },
         "Shiny": {
           "value": "N/A",
@@ -1478,7 +1478,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 360400
+          "exists": 360699
         },
         "Shiny": {
           "value": "N/A",
@@ -1494,7 +1494,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 569799
+          "exists": 571582
         },
         "Shiny": {
           "value": "N/A",
@@ -1510,7 +1510,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 598090
+          "exists": 600311
         },
         "Shiny": {
           "value": "0.04+",
@@ -1526,7 +1526,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 554488
+          "exists": 555482
         },
         "Shiny": {
           "value": "N/A",
@@ -1542,7 +1542,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 626600
+          "exists": 631917
         },
         "Shiny": {
           "value": "N/A",
@@ -1558,7 +1558,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 534031
+          "exists": 543304
         },
         "Shiny": {
           "value": "N/A",
@@ -1574,7 +1574,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2967779
+          "exists": 2975362
         },
         "Shiny": {
           "value": "N/A",
@@ -1590,7 +1590,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2663225
+          "exists": 2679392
         },
         "Shiny": {
           "value": "N/A",
@@ -1606,7 +1606,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2518718
+          "exists": 2533155
         },
         "Shiny": {
           "value": "N/A",
@@ -1622,7 +1622,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2709596
+          "exists": 2715888
         },
         "Shiny": {
           "value": "N/A",
@@ -1638,7 +1638,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 7778035
+          "exists": 7830599
         },
         "Shiny": {
           "value": "N/A",
@@ -1654,7 +1654,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 8696430
+          "exists": 8750060
         },
         "Shiny": {
           "value": "N/A",
@@ -1670,7 +1670,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2693776
+          "exists": 2695913
         },
         "Shiny": {
           "value": "N/A",
@@ -1686,7 +1686,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2871737
+          "exists": 2889355
         },
         "Shiny": {
           "value": "N/A",
@@ -1702,7 +1702,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 8123904
+          "exists": 8167619
         },
         "Shiny": {
           "value": "N/A",
@@ -1718,7 +1718,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 2915932
+          "exists": 2940269
         },
         "Shiny": {
           "value": "N/A",
