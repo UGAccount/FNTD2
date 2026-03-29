@@ -327,7 +327,7 @@
           "soul": "N/A",
           "demand": "1/10",
           "status": "Stable",
-          "exists": 63668
+          "exists": 63671
         },
         "Shiny": {
           "value": "0.1+",
@@ -343,14 +343,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 994299
+          "exists": 994387
         },
         "Shiny": {
           "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 38195
+          "exists": 38196
         }
       },
       "Dead Soul Freddy": {
@@ -359,14 +359,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 3444754
+          "exists": 3444857
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 143964
+          "exists": 143982
         }
       },
       "UFO Tangle": {
