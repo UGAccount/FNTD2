@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Thanatos": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Dragon Endo 01": {
         "Normal": {
           "value": "1.5-1.6+",
@@ -2317,6 +2333,18 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+      },
+      "Easter Springtrap": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Hypnos": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       }
     },
     "Currency": {
@@ -3179,47 +3207,6 @@
       ]
     },
     {
-      "Name": "Balloon Boy",
-      "Rarity": "Mythical",
-      "PlacementPrice": 400,
-      "Type": "Support",
-      "Element": "Neutral",
-      "MaxPlaced": 2,
-      "BaseStats": {
-        "Range": 15,
-        "Cooldown": 5
-      },
-      "UpgradeStats": [
-        {
-          "Range": 15,
-          "Cooldown": 5,
-          "UpgradePrice": 450
-        },
-        {
-          "Range": 16,
-          "Cooldown": 5,
-          "UpgradePrice": 650
-        },
-        {
-          "Range": 17,
-          "Cooldown": 5,
-          "UpgradePrice": 850
-        },
-        {
-          "Range": 18,
-          "Cooldown": 5,
-          "UpgradePrice": 1050
-        }
-      ],
-      "Passives": {
-        "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
-      },
-      "Obtainability": [
-        "Balloon Boy Present (100%)",
-        "Season 1 Premium Pass Tier 1"
-      ]
-    },
-    {
       "Name": "BBnJ",
       "Rarity": "Mythical",
       "PlacementPrice": 1400,
@@ -3804,6 +3791,47 @@
         "Mythic Present (25%)",
         "Merchant 7500 Tokens",
         "Token Summons (2%)"
+      ]
+    },
+    {
+      "Name": "Balloon Boy",
+      "Rarity": "Secret",
+      "PlacementPrice": 400,
+      "Type": "Support",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 15,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15,
+          "Cooldown": 5,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 16,
+          "Cooldown": 5,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 17,
+          "Cooldown": 5,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 18,
+          "Cooldown": 5,
+          "UpgradePrice": 1050
+        }
+      ],
+      "Passives": {
+        "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
+      },
+      "Obtainability": [
+        "Balloon Boy Present (100%)",
+        "Season 1 Premium Pass Tier 1"
       ]
     },
     {
@@ -4930,7 +4958,7 @@
         }
       ],
       "Passives": {
-        "Holy Lake of Golden Stars": "This unit's range becomes its domain. The Golden Lake grants a 35% active cd reduction to any unit within the domain. Additionally, enemies within the domain are slowed by 15%, and light element units have increased +30% damage to enemies."
+        "Holy Lake of Golden Stars": "This unit's range becomes its domain. The Golden Lake grants a 35% active ability cd reduction to any unit within the domain. Additionally, enemies within the domain are slowed by 15%, and light element units have increased +30% damage to enemies."
       },
       "Obtainability": [
         "Medieval Event Free Pass Tier 30",
@@ -5154,7 +5182,8 @@
         }
       ],
       "Passives": {
-        "Parts and Pieces": " Every 10s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1350 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 850 DMG. Toy Chica: AoE type 8 range, 700 DMG. Slows by 12% for 3.5 seconds Mangle: Single type, 1850. Stuns an enemy for 2 seconds. "
+        "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1350 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 850 DMG. Toy Chica: AoE type 8 range, 700 DMG. Slows by 12% for 3.5 seconds Mangle: Single type, 1850. Stuns an enemy for 2 seconds. ",
+        "Together": "If 2 amalgams are in range then both gain: 10% Damage, -10% Cooldown, 5% Damage burn/second"
       },
       "Obtainability": [
         "Soul Summons (0.01%)"
@@ -5876,55 +5905,55 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 19,
-        "Damage": 250,
+        "Damage": 350,
         "Cooldown": 2.3
       },
       "UpgradeStats": [
         {
           "Range": 20,
-          "Damage": 285,
+          "Damage": 385,
           "Cooldown": 2.3,
           "UpgradePrice": 4250
         },
         {
           "Range": 20,
-          "Damage": 300,
+          "Damage": 390,
           "Cooldown": 2.2,
           "UpgradePrice": 5000
         },
         {
           "Range": 21,
-          "Damage": 335,
+          "Damage": 415,
           "Cooldown": 2.2,
           "UpgradePrice": 6500
         },
         {
           "Range": 21,
-          "Damage": 360,
+          "Damage": 445,
           "Cooldown": 2.1,
           "UpgradePrice": 7350
         },
         {
           "Range": 22,
-          "Damage": 385,
+          "Damage": 465,
           "Cooldown": 2.1,
           "UpgradePrice": 8000
         },
         {
           "Range": 22,
-          "Damage": 400,
+          "Damage": 515,
           "Cooldown": 1.9,
           "UpgradePrice": 8000
         },
         {
           "Range": 23,
-          "Damage": 415,
+          "Damage": 575,
           "Cooldown": 1.9,
           "UpgradePrice": 8500
         },
         {
           "Range": 23,
-          "Damage": 435,
+          "Damage": 645,
           "Cooldown": 1.7,
           "UpgradePrice": 9000
         }
@@ -6209,6 +6238,76 @@
       "SwitchSpeed": 15
     },
     {
+      "Name": "Thanatos",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4350,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 260,
+        "Cooldown": 3.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 525,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 20,
+          "Damage": 590,
+          "Cooldown": 3,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 21,
+          "Damage": 665,
+          "Cooldown": 3,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 750,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 22,
+          "Damage": 830,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 925,
+          "Cooldown": 2.7,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 1050,
+          "Cooldown": 2.7,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 24,
+          "Damage": 1225,
+          "Cooldown": 2.5,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "Deathbringer": "On attack, mark enemies with [Death]. If enemies afflicted with [Death] are eliminated within 4s, gain a skull. (Max of 200 skulls can be held)",
+        "Necessary Evil": "Grants a shop containing upgrades in exchange for skulls. Damage: 7% [75 Skulls] Cooldown: -3% [75 Skulls] Range: 8% [75 Skulls] (Max of 5 stat upgrades total) Single: Increases dmg by 1.25x, and increases cd by 0.95x. [200 Skulls] Cone: Increases cone size by 45. Reduces dmg by 1.2x & Reduces cd by 1.2x. [200 Skulls] AOE: Increases damage by 1.2x & lowers range by 1.35x. [200 Skulls] (Max of 1 attack upgrade) "
+      },
+      "Obtainability": [
+        "Clan Season 1 Unit (Top 30)"
+      ]
+    },
+    {
       "Name": "Time Lord Withered Freddy",
       "Rarity": "Nightmare",
       "PlacementPrice": 4500,
@@ -6486,13 +6585,13 @@
         }
       ],
       "Passives": {
-        "Crème Brûlaze": "Due to the raw ember inside of Dragon Endo, all fire types will now set enemies on fire at 10% damage for 3 seconds. Additionally previous units that can set enemies on fire will now have an extra 5% and 1.5 seconds",
-        "Intense Flame": "Dragon endo will set enemies on fire for 20% damage of its damage for 3 seconds on hit."
+        "Crème Brûlaze": "Due to the raw ember inside of Dragon Endo, all fire types will now set enemies on fire at 20% damage for 3 seconds. Additionally previous units that can set enemies on fire will now have an extra 5% and 1.5 seconds",
+        "Intense Flame": "Dragon endo will set enemies on fire for 45% damage of its damage for 3 seconds on hit."
       },
       "Actives": [
         {
           "Name": "Fenrir’s Rage",
-          "Description": "Dragon Endo will set the track on fire dealing 25% burn for 3 seconds. The track will be on fire for 15 seconds.",
+          "Description": "Dragon Endo will set the track on fire dealing 30% burn for 3 seconds. The track will be on fire for 15 seconds.",
           "Cooldown": 150,
           "Upgrade": 11
         }
@@ -6780,135 +6879,139 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 15,
-        "Damage": 70,
+        "Damage": 100,
         "Cooldown": 2.6
       },
       "UpgradeStats": [
         {
           "Range": 15,
-          "Damage": 75,
+          "Damage": 135,
           "Cooldown": 2.4,
           "UpgradePrice": 1000
         },
         {
           "Range": 15,
-          "Damage": 80,
+          "Damage": 160,
           "Cooldown": 2.4,
           "UpgradePrice": 1200
         },
         {
           "Range": 15,
-          "Damage": 100,
+          "Damage": 175,
           "Cooldown": 3,
           "UpgradePrice": 1400
         },
         {
           "Range": 15,
-          "Damage": 120,
+          "Damage": 200,
           "Cooldown": 2.4,
           "UpgradePrice": 1500
         },
         {
           "Range": 20,
-          "Damage": 120,
+          "Damage": 230,
           "Cooldown": 2.4,
           "UpgradePrice": 1600
         },
         {
           "Range": 20,
-          "Damage": 135,
+          "Damage": 245,
           "Cooldown": 2.4,
           "UpgradePrice": 1900
         },
         {
           "Range": 20,
-          "Damage": 140,
+          "Damage": 260,
           "Cooldown": 2.4,
           "UpgradePrice": 2100
         },
         {
           "Range": 20,
-          "Damage": 150,
+          "Damage": 285,
           "Cooldown": 2.4,
           "UpgradePrice": 2400
         },
         {
           "Range": 20,
-          "Damage": 160,
+          "Damage": 300,
           "Cooldown": 2.4,
           "UpgradePrice": 2800
         },
         {
           "Range": 25,
-          "Damage": 170,
+          "Damage": 350,
           "Cooldown": 2.4,
           "UpgradePrice": 3200
         },
         {
           "Range": 25,
-          "Damage": 200,
+          "Damage": 385,
           "Cooldown": 2.2,
-          "UpgradePrice": 3500
+          "UpgradePrice": 3500,
+          "Type": "Cone",
+          "Degrees": 45
         },
         {
           "Range": 25,
-          "Damage": 220,
+          "Damage": 415,
           "Cooldown": 2.2,
           "UpgradePrice": 3800
         },
         {
           "Range": 25,
-          "Damage": 240,
+          "Damage": 450,
           "Cooldown": 2.2,
           "UpgradePrice": 4200
         },
         {
           "Range": 25,
-          "Damage": 265,
+          "Damage": 485,
           "Cooldown": 2.2,
           "UpgradePrice": 4500
         },
         {
           "Range": 25,
-          "Damage": 295,
+          "Damage": 515,
           "Cooldown": 2.2,
           "UpgradePrice": 5000
         },
         {
           "Range": 27,
-          "Damage": 320,
+          "Damage": 540,
           "Cooldown": 2,
           "UpgradePrice": 5400
         },
         {
           "Range": 27,
-          "Damage": 350,
+          "Damage": 585,
           "Cooldown": 2,
           "UpgradePrice": 6800
         },
         {
           "Range": 28,
-          "Damage": 390,
+          "Damage": 600,
           "Cooldown": 2,
           "UpgradePrice": 7500
         },
         {
           "Range": 28,
-          "Damage": 425,
+          "Damage": 615,
           "Cooldown": 2,
-          "UpgradePrice": 7750
+          "UpgradePrice": 7750,
+          "Type": "Cone",
+          "Degrees": 85
         },
         {
           "Range": 29,
-          "Damage": 445,
+          "Damage": 635,
           "Cooldown": 2,
           "UpgradePrice": 8000
         }
       ],
       "Passives": {
         "Vengeful Spirit": "Once every 20 seconds, Golden Freddy increases his Damage and Range by 100% and decreases Cooldown by 50% for 5 seconds.",
-        "Restless Soul [Upgrade 5+]": "Golden Freddy receives +2% Damage, +0.8% in Endless, for each Wave completed, with a maximum of +100% Damage.",
-        "It's Me! [Upgrade 12+]": "Once every 30 seconds, Golden Freddy applies [Stun] to all Enemies in Range for 2 seconds, making Enemies take +20% Damage."
+        "Restless Soul [Upgrade 5+]": "Golden Freddy receives +3% Damage, +1% in Endless, for each Wave completed, with a maximum of +150% Damage.",
+        "It's Me! [Upgrade 12+]": "Once every 15 seconds, Golden Freddy applies [Stun] to all Enemies in Range for 2 seconds, making Enemies take +25% Damage."
       },
       "Actives": [
         {
@@ -7247,6 +7350,11 @@
           "Name": "Deep Sea Nautilus",
           "Obtainability": "AFK Present (0.01%)",
           "Rarity": "Nightmare"
+        },
+        {
+          "Name": "Hypnos",
+          "Obtainability": "Clan Reward",
+          "Rarity": "Nightmare"
         }
       ]
     },
@@ -7259,7 +7367,7 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 20,
-        "Damage": 150,
+        "Damage": 125,
         "Cooldown": 3
       },
       "UpgradeStats": [
@@ -7271,116 +7379,118 @@
         },
         {
           "Range": 20,
-          "Damage": 160,
+          "Damage": 185,
           "Cooldown": 3,
           "UpgradePrice": 1000
         },
         {
           "Range": 20,
-          "Damage": 165,
+          "Damage": 220,
           "Cooldown": 3,
           "UpgradePrice": 1000
         },
         {
           "Range": 20,
-          "Damage": 170,
+          "Damage": 240,
           "Cooldown": 3,
           "UpgradePrice": 1500
         },
         {
           "Range": 25,
-          "Damage": 175,
+          "Damage": 285,
           "Cooldown": 3,
           "UpgradePrice": 1750
         },
         {
           "Range": 25,
-          "Damage": 180,
+          "Damage": 315,
           "Cooldown": 3,
           "UpgradePrice": 2000
         },
         {
           "Range": 25,
-          "Damage": 185,
+          "Damage": 345,
           "Cooldown": 3,
           "UpgradePrice": 2250
         },
         {
           "Range": 25,
-          "Damage": 190,
+          "Damage": 365,
           "Cooldown": 3,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
-          "Damage": 195,
+          "Damage": 385,
           "Cooldown": 3,
           "UpgradePrice": 2750
         },
         {
           "Range": 30,
-          "Damage": 200,
+          "Damage": 485,
           "Cooldown": 2.8,
           "UpgradePrice": 3500,
           "Type": "Circle"
         },
         {
           "Range": 30,
-          "Damage": 215,
+          "Damage": 500,
           "Cooldown": 2.8,
           "UpgradePrice": 4000
         },
         {
           "Range": 30,
-          "Damage": 230,
+          "Damage": 535,
           "Cooldown": 2.8,
           "UpgradePrice": 4500
         },
         {
           "Range": 30,
-          "Damage": 245,
+          "Damage": 560,
           "Cooldown": 2.8,
           "UpgradePrice": 5000
         },
         {
           "Range": 30,
-          "Damage": 260,
+          "Damage": 580,
           "Cooldown": 2.8,
           "UpgradePrice": 5500
         },
         {
           "Range": 35,
-          "Damage": 275,
+          "Damage": 600,
           "Cooldown": 2.5,
-          "UpgradePrice": 6500
+          "UpgradePrice": 6500,
+          "Type": "Cone",
+          "Degrees": 145
         },
         {
           "Range": 35,
-          "Damage": 295,
+          "Damage": 620,
           "Cooldown": 2.5,
           "UpgradePrice": 7000
         },
         {
           "Range": 35,
-          "Damage": 325,
+          "Damage": 645,
           "Cooldown": 2.5,
           "UpgradePrice": 7500
         },
         {
           "Range": 35,
-          "Damage": 355,
+          "Damage": 685,
           "Cooldown": 2.5,
           "UpgradePrice": 8000
         },
         {
           "Range": 35,
-          "Damage": 375,
+          "Damage": 710,
           "Cooldown": 2.5,
           "UpgradePrice": 8500
         },
         {
           "Range": 35,
-          "Damage": 400,
+          "Damage": 735,
           "Cooldown": 2.5,
           "UpgradePrice": 10000
         }
@@ -7579,6 +7689,11 @@
           "Name": "Jack'O Springtrap",
           "Obtainability": "1st Exclusive Skin Bundle (199 R$)",
           "Rarity": "Rare"
+        },
+        {
+          "Name": "Easter Springtrap",
+          "Obtainability": "1st Bi-Weekly Exclusive Skin Bundle (249$ / 1500 Eggs / 1500 Souls)",
+          "Rarity": "Exclusive"
         }
       ]
     },
