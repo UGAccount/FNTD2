@@ -227,7 +227,7 @@
       },
       "Nightmarionne": {
         "Normal": {
-          "value": "1",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -362,7 +362,7 @@
           "exists": 1046621
         },
         "Shiny": {
-          "value": "0.02",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -579,14 +579,14 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15-0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 26990
         },
         "Shiny": {
-          "value": "5.5-6",
+          "value": "5.5",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
@@ -634,7 +634,7 @@
           "exists": 6955
         },
         "Shiny": {
-          "value": "13+",
+          "value": "12.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -653,7 +653,7 @@
           "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 3023
         }
       },
@@ -691,7 +691,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "9-9.5",
+          "value": "9+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Underpaid",
@@ -701,7 +701,7 @@
           "value": "65+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 118
         }
       },
@@ -746,10 +746,10 @@
           "exists": 6291
         },
         "Shiny": {
-          "value": "60+",
+          "value": "65+",
           "soul": "N/A",
           "demand": "9.5/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 126
         }
       },
@@ -819,7 +819,7 @@
       },
       "Scrooge Freddy": {
         "Normal": {
-          "value": "0.11+",
+          "value": "0.08",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -1049,7 +1049,7 @@
           "exists": 14050
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1.8",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Stable",
@@ -1065,7 +1065,7 @@
           "exists": 5180
         },
         "Shiny": {
-          "value": "18",
+          "value": "17-18",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -1081,7 +1081,7 @@
           "exists": 36330
         },
         "Shiny": {
-          "value": "2+",
+          "value": "1.8-2",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
@@ -1106,7 +1106,7 @@
       },
       "Phantom Foxy": {
         "Normal": {
-          "value": "0.001",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1161,7 +1161,7 @@
           "exists": 45931
         },
         "Shiny": {
-          "value": "7",
+          "value": "6.5+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -1253,11 +1253,11 @@
           "value": "0.15",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 9157
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.8",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Unstable",
@@ -1896,10 +1896,10 @@
         "status": "N/A"
       },
       "OG Present": {
-        "value": "0.0005",
+        "value": "N/A",
         "soul": "N/A",
-        "demand": "7/10",
-        "status": "Unstable"
+        "demand": "N/A",
+        "status": "N/A"
       },
       "Blighted Endo Freddy Present": {
         "value": "N/A",
@@ -1968,7 +1968,7 @@
         "status": "N/A"
       },
       "Headless Horseman Present": {
-        "value": "1.5+",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -2138,34 +2138,34 @@
         "status": "Stable"
       },
       "Phantom BB": {
-        "value": "N/A",
+        "value": "0.005-0.01",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Phantom Foxy": {
-        "value": "N/A",
+        "value": "0.005-0.01",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Springtrap": {
-        "value": "N/A",
+        "value": "0.005-0.01",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Fredbear": {
-        "value": "N/A",
+        "value": "0.15-0.2",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Fluctuating"
       },
       "Nightmarionne": {
-        "value": "N/A",
+        "value": "0.2-0.3",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Fluctuating"
       },
       "Old Man Consequences": {
         "value": "N/A",
@@ -2174,7 +2174,7 @@
         "status": "N/A"
       },
       "8-Bit Shadow Bonnie": {
-        "value": "N/A",
+        "value": "0.005-0.01",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -2198,7 +2198,7 @@
         "status": "O/C"
       },
       "Bonnie": {
-        "value": "N/A",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -2228,10 +2228,10 @@
         "status": "N/A"
       },
       "Jack'O Springtrap": {
-        "value": "N/A",
+        "value": "0.2",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Fluctuating"
       },
       "Mangle": {
         "value": "N/A",
