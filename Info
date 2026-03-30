@@ -1777,7 +1777,7 @@
         "status": "N/A"
       },
       "Medieval Present": {
-        "value": "N/A",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -2121,7 +2121,7 @@
         "status": "Stable"
       },
       "Gang Freddy": {
-        "value": "1.6+",
+        "value": "1.5",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
