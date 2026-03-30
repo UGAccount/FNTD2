@@ -2403,12 +2403,14 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Uncommon Present (25%)",
-        "Merchant 150 Tokens",
-        "Token Summons (50%)",
-        "Soul Summons (50%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Uncommon Present (25%)",
+          "Merchant 150 Tokens",
+          "Token Summons (50%)",
+          "Soul Summons (50%)"
+        ]
+      }
     },
     {
       "Name": "Chica",
@@ -2445,11 +2447,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Uncommon Present (25%)",
-        "Merchant 150 Tokens",
-        "Token Summons (50%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Uncommon Present (25%)",
+          "Merchant 150 Tokens",
+          "Token Summons (50%)"
+        ]
+      }
     },
     {
       "Name": "Foxy",
@@ -2486,11 +2490,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Uncommon Present (25%)",
-        "Merchant 150 Tokens",
-        "Token Summons (50%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Uncommon Present (25%)",
+          "Merchant 150 Tokens",
+          "Token Summons (50%)"
+        ]
+      }
     },
     {
       "Name": "Freddy",
@@ -2527,12 +2533,14 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Uncommon Present (25%)",
-        "Merchant 150 Tokens",
-        " Token Summons (50%)",
-        "Soul Summons (50%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Uncommon Present (25%)",
+          "Merchant 150 Tokens",
+          " Token Summons (50%)",
+          "Soul Summons (50%)"
+        ]
+      }
     },
     {
       "Name": "Freddy With a Glock",
@@ -2569,10 +2577,12 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "OG Present (99.6%)",
-        "Soul Summons (50%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Present (99.6%)",
+          "Soul Summons (50%)"
+        ]
+      }
     },
     {
       "Name": "JJ",
@@ -2609,12 +2619,14 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Rare Present (50%)",
-        "Merchant 500 Tokens",
-        "Token Summons (30%)",
-        "Soul Summons (30%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Rare Present (50%)",
+          "Merchant 500 Tokens",
+          "Token Summons (30%)",
+          "Soul Summons (30%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Freddy",
@@ -2664,9 +2676,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 3 Present (80%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 3 Present (80%)"
+        ]
+      }
     },
     {
       "Name": "PaperPals",
@@ -2703,11 +2717,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Rare Present (50%)",
-        "Merchant 500 Tokens",
-        "Token Summons (30%)"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Rare Present (50%)",
+          "Merchant 500 Tokens",
+          "Token Summons (30%)"
+        ]
+      },
       "Skins": [
         {
           "Name": "Dragonic PaperPals",
@@ -2745,9 +2761,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 2 Present (80%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 2 Present (80%)"
+        ]
+      }
     },
     {
       "Name": "Undead Chica",
@@ -2784,10 +2802,12 @@
       "Passives": {
         "Overwhelming Horde": "For each Zombie Cupcake (Zombie Chica’s summon) on the field, increases this units damage by 1% (up to 10%)"
       },
-      "Obtainability": [
-        "Halloween Event Summons Craftable",
-        "Soul Summons (30%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Halloween Event Summons Craftable",
+          "Soul Summons (30%)"
+        ]
+      }
     },
     {
       "Name": "Cupcake",
@@ -2820,11 +2840,13 @@
       "Passives": {
         "Birthday Boy": "Provides a 3% buff to damage, range, and cooldown to every unit in its radius."
       },
-      "Obtainability": [
-        "Epic Present (25%)",
-        "Merchant 1250 Tokens",
-        "Token Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Epic Present (25%)",
+          "Merchant 1250 Tokens",
+          "Token Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Dead Soul Freddy",
@@ -2861,9 +2883,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 1 Clan Present (80%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 1 Clan Present (80%)"
+        ]
+      }
     },
     {
       "Name": "Fisherman Toy Bonnie",
@@ -2908,9 +2932,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "AFK Present (97.9%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "AFK Present (97.9%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Bonnie",
@@ -2947,9 +2973,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 3 Present (15%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 3 Present (15%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Cupcake",
@@ -2984,9 +3012,11 @@
         }
       ],
       "Passives": {},
-      "Obtainability": [
-        "Token Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Phantom Chica",
@@ -3035,10 +3065,12 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 2 Present (15%)",
-        "Soul Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 2 Present (15%)",
+          "Soul Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Santa Freddy",
@@ -3069,11 +3101,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Christmas Event Present (89%)",
-        "Christmas Summons (90%)",
-        "Soul Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Event Present (89%)",
+          "Christmas Summons (90%)",
+          "Soul Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Toy Bonnie",
@@ -3116,11 +3150,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Epic Present (25%)",
-        "Merchant 1250 Tokens",
-        "Token Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Epic Present (25%)",
+          "Merchant 1250 Tokens",
+          "Token Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Toy Freddy",
@@ -3163,11 +3199,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Epic Present (25%)",
-        "Merchant 1250 Tokens",
-        "Token Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Epic Present (25%)",
+          "Merchant 1250 Tokens",
+          "Token Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "Withered Chica",
@@ -3211,11 +3249,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Epic Present (25%)",
-        "Merchant 1250 Tokens",
-        "Token Summons (18%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Epic Present (25%)",
+          "Merchant 1250 Tokens",
+          "Token Summons (18%)"
+        ]
+      }
     },
     {
       "Name": "BBnJ",
@@ -3264,9 +3304,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Halloween Event Summons Craftable"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Halloween Event Summons Craftable"
+        ]
+      }
     },
     {
       "Name": "Clockwork Cupcake",
@@ -3303,9 +3345,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Boss Raid Present (95%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Boss Raid Present (95%)"
+        ]
+      }
     },
     {
       "Name": "Endo 01",
@@ -3348,11 +3392,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Mythic Present (25%)",
-        "Merchant 7500 Tokens",
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Mythic Present (25%)",
+          "Merchant 7500 Tokens",
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Fazcade",
@@ -3385,11 +3431,13 @@
       "Passives": {
         "Arcade Machine": "This unit makes money every wave based on its current upgrade. [Upgrade 1: 250 Cash, Upgrade 2: 500 Cash, Upgrade 3: 1250 Cash, Upgrade 4: 1750 Cash]"
       },
-      "Obtainability": [
-        "Mythic Present (25%)",
-        "Merchant 7500 Tokens",
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Mythic Present (25%)",
+          "Merchant 7500 Tokens",
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Golden Cupcake",
@@ -3412,10 +3460,12 @@
       "Passives": {
         "Golden Blessing": "This unit boosts all unit stats in range by 5%. For each Light element unit you have on your team, this boost is increased by 5% (capped at 15%, does not stack)."
       },
-      "Obtainability": [
-        "Golden Cupcake Present (100%)",
-        "Season 2 Premium Pass Tier 1"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Golden Cupcake Present (100%)",
+          "Season 2 Premium Pass Tier 1"
+        ]
+      }
     },
     {
       "Name": "Mrs Claus Toy Chica",
@@ -3475,10 +3525,12 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Christmas Event Present (10%)",
-        "Christmas Summons (10%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Event Present (10%)",
+          "Christmas Summons (10%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Endo",
@@ -3521,9 +3573,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Foxy",
@@ -3563,9 +3617,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 3 Present (5%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 3 Present (5%)"
+        ]
+      }
     },
     {
       "Name": "Phantom BB",
@@ -3603,9 +3659,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Phantom Foxy",
@@ -3648,9 +3706,11 @@
         }
       ],
       "Passives": {},
-      "Obtainability": [
-        "Season 2 Present (5%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 2 Present (5%)"
+        ]
+      }
     },
     {
       "Name": "Soul Prisoner Foxy",
@@ -3690,9 +3750,11 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Season 1 Clan Present (19%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 1 Clan Present (19%)"
+        ]
+      }
     },
     {
       "Name": "Toy Chica",
@@ -3743,11 +3805,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Mythic Present (25%)",
-        "Merchant 7500 Tokens",
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Mythic Present (25%)",
+          "Merchant 7500 Tokens",
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Withered Bonnie",
@@ -3798,11 +3862,13 @@
       "Passives": {
         "NO PASSIVE": "This unit has no active passive :("
       },
-      "Obtainability": [
-        "Mythic Present (25%)",
-        "Merchant 7500 Tokens",
-        "Token Summons (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Mythic Present (25%)",
+          "Merchant 7500 Tokens",
+          "Token Summons (2%)"
+        ]
+      }
     },
     {
       "Name": "Balloon Boy",
@@ -3840,10 +3906,12 @@
       "Passives": {
         "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
       },
-      "Obtainability": [
-        "Balloon Boy Present (100%)",
-        "Season 1 Premium Pass Tier 1"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Balloon Boy Present (100%)",
+          "Season 1 Premium Pass Tier 1"
+        ]
+      }
     },
     {
       "Name": "Barbarian Boy",
@@ -3886,10 +3954,12 @@
       "Passives": {
         "War Cry": "Barbarian Boy will yell out smashing his hammer on his shield inflicting nearby units with 15% damage for 25s every 6 kills"
       },
-      "Obtainability": [
-        "Medieval Present (2%)",
-        "Medieval Event Summons (1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Present (2%)",
+          "Medieval Event Summons (1%)"
+        ]
+      }
     },
     {
       "Name": "Cerberus Freddy",
@@ -3933,10 +4003,12 @@
       "Passives": {
         "Hazardous Bite": "Cerberus Freddy’s heads apply different effects based on the active head, these switch every 25s. \\"
       },
-      "Obtainability": [
-        "Season 1 Clan Present (0.5%)",
-        "Season 1 Clan Pass Tier 50"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 1 Clan Present (0.5%)",
+          "Season 1 Clan Pass Tier 50"
+        ]
+      }
     },
     {
       "Name": "Endo 02",
@@ -3992,10 +4064,12 @@
       "Passives": {
         "Engineer": "Endo 02 places [Endo Turrets] within Range every 15 seconds, dealing 100% Damage to a [Single Target] with 100% Cooldown, lasting 45 seconds."
       },
-      "Obtainability": [
-        "Endo 02 Present (100%)",
-        "Season 1 Free Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Endo 02 Present (100%)",
+          "Season 1 Free Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Follow Me",
@@ -4052,10 +4126,12 @@
       "Passives": {
         "Dismantle": "Every 35s, Follow Me dismantles the lowest-placed unit in range for 15s (excluding Boosters and Heroes; ties broken by highest damage). During this time, all units are halted from attacking or using passives, and Follow Me gains 75% of the dismantled unit’s damage and knockback."
       },
-      "Obtainability": [
-        "Follow Me Present (100%)",
-        "Season 2 Premium Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Follow Me Present (100%)",
+          "Season 2 Premium Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Freddles",
@@ -4105,10 +4181,12 @@
         "Three Musket Freddie’s": " Will start off with 1 freddle. Every 50 kills in range an additional Freddle will appear. A max of 3 can appear at a time. If a light enemy or unit enters range for more then 6 seconds it looses a freddle 2 freddles 15% dmg -5% CD reduction 3 Freddles 25% dmg -10% cd ",
         "Freddles Army": "Upon attack, freddles summon a freddle on track for 100% of damage as health"
       },
-      "Obtainability": [
-        "Freddles Present (100%)",
-        "Season 3 Premium Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Freddles Present (100%)",
+          "Season 3 Premium Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Frostmancer Withered Bonnie",
@@ -4164,10 +4242,12 @@
       "Passives": {
         "Herald of Winter": "This unit summons Snow Bonnies around itself (cap of 3) that provide 1 of 2 following buffs to itself: 10% DMG and RNG increase 15% slowing to all enemies in range While a Snow Bonnie is present, attacks freeze enemies for 1s."
       },
-      "Obtainability": [
-        "Christmas Event Present (0.5%)",
-        "Christmas Summons (0.35%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Event Present (0.5%)",
+          "Christmas Summons (0.35%)"
+        ]
+      }
     },
     {
       "Name": "Hag Withered Chica",
@@ -4223,10 +4303,12 @@
       "Passives": {
         "Debilitating Toxin": "Every third attack inflicts 15% wither on enemies within range for 3 seconds."
       },
-      "Obtainability": [
-        "Medieval Present (2%)",
-        "Medieval Event Summons (1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Present (2%)",
+          "Medieval Event Summons (1%)"
+        ]
+      }
     },
     {
       "Name": "Harlequin Mangle",
@@ -4275,10 +4357,12 @@
       "Passives": {
         "Two Face": "This unit will switch attack types every 20 seconds. This attack type will be randomized between Explosion, Line and Cone (135)"
       },
-      "Obtainability": [
-        "Medieval Present (2%)",
-        "Medieval Event Summons (1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Present (2%)",
+          "Medieval Event Summons (1%)"
+        ]
+      }
     },
     {
       "Name": "Jack'O Bonnie",
@@ -4328,10 +4412,12 @@
         "Explosive Jack-O-Lanterns": "Every 5s, lays an exploding jack-o-lantern on the track somewhere within this unit’s range (Max of 3 pumpkins per placement). When an enemy touches this pumpkin, the pumpkin will explode, dealing 120% of this unit’s damage, and burning for 10% of that damage.",
         "Jack-O Blaze": "All attacks from this unit apply a burn for 5% of its damage for 3s. When attacking a burned enemy, this unit does 20% more damage. (This damage boost does not apply to pumpkins)"
       },
-      "Obtainability": [
-        "Jack O Bonnie Present (100%)",
-        "Halloween Event Free Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Jack O Bonnie Present (100%)",
+          "Halloween Event Free Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Krampus Purple Guy",
@@ -4386,10 +4472,12 @@
       "Passives": {
         "Punishment of Evil": "This unit stuns enemies it attacks for 1.8s. When attacking a stunned enemy, deal 35% more damage."
       },
-      "Obtainability": [
-        "Krampus Purple Guy Present (100%)",
-        "Christmas Movie Event Free Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Krampus Purple Guy Present (100%)",
+          "Christmas Movie Event Free Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Nightmare BB",
@@ -4439,9 +4527,11 @@
       "Passives": {
         "X Mark The Spot": "This unit deals 15% more damage to enemies in the outer 50% of it's range."
       },
-      "Obtainability": [
-        "Token Summons (0.25%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.25%)"
+        ]
+      }
     },
     {
       "Name": "Nightmare Chica",
@@ -4490,9 +4580,11 @@
       "Passives": {
         "The First": "She has seen everything. Every 5th attack increases her range by 1% (capped at 10%) Additionally any enemy in range gets slowed by 10% and increases damage taken by dark type units by 8%"
       },
-      "Obtainability": [
-        "Season 3 Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 3 Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Overgrown Foxy",
@@ -4525,9 +4617,11 @@
       "Passives": {
         "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
       },
-      "Obtainability": [
-        "Boss Raid Present (4.5%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Boss Raid Present (4.5%)"
+        ]
+      }
     },
     {
       "Name": "Phantom Bonnie",
@@ -4576,10 +4670,12 @@
       "Passives": {
         "Doom Gloom": " When placed, this unit cannot be seen. For each enemy within range, Phantom Bonnie gains +0.25% damage, stacking up to +25% damage. While gaining damage, Phantom Bonnie becomes gradually more visible. Once [Gloom Doom] is fully stacked, Phantom Bonnie fully manifests, gaining 15% range and retains its 25% damage bonus. "
       },
-      "Obtainability": [
-        "Phantom Bonnie Present (100%)",
-        "Season 2 Free Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Phantom Bonnie Present (100%)",
+          "Season 2 Free Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Phantom Mangle",
@@ -4630,9 +4726,11 @@
       "Passives": {
         "Phantom Fear": "Every 20s this unit applies full AOE poison, causing 50% of its damage for 5 ticks over 5s to every enemy in its range. Additionally, while an enemy is poisoned, there is a 6% chance to Crit for 25% more DMG from any source."
       },
-      "Obtainability": [
-        "Season 2 Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 2 Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Plushtrap",
@@ -4681,10 +4779,12 @@
       "Passives": {
         "Photophobia": "Every cooldown plush trap will make a movement to the x. If a light enemy, or unit is in range during this time it fails. After 5 successful movement he will perform an attack which will be rapid biting every second for 8 seconds."
       },
-      "Obtainability": [
-        "Plushtrap Present (100%)",
-        "Season 3 Free Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Plushtrap Present (100%)",
+          "Season 3 Free Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Psychic Friend Fredbear",
@@ -4740,10 +4840,12 @@
       "Passives": {
         "Promise": " This unit will gain bonuses based on lost stock 0 Stock Lost: Boost Speed of all towers in range by 5% 1 Stock Lost: Boost Damage of all towers in range by 15% and Range by 20% 2 Stock Lost: Boost Damage of all towers in range by 20%, Range by 25%, and Speed by 10% "
       },
-      "Obtainability": [
-        "Psychic Friend Fredbear Present (100%)",
-        "Season 3 Premium Pass Tier 1"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Psychic Friend Fredbear Present (100%)",
+          "Season 3 Premium Pass Tier 1"
+        ]
+      }
     },
     {
       "Name": "Serpent Endo",
@@ -4787,9 +4889,11 @@
       "Passives": {
         "Serpent Grasp": "After its 5th attack will throw his chain on enemies in a 180 cone, which will slow them by 20% for 3 seconds"
       },
-      "Obtainability": [
-        "AFK Present (2%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "AFK Present (2%)"
+        ]
+      }
     },
     {
       "Name": "Shadow Bonnie",
@@ -4852,10 +4956,12 @@
       "Passives": {
         "Agonizing Energy": "Attacks apply poison for 2s, dealing 20% of this unit's current damage. [10% dmg/tick]"
       },
-      "Obtainability": [
-        "Shadow Bonnie Present (100%)",
-        "Season 1 Premium Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Shadow Bonnie Present (100%)",
+          "Season 1 Premium Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Shadow Freddy",
@@ -4918,10 +5024,12 @@
         "Corrosion": "Attacks reduce armor damage resistance for 5s by 5% per hit, up to 70%.",
         "Energy Siphon": "This unit's range increases by 2% for each upgrade performed within its range. [30% max buff]"
       },
-      "Obtainability": [
-        "Secret Present (33%)",
-        "Token Summons (0.25%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Secret Present (33%)",
+          "Token Summons (0.25%)"
+        ]
+      }
     },
     {
       "Name": "Starfarer Princess",
@@ -4971,10 +5079,12 @@
       "Passives": {
         "Holy Lake of Golden Stars": "This unit's range becomes its domain. The Golden Lake grants a 35% active ability cd reduction to any unit within the domain. Additionally, enemies within the domain are slowed by 15%, and light element units have increased +30% damage to enemies."
       },
-      "Obtainability": [
-        "Medieval Event Free Pass Tier 30",
-        "Starfarer Princess Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Event Free Pass Tier 30",
+          "Starfarer Princess Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Tarnished Spring Bonnie",
@@ -5013,10 +5123,12 @@
       "Passives": {
         "Malevolent Frenzy": "Every 15s, perform 8 rapid attacks dealing 15% damage each and applying [bleed] equal to 40% of damage dealt for 4s."
       },
-      "Obtainability": [
-        "OG Event Free Pass Tier 30",
-        "Tarnished Spring Bonnie Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Free Pass Tier 30",
+          "Tarnished Spring Bonnie Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Withered Foxy",
@@ -5074,11 +5186,13 @@
       "Passives": {
         "Sword Lunge": "When this unit first hits an enemy, does 30% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
       },
-      "Obtainability": [
-        "Secret Present (33%)",
-        "Token Summons (0.25%)",
-        "Soul Summons (0.25%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Secret Present (33%)",
+          "Token Summons (0.25%)",
+          "Soul Summons (0.25%)"
+        ]
+      }
     },
     {
       "Name": "Withered Freddy",
@@ -5141,11 +5255,13 @@
         "Focused Fire": "For every second that the unit targets the same enemy increase rng by 3% up to 35%. (Circle AOE)",
         "Faz-Metal-Jacket": "Every second shot applies burn for 1s, dealing 10% of this unit's current damage. (Cone AOE)"
       },
-      "Obtainability": [
-        "Secret Present (33%)",
-        "Token Summons (0.25%)",
-        "Soul Summons (0.25%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Secret Present (33%)",
+          "Token Summons (0.25%)",
+          "Soul Summons (0.25%)"
+        ]
+      }
     },
     {
       "Name": "Amalgam",
@@ -5196,9 +5312,11 @@
         "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1350 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 850 DMG. Toy Chica: AoE type 8 range, 700 DMG. Slows by 12% for 3.5 seconds Mangle: Single type, 1850. Stuns an enemy for 2 seconds. ",
         "Together": "If 2 amalgams are in range then both gain: 10% Damage, -10% Cooldown, 5% Damage burn/second"
       },
-      "Obtainability": [
-        "Soul Summons (0.01%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Soul Summons (0.01%)"
+        ]
+      }
     },
     {
       "Name": "Blighted Endo Freddy",
@@ -5250,10 +5368,12 @@
       "Passives": {
         "Shadow Slasher": " Blighted Endo Freddy will deal damage based on the enemies current HP, ranging from 150% - 75% DMG. 100%-80% HP -> 150% DMG 70%-50% HP -> 125% DMG 50%-30% HP -> 90% DMG 30%-0% HP -> 75% DMG "
       },
-      "Obtainability": [
-        "OG Event Premium Pass Tier 30",
-        "Blighted Endo Freddy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Premium Pass Tier 30",
+          "Blighted Endo Freddy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Blossom Chica",
@@ -5322,9 +5442,11 @@
           "Upgrade": 3
         }
       ],
-      "Obtainability": [
-        "Boss Raid Present (0.5%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Boss Raid Present (0.5%)"
+        ]
+      }
     },
     {
       "Name": "Cursed Jester Spring Bonnie",
@@ -5390,10 +5512,12 @@
           "Upgrade": 2
         }
       ],
-      "Obtainability": [
-        "Medieval Present (0.2%)",
-        "Medieval Event Summons (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Present (0.2%)",
+          "Medieval Event Summons (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Deadeye Freddy",
@@ -5449,10 +5573,12 @@
           "Upgrade": 3
         }
       ],
-      "Obtainability": [
-        "OG Event Craftable (3rd [Western] Endless)",
-        "OG Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Craftable (3rd [Western] Endless)",
+          "OG Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Dreadbear",
@@ -5521,10 +5647,12 @@
         "Curse of Dreadbear": "Upon placement, this unit receives a 30% damage, 10% cooldown, and 20% range boost. If another Dreadbear unit is placed within this unit’s range, this unit will lose all of these boosts.",
         "Heartbeat Current": "Every 60 seconds an electric shock spreads from Dreadbear’s heart throughout the rest of his body, decreasing his cooldown by 15% for 20 seconds."
       },
-      "Obtainability": [
-        "Dreadbear Present (100%)",
-        "Halloween Event Premium Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Dreadbear Present (100%)",
+          "Halloween Event Premium Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Gravelord Foxy",
@@ -5586,10 +5714,12 @@
       "Passives": {
         "Necromancer's Revenge": "Enemies killed by Gravelord Foxy are resurrected with 75% of their original health, capped at 125k HP."
       },
-      "Obtainability": [
-        "OG Event Craftable (4th [Halloween] Endless)",
-        "OG Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Craftable (4th [Halloween] Endless)",
+          "OG Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Grinch Foxy",
@@ -5641,10 +5771,12 @@
       "Passives": {
         "Broken Ornaments": "When attacking an enemy, has a 33% chance to apply a 4 second bleed dealing 15% damage every second"
       },
-      "Obtainability": [
-        "Grinch Foxy Present (100%)",
-        "Christmas Movie Event Premium Pass Tier 30"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Grinch Foxy Present (100%)",
+          "Christmas Movie Event Premium Pass Tier 30"
+        ]
+      }
     },
     {
       "Name": "Hades Bonnie",
@@ -5708,9 +5840,11 @@
       "Passives": {
         "Skull Piercer": "If Hades Bonnie hits an enemy that’s afflicted with a negative status effect, follow up with an AOE attack that deals 100% of this units damage and reapplies that effect. (15s Cooldown) This attack executes enemies under 5% hp if afflicted with [Death]"
       },
-      "Obtainability": [
-        "Season 1 Clan Present (0.05%)"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Season 1 Clan Present (0.05%)"
+        ]
+      },
       "Note": "The 'reapplies that effect' part of the passive is misleading, as it does not appear to do anything, and the execution mechanic does not seem to work either."
     },
     {
@@ -5762,10 +5896,12 @@
       "Passives": {
         "Leviathan’s Call": "Every 25s, summon a tidal wave that deals 80% of this unit’s damage and slows enemies by 30% for 4s. Each activation increases damage by 5%, up to 25%."
       },
-      "Obtainability": [
-        "OG Event Craftable (1st [Summer] Endless)",
-        "OG Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Craftable (1st [Summer] Endless)",
+          "OG Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Lich Shadow Bonnie",
@@ -5826,10 +5962,12 @@
           "Upgrade": 2
         }
       ],
-      "Obtainability": [
-        "Medieval Event Premium Pass Tier 30",
-        "Lich Shadow Bonnie Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Event Premium Pass Tier 30",
+          "Lich Shadow Bonnie Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Masked Bullies",
@@ -5903,9 +6041,11 @@
           "Upgrade": 1
         }
       ],
-      "Obtainability": [
-        "Season 3 Present Craftable"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 3 Present Craftable"
+        ]
+      }
     },
     {
       "Name": "Nightmare Mangle",
@@ -5978,9 +6118,11 @@
           "Upgrade": 1
         }
       ],
-      "Obtainability": [
-        "Token Summons (0.01%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.01%)"
+        ]
+      }
     },
     {
       "Name": "Purple Guy",
@@ -6053,9 +6195,11 @@
       "Passives": {
         "Endo Summon": "This unit doesn't attack, instead summons an Endo on the track on its cooldown, with health equal to 80% of his damage. Every 3rd summon, it will instead summon a Gun Endo which shoots enemies as it walks down the track doing 40% of this unit's current damage per shot (Single Target) and has 55% of this unit's current damage as health."
       },
-      "Obtainability": [
-        "Season 1 Present Craftable"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Season 1 Present Craftable"
+        ]
+      }
     },
     {
       "Name": "Scrooge Freddy",
@@ -6119,10 +6263,12 @@
       "Passives": {
         "Ghosts of Christmas Past and Future": "All attacks from this unit inflict [Darkfire]. Darkfire does 23% of this unit’s damage per tick for 2 seconds."
       },
-      "Obtainability": [
-        "Christmas Event Present (0.04%)",
-        "Christmas Summons (0.025%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Event Present (0.04%)",
+          "Christmas Summons (0.025%)"
+        ]
+      }
     },
     {
       "Name": "Shark Withered Foxy",
@@ -6180,9 +6326,11 @@
       "Passives": {
         "Blood In The Water": "The longer an enemy is in Shark Withered Foxy's range, the more damage they take from Shark Withered Foxy (+2% per second)"
       },
-      "Obtainability": [
-        "AFK Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "AFK Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Spring Duo",
@@ -6243,9 +6391,11 @@
       "Passives": {
         "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
       },
-      "Obtainability": [
-        "Season 2 Present Craftable"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Season 2 Present Craftable"
+        ]
+      },
       "SwitchSpeed": 15
     },
     {
@@ -6314,9 +6464,17 @@
         "Deathbringer": "On attack, mark enemies with [Death]. If enemies afflicted with [Death] are eliminated within 4s, gain a skull. (Max of 200 skulls can be held)",
         "Necessary Evil": "Grants a shop containing upgrades in exchange for skulls. Damage: 7% [75 Skulls] Cooldown: -3% [75 Skulls] Range: 8% [75 Skulls] (Max of 5 stat upgrades total) Single: Increases dmg by 1.25x, and increases cd by 0.95x. [200 Skulls] Cone: Increases cone size by 45. Reduces dmg by 1.2x & Reduces cd by 1.2x. [200 Skulls] AOE: Increases damage by 1.2x & lowers range by 1.35x. [200 Skulls] (Max of 1 attack upgrade) "
       },
-      "Obtainability": [
-        "Clan Season 1 Unit (Top 30)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Clan Season 1 Unit (Top 30)"
+        ],
+        "Shiny": [
+          "Clan Season 1 Unit (Top 5)"
+        ],
+        "Shiny-Champion": [
+          "Clan Season 1 Unit (Top 1)"
+        ]
+      }
     },
     {
       "Name": "Time Lord Withered Freddy",
@@ -6379,10 +6537,12 @@
           "Upgrade": 2
         }
       ],
-      "Obtainability": [
-        "Time Lord Withered Freddy Present (100%)",
-        "Game Mode Shop (350 Raid Tokens)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Time Lord Withered Freddy Present (100%)",
+          "Game Mode Shop (350 Raid Tokens)"
+        ]
+      }
     },
     {
       "Name": "Valkyrie Chica",
@@ -6441,10 +6601,12 @@
           "Upgrade": 1
         }
       ],
-      "Obtainability": [
-        "OG Event Craftable (2nd [Military] Endless)",
-        "OG Present (0.1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Craftable (2nd [Military] Endless)",
+          "OG Present (0.1%)"
+        ]
+      }
     },
     {
       "Name": "Withered Golden Freddy",
@@ -6507,9 +6669,11 @@
       "Passives": {
         "Fear": "Enemies within 40% of this unit's range are slowed by 20%."
       },
-      "Obtainability": [
-        "Token Summons (0.01%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.01%)"
+        ]
+      }
     },
     {
       "Name": "Dragon Endo 01",
@@ -6607,10 +6771,12 @@
           "Upgrade": 11
         }
       ],
-      "Obtainability": [
-        "Medieval Event Special Quests (5 Total: 2 Free, 3 Purchasable [15 Dragon Tokens Each])",
-        "Dragon Endo 01 Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Event Special Quests (5 Total: 2 Free, 3 Purchasable [15 Dragon Tokens Each])",
+          "Dragon Endo 01 Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Frozen King Foxy",
@@ -6708,10 +6874,12 @@
           "Upgrade": 11
         }
       ],
-      "Obtainability": [
-        "Christmas Movie Event Special Endless (Random chance upon completion of wave 25)",
-        "Frozen King Foxy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Movie Event Special Endless (Random chance upon completion of wave 25)",
+          "Frozen King Foxy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Headless Horseman Mangle",
@@ -6798,10 +6966,12 @@
           "Upgrade": 9
         }
       ],
-      "Obtainability": [
-        "Halloween Event Endless Shop (150K Bones)",
-        "Headless Horseman Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Halloween Event Endless Shop (150K Bones)",
+          "Headless Horseman Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Yeti Oni Bonnie",
@@ -6876,9 +7046,11 @@
           "Upgrade": 7
         }
       ],
-      "Obtainability": [
-        "Christmas Present (0.5%)"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Christmas Present (0.5%)"
+        ]
+      },
       "Note": "Credits to @vinnytcc for helping me get the stats for this unit (I asked in the question channel and they helped me!)."
     },
     {
@@ -7032,9 +7204,11 @@
           "Upgrade": 18
         }
       ],
-      "Obtainability": [
-        "Golden Freddy Hero Quests"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Golden Freddy Hero Quests"
+        ]
+      },
       "Skins": [
         {
           "Name": "Fredbear",
@@ -7192,9 +7366,11 @@
           "Upgrade": 19
         }
       ],
-      "Obtainability": [
-        "Nightmare Fredbear Hero Quests"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Nightmare Fredbear Hero Quests"
+        ]
+      },
       "Skins": [
         {
           "Name": "Remnant Fredbear",
@@ -7353,9 +7529,11 @@
           "Upgrade": 1
         }
       ],
-      "Obtainability": [
-        "OMC Unlock Quests (Need Help? Check Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
-      ],
+      "Obtainability": {
+        "Base": [
+          "OMC Unlock Quests (Need Help? Check Here: https://www.unofficialfntduserguide.com/info-and-guides/how-to-get)"
+        ]
+      },
       "Skins": [
         {
           "Name": "Deep Sea Nautilus",
@@ -7518,9 +7696,11 @@
           "Upgrade": 18
         }
       ],
-      "Obtainability": [
-        "Puppet Hero Quests"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Puppet Hero Quests"
+        ]
+      },
       "Skins": [
         {
           "Name": "Tragedy",
@@ -7692,9 +7872,11 @@
           "Upgrade": 17
         }
       ],
-      "Obtainability": [
-        "Springtrap Hero Quests"
-      ],
+      "Obtainability": {
+        "Base": [
+          "Springtrap Hero Quests"
+        ]
+      },
       "Skins": [
         {
           "Name": "Jack'O Springtrap",
@@ -7761,10 +7943,12 @@
       "Passives": {
         "Shadow Surge": "After dealing 1.5k damage this unit becomes [Cloaked] for 5s, gaining increased DMG by 50%, decreased CD by 10% and switches this unit's type to 60 degree Cone for the duration. (This passive has a 10s cooldown)."
       },
-      "Obtainability": [
-        "Cloaked Sparky Present (100%)",
-        "2nd Starter Pack (249 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Cloaked Sparky Present (100%)",
+          "2nd Starter Pack (249 R$)"
+        ]
+      }
     },
     {
       "Name": "Conductor Toy Freddy",
@@ -7815,10 +7999,12 @@
       "Passives": {
         "All Aboard!": "On this unit's cooldown, summons a train on the track with 120% damage as health (does not damage bosses). While a train is on the track, this unit gains a 10% damage boost (capped at 1)."
       },
-      "Obtainability": [
-        "Christmas Movie Event Exclusive (1299 R$ / 25000 Gingerbread)",
-        "Conductor Freddy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Movie Event Exclusive (1299 R$ / 25000 Gingerbread)",
+          "Conductor Freddy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Crying Child",
@@ -7859,10 +8045,12 @@
       "Passives": {
         "Thermal Runaway": "Every 30 seconds, the flashlight overheats. Crying Child throws it, leaving a stackable puddle that slows by 10% and applies 25% withered to enemies that walk over it. Lasts 8 seconds."
       },
-      "Obtainability": [
-        "Crying Child Present (100%)",
-        "3rd Starter Pack (249 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Crying Child Present (100%)",
+          "3rd Starter Pack (249 R$)"
+        ]
+      }
     },
     {
       "Name": "Frosty the Snowcake",
@@ -7905,9 +8093,11 @@
       "Passives": {
         "Chilling Snowcake": "Each enemy damaged by this unit is slowed by 10% for 1s."
       },
-      "Obtainability": [
-        "Christmas Present (90%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Present (90%)"
+        ]
+      }
     },
     {
       "Name": "Hacker King RWQFSFASXC",
@@ -7970,10 +8160,12 @@
       "Passives": {
         "Decode": "Every 45 seconds hacker Bonnie will hack all enemies in range inflecting 15% slow and 10% wither for 8 seconds"
       },
-      "Obtainability": [
-        "9th Bi-Weekly Exclusive (699 R$ / 65000 Tokens / 1500 Souls)",
-        "Hacker Bonnie Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "9th Bi-Weekly Exclusive (699 R$ / 65000 Tokens / 1500 Souls)",
+          "Hacker Bonnie Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Luminary Reporter Shadow Bonnie",
@@ -8023,10 +8215,12 @@
         "Cosmic Greed": "The Moon will grow brighter every attack increasing Luminary Bonnie's Damage by +0.5%; after reaching +20% Damage, Dying Light will activate.",
         "Dying Light": "Luminary Bonnie will explode the Moon, dealing 250% Damage to all Enemies on the map; Cosmic Greed will reset and Luminary Bonnie will be inflicted with Stun for 5s."
       },
-      "Obtainability": [
-        "5th Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
-        "Luminary Reporter Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "5th Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
+          "Luminary Reporter Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Mangle",
@@ -8095,11 +8289,13 @@
         "Take Apart & Put Together": "This unit's other head will attack enemies within 40% range dealing small Circle AoE damage. Enemies hit by this attack are inflicted with bleed for 3s dealing 40% of this unit's current damage [13.3% DMG per tick].",
         "Radio Static": "When an enemy is within 50% of this unit's range for more than 2 seconds, this unit stuns the enemy for 3s. [12.5s stun CD]"
       },
-      "Obtainability": [
-        "Mangle Present (100%)",
-        "Season 1 Present (80%)",
-        "1st Exclusive Pack (2500 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Mangle Present (100%)",
+          "Season 1 Present (80%)",
+          "1st Exclusive Pack (2500 R$)"
+        ]
+      }
     },
     {
       "Name": "Mecha Cupcake",
@@ -8153,10 +8349,12 @@
       "Passives": {
         "Eternal Blaze": "If 6 or more enemies are hit, flames turn blue, dealing 50% extra damage and applying a 15% burn effect lasting 3 seconds."
       },
-      "Obtainability": [
-        "7th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
-        "Mecha Cupcake Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "7th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
+          "Mecha Cupcake Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Movie Director Freddy",
@@ -8205,10 +8403,12 @@
       "Passives": {
         "Eye for Talent": "This unit boosts all forms of income by 10%, scaling by 2% per upgrade. [ends at 20%] This unit boosts the damage of the unit with the highest damage number in range by 25%."
       },
-      "Obtainability": [
-        "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)",
-        "Movie Director Freddy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)",
+          "Movie Director Freddy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Nightmarionne",
@@ -8277,10 +8477,12 @@
       "Passives": {
         "Dark Offerings": " This unit spawns plush versions of itself around it and gains buffs based on the number of defeated enemies in range. 35 defeated enemies: +15% damage and range (1 plush) 50 defeated enemies: +20% damage and range (2 plush) 75 defeated enemies: Becomes Full AOE (Plushies float) "
       },
-      "Obtainability": [
-        "Nightmarionne Present (100%)",
-        "3rd Exclusive Pack (2500 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Nightmarionne Present (100%)",
+          "3rd Exclusive Pack (2500 R$)"
+        ]
+      }
     },
     {
       "Name": "Party Glock Freddy",
@@ -8330,10 +8532,12 @@
         "Celebration": "Every 60s this unit enters a Party Time mode for 30s, gaining 30% damage, reducing SPA by 15% and increasing range by 25%.",
         "Party Poppers": "Every 15 seconds, spawns in 2 Party Poppers anywhere in this unit's range that aim at the enemy currently being targeted by the unit. Party Poppers deal 120% of this unit's current damage in a 70 degree Cone AOE."
       },
-      "Obtainability": [
-        "Party Glock Present (100%)",
-        "1st Bi-Weekly Exclusive (599 R$ / 12500 Tokens)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Party Glock Present (100%)",
+          "1st Bi-Weekly Exclusive (599 R$ / 12500 Tokens)"
+        ]
+      }
     },
     {
       "Name": "Party Packer Cupcake",
@@ -8397,10 +8601,12 @@
           "Upgrade": 6
         }
       ],
-      "Obtainability": [
-        "PPC Present (100%)",
-        "1st Starter Pack (249 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "PPC Present (100%)",
+          "1st Starter Pack (249 R$)"
+        ]
+      }
     },
     {
       "Name": "Phone Dude",
@@ -8455,10 +8661,12 @@
           "Upgrade": 2
         }
       ],
-      "Obtainability": [
-        "Phone Dude Present (100%)",
-        "2nd Exclusive Pack (2500 R$)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Phone Dude Present (100%)",
+          "2nd Exclusive Pack (2500 R$)"
+        ]
+      }
     },
     {
       "Name": "Popcorn Bot",
@@ -8501,10 +8709,12 @@
       "Passives": {
         "Popcorn Party Pack": "Every 8 seconds this unit shots Popcorn with 1 of 3 different effects in this order. Spicy: 120 degree Cone, dealing 20% burn for 3s. Buttered: Single target Knockback Sweet: Boost all units and their stats by 5% for 7s."
       },
-      "Obtainability": [
-        "4th Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
-        "Popcorn Bot Present (1%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "4th Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
+          "Popcorn Bot Present (1%)"
+        ]
+      }
     },
     {
       "Name": "Popeyes Toy Freddy",
@@ -8556,10 +8766,12 @@
       "Passives": {
         "Flaming Hot Sauce": "A chicken will be laid down for 50% of damage, and will effect burn on enemies dealing 15% of damage every second for 3 seconds"
       },
-      "Obtainability": [
-        "6th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
-        "Popeyes Toy Freddy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "6th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
+          "Popeyes Toy Freddy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Puppet's Alliance",
@@ -8608,10 +8820,12 @@
       "Passives": {
         "Soul Shock": "[Unstable] is applied to every 8th Enemy that enters the map. [Unstable] results in an explosion that deals 50% damage of the unit that killed it."
       },
-      "Obtainability": [
-        "Puppets Alliance Present (100%)",
-        "2nd Bi-Weekly Exclusive (799 R$ / 35000 Tokens)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Puppets Alliance Present (100%)",
+          "2nd Bi-Weekly Exclusive (799 R$ / 35000 Tokens)"
+        ]
+      }
     },
     {
       "Name": "Rockin Bonnie",
@@ -8657,10 +8871,12 @@
         "Gnarly Riff": "Every 3rd attack, deal 145% damage in an full AOE.",
         "Rockin Vibes": "Due to the music played by rockin bonnie, all units in range receive 8% CD reduction"
       },
-      "Obtainability": [
-        "OG Event Exclusive (799 R$ / 15000 Hourglasses / 1500 Souls)",
-        "Rockin Bonnie Present (100%)"
-      ],
+      "Obtainability": {
+        "Base": [
+          "OG Event Exclusive (799 R$ / 15000 Hourglasses / 1500 Souls)",
+          "Rockin Bonnie Present (100%)"
+        ]
+      },
       "Note": "A lead tester stated: 'wmf is good, rockin bonnie is good too as he does 12.5% cd boost'."
     },
     {
@@ -8705,10 +8921,12 @@
         "Guardian of the Fields": "While in (Guardian) form, this unit slows all enemies in range by 30%, and debuffs all towers in range by 5% Damage and 5% Range. Additionally while in (Guardian) form this unit does 40% of its damage every second passively to all enemies in range.",
         "Crop Raiser": "While in (Raiser) form, this unit speeds up all enemies in range by 5%, and buffs all towers in range by 15% Damage and 15% Range. Additionally while in (Raiser) form, this unit will attack the strongest enemy in range every 3s for 200% of its damage."
       },
-      "Obtainability": [
-        "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)",
-        "Scarecrow Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)",
+          "Scarecrow Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Shadow Knight Freddy",
@@ -8764,10 +8982,12 @@
       "Passives": {
         "Roaring Scream": "When 5 or more enemies are in the range of this unit, this unit screams at units around it, these units gain 5% spa but gain 20% dmg for 10s (Cooldown of 45s)"
       },
-      "Obtainability": [
-        "Medieval Event Exclusive (799 R$ / 15000 Coins / 1500 Souls)",
-        "Shadow Knight Freddy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Event Exclusive (799 R$ / 15000 Coins / 1500 Souls)",
+          "Shadow Knight Freddy Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Shepherd Fredbear",
@@ -8830,10 +9050,12 @@
       "Passives": {
         "Fieldwarden": "This unit summons animatronic sheep for 80% of its damage every 10 seconds. Every 4th summon, instead, spawn a golden sheep for 175% of this unit's damage. Every enemy defeated by a golden sheep increases this unit's income by 5% up to an extra 135%"
       },
-      "Obtainability": [
-        "Medieval Event Exclusive (1299 R$ / 25000 Coins / 3000 Souls)",
-        "Shepherd Fredbear Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Medieval Event Exclusive (1299 R$ / 25000 Coins / 3000 Souls)",
+          "Shepherd Fredbear Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Slasher Bonnie",
@@ -8894,10 +9116,12 @@
         "Bloodlust": "For each enemy in range: increase damage by 5%, range by 3%, and decrease cooldown by 2%. (Max of 5 stacks; 25% damage, 15% range, 10% cooldown) Upon reaching its final upgrade, these stats increase to 7.5% damage, 5% range, and 3% cooldown. (Max 37.5% damage, 25% range, 15% cooldown)",
         "Indiscriminate Bloodshed": "Bloodlust boost now becomes permanent once obtained, stack cap still applies. Once this unit reaches 5 Bloodlust stacks, this unit’s attack type changes to a 45 Degree Cone."
       },
-      "Obtainability": [
-        "Halloween Event Exclusive (799 R$ / 15000 Pumpkins)",
-        "Slasher Bonnie Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Halloween Event Exclusive (799 R$ / 15000 Pumpkins)",
+          "Slasher Bonnie Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Sweetheart Toy Foxy",
@@ -8947,10 +9171,12 @@
       "Passives": {
         "Love Shot": "Upon placement will shoot 2 random units and make them share the average attack speed between them, but at the cost of reducing both units damage by 35%"
       },
-      "Obtainability": [
-        "8th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
-        "Sweetheart Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "8th Bi-Weekly Exclusive (799 R$ / 65000 Tokens / 1500 Souls)",
+          "Sweetheart Present (100%)"
+        ]
+      }
     },
     {
       "Name": "Toy Maker Mangle",
@@ -9005,9 +9231,11 @@
       "Passives": {
         "Toy Maker": " This unit summons its toys on the track every 20 seconds, cycling through them in the following order. 1: Toy Train - HP equal to 160% damage 2: Toy Soldier - HP equal to 100% damage, attacks the first enemy within 15 range for 30% damage every 3s. 3: Wind-Up Bomb Toy - HP equal to 40% damage. On death, explodes dealing 125% "
       },
-      "Obtainability": [
-        "Christmas Present (9.5%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "Christmas Present (9.5%)"
+        ]
+      }
     },
     {
       "Name": "Turkey Chica",
@@ -9056,10 +9284,12 @@
       "Passives": {
         "Horn of Plenty": "Every 7 seconds, the cornucopia this unit holds will give itself a random buff from the “Blessing of Abundance” list found here. Blessing of Abundance: Nuts: 50% damage buff for 5s Produce: 30% cooldown buff for 5s Flowers: 80% range buff for 5s"
       },
-      "Obtainability": [
-        "3rd Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
-        "Turkey Chica Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "3rd Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
+          "Turkey Chica Present (100%)"
+        ]
+      }
     },
     {
       "Name": "UFO Tangle",
@@ -9115,10 +9345,12 @@
           "Upgrade": 4
         }
       ],
-      "Obtainability": [
-        "10th Bi-Weekly Exclusive (699 R$ / 65000 Tokens / 1500 Souls)",
-        "UFO Tangle Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "10th Bi-Weekly Exclusive (699 R$ / 65000 Tokens / 1500 Souls)",
+          "UFO Tangle Present (100%)"
+        ]
+      }
     },
     {
       "Name": "War Machine Foxy",
@@ -9172,10 +9404,12 @@
       "Passives": {
         "Overheat": "Always active unless stunned. Damage starts at 130% and decreases every 1.5s over 30s to a minimum of 85%, then is stunned for 3s to cool down."
       },
-      "Obtainability": [
-        "OG Event Exclusive (1299 R$ / 25000 Hourglasses / 3000 Souls)",
-        "War Machine Foxy Present (100%)"
-      ]
+      "Obtainability": {
+        "Base": [
+          "OG Event Exclusive (1299 R$ / 25000 Hourglasses / 3000 Souls)",
+          "War Machine Foxy Present (100%)"
+        ]
+      }
     }
   ],
   "Enchants": {
