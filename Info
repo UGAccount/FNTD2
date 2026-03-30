@@ -3,14 +3,14 @@
     "Units": {
       "Thanatos": {
         "Normal": {
-          "value": "3.25-5",
+          "value": "4-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 572
         },
         "Shiny": {
-          "value": "30+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1747,7 +1747,7 @@
     },
     "Dev": {
       "Thanatos": {
-        "value": "100+",
+        "value": "N/A",
         "version": "Shiny",
         "enchant": "Champion",
         "soul": "N/A",
