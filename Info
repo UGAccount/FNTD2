@@ -3,32 +3,32 @@
     "Units": {
       "Thanatos": {
         "Normal": {
-          "value": "N/A",
+          "value": "3.25-5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 572
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 133
         }
       },
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1.5-1.6+",
+          "value": "1.5",
           "soul": "N/A",
-          "demand": "6/10",
+          "demand": "7/10",
           "status": "Fluctuating",
           "exists": 3038
         },
         "Shiny": {
           "value": "15-20+",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "8/10",
           "status": "Manipulated",
           "exists": 111
         }
@@ -323,14 +323,14 @@
       },
       "Hades Bonnie": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 5544
         },
         "Shiny": {
-          "value": "11-13",
+          "value": "11",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -557,7 +557,7 @@
           "value": "4.5",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 609
         }
       },
@@ -650,7 +650,7 @@
           "exists": 120922
         },
         "Shiny": {
-          "value": "0.55+",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -691,7 +691,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "9.5+",
+          "value": "9-9.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Underpaid",
@@ -842,7 +842,7 @@
           "exists": 367835
         },
         "Shiny": {
-          "value": "0.x4+",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -890,7 +890,7 @@
           "exists": 27728
         },
         "Shiny": {
-          "value": "13.5+",
+          "value": "14+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
