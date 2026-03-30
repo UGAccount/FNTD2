@@ -1752,8 +1752,8 @@
         "enchant": "Champion",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
-        "exists": "N/A"
+        "status": "Unstable",
+        "exists": "30"
       }
     },
     "Presents": {
