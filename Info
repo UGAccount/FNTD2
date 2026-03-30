@@ -1745,6 +1745,16 @@
         }
       }
     },
+    "Dev": {
+      "Thanatos": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      }
+    },
     "Presents": {
       "Dragon Endo 01 Present": {
         "value": "N/A",
