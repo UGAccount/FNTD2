@@ -10,7 +10,7 @@
           "exists": 679
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "40+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1369,7 +1369,7 @@
           "exists": 3085
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -2346,16 +2346,16 @@
         "status": "N/A"
       },
       "Easter Springtrap": {
-        "value": "N/A",
+        "value": "0.06-0.08",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Hypnos": {
-        "value": "N/A",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       }
     },
     "Currency": {
