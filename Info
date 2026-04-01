@@ -1754,6 +1754,33 @@
         "demand": "N/A",
         "status": "Unstable",
         "exists": "30"
+      },
+      "Headless Horseman Mangle": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": "N/A"
+      },
+      "Scarecrow Freddy": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": "N/A"
+      },
+      "Party Glock Freddy": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": "N/A"
       }
     },
     "Presents": {
