@@ -26,7 +26,7 @@
           "exists": 3618
         },
         "Shiny": {
-          "value": "20-25",
+          "value": "25+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Manipulated",
@@ -67,7 +67,7 @@
       },
       "Shepherd Fredbear": {
         "Normal": {
-          "value": "0.07",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Unstable",
@@ -170,7 +170,7 @@
           "exists": 9596
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.75-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -186,7 +186,7 @@
           "exists": 4834
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -211,7 +211,7 @@
       },
       "Psychic Friend Fredbear": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.06+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -250,7 +250,7 @@
           "exists": 12822
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2.25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -259,14 +259,14 @@
       },
       "Nightmare Chica": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.08-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 22050
         },
         "Shiny": {
-          "value": "0.5+",
+          "value": "0.5-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -554,7 +554,7 @@
           "exists": 22442
         },
         "Shiny": {
-          "value": "4.5",
+          "value": "4.25+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -586,7 +586,7 @@
           "exists": 27043
         },
         "Shiny": {
-          "value": "5.5",
+          "value": "5-5.5",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
@@ -634,7 +634,7 @@
           "exists": 6969
         },
         "Shiny": {
-          "value": "12.5+",
+          "value": "12",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -890,10 +890,10 @@
           "exists": 27734
         },
         "Shiny": {
-          "value": "14+",
+          "value": "15+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Stable",
+          "status": "Slow Rise",
           "exists": 716
         }
       },
@@ -2297,7 +2297,7 @@
     },
     "Gamepasses": {
       "Shiny Hunter": {
-        "value": "2+",
+        "value": "1.8-2",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -2335,10 +2335,10 @@
         "status": "O/C"
       },
       "Jack'O Springtrap": {
-        "value": "N/A",
+        "value": "0.2+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Stable"
       },
       "Puppeteer": {
         "value": "N/A",
@@ -2359,10 +2359,10 @@
         "status": "O/C"
       },
       "Deep Sea Nautilus": {
-        "value": "N/A",
+        "value": "0.5-0.8",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Unstable"
       },
       "Monarch": {
         "value": "N/A",
