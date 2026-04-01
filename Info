@@ -1763,7 +1763,16 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": "N/A"
+        "exists": "1"
+      },
+      "Slasher Bonnie": 
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": "2"
       },
       "Scarecrow Freddy": {
         "value": "N/A",
@@ -1772,7 +1781,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": "N/A"
+        "exists": "1"
       },
       "Party Glock Freddy": {
         "value": "N/A",
@@ -1781,7 +1790,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": "N/A"
+        "exists": "1"
       }
     },
     "Presents": {
