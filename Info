@@ -907,6 +907,7 @@
         },
         "Shiny": {
           "value": "80+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
           "exists": 78
