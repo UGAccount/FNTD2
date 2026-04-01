@@ -906,7 +906,7 @@
           "exists": 3868
         },
         "Shiny": {
-          "value": "80~",
+          "value": "80+",
           "demand": "N/A",
           "status": "Manipulated",
           "exists": 78
