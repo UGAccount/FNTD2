@@ -42,7 +42,7 @@
           "exists": 3262
         },
         "Shiny": {
-          "value": "10+",
+          "value": "9-9.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -74,7 +74,7 @@
           "exists": 10105
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -83,7 +83,7 @@
       },
       "Shadow Knight Freddy": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.025",
           "soul": "N/A",
           "demand": "4.5/10",
           "status": "Unstable",
@@ -589,7 +589,7 @@
           "value": "5-5.5",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 805
         }
       },
@@ -1331,7 +1331,7 @@
       },
       "Serpent Endo": {
         "Normal": {
-          "value": "0.015",
+          "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
