@@ -1,6 +1,86 @@
 {
   "Values": {
     "Units": {
+      "Bear5": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Freddy Fastbear": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Breadbear": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "John Pigpatch": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Hor Hor Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Thanatos": {
         "Normal": {
           "value": "4+",
@@ -1830,6 +1910,12 @@
       }
     },
     "Presents": {
+      "April Fools Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Dragon Endo 01 Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -2658,6 +2744,57 @@
       }
     },
     {
+      "Name": "Hor Hor Freddy",
+      "Rarity": "Rare",
+      "PlacementPrice": 450,
+      "Type": "Cone",
+      "Degrees": 35,
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 100,
+        "Cooldown": 2.6,
+        "Degrees": 35
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 115,
+          "Cooldown": 2.5,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 22,
+          "Damage": 130,
+          "Cooldown": 2.4,
+          "UpgradePrice": 700
+        },
+        {
+          "Range": 24,
+          "Damage": 155,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 25,
+          "Damage": 175,
+          "Cooldown": 2.3,
+          "UpgradePrice": 1500,
+          "Type": "Cone",
+          "Degrees": 65
+        }
+      ],
+      "Passives": {
+        "Hor Hor": "every 3rd attack he goes full hor hor and starts spinning and shoots a lot and then gets tired for 3 seconds and then he is fine :)"
+      },
+      "Obtainability": {
+        "Base": [
+          "April Fools Present (50%)"
+        ]
+      }
+    },
+    {
       "Name": "JJ",
       "Rarity": "Rare",
       "PlacementPrice": 500,
@@ -3008,6 +3145,53 @@
       "Obtainability": {
         "Base": [
           "AFK Present (97.9%)"
+        ]
+      }
+    },
+    {
+      "Name": "John Pigpatch",
+      "Rarity": "Epic",
+      "PlacementPrice": 3250,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 330,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 365,
+          "Cooldown": 2.8,
+          "UpgradePrice": 875
+        },
+        {
+          "Range": 20,
+          "Damage": 385,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 21,
+          "Damage": 415,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 23,
+          "Damage": 450,
+          "Cooldown": 2.3,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "Phone Ring": "after about 12 seconds john gets a call with probably bad news because he gets mad and does 10% more damage and has 8% less cooldown for like 4 seconds"
+      },
+      "Obtainability": {
+        "Base": [
+          "April Fools Present (25%)"
         ]
       }
     },
@@ -3380,6 +3564,67 @@
       "Obtainability": {
         "Base": [
           "Halloween Event Summons Craftable"
+        ]
+      }
+    },
+    {
+      "Name": "Breadbear",
+      "Rarity": "Mythical",
+      "PlacementPrice": 2250,
+      "Type": "Cone",
+      "Degrees": 180,
+      "Element": "Nature",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 270,
+        "Cooldown": 2,
+        "Degrees": 180
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 285,
+          "Cooldown": 2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 300,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 21,
+          "Damage": 329.9,
+          "Cooldown": 1.7,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 23,
+          "Damage": 355,
+          "Cooldown": 1.6,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23,
+          "Damage": 385,
+          "Cooldown": 1.6,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 23,
+          "Damage": 415,
+          "Cooldown": 1.5,
+          "UpgradePrice": 6350
+        }
+      ],
+      "Passives": {
+        "taste better than key": "throws bread every like 3 attacks or smth for like 125% damage and then every 5 bread its huge bread for 175% i think"
+      },
+      "Obtainability": {
+        "Base": [
+          "April Fools Present (5%)"
         ]
       }
     },
@@ -4258,6 +4503,54 @@
         "Base": [
           "Freddles Present (100%)",
           "Season 3 Premium Pass Tier 30"
+        ]
+      }
+    },
+    {
+      "Name": "Freddy Fastbear",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 740,
+        "Cooldown": 3.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 775,
+          "Cooldown": 3.4,
+          "UpgradePrice": 2850
+        },
+        {
+          "Range": 23,
+          "Damage": 800,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2850
+        },
+        {
+          "Range": 24,
+          "Damage": 865,
+          "Cooldown": 3.2,
+          "UpgradePrice": 3450,
+          "Type": "Line"
+        },
+        {
+          "Range": 25,
+          "Damage": 935,
+          "Cooldown": 3,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "ARE YOU READY FOR FREDDY?": "this guy decides if you want something done you have to do it yourself so every abt 15 seconds he just leaves his spot like a good employee and sprints along the path at super sonic speed dealing like a gatrillion damage (250% actually, thats his health) and also slows down the enemy by 10% "
+      },
+      "Obtainability": {
+        "Base": [
+          "April Fools Present (0.5%)"
         ]
       }
     },
@@ -5388,6 +5681,78 @@
       "Obtainability": {
         "Base": [
           "Soul Summons (0.01%)"
+        ]
+      }
+    },
+    {
+      "Name": "Bear5",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5500,
+      "Type": "Cone",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 555,
+        "Cooldown": 2.5,
+        "Type": "Cone",
+        "Cone": 0.55
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 622,
+          "Cooldown": 3,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 689,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 756,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 823,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 26,
+          "Damage": 890,
+          "Cooldown": 2.4,
+          "UpgradePrice": 3100
+        },
+        {
+          "Range": 27,
+          "Damage": 1067,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5555
+        }
+      ],
+      "Passives": {
+        "never ending glare": "every 30 seconds bear5 stares at the nearest enemy so hard they bug out and start walking backwards for 5 seconds",
+        "this is fake": "every fifth attack bear5 remembers he has a knife and stabs the enemy for 5% wither and 55% of his damage as bleed over 5 seconds real move trust",
+        "chefs knife": "after killing 5 enemies bear5 starts acting like a cooking show host and swings his knife in a huge cone dealing 55% of his current damage at 1.2x range",
+        "literally nothing": "the wheel can do basically anything like give bear5 55x speed for 3 waves at 0.1% or 25x speed for 3 waves at 1% or set mount speed to 555x for the rest of the game at 5% or remove all animations at 15% or at 25% roll 1 out of 5 random things where all common freddy turn blue and get 55% stats in everything for 5 seconds or the players head gets 5% bigger and keeps growing every time this gets rolled until they reset lol or bear5 turns red and gets 5% stats in everything for 5 seconds or the game speed gets set to 5x for 5 waves or a math quiz shows up and if you get hard pre calc right you get 15% range 15% damage and 5% cd for 55 seconds but if you fail enemy health is 2x for 15 waves and if you get medium algebra right you get 5% range and 5% damage for 8 seconds but if you fail enemy health is 2x for 5 waves and if you get easy multiplication right you get 5% range for 5 seconds but if you fail enemy health is 2x for 3 waves and most of the time at 56.9% literally nothing happens"
+      },
+      "Actives": [
+        {
+          "Name": "wheel of unfortunate events",
+          "Description": "bear5 summons a giant wheel and it costs 5555$ to spin because of course it does the wheel has a 0.1% chance to give 55x speed for 3 waves a 1% chance to give 25x speed for 3 waves a 5% chance to set mount speed to 555x for the rest of the game a 15% chance to remove all animations a 25% chance to roll 1 out of 5 random things and a 56.9% chance for literally nothing to happen every 5 spins gives bear5 a permanent 5% damage boost up to 55%",
+          "Cooldown": 55,
+          "Upgrade": 1
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "April Fools Present (0.0555%)"
         ]
       }
     },
