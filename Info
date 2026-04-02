@@ -3,10 +3,10 @@
     "Units": {
       "Bear5": {
         "Normal": {
-          "value": "N/A",
+          "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Fluctuating",
           "exists": 433
         },
         "Shiny": {
