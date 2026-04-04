@@ -122,7 +122,7 @@
           "exists": 3867
         },
         "Shiny": {
-          "value": "9",
+          "value": "8.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -634,10 +634,10 @@
           "exists": 22444
         },
         "Shiny": {
-          "value": "4.25+",
+          "value": "4",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 610
         }
       },
@@ -650,7 +650,7 @@
           "exists": 41909
         },
         "Shiny": {
-          "value": "8.5-9",
+          "value": "8.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
@@ -666,7 +666,7 @@
           "exists": 27043
         },
         "Shiny": {
-          "value": "4-4.5",
+          "value": "4",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Dropping",
@@ -771,7 +771,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "8.5",
+          "value": "8",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Underpaid",
@@ -781,7 +781,7 @@
           "value": "65+",
           "soul": "N/A",
           "demand": "8.5/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 123
         }
       },
@@ -819,17 +819,17 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "5.5-6",
+          "value": "5",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Unstable",
+          "status": "Underpaid",
           "exists": 6312
         },
         "Shiny": {
           "value": "65+",
           "soul": "N/A",
           "demand": "9.5/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 128
         }
       },
@@ -842,7 +842,7 @@
           "exists": 5473
         },
         "Shiny": {
-          "value": "11+",
+          "value": "13+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -973,7 +973,7 @@
           "value": "15+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Slow Rise",
+          "status": "Stable",
           "exists": 716
         }
       },
@@ -1258,10 +1258,10 @@
           "exists": 3791
         },
         "Shiny": {
-          "value": "40+",
+          "value": "45+",
           "demand": "8/10",
           "soul": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 89
         }
       },
@@ -2339,7 +2339,7 @@
         "status": "N/A"
       },
       "Bear5": {
-        "value": "0.05",
+        "value": "0.0555",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Dropping"
