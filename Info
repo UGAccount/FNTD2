@@ -2764,41 +2764,41 @@
     {
       "Name": "Hor Hor Freddy",
       "Rarity": "Rare",
-      "PlacementPrice": 450,
+      "PlacementPrice": 750,
       "Type": "Cone",
       "Degrees": 35,
       "Element": "Neutral",
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 18,
-        "Damage": 100,
+        "Damage": 70,
         "Cooldown": 2.6,
         "Degrees": 35
       },
       "UpgradeStats": [
         {
           "Range": 20,
-          "Damage": 115,
+          "Damage": 85,
           "Cooldown": 2.5,
-          "UpgradePrice": 650
+          "UpgradePrice": 800
         },
         {
           "Range": 22,
-          "Damage": 130,
+          "Damage": 100,
           "Cooldown": 2.4,
-          "UpgradePrice": 700
+          "UpgradePrice": 800
         },
         {
           "Range": 24,
-          "Damage": 155,
+          "Damage": 125,
           "Cooldown": 2.4,
-          "UpgradePrice": 1350
+          "UpgradePrice": 1500
         },
         {
           "Range": 25,
-          "Damage": 175,
+          "Damage": 145,
           "Cooldown": 2.3,
-          "UpgradePrice": 1500,
+          "UpgradePrice": 2250,
           "Type": "Cone",
           "Degrees": 65
         }
