@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Astral Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Bear5": {
         "Normal": {
           "value": "3+",
@@ -7128,6 +7144,130 @@
       "Obtainability": {
         "Base": [
           "Token Summons (0.01%)"
+        ]
+      }
+    },
+    {
+      "Name": "Astral Bonnie",
+      "Rarity": "Apex",
+      "PlacementPrice": 13500,
+      "Type": "Single",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 400,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 445,
+          "Cooldown": 1.5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23,
+          "Damage": 490,
+          "Cooldown": 1.4,
+          "UpgradePrice": 5350
+        },
+        {
+          "Range": 23,
+          "Damage": 550,
+          "Cooldown": 1.4,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 24,
+          "Damage": 625,
+          "Cooldown": 1.4,
+          "UpgradePrice": 7350
+        },
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 1.3,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 26,
+          "Damage": 765,
+          "Cooldown": 1.3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 2950,
+          "Cooldown": 5,
+          "UpgradePrice": 14500
+        },
+        {
+          "Range": 31.5,
+          "Damage": 3100,
+          "Cooldown": 5,
+          "UpgradePrice": 12000,
+          "Type": "Circle"
+        },
+        {
+          "Range": 33,
+          "Damage": 3225,
+          "Cooldown": 4.9,
+          "UpgradePrice": 13500
+        },
+        {
+          "Range": 33,
+          "Damage": 3350,
+          "Cooldown": 4.9,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 34,
+          "Damage": 3500,
+          "Cooldown": 4.8,
+          "UpgradePrice": 18000
+        },
+        {
+          "Range": 22,
+          "Damage": 260,
+          "Cooldown": 0.43,
+          "UpgradePrice": 20250
+        },
+        {
+          "Range": 22,
+          "Damage": 285,
+          "Cooldown": 0.4,
+          "UpgradePrice": 21500,
+          "Type": "Single"
+        },
+        {
+          "Range": 24,
+          "Damage": 300,
+          "Cooldown": 0.36,
+          "UpgradePrice": 21500
+        },
+        {
+          "Range": 25,
+          "Damage": 320,
+          "Cooldown": 0.33,
+          "UpgradePrice": 21500
+        }
+      ],
+      "Passives": {
+        "Astral Alignment": " Every 30 seconds, the stars align, giving Astral Bonnie one of three constellations for 45 seconds. Big Dipper: Astral Bonnie's attacks ricochet between enemies, and each bounce deals 5% more damage. Caps at 6 targets. Orion's Belt: Units aligned with Astral Bonnie gain +3% range and +2% damage per connected unit. Caps at +45% range and +30% damage. Hercules: Astral Bonnie gains +1.5% damage for each enemy currently on the map. ",
+        "Astral Sickness": "Regenerating enemies inside Astral Bonnie's range have their regeneration reduced by 15%. If Astral Bonnie hits one, that reduction becomes 40% for 3 seconds."
+      },
+      "Actives": [
+        {
+          "Name": "Blackhole",
+          "Description": "A black hole forms above Astral Bonnie, dealing damage every second to enemies inside 40% of Astral Bonnie's range. Each kill made by Astral Bonnie slightly strengthens it. Every kill increases the black hole's damage by 0.1%, up to 5% bonus damage, and increases its range by 0.2%, up to 10% bonus range. At 100 kills, the player can activate it again to rapidly expand it, engulfing the full map for 450% damage and resetting the count.",
+          "Cooldown": 150,
+          "Upgrade": 11
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.0005%)",
+          "Soul Summons (0.001%)"
         ]
       }
     },
