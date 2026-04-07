@@ -7152,6 +7152,10 @@
       "Rarity": "Apex",
       "PlacementPrice": 13500,
       "Type": "Single",
+      "Element": [
+        "Dark",
+        "Light"
+      ],
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 21,
