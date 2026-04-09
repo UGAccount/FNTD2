@@ -2337,7 +2337,7 @@
         "status": "Fluctuating"
       },
       "Nightmarionne": {
-        "value": "0.2-0.3",
+        "value": "0.2",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating"
@@ -2471,13 +2471,13 @@
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "1-1.2",
+        "value": "1",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Overhyped"
+        "status": "Stable"
       },
       "Quick Open": {
-        "value": "0.3-0.4",
+        "value": "0.4",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
