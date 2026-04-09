@@ -2471,7 +2471,7 @@
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "1",
+        "value": "0.8",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
