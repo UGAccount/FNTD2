@@ -3,14 +3,14 @@
     "Units": {
       "Astral Bonnie": {
         "Normal": {
-          "value": "9+",
+          "value": "9.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "50",
+          "value": "45",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -19,7 +19,7 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.7",
+          "value": "1.5-1.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -99,7 +99,7 @@
       },
       "Thanatos": {
         "Normal": {
-          "value": "4+",
+          "value": "4.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -115,10 +115,10 @@
       },
       "Dragon Endo 01": {
         "Normal": {
-          "value": "1.2+",
+          "value": "1.2",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 0
         },
         "Shiny": {
@@ -138,7 +138,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "6.5",
+          "value": "5.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -259,14 +259,14 @@
       },
       "Masked Bullies": {
         "Normal": {
-          "value": "0.125",
+          "value": "0.125-0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 0
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "2.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -339,14 +339,14 @@
       },
       "Crying Child": {
         "Normal": {
-          "value": "0.08-0.1",
+          "value": "0.06",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "2.25+",
+          "value": "2.25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -426,7 +426,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "10",
+          "value": "9-9.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -538,7 +538,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.7",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -602,7 +602,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "4.5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -746,7 +746,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.6+",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1114,7 +1114,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "6.5",
+          "value": "6-6.5",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
@@ -1475,7 +1475,7 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.01",
+          "value": "0.005+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -1927,16 +1927,16 @@
     },
     "Presents": {
       "April Fools Present": {
-        "value": "0.0045-0.005",
+        "value": "0.004+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
       "Dragon Endo 01 Present": {
-        "value": "N/A",
+        "value": "2.5",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Fluctuating"
       },
       "Lich Shadow Bonnie Present": {
         "value": "N/A",
