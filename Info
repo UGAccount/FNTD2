@@ -19,14 +19,14 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.5-1.7",
+          "value": "1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 3319
         },
         "Shiny": {
-          "value": "40+",
+          "value": "40",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
