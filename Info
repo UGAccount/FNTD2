@@ -3,14 +3,14 @@
     "Units": {
       "Astral Bonnie": {
         "Normal": {
-          "value": "9.5+",
+          "value": "10+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 329
         },
         "Shiny": {
-          "value": "45",
+          "value": "50",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -26,16 +26,16 @@
           "exists": 3319
         },
         "Shiny": {
-          "value": "40",
+          "value": "38-40",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 91
+          "exists": 121
         }
       },
       "Freddy Fastbear": {
         "Normal": {
-          "value": "0.03",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -122,7 +122,7 @@
           "exists": 4751
         },
         "Shiny": {
-          "value": "23-24",
+          "value": "23",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
@@ -131,14 +131,14 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Dropping",
           "exists": 3858
         },
         "Shiny": {
-          "value": "5.5+",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -490,7 +490,7 @@
           "exists": 13686
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -634,7 +634,7 @@
           "exists": 3925
         },
         "Shiny": {
-          "value": "2.7+",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -666,7 +666,7 @@
           "exists": 8730
         },
         "Shiny": {
-          "value": "3+",
+          "value": "2.7",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -730,7 +730,7 @@
           "exists": 3023
         },
         "Shiny": {
-          "value": "16",
+          "value": "15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -947,8 +947,8 @@
       },
       "Frostmancer Withered Bonnie": {
         "Normal": {
-          "value": "0.01",
-          "soul": "200+",
+          "value": "0.02+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 38386
@@ -1050,7 +1050,7 @@
           "exists": 6961
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1114,7 +1114,7 @@
           "exists": 10699
         },
         "Shiny": {
-          "value": "3-3.5",
+          "value": "3",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Underpaid",
@@ -1274,7 +1274,7 @@
           "exists": 7992
         },
         "Shiny": {
-          "value": "6-6.5",
+          "value": "6",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
