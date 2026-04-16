@@ -2400,10 +2400,10 @@
         "exists": 1145334
       },
       "Mafia Masked Bullies": {
-        "value": "N/A",
+        "value": "0.15-0.2",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Unstable",
         "exists": 2144
       },
       "8-Bit Shadow Bonnie": {
