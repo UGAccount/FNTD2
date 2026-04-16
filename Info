@@ -131,7 +131,7 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "0.15",
+          "value": "0.125",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Dropping",
@@ -2525,7 +2525,7 @@
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "0.9+",
+        "value": "0.8",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
