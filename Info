@@ -19,7 +19,7 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.3",
+          "value": "1.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
