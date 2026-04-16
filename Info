@@ -2616,10 +2616,10 @@
         "exists": 2079
       },
       "Mafia Masked Bullies": {
-        "value": "N/A",
+        "value": "0.2-0.25",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Unstable",
         "exists": 344
       }
     },
