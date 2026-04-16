@@ -1949,7 +1949,7 @@
         "status": "Unstable"
       },
       "Dragon Endo 01 Present": {
-        "value": "2.5",
+        "value": "2+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating"
@@ -2273,7 +2273,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.007",
+        "value": "0.006+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
