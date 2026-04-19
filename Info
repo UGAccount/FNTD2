@@ -2630,6 +2630,32 @@
         "demand": "N/A",
         "status": "N/A"
       }
+    },
+    "Bytes": {
+      "The Box": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Kaboom!": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Reaper": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Boss Drain": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      }
     }
   },
   "Units": [
