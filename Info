@@ -9182,7 +9182,7 @@
       ],
       "Passives": {
         "Digital Disruption": " Enemies within this units range are infected with Malware. Malware increases damage from DoT effects by 35% and increases stun duration from all sources by 15%. Each time a malware-infected enemy is defeated, this units SPA cycles through -10%, -20%, -30%, then resets to base in the 4th kill. "
-         "Hacked": " Every 3rd attack, this unit attached a Hacker Byte to a target. Enemies affected by Hacker Byte grant 100% additional income from damage dealt "
+        "Hacked": " Every 3rd attack, this unit attached a Hacker Byte to a target. Enemies affected by Hacker Byte grant 100% additional income from damage dealt "
       },
       "Obtainability": {
         "Base": [
