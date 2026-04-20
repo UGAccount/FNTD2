@@ -9127,6 +9127,71 @@
       }
     },
     {
+      "Name": "Lolbit",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 2500,
+      "Type": "Single",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 700,
+        "Cooldown": 3.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 750,
+          "Cooldown": 3.8,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 24,
+          "Damage": 800,
+          "Cooldown": 3.6,
+          "UpgradePrice": 1700
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 25,
+          "Damage": 850,
+          "Cooldown": 3.6,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 26,
+          "Damage": 900,
+          "Cooldown": 3.5,
+          "UpgradePrice": 2100
+        },
+        {
+          "Range": 27,
+          "Damage": 950,
+          "Cooldown": 3.4,
+          "UpgradePrice": 2500,
+          "Type": "Cone",
+          "Degrees": 150
+        },
+        {
+          "Range": 29,
+          "Damage": 1025,
+          "Cooldown": 3.3,
+          "UpgradePrice": 4850
+        }
+      ],
+      "Passives": {
+        "Digital Disruption": " Enemies within this units range are infected with Malware. Malware increases damage from DoT effects by 35% and increases stun duration from all sources by 15%. Each time a malware-infected enemy is defeated, this units SPA cycles through -10%, -20%, -30%, then resets to base in the 4th kill. "
+         "Hacked": " Every 3rd attack, this unit attached a Hacker Byte to a target. Enemies affected by Hacker Byte grant 100% additional income from damage dealt "
+      },
+      "Obtainability": {
+        "Base": [
+          "Lolbit Present (100%)",
+          "4th Exclusive Pack (2500 R$)"
+        ]
+      }
+    },
+    {
       "Name": "Nightmarionne",
       "Rarity": "Exclusive",
       "PlacementPrice": 3450,
