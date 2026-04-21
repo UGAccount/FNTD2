@@ -2654,7 +2654,7 @@
         "status": "Fluctuating"
       },
       "Reaper": {
-        "value": "0.08+",
+        "value": "0.06",
         "soul": "N/A",
         "demand": "6/10",
         "status": "Dropping"
