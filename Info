@@ -31,6 +31,21 @@
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 211
+      },
+      "Lolbit": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 5723
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 211
         }
       },
       "Freddy Fastbear": {
