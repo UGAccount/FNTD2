@@ -8206,6 +8206,36 @@
       "Note": "Credits to @vinnytcc for helping me get the stats for this unit (I asked in the question channel and they helped me!)."
     },
     {
+      "Name": "HandUnit",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 800,
+      "Type": "Support",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 100
+        }
+      ],
+      "Passives": {
+        "Helping Hand": "This unit links to the closest unit and upgrades one chosen stat for that unit. (Max boosts: 50% DMG, 55% RNG, or 20% CD)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 4 Starter Pack ($249 RBX)",
+          "Hand Unit Present (100%)"
+        ]
+      }
+    },
+    {
       "Name": "Golden Freddy",
       "Rarity": "Hero",
       "PlacementPrice": 1000,
