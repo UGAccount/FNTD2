@@ -1861,15 +1861,6 @@
     "Dev": {
       "Bear5": {
         "value": "N/A",
-        "version": "Normal",
-        "enchant": "Champion",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Fluctuating",
-        "exists": "67"
-      },
-      "Bear5": {
-        "value": "N/A",
         "version": "Shiny",
         "enchant": "Champion",
         "soul": "N/A",
@@ -1885,6 +1876,15 @@
         "demand": "N/A",
         "status": "Unstable",
         "exists": "30"
+      },
+      "Bear5": {
+        "value": "N/A",
+        "version": "Normal",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Fluctuating",
+        "exists": "67"
       },
       "Headless Horseman Mangle": {
         "value": "N/A",
