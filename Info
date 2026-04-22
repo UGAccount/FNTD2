@@ -122,9 +122,9 @@
           "exists": 8355
         },
         "Shiny": {
-          "value": "17-18",
+          "value": "16",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "6/10",
           "status": "Slowly Dropping",
           "exists": 247
         }
@@ -1386,7 +1386,7 @@
           "exists": 8069
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1.2",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
@@ -1859,6 +1859,24 @@
       }
     },
     "Dev": {
+      "Bear5": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable",
+        "exists": "33"
+      },
+      "Bear5": {
+        "value": "N/A",
+        "version": "Normal",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Fluctuating",
+        "exists": "67"
+      },
       "Thanatos": {
         "value": "N/A",
         "version": "Shiny",
