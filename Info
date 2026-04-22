@@ -1886,6 +1886,15 @@
         "status": "N/A",
         "exists": "1"
       },
+      "Bear5": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable",
+        "exists": "33"
+      },
       "Slasher Bonnie": {
         "value": "N/A",
         "version": "Shiny",
