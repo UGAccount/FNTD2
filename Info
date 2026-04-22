@@ -4864,6 +4864,7 @@
       "Rarity": "Exclusive",
       "PlacementPrice": 3200,
       "Type": "Cone",
+      "Degrees": 45,
       "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
