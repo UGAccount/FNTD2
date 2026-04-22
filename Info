@@ -4860,6 +4860,80 @@
       }
     },
     {
+      "Name": "Scooped Micheal",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 3750,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 641.4,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 671.7,
+          "Cooldown": 3.9,
+          "UpgradePrice": 2700
+        },
+        {
+          "Range": 21,
+          "Damage": 702,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 22,
+          "Damage": 732.3,
+          "Cooldown": 3.7,
+          "UpgradePrice": 4200,
+          "Type": "Cone",
+          "Degrees": 35
+        },
+        {
+          "Range": 23,
+          "Damage": 777.7,
+          "Cooldown": 3.7,
+          "UpgradePrice": 3700
+        },
+        {
+          "Range": 25,
+          "Damage": 833.3,
+          "Cooldown": 3.6,
+          "UpgradePrice": 4200
+        },
+        {
+          "Range": 27,
+          "Damage": 883.8,
+          "Cooldown": 3.4,
+          "UpgradePrice": 4750
+        },
+        {
+          "Range": 29,
+          "Damage": 1010,
+          "Cooldown": 3.3,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Soft-Served",
+          "Description": "When activated, Scooped Micheal spews a bit of ennard on the track right beside him. This trap can hit 10 enemies, inflicting enemies with 5% Bleed, but if there are 2 other Electric units present within your team, Bleed increases to 10%. If the team is Mono-Electric, Bleed stat increases to 20%, along with Exponential Slow in which every tick enemies lose 0.5% movement speed up to 20% till death. Max of 3 traps at a time.",
+          "Cooldown": 35,
+          "Upgrade": 4
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Scooped Spaghetti Present (100%)",
+          "Season 4 Free Premium tier 30"
+        ]
+      }
+    },
+    {
       "Name": "Exotic Butters",
       "Rarity": "Exclusive",
       "PlacementPrice": 3200,
