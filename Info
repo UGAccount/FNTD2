@@ -1886,24 +1886,6 @@
         "status": "N/A",
         "exists": "1"
       },
-      "Bear5": {
-        "value": "-555",
-        "version": "Shiny",
-        "enchant": "Champion",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable",
-        "exists": "33"
-      },
-      "Slasher Bonnie": {
-        "value": "N/A",
-        "version": "Shiny",
-        "enchant": "Champion",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
-        "exists": "2"
-      },
       "Scarecrow Freddy": {
         "value": "N/A",
         "version": "Shiny",
