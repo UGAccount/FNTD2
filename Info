@@ -321,6 +321,22 @@
           "exists": 260
         }
       },
+      "Lolbit": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Nightmarionne": {
         "Normal": {
           "value": "0.7-0.8",
