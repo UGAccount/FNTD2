@@ -195,7 +195,7 @@
       },
       "Cursed Jester Spring Bonnie": {
         "Normal": {
-          "value": "0.03-0.05",
+          "value": "0.03+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
