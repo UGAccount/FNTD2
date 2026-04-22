@@ -2857,22 +2857,6 @@
         "demand": "N/A",
         "status": "Unstable",
         "exists": 344
-      }
-    },
-      "Showtime Ennard": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Dark Springtrap": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
         }
       },
     "Currency": {
