@@ -2739,30 +2739,6 @@
         "demand": "N/A",
         "status": "O/C",
         "exists": 90
-      }
-    },
-      "Lolbit": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Showtime Ennard": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "8-Bit Baby": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
         }
       },
     "Gamepasses": {
