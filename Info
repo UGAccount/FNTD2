@@ -5057,6 +5057,74 @@
       }
     },
     {
+      "Name": "Elizabeth",
+      "Rarity": "Secret",
+      "PlacementPrice": 1500,
+      "Type": "Single",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 250,
+        "Cooldown": 2.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 270,
+          "Cooldown": 2,
+          "UpgradePrice": 1100
+        },
+        {
+          "Range": 22,
+          "Damage": 300,
+          "Cooldown": 2,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 23,
+          "Damage": 320,
+          "Cooldown": 2,
+          "UpgradePrice": 2200,
+          "Type": "Line"
+        },
+        {
+          "Range": 23,
+          "Damage": 345,
+          "Cooldown": 1.9,
+          "UpgradePrice": 1900
+        },
+        {
+          "Range": 25,
+          "Damage": 385,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2300
+        },
+        {
+          "Range": 26,
+          "Damage": 400,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2600
+        },
+        {
+          "Range": 28,
+          "Damage": 435,
+          "Cooldown": 1.7,
+          "UpgradePrice": 4000,
+          "Type": "Cone",
+          "Degrees": 50
+        }
+      ],
+      "Passives": {
+        "Sweet Treat": "Elizabeth will drop her ice cream on track every 5 seconds. For each ice cream in a stack, the enemy that makes contact takes 5% damage and 1% slow (caps at 30 cones per stack) that lasts for 5 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.25%)"
+        ]
+      }
+    },
+    {
       "Name": "Nightmare Chica",
       "Rarity": "Secret",
       "PlacementPrice": 3500,
