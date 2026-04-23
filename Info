@@ -58,7 +58,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "5-6.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -67,7 +67,7 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.9-1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -83,14 +83,14 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 7324
         },
         "Shiny": {
-          "value": "2+",
+          "value": "1.3-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -170,7 +170,7 @@
           "exists": 5742
         },
         "Shiny": {
-          "value": "30-32",
+          "value": "28-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
