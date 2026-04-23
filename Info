@@ -19,14 +19,14 @@
       },
       "HandUnit": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 6183
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
