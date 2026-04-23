@@ -3024,6 +3024,7 @@
       ],
       "Passives": {
         "Hat Toss": "Every 5 attacks, Freddy throws his hat and applies bleed for 1 second equal to 10% of his dmg"
+      },
       "Obtainability": {
         "Base": [
           "Uncommon Present (25%)",
