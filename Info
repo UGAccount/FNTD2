@@ -2893,7 +2893,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Guitar Solo": "Every 10 seconds, Bonnie strums his guitar and boost all his stats by 10% for 5 seconds."
       },
       "Obtainability": {
         "Base": [
@@ -2980,7 +2980,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Right Hook": "Every 6 attacks, Foxy performs a follow-up hit that deals 25% of his current damage."
       },
       "Obtainability": {
         "Base": [
@@ -3023,8 +3023,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
-      },
+        "Hat Toss": "Every 5 attacks, Freddy throws his hat and applies bleed for 1 second equal to 10% of his dmg"
       "Obtainability": {
         "Base": [
           "Uncommon Present (25%)",
