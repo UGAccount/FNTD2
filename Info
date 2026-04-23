@@ -1553,6 +1553,22 @@
           "exists": 6768
         }
       },
+      "Yenndo": {
+        "Normal": {
+          "value": "0.06+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "0.2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Nightmare BB": {
         "Normal": {
           "value": "0.001",
@@ -5223,6 +5239,81 @@
         ]
       }
     },
+    {
+      "Name": "Yenndo",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 7500,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 23,
+        "Damage": 610,
+        "Cooldown": 3.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 635,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5200
+        },
+        {
+          "Range": 25,
+          "Damage": 670,
+          "Cooldown": 2.9,
+          "UpgradePrice": 5850
+        },
+        {
+          "Range": 27,
+          "Damage": 705,
+          "Cooldown": 2.8,
+          "UpgradePrice": 6900,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 28,
+          "Damage": 740,
+          "Cooldown": 2.7,
+          "UpgradePrice": 6300,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 30,
+          "Damage": 775,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7000,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 31,
+          "Damage": 810,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7700,
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 32,
+          "Damage": 890,
+          "Cooldown": 2.7,
+          "UpgradePrice": 8750,
+          "Type": "Cone",
+          "Degrees": 90
+        }
+      ],
+      "Passives": {
+        "Anatomical Origins": "This unit uses its industrial Faz standard vacuum to slow enemies. For every 2% closer the enemies are to the unit in its range, slow the enemy by 1% (up to 35%). Once an enemy reaches within 25% of this unit's range, inflict a 1-time stun on the enemy for 2 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Token Summons (0.06%)"
+        ]
+      }
+    },ƒ
     {
       "Name": "Nightmare Chica",
       "Rarity": "Secret",
