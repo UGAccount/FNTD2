@@ -1235,16 +1235,16 @@
       },
       "Undead Chica": {
         "Normal": {
-          "value": "0.001",
+          "value": "0.015+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 191051
         },
         "Shiny": {
-          "value": "0.01",
+          "value": "N/A",
           "soul": "N/A",
-          "demand": "3/10",
+          "demand": "N/A",
           "status": "Stable",
           "exists": 45066
         }
