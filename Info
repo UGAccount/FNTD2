@@ -1,22 +1,6 @@
 {
   "Values": {
     "Units": {
-      "HandUnit": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
       "Lolbit": {
         "Normal": {
           "value": "1-1.1",
@@ -30,6 +14,22 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
+          "exists": 0
+        }
+      },
+      "HandUnit": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
           "exists": 0
         }
       },
