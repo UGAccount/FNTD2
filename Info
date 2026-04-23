@@ -2822,6 +2822,30 @@
         "demand": "N/A",
         "status": "Unstable",
         "exists": 344
+        }
+      },
+      "Showtime Ennard": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Dark Springtrap": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "8-Bit Baby": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
       }
     },
     "Currency": {
@@ -5895,7 +5919,14 @@
         "Base": [
           "Season 4 Present Craftable"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "8-Bit Baby",
+          "Obtainability": "5th Exclusive Skin Bundled (199 R$)",
+          "Rarity": "Secret"
+        }
+      ]
     },
     {
       "Name": "Nightmare Chica",
