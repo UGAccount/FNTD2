@@ -1,6 +1,54 @@
 {
   "Values": {
     "Units": {
+      "Bidybabs": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Funtime Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Funtime Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Ballora": {
         "Normal": {
           "value": "0.4",
@@ -1727,6 +1775,22 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 49544
+        }
+      },
+      "Minireenas": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
         }
       },
       "Phantom BB": {
@@ -5449,6 +5513,213 @@
       "Obtainability": {
         "Base": [
           "Token Summons (0.06%)"
+        ]
+      }
+    },
+    {
+      "Name": "Funtime Freddy",
+      "Rarity": "Mythical",
+      "PlacementPrice": 1250,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 170,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 205,
+          "Cooldown": 2.6,
+          "UpgradePrice": 650
+        },
+        {
+          "Range": 22,
+          "Damage": 240,
+          "Cooldown": 2.4,
+          "UpgradePrice": 775
+        },
+        {
+          "Range": 24,
+          "Damage": 270,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1000,
+          "Type": "Cone"
+        },
+        {
+          "Range": 25,
+          "Damage": 300,
+          "Cooldown": 2.0,
+          "UpgradePrice": 950
+        },
+        {
+          "Range": 26,
+          "Damage": 350,
+          "Cooldown": 2.0,
+          "UpgradePrice": 1150
+        }
+      ],
+      "Passives": {
+        "Go Get 'Em!": "Every 10 seconds, Funtime Freddy throws Bonbon at an enemy. Bonbon attaches to the target and nibbles at them, dealing damage equal to 30% of Funtime Freddy's damage over 5 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present (5%)"
+        ]
+      }
+    },
+    {
+      "Name": "Minireenas",
+      "Rarity": "Mythical",
+      "PlacementPrice": 2000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 250,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 275,
+          "Cooldown": 4.9,
+          "UpgradePrice": 1300
+        },
+        {
+          "Range": 21,
+          "Damage": 300,
+          "Cooldown": 4.8,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 22,
+          "Damage": 325,
+          "Cooldown": 4.6,
+          "UpgradePrice": 2300
+        },
+        {
+          "Range": 23,
+          "Damage": 350,
+          "Cooldown": 4.4,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 25,
+          "Damage": 400,
+          "Cooldown": 4.4,
+          "UpgradePrice": 3300
+        },
+        {
+          "Range": 27,
+          "Damage": 545,
+          "Cooldown": 4.2,
+          "UpgradePrice": 4200
+        }
+      ],
+      "Passives": {
+        "Minireena's Push": "Attacks knockback enemies."
+      },
+      "Obtainability": {
+        "Base": [
+          "Token Summons (2%)"
+        ]
+      }
+    },
+    {
+      "Name": "Bidybabs",
+      "Rarity": "Rare",
+      "PlacementPrice": 900,
+      "Type": "Single",
+      "Element": "Electricity",
+      "MaxPlaced": 4,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 100,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 27.5,
+          "Damage": 120,
+          "Cooldown": 2,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 30,
+          "Damage": 145,
+          "Cooldown": 1.5,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 35,
+          "Damage": 190,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1200
+        }
+      ],
+      "Passives": {
+        "Complete Set": "This unit gains 20% increased range if Minireena is in the loadout, and a 5% cooldown reduction if Ballora is in the loadout."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present (30%)"
+        ]
+      }
+    },
+    {
+      "Name": "Funtime Foxy",
+      "Rarity": "Epic",
+      "PlacementPrice": 1100,
+      "Type": "Support",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 475
+        },
+        {
+          "Range": 23,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 24,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 525
+        },
+        {
+          "Range": 25,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 550
+        },
+        {
+          "Range": 22,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 600
+        }
+      ],
+      "Passives": {
+        "Showtime!": "He performs a show that boosts all stats of units within range by 5%. Every 35 seconds, this boost increases to 10% for 10 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present (15%)"
         ]
       }
     },
