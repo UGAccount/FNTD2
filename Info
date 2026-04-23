@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Ballora": {
+        "Normal": {
+          "value": "0.4",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "2+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Lolbit": {
         "Normal": {
           "value": "1-1.1",
@@ -36,6 +52,22 @@
       "Scooped Michael": {
         "Normal": {
           "value": "0.3+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Circus Baby": {
+        "Normal": {
+          "value": "0.9-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -5404,6 +5436,151 @@
         ]
       }
     },
+    {
+      "Name": "Ballora",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 540,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 570,
+          "Cooldown": 1.0,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 600,
+          "Cooldown": 1.0,
+          "UpgradePrice": 3900
+        },
+        {
+          "Range": 22,
+          "Damage": 640,
+          "Cooldown": 1.0,
+          "UpgradePrice": 4475
+        },
+        {
+          "Range": 23,
+          "Damage": 710,
+          "Cooldown": 1.0,
+          "UpgradePrice": 5600
+        },
+        {
+          "Range": 25,
+          "Damage": 760,
+          "Cooldown": 1.0,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 810,
+          "Cooldown": 1.0,
+          "UpgradePrice": 5800
+        },
+        {
+          "Range": 29,
+          "Damage": 910,
+          "Cooldown": 0,
+          "UpgradePrice": 6675
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Supersonic",
+          "Description": "This unit has no unique attack upgrade or cooldown. Its entire kit revolves around a 3 second active cooldown. Their damage scales based on how long it's been since the active has been used. Every 2 seconds Ballora obtains a stack. 1 Stack: Line Pierce dealing 1.2x damage. 3 Stacks: 45 Degree Cone dealing 1.8x damage. 5 Stacks: 90 Degree Cone dealing 2.8x damage, hitting twice. 7 Stacks: 120 Degree Cone dealing 3.5x damage. 10 Stacks: Full AOE multi-hit attack dealing 5x damage.",
+          "Cooldown": 3,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present (0.25%)"
+        ]
+      }
+    },
+    {
+      "Name": "Circus Baby",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 540,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 570,
+          "Cooldown": 4.9,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 600,
+          "Cooldown": 4.8,
+          "UpgradePrice": 3900
+        },
+        {
+          "Range": 22,
+          "Damage": 640,
+          "Cooldown": 4.6,
+          "UpgradePrice": 4475
+        },
+        {
+          "Range": 23,
+          "Damage": 710,
+          "Cooldown": 4.4,
+          "UpgradePrice": 5600
+        },
+        {
+          "Range": 25,
+          "Damage": 760,
+          "Cooldown": 4.4,
+          "UpgradePrice": 5000,
+          "Type": "Cone",
+          "Degrees": 65
+        },
+        {
+          "Range": 27,
+          "Damage": 810,
+          "Cooldown": 4.2,
+          "UpgradePrice": 5800
+        },
+        {
+          "Range": 29,
+          "Damage": 910,
+          "Cooldown": 3.8,
+          "UpgradePrice": 6675
+        }
+      ],
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Overcharge",
+          "Description": "Upon activation, Circus Baby's circuits will emit a large electric shock, stunning every enemy in range for 3 seconds and dealing 55% damage, increasing by 15% per [Electricity] Element units in range. After the enemies are stunned, they are inflicted with [Overcharge], causing their speed to be permanently increased by 10% but in return take 25% more damage from [Electricity] Element Units",
+          "Cooldown": 15,
+          "Upgrade": 4
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present Craftable"
+        ]
+      }
+    },
+
     {
       "Name": "Nightmare Chica",
       "Rarity": "Secret",
