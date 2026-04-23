@@ -8212,8 +8212,7 @@
           "Range": 22,
           "Damage": 285,
           "Cooldown": 0.4,
-          "UpgradePrice": 21500,
-          "Type": "Single"
+          "UpgradePrice": 21500
         },
         {
           "Range": 24,
