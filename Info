@@ -8820,6 +8820,169 @@
       ]
     },
     {
+      "Name": "Ennard",
+      "Rarity": "Hero",
+      "PlacementPrice": 8000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 182,
+        "Cooldown": 1.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 242,
+          "Cooldown": 1.0,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 21,
+          "Damage": 303,
+          "Cooldown": 1.0,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 21,
+          "Damage": 364,
+          "Cooldown": 1.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 21,
+          "Damage": 424,
+          "Cooldown": 1.0,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 21,
+          "Damage": 495,
+          "Cooldown": 1.0,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22,
+          "Damage": 556,
+          "Cooldown": 1.0,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 23,
+          "Damage": 636,
+          "Cooldown": 1.0,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 23,
+          "Damage": 707,
+          "Cooldown": 1.0,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 24,
+          "Damage": 783,
+          "Cooldown": 1.0,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 838,
+          "Cooldown": 3.6,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 21,
+          "Damage": 909,
+          "Cooldown": 2.4,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 21,
+          "Damage": 975,
+          "Cooldown": 2.3,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 22,
+          "Damage": 1035,
+          "Cooldown": 2.2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 22,
+          "Damage": 1101,
+          "Cooldown": 2.1,
+          "UpgradePrice": 7000,
+          "Type": "Full AOE"
+        },
+        {
+          "Range": 23,
+          "Damage": 1275,
+          "Cooldown": 3.0,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 23,
+          "Damage": 1308,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 24,
+          "Damage": 1333,
+          "Cooldown": 2.7,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 25,
+          "Damage": 1404,
+          "Cooldown": 2.6,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 1454,
+          "Cooldown": 2.6,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 28,
+          "Damage": 1535,
+          "Cooldown": 2.5,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "Coiling Combination [Smasher] (Upgrade 5+)": "Every 10 seconds, 3 random enemies anywhere on the map are attacked from below by coils, each taking damage equal to 345% of this unit’s damage.",
+        "Tanglement [Smasher] (Upgrade 13+)": "Ennard copies the base damage of the highest-damage unit within range. Its cooldown becomes the average of both units’ cooldowns, but it cannot go lower than Ennard’s base cooldown. The copied damage is then increased by 1.45x.",
+        "Conductor [Smasher] (Upgrade 18+)": "All Electrical units within range gain an additional 30% damage, 45% range, and 15% cooldown reduction. For each Electrical unit in range, these boosts decrease by 1%, down to a minimum of 25% damage, 30% range, and 10% cooldown reduction.",
+        "Coiling Combination [Shocker] (Upgrade 5+)": "Every 6 seconds, 4 random enemies anywhere on the map are attacked from below by coils, each taking damage equal to 40% of this unit’s damage and being stunned for 1.5 seconds.",
+        "Tanglement [Shocker] (Upgrade 13+)": "Ennard copies 0.85x of the base damage of the highest-damage unit within range, and its cooldown becomes the average of the two units’ cooldowns. It also gains the ability to stun enemies for 1.5 seconds.",
+        "Conductor [Shocker] (Upgrade 18+)": "All Electrical units within range gain an additional 10% damage, 15% range, and 3% cooldown reduction. For each Electrical unit in range, these boosts increase by 2%, up to a maximum of 13% damage, 35% range, and 15% cooldown reduction."
+      },
+      "Actives": [
+        {
+          "Name": "Construct",
+          "Description": "Stun all current enemies and increase ally unit SPA by 75% for 10s (does not include self). During this time, Nightmare Fredbear can attack anywhere on the map and deals 1%-75% increased damage based on distance from this unit.",
+          "Cooldown": 120,
+          "Upgrade": 15
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Ennard Hero Quests"
+        ]
+      },
+      "Skins": [
+        {
+          "Name": "Showtime Ennard",
+          "Obtainability": "2nd Big Resource pack 3 (5999 R$)",
+          "Rarity": "Exclusive"
+        }
+      ]
+    }
       "Name": "Nightmare Fredbear",
       "Rarity": "Hero",
       "PlacementPrice": 7500,
