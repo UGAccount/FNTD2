@@ -51,7 +51,7 @@
       },
       "Scooped Micheal": {
         "Normal": {
-          "value": "0.3+",
+          "value": "0.3-0.35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -67,7 +67,7 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.6-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -163,7 +163,7 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.3-1.4",
+          "value": "1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
