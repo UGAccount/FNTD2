@@ -1,70 +1,6 @@
 {
   "Values": {
     "Units": {
-      "Bidybabs": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Funtime Foxy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Funtime Freddy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Ballora": {
-        "Normal": {
-          "value": "0.4",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Dropping",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "2+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 0
-        }
-      },
       "HandUnit": {
         "Normal": {
           "value": "N/A",
@@ -135,6 +71,70 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Ballora": {
+        "Normal": {
+          "value": "0.4",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "2+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        }
+      },
+      "Funtime Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Funtime Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        }
+      },
+      "Bidybabs": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
