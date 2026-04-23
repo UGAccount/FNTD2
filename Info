@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Lolbit": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Astral Bonnie": {
         "Normal": {
           "value": "10+",
@@ -2328,6 +2344,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+      }
     },
     "Pets": {
       "Golden Freddy": {
@@ -2511,8 +2528,8 @@
         "demand": "N/A",
         "status": "O/C",
         "exists": 90
-        }
-      },
+      }
+    },
     "Gamepasses": {
       "Shiny Hunter": {
         "value": "1.8-2",
@@ -2629,8 +2646,8 @@
         "demand": "N/A",
         "status": "Unstable",
         "exists": 344
-        }
-      },
+      }
+    },
     "Currency": {
       "Souls": {
         "value": "0.0001",
@@ -4592,76 +4609,69 @@
       }
     },
     {
-      "Name": "Scooped Micheal",
+      "Name": "Exotic Butters",
       "Rarity": "Exclusive",
-      "PlacementPrice": 3750,
-      "Type": "Line",
+      "PlacementPrice": 3200,
+      "Type": "Cone",
       "Element": "Electricity",
-      "MaxPlaced": 2,
+      "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 20,
-        "Damage": 641.4,
-        "Cooldown": 4
+        "Range": 21,
+        "Damage": 1320,
+        "Cooldown": 6.2
       },
       "UpgradeStats": [
         {
-          "Range": 21,
-          "Damage": 671.7,
-          "Cooldown": 3.9,
-          "UpgradePrice": 2700
-        },
-        {
-          "Range": 21,
-          "Damage": 702,
-          "Cooldown": 3.8,
-          "UpgradePrice": 3200
-        },
-        {
           "Range": 22,
-          "Damage": 732.3,
-          "Cooldown": 3.7,
-          "UpgradePrice": 4200,
-          "Type": "Cone",
-          "Degrees": 35
+          "Damage": 1375,
+          "Cooldown": 6,
+          "UpgradePrice": 2000
         },
         {
           "Range": 23,
-          "Damage": 777.7,
-          "Cooldown": 3.7,
-          "UpgradePrice": 3700
+          "Damage": 1445,
+          "Cooldown": 6,
+          "UpgradePrice": 2575
+        },
+        {
+          "Range": 24,
+          "Damage": 1535,
+          "Cooldown": 5.8,
+          "UpgradePrice": 3150
         },
         {
           "Range": 25,
-          "Damage": 833.3,
-          "Cooldown": 3.6,
-          "UpgradePrice": 4200
+          "Damage": 1585,
+          "Cooldown": 5.7,
+          "UpgradePrice": 3900
         },
         {
           "Range": 27,
-          "Damage": 883.8,
-          "Cooldown": 3.4,
-          "UpgradePrice": 4750
+          "Damage": 1635,
+          "Cooldown": 5.5,
+          "UpgradePrice": 4500
         },
         {
           "Range": 29,
-          "Damage": 1010,
-          "Cooldown": 3.3,
-          "UpgradePrice": 6000
+          "Damage": 1750,
+          "Cooldown": 5.2,
+          "UpgradePrice": 6100,
+          "Type": "Full AOE"
         }
       ],
       "Passives": {},
       "Actives": [
         {
-          "Name": "Soft-Served",
-          "Description": "When activated, Scooped Micheal spews a bit of ennard on the track right beside him. This trap can hit 10 enemies, inflicting enemies with 5% Bleed, but if there are 2 other Electric units present within your team, Bleed increases to 10%. If the team is Mono-Electric, Bleed stat increases to 20%, along with Exponential Slow in which every tick enemies lose 0.5% movement speed up to 20% till death. Max of 3 traps at a time.",
-          "Cooldown": 35,
-          "Upgrade": 4
+          "Name": "Power Surge",
+          "Description": "The TV fires a bolt of electricity from its antennas at an enemy, stunning them for 3 seconds. The bolt then chains yp to 2 nearby enemies within 10 studs, stunning each of them for 2s.",
+          "Cooldown": 20,
+          "Upgrade": 2
         }
       ],
       "Obtainability": {
         "Base": [
-          "Scooped Micheal Present (100%)",
-          "Season 4 Free Premium tier 30"
+          "Exotic Butters Present (100%)",
+          "Season 4 Free Pass tier 30"
         ]
       }
     },
@@ -7908,36 +7918,6 @@
         ]
       },
       "Note": "Credits to @vinnytcc for helping me get the stats for this unit (I asked in the question channel and they helped me!)."
-    },
-    {
-      "Name": "HandUnit",
-      "Rarity": "Exclusive",
-      "PlacementPrice": 800,
-      "Type": "Support",
-      "Element": "Electricity",
-      "MaxPlaced": 1,
-      "BaseStats": {
-        "Range": 18,
-        "Damage": 0,
-        "Cooldown": 0
-      },
-      "UpgradeStats": [
-        {
-          "Range": 20,
-          "Damage": 0,
-          "Cooldown": 0,
-          "UpgradePrice": 100
-        }
-      ],
-      "Passives": {
-        "Helping Hand": "This unit links to the closest unit and upgrades one chosen stat for that unit. (Max boosts: 50% DMG, 55% RNG, or 20% CD)"
-      },
-      "Obtainability": {
-        "Base": [
-          "Season 4 Starter Pack ($249 RBX)",
-          "Hand Unit Present (100%)"
-        ]
-      }
     },
     {
       "Name": "Golden Freddy",
