@@ -5121,6 +5121,73 @@
       }
     },
     {
+      "Name": "Circus Baby",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4000,
+      "Type": "Line",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 540,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 570,
+          "Cooldown": 4.9,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 600,
+          "Cooldown": 4.8,
+          "UpgradePrice": 3900
+        },
+        {
+          "Range": 22,
+          "Damage": 640,
+          "Cooldown": 4.6,
+          "UpgradePrice": 4475
+        },
+        {
+          "Range": 23,
+          "Damage": 710,
+          "Cooldown": 4.4,
+          "UpgradePrice": 5600
+        },
+        {
+          "Range": 25,
+          "Damage": 760,
+          "Cooldown": 4.4,
+          "UpgradePrice": 5000,
+          "Type": "Cone",
+          "Degrees": 65
+        },
+        {
+          "Range": 27,
+          "Damage": 810,
+          "Cooldown": 4.2,
+          "UpgradePrice": 5800
+        },
+        {
+          "Range": 29,
+          "Damage": 910,
+          "Cooldown": 3.8,
+          "UpgradePrice": 6675
+        }
+      ],
+      "Actives": {
+        "Overcharge": "Upon activation, Circus Baby's circuits will emit a large electric shock, stunning every enemy in range for 3 seconds and dealing 55% damage, increasing by 15% per [Electricity] Element units in range. After the enemies are stunned, they are inflicted with [Overcharge], causing their speed to be permanently increased by 10% but in return take 25% more damage from [Electricity] Element Units"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 4 Present Craftable"
+        ]
+      }
+    },
+    {
       "Name": "Funtime Freddy",
       "Rarity": "Mythical",
       "PlacementPrice": 1250,
