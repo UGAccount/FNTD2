@@ -5105,9 +5105,15 @@
           "UpgradePrice": 6675
         }
       ],
-      "Actives": {
-        "Supersonic": "This unit has no unique attack upgrade or cooldown. It's entire kit revolves around a 3 second active cooldown. Their damage scales based on how long it's been since the active has been used. Every 2 seconds Ballora obtains a stack. 1 Stack: Line Pierce dealing 1.2x damage. 3 Stacks: 45 Degree Cone dealing 1.8x damage. 5 Stacks: 90 Degree Cone dealing 2.8x damage, hitting twice. 7 Stacks: 120 Degree Cone dealing 3.5x damage. 10 Stacks: Full AOE multi-hit attack dealing 5x damage."
-      },
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Supersonic",
+          "Description": "This unit has no unique attack upgrade or cooldown. Its entire kit revolves around a 3 second active cooldown. Their damage scales based on how long it's been since the active has been used. Every 2 seconds Ballora obtains a stack. 1 Stack: Line Pierce dealing 1.2x damage. 3 Stacks: 45 Degree Cone dealing 1.8x damage. 5 Stacks: 90 Degree Cone dealing 2.8x damage, hitting twice. 7 Stacks: 120 Degree Cone dealing 3.5x damage. 10 Stacks: Full AOE multi-hit attack dealing 5x damage.",
+          "Cooldown": 3,
+          "Upgrade": 0
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Season 4 Present (0.25%)"
@@ -5172,9 +5178,13 @@
           "UpgradePrice": 6675
         }
       ],
-      "Actives": {
-        "Overcharge": "Upon activation, Circus Baby's circuits will emit a large electric shock, stunning every enemy in range for 3 seconds and dealing 55% damage, increasing by 15% per [Electricity] Element units in range. After the enemies are stunned, they are inflicted with [Overcharge], causing their speed to be permanently increased by 10% but in return take 25% more damage from [Electricity] Element Units"
-      },
+      "Passives": {},
+      "Actives": [
+        {
+          "Name": "Overcharge",
+          "Description": "Upon activation, Circus Baby's circuits will emit a large electric shock, stunning every enemy in range for 3 seconds and dealing 55% damage, increasing by 15% per [Electricity] Element units in range. After the enemies are stunned, they are inflicted with [Overcharge], causing their speed to be permanently increased by 10% but in return take 25% more damage from [Electricity] Element Units",
+          "Cooldown": 15,
+          "Upgrade": 4
       "Obtainability": {
         "Base": [
           "Season 4 Present Craftable"
