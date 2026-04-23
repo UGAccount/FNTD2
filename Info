@@ -5185,6 +5185,8 @@
           "Description": "Upon activation, Circus Baby's circuits will emit a large electric shock, stunning every enemy in range for 3 seconds and dealing 55% damage, increasing by 15% per [Electricity] Element units in range. After the enemies are stunned, they are inflicted with [Overcharge], causing their speed to be permanently increased by 10% but in return take 25% more damage from [Electricity] Element Units",
           "Cooldown": 15,
           "Upgrade": 4
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Season 4 Present Craftable"
