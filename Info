@@ -6,14 +6,14 @@
           "value": "1-1.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
           "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "N/A",
           "exists": 0
         }
       },
@@ -22,7 +22,7 @@
           "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
@@ -5313,7 +5313,7 @@
           "Token Summons (0.06%)"
         ]
       }
-    },ƒ
+    },
     {
       "Name": "Nightmare Chica",
       "Rarity": "Secret",
