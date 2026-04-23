@@ -3,7 +3,23 @@
     "Units": {
       "Lolbit": {
         "Normal": {
-          "value": "N/A",
+          "value": "1-1.1",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "25+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Exotic Butters": {
+        "Normal": {
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1551,6 +1567,22 @@
           "demand": "N/A",
           "status": "Stable",
           "exists": 12854
+        }
+      },
+      "Elizabeth": {
+        "Normal": {
+          "value": "0.03",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "0.15",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
         }
       },
       "Withered Freddy": {
