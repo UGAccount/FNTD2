@@ -11449,7 +11449,7 @@
     "Vengeance (Max)": {
       "Description": "95% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 95%)",
       "Boost": {
-        "Damage": 2.14512,
+        "Damage": 2.1451,
         "Range": 1.1,
         "Cooldown": 0.95
       }
