@@ -2979,7 +2979,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Specialty Cupcake": "Every 5 attacks, Chica's cupcake is set on fire and applies burn for 1 second equal to 10% of her damage."
       },
       "Obtainability": {
         "Base": [
@@ -3202,7 +3202,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Megalomaniac": "Consumes the power of nearby enemies. For every enemy killed in its radius, JJ gains 0.1% RNG, up to 10%."
       },
       "Obtainability": {
         "Base": [
@@ -3300,7 +3300,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Papercuts": "On hit, Paper Pals applies bleed for 1 second equal to 5% of its damage."
       },
       "Obtainability": {
         "Base": [
@@ -3361,26 +3361,26 @@
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 25,
-        "Damage": 160,
-        "Cooldown": 8
+        "Damage": 161,
+        "Cooldown": 1
       },
       "UpgradeStats": [
         {
           "Range": 27,
-          "Damage": 180,
-          "Cooldown": 8,
+          "Damage": 182,
+          "Cooldown": 1,
           "UpgradePrice": 800
         },
         {
           "Range": 29,
-          "Damage": 200,
-          "Cooldown": 8,
+          "Damage": 202,
+          "Cooldown": 1,
           "UpgradePrice": 1000
         },
         {
           "Range": 31,
-          "Damage": 240,
-          "Cooldown": 8,
+          "Damage": 242,
+          "Cooldown": 1,
           "UpgradePrice": 1400
         }
       ],
@@ -3780,7 +3780,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Energy Surplus": "Every 10th attack charges Toy Bonnie's next attack, causing it to deal an additional 150% of its damage."
       },
       "Obtainability": {
         "Base": [
@@ -3829,7 +3829,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Faz-Shot": "Deals extra damage based on enemy distance from the unit. 120% damage within 20% range, 110% within 40% range, 100% within 60% range, 90% within 80% range, and 80% within 100% range."
       },
       "Obtainability": {
         "Base": [
@@ -3879,7 +3879,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Generator": "This unit charges up its attack with the generator on its back. Every other attack deals 40% bonus damage."
       },
       "Obtainability": {
         "Base": [
@@ -4083,7 +4083,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Endo CPU": "Every upgrade provides a 3% damage boost to all units. [Caps at 15%]."
       },
       "Obtainability": {
         "Base": [
@@ -4496,7 +4496,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Waterhose": "Applies 12% slow on hit."
       },
       "Obtainability": {
         "Base": [
@@ -4553,7 +4553,7 @@
         }
       ],
       "Passives": {
-        "NO PASSIVE": "This unit has no active passive :("
+        "Electrical Overflow": "Every 15 seconds, this unit deals 2x damage to enemies around its main target in a medium splash."
       },
       "Obtainability": {
         "Base": [
@@ -4616,31 +4616,31 @@
       "BaseStats": {
         "Range": 18,
         "Damage": 450,
-        "Cooldown": 3.6
+        "Cooldown": 3.8
       },
       "UpgradeStats": [
         {
           "Range": 20,
           "Damage": 500,
-          "Cooldown": 3.6,
+          "Cooldown": 3.7,
           "UpgradePrice": 875
         },
         {
           "Range": 20,
           "Damage": 545,
-          "Cooldown": 3.4,
+          "Cooldown": 3.6,
           "UpgradePrice": 1150
         },
         {
           "Range": 21,
           "Damage": 600,
-          "Cooldown": 3.4,
+          "Cooldown": 3.5,
           "UpgradePrice": 2350
         },
         {
           "Range": 23,
           "Damage": 715,
-          "Cooldown": 3.2,
+          "Cooldown": 3.4,
           "UpgradePrice": 4000
         }
       ],
@@ -7465,54 +7465,54 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 17,
-        "Damage": 190,
-        "Cooldown": 2.7,
+        "Damage": 191,
+        "Cooldown": 3.2,
         "Type": "Cone",
         "Degrees": 80
       },
       "UpgradeStats": [
         {
           "Range": 17,
-          "Damage": 215,
-          "Cooldown": 2.6,
+          "Damage": 217,
+          "Cooldown": 3,
           "UpgradePrice": 1150
         },
         {
           "Range": 18,
-          "Damage": 255,
-          "Cooldown": 2.4,
+          "Damage": 257,
+          "Cooldown": 2.9,
           "UpgradePrice": 1450
         },
         {
           "Range": 18,
-          "Damage": 288,
-          "Cooldown": 2.4,
+          "Damage": 291,
+          "Cooldown": 2.8,
           "UpgradePrice": 2500
         },
         {
           "Range": 19,
-          "Damage": 345,
-          "Cooldown": 2.4,
+          "Damage": 348,
+          "Cooldown": 2.7,
           "UpgradePrice": 2500
         },
         {
           "Range": 20,
-          "Damage": 400,
-          "Cooldown": 2.2,
+          "Damage": 404,
+          "Cooldown": 2.6,
           "UpgradePrice": 3350
         },
         {
           "Range": 20,
-          "Damage": 450,
-          "Cooldown": 2.2,
+          "Damage": 454,
+          "Cooldown": 2.5,
           "UpgradePrice": 4500,
           "Type": "Cone",
           "Degrees": 160
         },
         {
           "Range": 22,
-          "Damage": 505,
-          "Cooldown": 2,
+          "Damage": 510,
+          "Cooldown": 2.4,
           "UpgradePrice": 6000
         }
       ],
@@ -9800,7 +9800,7 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
-        "Damage": 350,
+        "Damage": 318,
         "Cooldown": 2.5,
         "Type": "Cone",
         "Degrees": 45
@@ -9808,20 +9808,20 @@
       "UpgradeStats": [
         {
           "Range": 22.5,
-          "Damage": 380,
-          "Cooldown": 2.5,
+          "Damage": 343,
+          "Cooldown": 2.4,
           "UpgradePrice": 1450
         },
         {
           "Range": 25,
-          "Damage": 400,
-          "Cooldown": 2,
+          "Damage": 367,
+          "Cooldown": 2.3,
           "UpgradePrice": 1450
         },
         {
           "Range": 27.5,
-          "Damage": 425,
-          "Cooldown": 2,
+          "Damage": 389,
+          "Cooldown": 2.2,
           "UpgradePrice": 2500,
           "Type": "Cone",
           "Degrees": 80
@@ -11207,38 +11207,38 @@
       "BaseStats": {
         "Range": 18,
         "Damage": 450,
-        "Cooldown": 2.5
+        "Cooldown": 2.8
       },
       "UpgradeStats": [
         {
           "Range": 19,
           "Damage": 475,
-          "Cooldown": 2.5,
+          "Cooldown": 2.6,
           "UpgradePrice": 1350
         },
         {
           "Range": 20,
           "Damage": 500,
-          "Cooldown": 2.3,
+          "Cooldown": 2.5,
           "UpgradePrice": 1450
         },
         {
           "Range": 24,
           "Damage": 320,
-          "Cooldown": 1.8,
+          "Cooldown": 2.4,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
           "Damage": 345,
-          "Cooldown": 1.8,
+          "Cooldown": 2.2,
           "UpgradePrice": 3500,
           "Type": "Circle"
         },
         {
           "Range": 26,
           "Damage": 380,
-          "Cooldown": 1.6,
+          "Cooldown": 2,
           "UpgradePrice": 3500
         }
       ],
@@ -11470,7 +11470,7 @@
     "Vengeance (Max)": {
       "Description": "95% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 95%)",
       "Boost": {
-        "Damage": 2.145,
+        "Damage": 2.14501,
         "Range": 1.1,
         "Cooldown": 0.95
       }
