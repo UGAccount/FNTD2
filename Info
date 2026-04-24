@@ -10,7 +10,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "25+",
+          "value": "28+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -170,7 +170,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "28",
+          "value": "26-28",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
