@@ -2537,7 +2537,7 @@
         "status": "Unstable",
         "exists": 0
       },
-      "8-Bit Circus Baby": {
+      "8-bit Circus Baby": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -11470,7 +11470,7 @@
     "Vengeance (Max)": {
       "Description": "95% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 95%)",
       "Boost": {
-        "Damage": 2.1448,
+        "Damage": 2.145,
         "Range": 1.1,
         "Cooldown": 0.95
       }
