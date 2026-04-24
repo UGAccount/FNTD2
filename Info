@@ -2052,21 +2052,13 @@
     },
     "Dev": {
       "Bear5": {
-        "Normal": {
-          "value": "15-20",
-          "enchant": "Champion",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Fluctuating",
-          "exists": "67"
-        },
-        "Shiny": {
-          "value": "N/A",
-          "enchant": "Champion",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 33
+        "value": "15-20",
+        "version": "Normal",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Fluctuating",
+        "exists": "67"
       },
       "Thanatos": {
         "value": "N/A",
