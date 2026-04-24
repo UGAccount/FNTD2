@@ -2186,10 +2186,10 @@
         "status": "N/A"
       },
       "Season 3 Present": {
-        "value": "0.0002",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
       "Freddles Present": {
         "value": "N/A",
@@ -2396,10 +2396,10 @@
         "status": "N/A"
       },
       "Season 2 Present": {
-        "value": "0.0001",
+        "value": "N/A",
         "soul": "N/A",
-        "demand": "4/10",
-        "status": "Unstable"
+        "demand": "N/A",
+        "status": "N/A"
       },
       "Follow Me Present": {
         "value": "N/A",
