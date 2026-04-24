@@ -8962,9 +8962,9 @@
       "Actives": [
         {
           "Name": "Construct",
-          "Description": "Stun all current enemies and increase ally unit SPA by 75% for 10s (does not include self). During this time, Nightmare Fredbear can attack anywhere on the map and deals 1%-75% increased damage based on distance from this unit.",
-          "Cooldown": 120,
-          "Upgrade": 15
+          "Description": "Players can switch between two modes: Smasher and Shocker, each with its own unique stats, passive, and ability.",
+          "Cooldown": 0,
+          "Upgrade": 0
         }
       ],
       "Obtainability": {
