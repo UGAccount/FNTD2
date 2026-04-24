@@ -1635,7 +1635,7 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.0008+",
+          "value": "0.008+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
