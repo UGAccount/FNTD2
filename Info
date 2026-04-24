@@ -3,7 +3,7 @@
     "Units": {
       "Lolbit": {
         "Normal": {
-          "value": "1-1.5",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -42,7 +42,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -483,7 +483,7 @@
       },
       "Crying Child": {
         "Normal": {
-          "value": "0.06-0.08",
+          "value": "0.08+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -963,14 +963,14 @@
       },
       "Toy Maker Mangle": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 0
         },
         "Shiny": {
-          "value": "0.5",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1034,7 +1034,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "8",
+          "value": "7.5-8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1178,10 +1178,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "6+",
+          "value": "N/A",
           "soul": "N/A",
-          "demand": "6/10",
-          "status": "Stable",
+          "demand": "N/A",
+          "status": "Unstable",
           "exists": 0
         }
       },
@@ -2144,7 +2144,7 @@
     },
     "Presents": {
       "April Fools Present": {
-        "value": "0.004",
+        "value": "0.003-0.004",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
