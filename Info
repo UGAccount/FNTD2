@@ -2144,7 +2144,7 @@
     },
     "Presents": {
       "Lolbit Present": {
-        "value": "2.5",
+        "value": "2.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
