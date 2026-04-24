@@ -13,20 +13,20 @@
           "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Unstable",
           "exists": 0
         }
       },
       "HandUnit": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 0
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -35,7 +35,7 @@
       },
       "Exotic Butters": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -51,7 +51,7 @@
       },
       "Scooped Micheal": {
         "Normal": {
-          "value": "0.35+",
+          "value": "0.3-0.35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -74,10 +74,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 0
         }
       },
@@ -90,7 +90,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "1.3-1.5",
+          "value": "1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -163,14 +163,14 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.3",
+          "value": "1.1-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "28-30",
+          "value": "28",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -570,7 +570,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "8.5-9",
+          "value": "8-8.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -627,14 +627,14 @@
       },
       "Tidal Wailer Crying Child": {
         "Normal": {
-          "value": "0.05+",
+          "value": "0.03-0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "0.8-0.9",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -810,7 +810,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "2.5-2.7",
+          "value": "2.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
@@ -858,7 +858,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "3.5-4",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -1514,7 +1514,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "1.8",
+          "value": "2",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Unstable",
@@ -1626,7 +1626,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.8+",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1635,10 +1635,10 @@
       },
       "Nightmare Mangle": {
         "Normal": {
-          "value": "0.005+",
+          "value": "0.0008+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 0
         },
         "Shiny": {
@@ -1677,7 +1677,7 @@
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 0
         }
       },
@@ -1722,7 +1722,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.05",
+          "value": "0.02+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1738,7 +1738,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.06",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
@@ -1754,7 +1754,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.03",
+          "value": "0.015+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -2468,7 +2468,7 @@
         "status": "N/A"
       },
       "Time Lord Withered Freddy Present": {
-        "value": "0.151",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -2625,21 +2625,21 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C",
+        "status": "Stable",
         "exists": 0
       },
       "Grinch Foxy": {
         "value": "0.015",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C",
+        "status": "Stable",
         "exists": 0
       },
       "Bonnie": {
         "value": "0.0005",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Stable",
         "exists": 0
       },
       "Ghost Bonnie": {
@@ -2671,7 +2671,7 @@
         "exists": 0
       },
       "Jack'O Springtrap": {
-        "value": "0.1-0.15",
+        "value": "0.06-0.1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
@@ -2714,7 +2714,7 @@
         "status": "Stable"
       },
       "VIP": {
-        "value": "1+",
+        "value": "1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -2796,7 +2796,7 @@
         "exists": 0
       },
       "Easter Springtrap": {
-        "value": "0.04+",
+        "value": "0.08+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
@@ -2855,7 +2855,7 @@
     },
     "Bytes": {
       "The Box": {
-        "value": "0.15-0.2",
+        "value": "0.2",
         "soul": "N/A",
         "demand": "8/10",
         "status": "Fluctuating"
