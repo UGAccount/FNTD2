@@ -2523,6 +2523,27 @@
       }
     },
     "Pets": {
+      "Showtime Ennard": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable",
+        "exists": 0
+      },
+      "Lolbit": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable",
+        "exists": 0
+      },
+      "8-Bit Circus Baby": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable",
+        "exists": 0
+      },
       "Golden Freddy": {
         "value": "N/A",
         "soul": "N/A",
