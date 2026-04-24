@@ -2143,6 +2143,30 @@
       }
     },
     "Presents": {
+      "Lolbit Present": {
+        "value": "2.5",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Scooped Micheal Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Exotic Butters Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "HandUnit Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "April Fools Present": {
         "value": "0.003-0.004",
         "soul": "N/A",
@@ -2180,16 +2204,34 @@
         "status": "N/A"
       },
       "Medieval Present": {
-        "value": "0.0005",
+        "value": "0.0003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+      },
+      "Season 4 Present": {
+        "value": "0.0005",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Season 3 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
+      },
+      "Season 2 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Season 1 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Freddles Present": {
         "value": "N/A",
@@ -2426,12 +2468,6 @@
         "status": "O/C"
       },
       "Cloaked Sparky Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Season 1 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
