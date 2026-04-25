@@ -1699,7 +1699,7 @@
       },
       "Elizabeth": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -2052,7 +2052,7 @@
     },
     "Dev": {
       "Bear5": {
-        "value": "15-20",
+        "value": "15-20+",
         "version": "Normal",
         "enchant": "Champion",
         "soul": "N/A",
@@ -2162,7 +2162,7 @@
         "status": "Unstable"
       },
       "HandUnit Present": {
-        "value": "N/A",
+        "value": "0.2",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
