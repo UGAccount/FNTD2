@@ -67,7 +67,7 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.5+",
+          "value": "0.4-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
