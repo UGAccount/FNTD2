@@ -74,7 +74,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "5+",
+          "value": "4.5-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -83,14 +83,14 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 0
         },
         "Shiny": {
-          "value": "1.3",
+          "value": "1.1-1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
