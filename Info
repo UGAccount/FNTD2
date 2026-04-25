@@ -14,7 +14,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 69
+          "exists": 68
         }
       },
       "HandUnit": {
@@ -170,7 +170,7 @@
           "exists": 5819
         },
         "Shiny": {
-          "value": "26-28",
+          "value": "26+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -1242,7 +1242,7 @@
           "exists": 226360
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.04-0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1667,7 +1667,7 @@
       },
       "Yenndo": {
         "Normal": {
-          "value": "0.06+",
+          "value": "0.03-0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
