@@ -1571,7 +1571,7 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.02-0.03",
+          "value": "0.015-0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
