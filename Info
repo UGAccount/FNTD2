@@ -83,7 +83,7 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.25-0.3",
+          "value": "0.25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
