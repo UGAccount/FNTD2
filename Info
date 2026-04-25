@@ -83,7 +83,7 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.25+",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -2912,7 +2912,7 @@
         "status": "Fluctuating"
       },
       "Kaboom!": {
-        "value": "0.15+",
+        "value": "0.1-0.15",
         "soul": "N/A",
         "demand": "6/10",
         "status": "Fluctuating"
