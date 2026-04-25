@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 2285
+          "exists": 2358
         },
         "Shiny": {
           "value": "28+",
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 7438
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 186
         }
       },
       "Exotic Butters": {
@@ -951,14 +951,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Underpaid",
-          "exists": 0
+          "exists": 3968
         },
         "Shiny": {
           "value": "62-65",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Unstable",
-          "exists": 0
+          "exists": 167
         }
       },
       "Toy Maker Mangle": {
@@ -967,14 +967,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 30875
         },
         "Shiny": {
           "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 1175
         }
       },
       "Frosty the Snowcake": {
@@ -983,14 +983,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 111790
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 6490
         }
       },
       "Frozen King Foxy": {
@@ -999,14 +999,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 4010
         },
         "Shiny": {
           "value": "62-65",
           "soul": "N/A",
           "demand": "9.5/10",
           "status": "Unstable",
-          "exists": 0
+          "exists": 147
         }
       },
       "Grinch Foxy": {
@@ -1015,14 +1015,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 3444
         },
         "Shiny": {
           "value": "13-14",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 124
         }
       },
       "Krampus Purple Guy": {
@@ -1031,14 +1031,14 @@
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 5686
         },
         "Shiny": {
           "value": "7.5-8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 185
         }
       },
       "Conductor Toy Freddy": {
@@ -1047,14 +1047,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 26473
         },
         "Shiny": {
           "value": "3-3.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 758
         }
       },
       "Movie Director Freddy": {
@@ -1063,14 +1063,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 19567
         },
         "Shiny": {
           "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 584
         }
       },
       "Scrooge Freddy": {
@@ -1079,14 +1079,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 19513
         },
         "Shiny": {
           "value": "0.8",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 784
         }
       },
       "Frostmancer Withered Bonnie": {
@@ -1095,14 +1095,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 107749
         },
         "Shiny": {
           "value": "0.4+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 6058
         }
       },
       "Mrs Claus Toy Chica": {
