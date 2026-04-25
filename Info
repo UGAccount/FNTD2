@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 2285
         },
         "Shiny": {
           "value": "28+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 69
         }
       },
       "HandUnit": {
