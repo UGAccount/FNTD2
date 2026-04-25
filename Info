@@ -14,7 +14,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 68
+          "exists": 69
         }
       },
       "HandUnit": {
@@ -247,14 +247,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 719
         },
         "Shiny": {
           "value": "45+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 153
         }
       },
       "Dragon Endo 01": {
@@ -958,7 +958,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 167
+          "exists": 166
         }
       },
       "Toy Maker Mangle": {
