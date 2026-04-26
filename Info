@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 2418
+          "exists": 2460
         },
         "Shiny": {
           "value": "28+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 69
+          "exists": 72
         }
       },
       "HandUnit": {
@@ -78,7 +78,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 121
+          "exists": 132
         }
       },
       "Ballora": {
@@ -174,7 +174,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 214
+          "exists": 211
         }
       },
       "Freddy Fastbear": {
