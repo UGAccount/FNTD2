@@ -78,7 +78,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 132
+          "exists": 218
         }
       },
       "Ballora": {
@@ -87,14 +87,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 10660
+          "exists": 21000
         },
         "Shiny": {
           "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 315
+          "exists": 1000
         }
       },
       "Funtime Freddy": {
@@ -11483,7 +11483,7 @@
     "SpringLocked": {
       "Description": "+100% Damage, 10% Range, +10% Cooldown, +30% True Damage",
       "Boost": {
-        "Damage": 2.0,
+        "Damage": 2.3,
         "Range": 1.1,
         "Cooldown": 1.1,
         "TrueDamage": 0.3
@@ -11498,7 +11498,7 @@
       }
     },
     "Prototype": {
-      "Description": "+30% Damage, 10% Range, 20% True Damage, Attacks 12% Faster",
+      "Description": "+100% Damage, 10% Range, 20% True Damage, Attacks 12% Faster",
       "Boost": {
         "Damage": 2.0,
         "Range": 1.1,
