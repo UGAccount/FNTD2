@@ -14,7 +14,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 72
+          "exists": 76
         }
       },
       "HandUnit": {
@@ -35,14 +35,14 @@
       },
       "Exotic Butters": {
         "Normal": {
-          "value": "0.1+",
+          "value": "0.07",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 7958
         },
         "Shiny": {
-          "value": "2.7+",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -51,7 +51,7 @@
       },
       "Scooped Micheal": {
         "Normal": {
-          "value": "0.3-0.35",
+          "value": "0.25-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -67,14 +67,14 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 0
         },
         "Shiny": {
-          "value": "4.5-5",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -83,14 +83,14 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.05-0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 10660
         },
         "Shiny": {
-          "value": "1.1-1.3",
+          "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -170,11 +170,11 @@
           "exists": 5819
         },
         "Shiny": {
-          "value": "20-22",
+          "value": "19-20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 211
+          "exists": 207
         }
       },
       "Freddy Fastbear": {
@@ -250,7 +250,7 @@
           "exists": 719
         },
         "Shiny": {
-          "value": "45+",
+          "value": "50",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -266,7 +266,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "16",
+          "value": "15",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
@@ -506,7 +506,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.5-0.7",
+          "value": "0.4-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -567,14 +567,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 6380
         },
         "Shiny": {
-          "value": "8-8.5",
+          "value": "8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 172
         }
       },
       "Cerberus Freddy": {
@@ -826,7 +826,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "7.5+",
+          "value": "7-7.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Slowly Dropping",
@@ -1146,7 +1146,7 @@
           "exists": 14608
         },
         "Shiny": {
-          "value": "15",
+          "value": "14",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1267,7 +1267,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1354,7 +1354,7 @@
           "exists": 49330
         },
         "Shiny": {
-          "value": "0.5+",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1434,7 +1434,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "53-55",
+          "value": "55",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
@@ -1482,7 +1482,7 @@
           "exists": 2550
         },
         "Shiny": {
-          "value": "35+",
+          "value": "40+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -2568,7 +2568,7 @@
         "exists": 0
       },
       "8-bit Circus Baby": {
-        "value": "N/A",
+        "value": "0.1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
@@ -2819,7 +2819,7 @@
         "exists": 0
       },
       "Deep Sea Nautilus": {
-        "value": "0.5-0.8",
+        "value": "0.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
@@ -11473,53 +11473,45 @@
       }
     },
     "Shadow": {
-      "Description": "+35% Damage, Attacks 15% Faster",
+      "Description": "+50 Damage, Attacks 12.5% Faster",
       "Boost": {
-        "Damage": 1.35,
+        "Damage": 1.5,
         "Range": 1,
-        "Cooldown": 0.85
+        "Cooldown": 0.875
       }
     },
     "SpringLocked": {
-      "Description": "+40% Damage, 10% Range, +10% Cooldown, +25% True Damage",
+      "Description": "+100% Damage, 10% Range, +10% Cooldown, +30% True Damage",
       "Boost": {
-        "Damage": 1.4,
+        "Damage": 2.0,
         "Range": 1.1,
         "Cooldown": 1.1,
-        "TrueDamage": 0.25
+        "TrueDamage": 0.3
       }
     },
     "Vengeance": {
-      "Description": "65% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 95%)",
+      "Description": "90% damage, 15% range, 5% cd",
       "Boost": {
-        "Damage": 1.65,
-        "Range": 1.1,
-        "Cooldown": 0.95
-      }
-    },
-    "Vengeance (Max)": {
-      "Description": "95% damage, 10% range, 5% SPA, increases damage boost by 0.5% per attack (max 95%)",
-      "Boost": {
-        "Damage": 2.1449,
-        "Range": 1.1,
+        "Damage": 1.9,
+        "Range": 1.15,
         "Cooldown": 0.95
       }
     },
     "Prototype": {
       "Description": "+30% Damage, 10% Range, 20% True Damage, Attacks 12% Faster",
       "Boost": {
-        "Damage": 1.3,
+        "Damage": 2.0,
         "Range": 1.1,
         "Cooldown": 0.88,
         "TrueDamage": 0.2
       }
     },
     "Champion": {
-      "Description": "+60% Damage, Attacks 10% Faster, +25% Range",
+      "Description": "+75% Damage, Attacks 10% Faster, +20% Range",
       "Boost": {
-        "Damage": 1.6,
-        "Range": 1.25,
-        "Cooldown": 0.9
+        "Damage": 1.75,
+        "Range": 1.2,
+        "Cooldown": 0.88
       }
     }
   }
