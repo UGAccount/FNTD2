@@ -19,7 +19,7 @@
       },
       "Landslide Funtime Foxy": {
         "Normal": {
-          "value": "0.04+",
+          "value": "0.02-0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -282,7 +282,7 @@
           "exists": 719
         },
         "Shiny": {
-          "value": "50",
+          "value": "46-50",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1658,7 +1658,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.8",
+          "value": "0.6-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
