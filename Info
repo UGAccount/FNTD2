@@ -2805,7 +2805,7 @@
         "status": "Stable"
       }
     },
-    "Skins": {
+    "Skins": {Volcanic Party Packer Cupcake
       "Fredbear": {
         "value": "N/A",
         "soul": "N/A",
@@ -2905,6 +2905,13 @@
         "exists": 0
       },
       "8-Bit Baby": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Volcanic Party Packer Cupcake": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
