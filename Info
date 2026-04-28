@@ -3,7 +3,7 @@
     "Units": {
       "Stormbound Chica": {
         "Normal": {
-          "value": "0.8-1",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
