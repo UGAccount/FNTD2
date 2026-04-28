@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 751
+          "exists": 1100
         },
         "Shiny": {
-          "value": "20",
+          "value": "18-20",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
-          "exists": 38
+          "exists": 63
         }
       },
       "Landslide Funtime Foxy": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 9750
+          "exists": 10260
         },
         "Shiny": {
           "value": "28+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 788
+          "exists": 838
         }
       },
       "Lolbit": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 2760
+          "exists": 2850
         },
         "Shiny": {
           "value": "28+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 96
+          "exists": 99
         }
       },
       "HandUnit": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 7438
+          "exists": 8950
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 186
+          "exists": 251
         }
       },
       "Exotic Butters": {
@@ -71,14 +71,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 7958
+          "exists": 11060
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 237
+          "exists": 465
         }
       },
       "Scooped Micheal": {
@@ -87,30 +87,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 3884
+          "exists": 5500
         },
         "Shiny": {
           "value": "5-6.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 237
         }
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.2-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 6230
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 218
+          "exists": 253
         }
       },
       "Ballora": {
@@ -202,7 +202,7 @@
           "exists": 5819
         },
         "Shiny": {
-          "value": "19-20",
+          "value": "18",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -2591,54 +2591,68 @@
       }
     },
     "Pets": {
+      "Linkage Golden Freddy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 13650
+      },
+      "Exotic Butters": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Showtime Ennard": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
-        "exists": 0
+        "exists": 2590
       },
       "Lolbit": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
-        "exists": 0
+        "exists": 2910
       },
       "8-bit Circus Baby": {
         "value": "0.1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
-        "exists": 0
+        "exists": 3370
       },
       "Golden Freddy": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": 0
+        "exists": 1880
       },
       "Gang Freddy": {
         "value": "1-1.4",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": 0
+        "exists": 976
       },
       "Phantom BB": {
         "value": "0.005+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
-        "exists": 0
+        "exists": 29430
       },
       "Phantom Foxy": {
         "value": "0.005+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
-        "exists": 0
+        "exists": 35480
       },
       "Springtrap": {
         "value": "0.01",
@@ -2652,7 +2666,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
-        "exists": 0
+        "exists": 10770
       },
       "Nightmarionne": {
         "value": "0.1-0.15",
@@ -2729,7 +2743,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": 0
+        "exists": 40300
       },
       "Ghost Bonnie": {
         "value": "N/A",
@@ -2792,7 +2806,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "O/C",
-        "exists": 0
+        "exists": 98
       }
     },
     "Gamepasses": {
@@ -2854,35 +2868,35 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": 0
+        "exists": 3220
       },
       "Deep Sea Nautilus": {
         "value": "0.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
-        "exists": 0
+        "exists": 713
       },
       "Monarch": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": 0
+        "exists": 1130
       },
       "Dragonic PaperPals": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": 0
+        "exists": 1120000
       },
       "Dark Knight": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": 0
+        "exists": 1640
       },
       "Easter Springtrap": {
         "value": "0.08+",
