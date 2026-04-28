@@ -17,6 +17,22 @@
           "exists": 38
         }
       },
+      "Landslide Funtime Foxy": {
+        "Normal": {
+          "value": "0.07+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 9750
+        },
+        "Shiny": {
+          "value": "28+",
+          "soul": "N/A",
+          "demand": "7/10",
+          "status": "Dropping",
+          "exists": 788
+        }
+      },
       "Lolbit": {
         "Normal": {
           "value": "1.2+",
@@ -67,7 +83,7 @@
       },
       "Scooped Micheal": {
         "Normal": {
-          "value": "0.25-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -259,7 +275,7 @@
       },
       "Thanatos": {
         "Normal": {
-          "value": "4.5",
+          "value": "4.2-4.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2159,6 +2175,12 @@
       }
     },
     "Presents": {
+      "Clan Wars Season 2 Present": {
+        "value": "0.00035",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "Lolbit Present": {
         "value": "2.5+",
         "soul": "N/A",
@@ -2799,7 +2821,7 @@
         "status": "Stable"
       },
       "Quick Open": {
-        "value": "0.4+",
+        "value": "0.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -3421,26 +3443,26 @@
       "MaxPlaced": 3,
       "BaseStats": {
         "Range": 25,
-        "Damage": 161,
-        "Cooldown": 1
+        "Damage": 237,
+        "Cooldown": 2.5
       },
       "UpgradeStats": [
         {
           "Range": 27,
-          "Damage": 182,
-          "Cooldown": 1,
+          "Damage": 258,
+          "Cooldown": 2.3,
           "UpgradePrice": 800
         },
         {
           "Range": 29,
-          "Damage": 202,
-          "Cooldown": 1,
+          "Damage": 278,
+          "Cooldown": 2.2,
           "UpgradePrice": 1000
         },
         {
           "Range": 31,
-          "Damage": 242,
-          "Cooldown": 1,
+          "Damage": 313,
+          "Cooldown": 2,
           "UpgradePrice": 1400
         }
       ],
@@ -4764,6 +4786,61 @@
       }
     },
     {
+      "Name": "Landslide Funtime Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1200,
+      "Type": "Single",
+      "Element": "Nature",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 581,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 606,
+          "Cooldown": 3.9,
+          "UpgradePrice": 875
+        },
+        {
+          "Range": 21,
+          "Damage": 732,
+          "Cooldown": 3.8,
+          "UpgradePrice": 1150,
+          "Type": "Line"
+        },
+        {
+          "Range": 22,
+          "Damage": 767,
+          "Cooldown": 6.5,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 23,
+          "Damage": 909,
+          "Cooldown": 6.4,
+          "UpgradePrice": 14000
+        }
+      ],
+      "Passives": {
+        "Uneven Ground": "Upon entering 50% of its range, the enemy trips and gets stunned for 1.5s and takes 100% damage"
+      },
+      "Actives": [
+        {
+          "Name": "Landslide!!",
+          "Description": "Rocks fall on the nearest target scaling on the number of water/nature units in the team (1 rockfall + 1 per teammate) Deals 150% dmg and applies 1.2s stun (ignores global stun cd of 5s)",
+          "Cooldown": 60,
+          "Upgrade": 2
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Clan wars Season 2 presents (0.5%)"
+        ]
+      }
+    },
       "Name": "Endo 02",
       "Rarity": "Secret",
       "PlacementPrice": 2750,
@@ -9312,37 +9389,37 @@
       "Element": "Water",
       "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 16,
+        "Range": 20,
         "Damage": 66,
         "Cooldown": 2
       },
       "UpgradeStats": [
         {
-          "Range": 17,
+          "Range": 20,
           "Damage": 120,
           "Cooldown": 2,
           "UpgradePrice": 2500
         },
         {
-          "Range": 18,
+          "Range": 21,
           "Damage": 154,
           "Cooldown": 2,
           "UpgradePrice": 2750
         },
         {
-          "Range": 19,
+          "Range": 21,
           "Damage": 180,
           "Cooldown": 2,
           "UpgradePrice": 3000
         },
         {
-          "Range": 20,
+          "Range": 21,
           "Damage": 200,
           "Cooldown": 1.9,
           "UpgradePrice": 4000
         },
         {
-          "Range": 20,
+          "Range": 22,
           "Damage": 227,
           "Cooldown": 1.9,
           "UpgradePrice": 5000
@@ -9354,56 +9431,56 @@
           "UpgradePrice": 6000
         },
         {
-          "Range": 25,
+          "Range": 23,
           "Damage": 270,
           "Cooldown": 1.8,
           "UpgradePrice": 6500
         },
         {
-          "Range": 16,
+          "Range": 24,
           "Damage": 400,
           "Cooldown": 3.6,
           "UpgradePrice": 8000,
           "Type": "Circle"
         },
         {
-          "Range": 16,
+          "Range": 24,
           "Damage": 473.5,
           "Cooldown": 3.5,
           "UpgradePrice": 7000
         },
         {
-          "Range": 17,
+          "Range": 25,
           "Damage": 560,
           "Cooldown": 3.5,
           "UpgradePrice": 8000
         },
         {
-          "Range": 18,
+          "Range": 26,
           "Damage": 650,
           "Cooldown": 3.4,
           "UpgradePrice": 8000
         },
         {
-          "Range": 19,
+          "Range": 27,
           "Damage": 747,
           "Cooldown": 3.4,
           "UpgradePrice": 9000
         },
         {
-          "Range": 19,
+          "Range": 28,
           "Damage": 870,
           "Cooldown": 3.3,
           "UpgradePrice": 10000
         },
         {
-          "Range": 20,
+          "Range": 28,
           "Damage": 900,
           "Cooldown": 3.3,
           "UpgradePrice": 10000
         },
         {
-          "Range": 21,
+          "Range": 28,
           "Damage": 700,
           "Cooldown": 2.9,
           "UpgradePrice": 12500,
@@ -9411,31 +9488,31 @@
           "Degrees": 180
         },
         {
-          "Range": 23,
+          "Range": 28,
           "Damage": 785,
           "Cooldown": 2.9,
           "UpgradePrice": 11000
         },
         {
-          "Range": 24,
+          "Range": 29,
           "Damage": 835,
           "Cooldown": 2.8,
           "UpgradePrice": 11000
         },
         {
-          "Range": 25,
+          "Range": 29,
           "Damage": 860,
           "Cooldown": 2.8,
           "UpgradePrice": 12000
         },
         {
-          "Range": 26,
+          "Range": 30,
           "Damage": 900,
           "Cooldown": 2.8,
           "UpgradePrice": 12500
         },
         {
-          "Range": 28,
+          "Range": 30,
           "Damage": 945,
           "Cooldown": 2.8,
           "UpgradePrice": 15000
@@ -9657,131 +9734,130 @@
       "Element": "Fire",
       "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 20,
-        "Damage": 37.5,
+        "Range": 22,
+        "Damage": 55.5,
         "Cooldown": 1
       },
       "UpgradeStats": [
         {
-          "Range": 20,
-          "Damage": 50,
+          "Range": 22,
+          "Damage": 75.8,
           "Cooldown": 1,
           "UpgradePrice": 2500
         },
         {
-          "Range": 21,
-          "Damage": 67,
+          "Range": 23,
+          "Damage": 96,
           "Cooldown": 1,
           "UpgradePrice": 2750
         },
         {
-          "Range": 21,
-          "Damage": 95.6,
+          "Range": 23,
+          "Damage": 121.2,
           "Cooldown": 1,
           "UpgradePrice": 3000
         },
         {
-          "Range": 21,
-          "Damage": 126,
+          "Range": 23,
+          "Damage": 146.4,
           "Cooldown": 1,
           "UpgradePrice": 4000
-        },
-        {
-          "Range": 22,
-          "Damage": 155.5,
-          "Cooldown": 1,
-          "UpgradePrice": 4000
-        },
-        {
-          "Range": 22,
-          "Damage": 185,
-          "Cooldown": 1,
-          "UpgradePrice": 4250
-        },
-        {
-          "Range": 23,
-          "Damage": 214.5,
-          "Cooldown": 1,
-          "UpgradePrice": 4250
-        },
-        {
-          "Range": 23,
-          "Damage": 244,
-          "Cooldown": 1,
-          "UpgradePrice": 5000
         },
         {
           "Range": 24,
-          "Damage": 273.5,
+          "Damage": 171.7,
+          "Cooldown": 1,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22,
+          "Damage": 196.9,
+          "Cooldown": 1,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 24,
+          "Damage": 227.3,
+          "Cooldown": 1,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 24,
+          "Damage": 257.6,
           "Cooldown": 1,
           "UpgradePrice": 5000
         },
         {
-          "Range": 18,
-          "Damage": 303,
-          "Cooldown": 3,
+          "Range": 25,
+          "Damage": 292.9,
+          "Cooldown": 1,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 25,
+          "Damage": 338.4,
+          "Cooldown": 2.8,
           "UpgradePrice": 7500,
-          "Type": "Cone",
-          "Degrees": 90
+          "Type": "Full AOE"
         },
         {
-          "Range": 18,
-          "Damage": 332.5,
-          "Cooldown": 3,
-          "UpgradePrice": 6500
-        },
-        {
-          "Range": 19,
-          "Damage": 362,
-          "Cooldown": 3,
-          "UpgradePrice": 6500
-        },
-        {
-          "Range": 19,
-          "Damage": 391.5,
-          "Cooldown": 3,
-          "UpgradePrice": 7000
-        },
-        {
-          "Range": 19,
-          "Damage": 421,
-          "Cooldown": 3,
-          "UpgradePrice": 7000
-        },
-        {
-          "Range": 20,
-          "Damage": 450.5,
-          "Cooldown": 2.9,
-          "UpgradePrice": 7500
-        },
-        {
-          "Range": 20,
-          "Damage": 480,
-          "Cooldown": 2.9,
-          "UpgradePrice": 7500
-        },
-        {
-          "Range": 21,
-          "Damage": 509.5,
-          "Cooldown": 2.8,
-          "UpgradePrice": 8000
-        },
-        {
-          "Range": 22,
-          "Damage": 539,
-          "Cooldown": 2.8,
-          "UpgradePrice": 8000
-        },
-        {
-          "Range": 23,
-          "Damage": 568.5,
+          "Range": 26,
+          "Damage": 363.6,
           "Cooldown": 2.7,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 393.9,
+          "Cooldown": 2.7,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 424.4,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26,
+          "Damage": 464.6,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26,
+          "Damage": 494.4,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 27,
+          "Damage": 530.3,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 27,
+          "Damage": 565.6,
+          "Cooldown": 2.4,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 28,
+          "Damage": 601,
+          "Cooldown": 2.4,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 29,
+          "Damage": 636.3,
+          "Cooldown": 2.4,
           "UpgradePrice": 9000
         },
         {
-          "Range": 24,
-          "Damage": 598,
-          "Cooldown": 2.7,
+          "Range": 30,
+          "Damage": 732.3,
+          "Cooldown": 2.3,
           "UpgradePrice": 10000
         }
       ],
