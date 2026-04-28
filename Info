@@ -2805,7 +2805,7 @@
         "status": "Stable"
       }
     },
-    "Skins": {Volcanic Party Packer Cupcake
+    "Skins": {
       "Fredbear": {
         "value": "N/A",
         "soul": "N/A",
@@ -2905,13 +2905,6 @@
         "exists": 0
       },
       "8-Bit Baby": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
-      },
-      "Volcanic Party Packer Cupcake": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -7387,6 +7380,62 @@
       "Note": "The 'reapplies that effect' part of the passive is misleading, as it does not appear to do anything, and the execution mechanic does not seem to work either."
     },
     {
+      "Name": "Leviathan Mangle",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 8000,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 900,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 985,
+          "Cooldown": 3.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 1150,
+          "Cooldown": 3.6,
+          "UpgradePrice": 6500,
+          "Type": "Cone",
+          "Degrees": 75
+        },
+        {
+          "Range": 22,
+          "Damage": 1300,
+          "Cooldown": 3.6,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 24,
+          "Damage": 1450,
+          "Cooldown": 3.3,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 1545,
+          "Cooldown": 3,
+          "UpgradePrice": 8000
+        }
+      ],
+      "Passives": {
+        "Leviathan’s Call": "Every 25s, summon a tidal wave that deals 80% of this unit’s damage and slows enemies by 30% for 4s. Each activation increases damage by 5%, up to 25%."
+      },
+      "Obtainability": {
+        "Base": [
+          "OG Event Craftable (1st [Summer] Endless)",
+          "OG Present (0.1%)"
+        ]
+      }
+    },
+    {
       "Name": "Stormbound Chica",
       "Rarity": "Nightmare",
       "PlacementPrice": 8000,
@@ -7459,61 +7508,6 @@
       "Obtainability": {
         "Base": [
           "Clan wars Season 2 presents (0.05%)",
-        ]
-      }
-    },
-      "Name": "Leviathan Mangle",
-      "Rarity": "Nightmare",
-      "PlacementPrice": 8000,
-      "Type": "Line",
-      "Element": "Water",
-      "MaxPlaced": 1,
-      "BaseStats": {
-        "Range": 20,
-        "Damage": 900,
-        "Cooldown": 4
-      },
-      "UpgradeStats": [
-        {
-          "Range": 20,
-          "Damage": 985,
-          "Cooldown": 3.8,
-          "UpgradePrice": 5000
-        },
-        {
-          "Range": 20,
-          "Damage": 1150,
-          "Cooldown": 3.6,
-          "UpgradePrice": 6500,
-          "Type": "Cone",
-          "Degrees": 75
-        },
-        {
-          "Range": 22,
-          "Damage": 1300,
-          "Cooldown": 3.6,
-          "UpgradePrice": 6500
-        },
-        {
-          "Range": 24,
-          "Damage": 1450,
-          "Cooldown": 3.3,
-          "UpgradePrice": 8000
-        },
-        {
-          "Range": 26,
-          "Damage": 1545,
-          "Cooldown": 3,
-          "UpgradePrice": 8000
-        }
-      ],
-      "Passives": {
-        "Leviathan’s Call": "Every 25s, summon a tidal wave that deals 80% of this unit’s damage and slows enemies by 30% for 4s. Each activation increases damage by 5%, up to 25%."
-      },
-      "Obtainability": {
-        "Base": [
-          "OG Event Craftable (1st [Summer] Endless)",
-          "OG Present (0.1%)"
         ]
       }
     },
@@ -10703,8 +10697,8 @@
         "Base": [
           "4th Bi-Weekly Exclusive (799 R$ / 35000 Tokens)",
           "Popcorn Bot Present (1%)"
-        }
-      ]
+        ]
+      }
     },
     {
       "Name": "Popeyes Toy Freddy",
