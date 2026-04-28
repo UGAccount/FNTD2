@@ -7473,7 +7473,7 @@
           "Damage": 3283,
           "Cooldown": 6.6,
           "UpgradePrice": 10150,
-          "Type": "Line",
+          "Type": "Line"
         },
         {
           "Range": 24,
@@ -7521,7 +7521,7 @@
       ],
       "Obtainability": {
         "Base": [
-          "Clan wars Season 2 presents (0.05%)",
+          "Clan wars Season 2 presents (0.05%)"
         ]
       }
     },
