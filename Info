@@ -74,7 +74,7 @@
           "exists": 11060
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.5-1.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -106,7 +106,7 @@
           "exists": 6230
         },
         "Shiny": {
-          "value": "4",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -202,7 +202,7 @@
           "exists": 5819
         },
         "Shiny": {
-          "value": "18",
+          "value": "16",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
