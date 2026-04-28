@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Stormbound Chica": {
+        "Normal": {
+          "value": "1.5",
+          "soul": "N/A",
+          "demand": "7/10",
+          "status": "Dropping",
+          "exists": 751
+        },
+        "Shiny": {
+          "value": "20",
+          "soul": "N/A",
+          "demand": "8/10",
+          "status": "Fluctuating",
+          "exists": 38
+        }
+      },
       "Lolbit": {
         "Normal": {
           "value": "1.2+",
@@ -14,7 +30,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 84
+          "exists": 96
         }
       },
       "HandUnit": {
@@ -7364,6 +7380,81 @@
       "Note": "The 'reapplies that effect' part of the passive is misleading, as it does not appear to do anything, and the execution mechanic does not seem to work either."
     },
     {
+      "Name": "Stormbound Chica",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 8000,
+      "Type": "Circle",
+      "Element": "Electric",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 2778,
+        "Cooldown": 7.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 3030,
+          "Cooldown": 6.8,
+          "UpgradePrice": 7900
+        },
+        {
+          "Range": 23,
+          "Damage": 3283,
+          "Cooldown": 6.6,
+          "UpgradePrice": 10150,
+          "Type": "Line",
+        },
+        {
+          "Range": 24,
+          "Damage": 3535,
+          "Cooldown": 6.5,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 25,
+          "Damage": 3788,
+          "Cooldown": 6.4,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 26,
+          "Damage": 4040,
+          "Cooldown": 6.3,
+          "UpgradePrice": 16250,
+          "Type": "Cone",
+          "Degrees": 125
+        },
+        {
+          "Range": 27,
+          "Damage": 4293,
+          "Cooldown": 6.2,
+          "UpgradePrice": 18500
+        },
+        {
+          "Range": 28,
+          "Damage": 4848,
+          "Cooldown": 6,
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "Electrifying Pressure": "Hits the enemy every second for damage scaling on distance, at max scaling enemies take 10% more electric/water damage. At max scaling enemies take 10% more electric/water damage and are slowed 10%."
+      },
+      "Actives": [
+        {
+          "Name": "Call of the storm",
+          "Description": "Hits the enemy every second for damage scaling on distance, at max scaling enemies take 10% more electric/water damage. At max scaling enemies take 10% more electric/water damage and are slowed 10%.",
+          "Cooldown": 60,
+          "Upgrade": 2
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Clan wars Season 2 presents (0.05%)",
+        ]
+      }
+    },
       "Name": "Leviathan Mangle",
       "Rarity": "Nightmare",
       "PlacementPrice": 8000,
@@ -8864,6 +8955,11 @@
           "Name": "Fredbear",
           "Obtainability": "Milestones (35K FazRating)",
           "Rarity": "Rare"
+        },
+        {
+          "Name": "Linkcage Freddy",
+          "Obtainability": "12th Bi-weekly Exclusive (199 robux/40500 coins/1350 souls)",
+          "Rarity": "Exclusive"
         }
       ]
     },
@@ -10485,6 +10581,14 @@
         "Base": [
           "PPC Present (100%)",
           "1st Starter Pack (249 R$)"
+        ]
+      },
+      "Skins": [
+        {
+          "Name": "Volcanic Party Packer Cupcake",
+          "Obtainability": "Clan Season 2 Present (20% chance)",
+          "Rarity": "Exclusive"
+         }
         ]
       }
     },
