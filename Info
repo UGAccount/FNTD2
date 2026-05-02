@@ -19,14 +19,14 @@
       },
       "Landslide Funtime Foxy": {
         "Normal": {
-          "value": "0.02",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 26490
         },
         "Shiny": {
-          "value": "0.2+",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -35,7 +35,7 @@
       },
       "Lolbit": {
         "Normal": {
-          "value": "1.2+",
+          "value": "1-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -83,7 +83,7 @@
       },
       "Scooped Micheal": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.15-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -179,8 +179,8 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "10-11+",
-          "soul": "N/A",
+          "value": "11+",
+          "soul": "100,000-110,000",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1490
@@ -202,7 +202,7 @@
           "exists": 5830
         },
         "Shiny": {
-          "value": "15-16",
+          "value": "14",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -762,7 +762,7 @@
           "exists": 26580
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.8-0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -2176,7 +2176,7 @@
     },
     "Presents": {
       "Clan Wars Season 2 Present": {
-        "value": "0.00035",
+        "value": "0.0035",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
