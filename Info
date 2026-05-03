@@ -295,14 +295,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 11700
         },
         "Shiny": {
           "value": "14",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 418
         }
       },
       "Lich Shadow Bonnie": {
