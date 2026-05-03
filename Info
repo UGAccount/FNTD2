@@ -2627,7 +2627,7 @@
         "exists": 3370
       },
       "Golden Freddy": {
-        "value": "N/A",
+        "value": "1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
@@ -2802,7 +2802,7 @@
         "exists": 0
       },
       "Freddy": {
-        "value": "N/A",
+        "value": "12+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "O/C",
