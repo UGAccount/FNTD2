@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Dropping",
-          "exists": 2870
+          "exists": 4243
         },
         "Shiny": {
-          "value": "7-8",
+          "value": "7",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 151
+          "exists": 233
         }
       },
       "Landslide Funtime Foxy": {
@@ -602,7 +602,7 @@
           "exists": 6460
         },
         "Shiny": {
-          "value": "8",
+          "value": "7-7.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1050,11 +1050,11 @@
           "exists": 3650
         },
         "Shiny": {
-          "value": "13-14",
+          "value": "15",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 126
+          "exists": 127
         }
       },
       "Krampus Purple Guy": {
@@ -1358,7 +1358,7 @@
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
-          "exists": 97
+          "exists": 99
         }
       },
       "Cloaked Sparky": {
@@ -1463,14 +1463,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 2442
         },
         "Shiny": {
           "value": "55",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 93
         }
       },
       "Endo 02": {
@@ -6094,7 +6094,7 @@
         {
           "Name": "8-Bit Baby",
           "Obtainability": "5th Exclusive Skin Bundled (199 R$)",
-          "Rarity": "Secret"
+          "Rarity": "Exclusive"
         }
       ]
     },
