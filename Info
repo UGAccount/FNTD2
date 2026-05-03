@@ -99,14 +99,14 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 8840
         },
         "Shiny": {
-          "value": "3+",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -890,7 +890,7 @@
           "exists": 15890
         },
         "Shiny": {
-          "value": "3.5",
+          "value": "3+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
@@ -1482,7 +1482,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "15+",
+          "value": "20+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -10478,7 +10478,7 @@
           "Range": 29,
           "Damage": 1025,
           "Cooldown": 3.3,
-          "UpgradePrice": 5802
+          "UpgradePrice": 4850
         }
       ],
       "Passives": {
