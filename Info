@@ -2842,6 +2842,13 @@
       }
     },
     "Skins": {
+      "Anubis Wrath Puppet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "O/C",
+        "exists": 0
+      },
       "Fredbear": {
         "value": "N/A",
         "soul": "N/A",
@@ -9726,6 +9733,11 @@
           "Name": "Monarch",
           "Obtainability": "Medieval Event Exclusive Skin Bundle (199 R$)",
           "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Anubis Wrath Puppet",
+          "Obtainability": "Collect 100 units (Index Milestone reward)",
+          "Rarity": "Secret"
         }
       ]
     },
