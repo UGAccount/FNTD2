@@ -42,7 +42,7 @@
           "exists": 3110
         },
         "Shiny": {
-          "value": "23-25",
+          "value": "22",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -2842,6 +2842,33 @@
       }
     },
     "Skins": {
+      "Anubis Wrath": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Dark Springtrap": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Linkcage Freddy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Volcanic Party Packer Cupcake": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
       "Fredbear": {
         "value": "N/A",
         "soul": "N/A",
@@ -2862,20 +2889,6 @@
         "demand": "N/A",
         "status": "O/C",
         "exists": 0
-      },
-      "Remnant Fredbear": {
-        "value": "0.25",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable",
-        "exists": 3220
-      },
-      "Deep Sea Nautilus": {
-        "value": "0.5+",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable",
-        "exists": 713
       },
       "Monarch": {
         "value": "N/A",
@@ -2905,25 +2918,25 @@
         "status": "Fluctuating",
         "exists": 0
       },
-      "Hypnos": {
-        "value": "1+",
+      "8-Bit Baby": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable",
+        "status": "N/A",
         "exists": 0
+      },
+      "Remnant Fredbear": {
+        "value": "0.25",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable",
+        "exists": 3220
       },
       "Jack'O Trap": {
         "value": "0.2+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": 0
-      },
-      "Mafia Masked Bullies": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable",
         "exists": 0
       },
       "Showtime Ennard": {
@@ -2933,32 +2946,25 @@
         "status": "N/A",
         "exists": 0
       },
-      "Dark Springtrap": {
+      "Mafia Masked Bullies": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Unstable",
         "exists": 0
       },
-      "8-Bit Baby": {
-        "value": "N/A",
+      "Deep Sea Nautilus": {
+        "value": "0.5+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
+        "status": "Unstable",
+        "exists": 713
       },
-      "Linkcage Freddy": {
-        "value": "N/A",
+      "Hypnos": {
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
-      },
-      "Volcanic Party Packer Cupcake": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
+        "status": "Unstable",
         "exists": 0
       }
     },
@@ -9726,6 +9732,11 @@
           "Name": "Monarch",
           "Obtainability": "Medieval Event Exclusive Skin Bundle (199 R$)",
           "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Anubis Wrath",
+          "Obtainability": "Discover 100 units (index milestone reward)",
+          "Rarity": "Secret"
         }
       ]
     },
