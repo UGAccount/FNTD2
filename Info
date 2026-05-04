@@ -19,7 +19,7 @@
       },
       "Landslide Funtime Foxy": {
         "Normal": {
-          "value": "0.01",
+          "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -42,11 +42,11 @@
           "exists": 3110
         },
         "Shiny": {
-          "value": "26-28",
+          "value": "23-25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 113
+          "exists": 165
         }
       },
       "HandUnit": {
@@ -186,11 +186,11 @@
           "exists": 1490
         },
         "Shiny": {
-          "value": "50+",
+          "value": "55+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 93
+          "exists": 100
         }
       },
       "Bear5": {
@@ -202,7 +202,7 @@
           "exists": 5830
         },
         "Shiny": {
-          "value": "11",
+          "value": "10+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -298,11 +298,11 @@
           "exists": 11700
         },
         "Shiny": {
-          "value": "14",
+          "value": "13-14",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
-          "exists": 418
+          "exists": 446
         }
       },
       "Lich Shadow Bonnie": {
@@ -318,7 +318,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 237
         }
       },
       "Starfarer Princess": {
@@ -858,16 +858,16 @@
           "exists": 31800
         },
         "Shiny": {
-          "value": "7-7.5",
+          "value": "7.5",
           "soul": "N/A",
-          "demand": "8/10",
-          "status": "Slowly Dropping",
+          "demand": "7/10",
+          "status": "Stable",
           "exists": 1090
         }
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.175-0.2",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -883,9 +883,9 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.15+",
+          "value": "0.2+",
           "soul": "N/A",
-          "demand": "7.5/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 15890
         },
@@ -1036,7 +1036,7 @@
         "Shiny": {
           "value": "62-65",
           "soul": "N/A",
-          "demand": "9.5/10",
+          "demand": "7/10",
           "status": "Unstable",
           "exists": 147
         }
@@ -1045,7 +1045,7 @@
         "Normal": {
           "value": "0.45-0.5",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 3650
         },
@@ -1130,7 +1130,7 @@
           "exists": 107749
         },
         "Shiny": {
-          "value": "0.4+",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2176,7 +2176,7 @@
     },
     "Presents": {
       "Clan Wars Season 2 Present": {
-        "value": "0.0035",
+        "value": "0.003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
