@@ -8487,20 +8487,8 @@
         },
         {
           "Range": 22,
-          "Damage": 285,
-          "Cooldown": 0.4,
-          "UpgradePrice": 21500
-        },
-        {
-          "Range": 24,
-          "Damage": 300,
-          "Cooldown": 0.36,
-          "UpgradePrice": 21500
-        },
-        {
-          "Range": 25,
           "Damage": 320,
-          "Cooldown": 0.33,
+          "Cooldown": 0.4,
           "UpgradePrice": 21500
         }
       ],
@@ -11692,7 +11680,7 @@
     "SpringLocked": {
       "Description": "+100% Damage, 10% Range, +10% Cooldown, +30% True Damage",
       "Boost": {
-        "Damage": 2.3,
+        "Damage": 2.0,
         "Range": 1.1,
         "Cooldown": 1.1,
         "TrueDamage": 0.3
