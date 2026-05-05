@@ -6193,7 +6193,8 @@
         "Base": [
           "Boss Raid Present (4.5%)"
         ]
-      }
+      },
+      "Note": "He CANNOT stack with multiple placements (your own and othere), meaning dice will not allow him to stackup boosts insanely high akin to spring duo or funtime foxy."
     },
     {
       "Name": "Phantom Bonnie",
