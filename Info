@@ -6215,7 +6215,7 @@
           "Boss Raid Present (4.5%)"
         ]
       },
-      "Note": "He CANNOT stack with multiple placements (your own and othere), meaning dice will not allow him to stackup boosts insanely high akin to spring duo or funtime foxy."
+      "Note": "He CANNOT stack with himself (your own and others), meaning dice will not allow him to stackup boosts insanely high akin to spring duo or funtime foxy who do stack with eachother."
     },
     {
       "Name": "Phantom Bonnie",
@@ -11714,7 +11714,7 @@
     "SpringLocked": {
       "Description": "+100% Damage, 10% Range, +10% Cooldown, +30% True Damage",
       "Boost": {
-        "Damage": 2.25,
+        "Damage": 2.20,
         "Range": 1.1,
         "Cooldown": 1.1,
         "TrueDamage": 0.3
