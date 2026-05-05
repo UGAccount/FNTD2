@@ -11714,7 +11714,7 @@
     "SpringLocked": {
       "Description": "+100% Damage, 10% Range, +10% Cooldown, +30% True Damage",
       "Boost": {
-        "Damage": 2.20,
+        "Damage": 2.22,
         "Range": 1.1,
         "Cooldown": 1.1,
         "TrueDamage": 0.3
