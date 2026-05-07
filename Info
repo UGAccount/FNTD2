@@ -6,7 +6,7 @@
           "value": "0.8+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Dropping",
+          "status": "Unstable",
           "exists": 4243
         },
         "Shiny": {
@@ -899,7 +899,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "0.6+",
+          "value": "0.6-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -7635,7 +7635,7 @@
       "Actives": [
         {
           "Name": "Call of the storm",
-          "Description": "Hits the enemy every second for damage scaling on distance, at max scaling enemies take 10% more electric/water damage. At max scaling enemies take 10% more electric/water damage and are slowed 10%.",
+          "Description": "Chica rises up and pushes enemies back 1 tile. For 20s buff Electrifying Pressure by 50% and call down 3 lightning bolts every 1.5s on random enemies for 25% dmg. If a boss is present always focus one on the boss for 33% dmg.",
           "Cooldown": 60,
           "Upgrade": 2
         }
