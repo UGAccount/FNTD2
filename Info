@@ -298,7 +298,7 @@
           "exists": 11700
         },
         "Shiny": {
-          "value": "13-14",
+          "value": "13",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
@@ -1027,7 +1027,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "5.5+",
+          "value": "5.75+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
