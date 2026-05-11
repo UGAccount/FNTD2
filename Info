@@ -8848,7 +8848,7 @@
         {
           "Name": "Hallowed Pumpkin Realm",
           "Description": "While active, all none Dark or Fire element units cannot attack, none attack passives will still function. All Dark and Fire element unit’s damage is boosted by 85% for the duration of this ability.",
-          "Cooldown": 300,
+          "Cooldown": 100,
           "Upgrade": 9
         }
       ],
