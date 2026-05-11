@@ -3021,7 +3021,7 @@
     },
     "Bytes": {
       "The Box": {
-        "value": "0.15",
+        "value": "0.1",
         "soul": "N/A",
         "demand": "8/10",
         "status": "Fluctuating"
@@ -3033,7 +3033,7 @@
         "status": "Fluctuating"
       },
       "Reaper": {
-        "value": "0.006",
+        "value": "0.005",
         "soul": "N/A",
         "demand": "5/10",
         "status": "Dropping"
@@ -3043,6 +3043,12 @@
         "soul": "N/A",
         "demand": "7/10",
         "status": "Unstable"
+      },
+      "The Fan": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       }
     }
   },
