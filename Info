@@ -6242,7 +6242,7 @@
           "Boss Raid Present (4.5%)"
         ]
       },
-      "Note": "He applies all 3 boosts due to a bug. He CANNOT stack with himself though (your own and others), meaning dice will not allow him to stackup boosts insanely high akin to spring duo or funtime foxy who do stack with eachother."
+      "Note": "He CANNOT desync his buffs and stack with himself (your own and others), meaning dice will not allow him to stackup boosts akin to spring duo or funtime foxy who do stack with eachother."
     },
     {
       "Name": "Phantom Bonnie",
