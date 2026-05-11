@@ -3020,12 +3020,6 @@
       }
     },
     "Bytes": {
-      "The Fan": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
       "The Box": {
         "value": "0.1",
         "soul": "N/A",
