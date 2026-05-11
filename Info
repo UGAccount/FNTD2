@@ -3029,7 +3029,7 @@
       "The Fan": {
         "value": "N/A",
         "soul": "N/A",
-        "demand": "N/A",
+        "demand": "0/10",
         "status": "N/A"
       },
       "Kaboom!": {
