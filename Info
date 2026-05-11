@@ -3020,17 +3020,17 @@
       }
     },
     "Bytes": {
-      "The Fan": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "The Box": {
         "value": "0.1",
         "soul": "N/A",
         "demand": "8/10",
         "status": "Fluctuating"
+      },
+      "The Fan": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       },
       "Kaboom!": {
         "value": "0.1-0.15",
