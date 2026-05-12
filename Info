@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Goodnight Plushtime": {
+        "Normal": {
+          "value": "0.02+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 14700
+        },
+        "Shiny": {
+          "value": "0.4+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 1400
+        }
+      },
       "Stormbound Chica": {
         "Normal": {
           "value": "0.8-1",
@@ -6353,6 +6369,42 @@
           "Season 2 Present (0.1%)"
         ]
       }
+    },
+    {
+      "Name": "Goodnight Plushtime",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 2100,
+      "Type": "N/A",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 0
+        }
+      ],
+      "Passives": {
+        "Counting Sheep’s": " This unit will start off Asleep and will be unable to attack until woken up. While this unit is asleep, gain 1 sleep stack per wave."
+      },
+      "Actives": [
+        {
+          "Name": "Scary Dream",
+          "Description": "Wakes up this unit, consuming all sleep stacks but he will be unable to go back to sleep. Each sleep stack consumed adds +3% damage Perma toy (max +245% damage)",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Goodnight Plushtime present (100% chance)"
+        ]
+      },
+      "Note": "This will be WIP, still need more time to gather the stats."
     },
     {
       "Name": "Plushtrap",
