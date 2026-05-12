@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 5300
+          "exists": 6240
         },
         "Shiny": {
           "value": "7-8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 270
+          "exists": 337
         }
       },
       "Landslide Funtime Foxy": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 46542
+          "exists": 52000
         },
         "Shiny": {
           "value": "0.1+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
-          "exists": 2578
+          "exists": 2900
         }
       },
       "Lolbit": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 4244
+          "exists": 4401
         },
         "Shiny": {
-          "value": "19",
+          "value": "19-20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 187
+          "exists": 193
         }
       },
       "HandUnit": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 9570
+          "exists": 13264
         },
         "Shiny": {
           "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 275
+          "exists": 412
         }
       },
       "Exotic Butters": {
@@ -71,14 +71,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 11060
+          "exists": 22140
         },
         "Shiny": {
           "value": "1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 465
+          "exists": 964
         }
       },
       "Scooped Micheal": {
@@ -87,14 +87,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 5500
+          "exists": 10782
         },
         "Shiny": {
           "value": "3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 237
+          "exists": 520
         }
       },
       "Circus Baby": {
@@ -103,14 +103,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 17900
+          "exists": 20940
         },
         "Shiny": {
           "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 697
+          "exists": 743
         }
       },
       "Ballora": {
@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 45069
+          "exists": 49782
         },
         "Shiny": {
           "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 2542
+          "exists": 2867
         }
       },
       "Funtime Freddy": {
@@ -279,7 +279,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 719
+          "exists": 754
         },
         "Shiny": {
           "value": "46-50",
@@ -967,14 +967,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 2299405
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 98742
         }
       },
       "Yeti Oni Bonnie": {
@@ -983,14 +983,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 4435
+          "exists": 4499
         },
         "Shiny": {
           "value": "60",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 177
+          "exists": 180
         }
       },
       "Toy Maker Mangle": {
@@ -1031,14 +1031,14 @@
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 4010
+          "exists": 4517
         },
         "Shiny": {
-          "value": "62-65",
+          "value": "70+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 147
+          "exists": 153
         }
       },
       "Grinch Foxy": {
@@ -1047,14 +1047,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 3650
+          "exists": 3945
         },
         "Shiny": {
           "value": "15",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
-          "exists": 127
+          "exists": 129
         }
       },
       "Krampus Purple Guy": {
@@ -1463,14 +1463,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 2442
+          "exists": 2568
         },
         "Shiny": {
           "value": "55+",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
-          "exists": 93
+          "exists": 94
         }
       },
       "Endo 02": {
@@ -1479,14 +1479,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 3163
         },
         "Shiny": {
           "value": "20+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
-          "exists": 0
+          "exists": 110
         }
       },
       "Balloon Boy": {
@@ -1495,14 +1495,14 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
-          "exists": 3380
+          "exists": 3680
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 93
+          "exists": 103
         }
       },
       "Mangle": {
@@ -1511,14 +1511,14 @@
           "soul": "N/A",
           "demand": "6.7/10",
           "status": "Underpaid",
-          "exists": 2690
+          "exists": 3011
         },
         "Shiny": {
           "value": "40+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 95
+          "exists": 98
         }
       },
       "Party Packer Cupcake": {
@@ -5971,7 +5971,7 @@
           "Season 4 Present (15%)"
         ]
       },
-      "Note": "He is one of 3 boosters that can stack with multipe players!Being the best and consisent one, he can output 40% universal buffs to 80% every 35s. Allowing for insane stacking in squads, surpassing even spring duo in boosting and consistency."
+      "Note": "He is one of 3 boosters that can stack with multipe players! Being the best and consisent one, he can output 40% universal buffs to 80% every 35s. Allowing for insane stacking in squads, surpassing even spring duo in boosting and consistency."
     },
     {
       "Name": "HandUnit",
