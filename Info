@@ -6374,18 +6374,51 @@
       "Name": "Goodnight Plushtime",
       "Rarity": "Exclusive",
       "PlacementPrice": 2100,
-      "Type": "N/A",
+      "Type": "Single",
       "Element": "Dark",
       "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 0,
-        "Cooldown": 0
+        "Range": 36,
+        "Cooldown": 2.8
       },
       "UpgradeStats": [
         {
-          "Range": 0,
-          "Cooldown": 0,
-          "UpgradePrice": 0
+          "Range": 36,
+          "Damage": 719.6,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 37.5,
+          "Damage": 778.7,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 37.5,
+          "Damage": 825.6,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3000,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 39,
+          "Damage": 886.3,
+          "Cooldown": 2.5,
+          "UpgradePrice": 4350
+        },
+        {
+          "Range": 39,
+          "Damage": 931.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 40.5,
+          "Damage": 977.2,
+          "Cooldown": 2.3,
+          "UpgradePrice": 6450
         }
       ],
       "Passives": {
