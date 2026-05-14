@@ -2991,6 +2991,20 @@
       }
     },
     "Skins": {
+      "Data Bolt Lolbit": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+			"Meltdown Mangle": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Anubis Wrath Puppet": {
         "value": "N/A",
         "soul": "N/A",
