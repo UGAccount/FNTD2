@@ -6556,6 +6556,67 @@
       }
     },
     {
+      "Name": "Super Solider Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1450,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 398.9,
+        "Cooldown": 1.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 434.3,
+          "Cooldown": 1.7,
+          "UpgradePrice": 1850
+        },
+        {
+          "Range": 23,
+          "Damage": 459.6,
+          "Cooldown": 1.7,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25,
+          "Damage": 474.7,
+          "Cooldown": 1.6,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 25,
+          "Damage": 505,
+          "Cooldown": 1.6,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 525,
+          "Cooldown": 1.5,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Take The Advantage": " This units gains 50% crit rate (55% total via natural chance too) and 25%+ more crit damage (200% damahe -> 225% damage)."
+      },
+      "Actives": [
+        {
+          "Name": "Target Acquired",
+          "Description": "Spawns a drone (max of 2 per placement) on the map where the player chooses within 8 range, once and enemy enters this range they'll take 250% of his damage (Once,per enemy)",
+          "Cooldown": 15,
+          "Upgrade": 2+
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Superhero Event Pass (Hero free tier 30)"
+        ]
+      }
+    },
+    {
       "Name": "Goodnight Plushtime",
       "Rarity": "Exclusive",
       "PlacementPrice": 2100,
