@@ -10707,7 +10707,14 @@
           "Season 1 Present (80%)",
           "1st Exclusive Pack (2500 R$)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Meltdown Manglr",
+          "Obtainability": "Superhero Event Summons (0.5% chance)",
+          "Rarity": "Mythical"
+        }
+      ]
     },
     {
       "Name": "Mecha Cupcake",
@@ -10885,7 +10892,14 @@
           "4th Exclusive Pack (2500 R$)",
           "Lolbit Present (100%)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Data Bolt Lolbit",
+          "Obtainability": "Superhero Event Summons (0.05% chance)",
+          "Rarity": "Secret"
+        }
+      ]
     },
     {
       "Name": "Nightmarionne",
