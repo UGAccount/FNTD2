@@ -6701,7 +6701,7 @@
       },
       "Actives": [
         {
-          "Name": "Saving Gas",
+          "Name": "Fool's Gambit",
           "Description": "Spend 1k cash to flip a coin. Gain rewards for each consecutive heads flipped, each including all previous rewards. 5 and 7 heads in a row locks for 30s. 10 heads in a row locks for 240s, removes all cash, and can only trigger 3 times per match.",
           "Cooldown": 1,
           "Upgrade": 2
