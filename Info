@@ -6687,7 +6687,7 @@
           "Range": 26,
           "Damage": 1161.5,
           "Cooldown": 4.3,
-          "UpgradePrice": 5000
+          "UpgradePrice": 5000,
           "Type": "Circle"
         },
         {
