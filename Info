@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Antihero Mike": {
+        "Normal": {
+          "value": "0.125-0.15",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        }
+      },
       "Devious Purple Guy": {
         "Normal": {
           "value": "1.8-2",
