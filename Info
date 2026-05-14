@@ -6653,6 +6653,75 @@
       }
     },
     {
+      "Name": "Fazman",
+      "Rarity": "Secret",
+      "PlacementPrice": 2500,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 853.5,
+        "Cooldown": 4.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 873.6,
+          "Cooldown": 4.5,
+          "UpgradePrice": 2875
+        },
+        {
+          "Range": 24,
+          "Damage": 909,
+          "Cooldown": 4.4,
+          "UpgradePrice": 3150
+        },
+        {
+          "Range": 24,
+          "Damage": 974.6,
+          "Cooldown": 4.3,
+          "UpgradePrice": 4350
+        },
+        {
+          "Range": 26,
+          "Damage": 1161.5,
+          "Cooldown": 4.3,
+          "UpgradePrice": 5000
+          "Type": "Circle"
+        },
+        {
+          "Range": 27,
+          "Damage": 1313,
+          "Cooldown": 4.2,
+          "UpgradePrice": 6350
+        },
+        {
+          "Range": 28,
+          "Damage": 1565,
+          "Cooldown": 4,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Pitstop": "Enemies hit by Fazmobile on the track take 2.5 knockback.",
+        "Dynamic Duo": "If Anti-Hero Mike is on the team, Fazmobile acceleration is buffed frok 2 studs every second to 2.75 studs, and both units gain a +25% dmg buff."
+      },
+      "Actives": [
+        {
+          "Name": "Fazmobile",
+          "Description": "Fazman starts riding down the track he is closest to, and when reaching the end of the track he will turn around and go back down the track until he returns to where he started. Fazmobile starts at 8 studs/s and accelerates 2 studs/s every second while in motion). Upon contact with an enemy deal 275% damage.",
+          "Cooldown": 60,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Superhero Event pass (Free T30 Hero side unit)"
+        ]
+      }
+    },
+    {
       "Name": "Faz-Ino Springbonnie",
       "Rarity": "Secret",
       "PlacementPrice": 900,
