@@ -19,7 +19,7 @@
       },
       "Super Soldier Foxy": {
         "Normal": {
-          "value": "0.8+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1027,7 +1027,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "0.6-0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
