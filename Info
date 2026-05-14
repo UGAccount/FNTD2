@@ -1,6 +1,70 @@
 {
   "Values": {
     "Units": {
+      "Fazman": {
+        "Normal": {
+          "value": "1+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        }
+      },
+      "Super Soldier Foxy": {
+        "Normal": {
+          "value": "0.8+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        }
+      },
+      "Ignited Burst Withered Freddy": {
+        "Normal": {
+          "value": "0.7-0.9",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "8-10",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 0
+        }
+      },
+      "Faz-Ino Springbonnie": {
+        "Normal": {
+          "value": "0.8",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        }
+      },
       "Antihero Mike": {
         "Normal": {
           "value": "0.125-0.15",
@@ -11,6 +75,22 @@
         },
         "Shiny": {
           "value": "2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 0
+        }
+      },
+      "Detective Bonnie": {
+        "Normal": {
+          "value": "0.06+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
