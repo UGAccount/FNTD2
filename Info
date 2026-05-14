@@ -2719,6 +2719,20 @@
       }
     },
     "Pets": {
+      "Minion Freddle": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Superhero Bonnie": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Linkage Golden Freddy": {
         "value": "N/A",
         "soul": "N/A",
@@ -2727,11 +2741,11 @@
         "exists": 13650
       },
       "Shiny Linkage Golden Freddy": {
-        "value": "0.3",
+        "value": "0.3+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
-        "exists": 13650
+        "status": "Stable",
+        "exists": 0
       },
       "Exotic Butters": {
         "value": "N/A",
