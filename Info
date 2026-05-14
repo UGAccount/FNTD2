@@ -2304,7 +2304,7 @@
     },
     "Presents": {
       "Clan Wars Season 2 Present": {
-        "value": "0.003",
+        "value": "0.002",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -2964,7 +2964,7 @@
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "0.8",
+        "value": "0.8-1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
