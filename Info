@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Devious Purple Guy": {
+        "Normal": {
+          "value": "1.8-2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 228
+        },
+        "Shiny": {
+          "value": "10",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 18
+        }
+      },
       "Goodnight Plushtime": {
         "Normal": {
           "value": "0.02+",
@@ -6312,6 +6328,79 @@
         "Base": [
           "Phantom Bonnie Present (100%)",
           "Season 2 Free Pass Tier 30"
+        ]
+      }
+    },
+    {
+      "Name": "Devious Purple Guy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 1450,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 1348.3,
+        "Cooldown": 4.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 1409,
+          "Cooldown": 4.7,
+          "UpgradePrice": 1850
+        },
+        {
+          "Range": 21,
+          "Damage": 1459,
+          "Cooldown": 4.6,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 21,
+          "Damage": 1510,
+          "Cooldown": 4.6,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 21,
+          "Damage": 1530.2,
+          "Cooldown": 4.4,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 22,
+          "Damage": 1580.7,
+          "Cooldown": 4.4,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 1616,
+          "Cooldown": 4.2,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 24,
+          "Damage": 1661.7,
+          "Cooldown": 4.2,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 1818,
+          "Cooldown": 4.0,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "The Purpleninator": "Every 20s shoot a laser towards the strongest enemy on the map, dealing 250% damage and inflicting 50% bleed over 5s to all enemies hit. While this bleed is active they’ll turn purple.",
+        "Devious Scheme": "If antihero Mike or Fazman are on the team, lowers the Purpleinator’s cooldown to 15s and buff his damage by 25%.",
+        "Lying In Wait": "While there are no enemies in range, he gains 2%+ dmg per second (20%+ max), when at max Bur he’ll also gain 25% more range. This buff drains by 0.5% per second while there are enemies in range."
+      },
+      "Obtainability": {
+        "Base": [
+          "Superhero Event Summons (0.005% chance)"
         ]
       }
     },
