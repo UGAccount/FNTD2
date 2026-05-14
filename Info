@@ -74,7 +74,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "2",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
