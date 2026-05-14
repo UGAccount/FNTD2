@@ -6653,6 +6653,67 @@
       }
     },
     {
+      "Name": "Faz-Ino Springbonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 900,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 262.6,
+        "Cooldown": 1.7
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 287.9,
+          "Cooldown": 1.7,
+          "UpgradePrice": 875
+        },
+        {
+          "Range": 20,
+          "Damage": 303,
+          "Cooldown": 1.6,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 21,
+          "Damage": 343,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 23,
+          "Damage": 378.8,
+          "Cooldown": 1.5,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "3 Heads": "Gain 5% of current cash (caps at 15k)",
+        "5 Heads": "Gain +30% crit damage for 30s.",
+        "7 Heads": "Next attack deals 777% dmg. First time it’ll permanently gain +7% to all his stats.",
+        "10 Heads": "Gain 5% of current cash (caps at 15k)",
+        "The Devil’s Hand": "Every 10k cash, increase Fool's Gambit heads chance by 2%. If an enemy gets critted from this unit, follow up with 50% damage. If the follow up kills, repeat with +25% damage per repetition until chain breaks (caps at 200%)",
+        "Lady Luck": "Every crit increases criy rate by 3% and nearby crits from other units increases crit rate by 1%. Caps at 100% crit rate. Any crit rate gained over 100% is converted to 0.5% crit damage per 1% crit rate.",
+        "Pinnacle of Luck": "Gains +25% crit rate and +25% crit damage on placement."
+      },
+      "Actives": [
+        {
+          "Name": "Saving Gas",
+          "Description": "Spend 1k cash to flip a coin. Gain rewards for each consecutive heads flipped, each including all previous rewards. 5 and 7 heads in a row locks for 30s. 10 heads in a row locks for 240s, removes all cash, and can only trigger 3 times per match.",
+          "Cooldown": 1,
+          "Upgrade": 2
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Superhero Event pass (T30 villain side premium unit)"
+        ]
+      }
+    },
+    {
       "Name": "Super Soldier Foxy",
       "Rarity": "Secret",
       "PlacementPrice": 1450,
