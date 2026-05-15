@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 753
         },
         "Shiny": {
           "value": "8-9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 24
+          "exists": 28
         }
       },
       "Faz-Ino Springbonnie": {
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 554
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 38
         }
       },
       "Antihero Mike": {
@@ -6127,7 +6127,7 @@
           "Season 4 Present (15%)"
         ]
       },
-      "Note": "He is one of 3 boosters that can stack with multipe players! Being the best and consisent one, he can output 40% universal buffs to 80% every 35s. Allowing for insane stacking in squads, surpassing even spring duo in boosting and consistency."
+      "Note": "He is one of 4 boosters that can stack with multipe players using him! (Spring duo,Scarecrow,Balloon boy and ofc himself) Being the best and consisent one, he can output 40% universal buffs to 80% every 35s. Allowing for insane stacking in squads, surpassing even spring duo in boosting and consistency."
     },
     {
       "Name": "HandUnit",
@@ -6778,7 +6778,7 @@
       ],
       "Obtainability": {
         "Base": [
-          "Superhero Event pass (T30 villain side premium unit)"
+          "Superhero Event pass (Premium T30 villain side unit)"
         ]
       }
     },
@@ -6839,7 +6839,7 @@
       ],
       "Obtainability": {
         "Base": [
-          "Superhero Event Pass (Hero free tier 30)"
+          "Superhero Event Pass (Premium tier 30 Hero side)"
         ]
       }
     },
@@ -8663,7 +8663,7 @@
           "Season 2 Present Craftable"
         ]
       },
-      "SwitchSpeed": 15
+      "Note": "He is one of 4 boosters that can stack with multiple players using him! (Scarecrow,Funtime Foxy,BB and ofc himself) Meaning they're able to go crazy in squads and with the dice modifier. Though he is inconsistent, he's just behind funtime foxy. "
     },
     {
       "Name": "Thanatos",
@@ -11568,7 +11568,8 @@
           "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)",
           "Scarecrow Present (100%)"
         ]
-      }
+      },
+      "Note": "Scarecrow Freddy is one of 4 boosters aboe to stack within multipe players (BB,Spring duo and Funtime Foxy). "
     },
     {
       "Name": "Shadow Knight Freddy",
