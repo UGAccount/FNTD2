@@ -6728,7 +6728,7 @@
         ]
       }
     },
-		{
+    {
       "Name": "Antihero Mike",
       "Rarity": "Nightmare",
       "PlacementPrice": 2450,
@@ -6776,13 +6776,13 @@
           "Damage": 1136.3,
           "Cooldown": 1.8,
           "UpgradePrice": 7500
-        },
+        }
       ],
       "Passives": {
         "Prep Time": "While stationary, gain 2% damage per second (+50%). While driving, lose 1% damage per second from this buff.",
         "360 No-Scope": "Targets the strongest enemy in range dealing more damage the closer an enemy is. Only usable while stationary. 0%-25% range: 400% damage. 25%-55% range: 320% damage. 55%-80% range: 250% damage. 80%-100% range: 200% damage."
       },
-			"Actives": [
+      "Actives": [
         {
           "Name": "Saving Gas",
           "Description": "Toggles between Driving Mode and Stationary Mode.",
