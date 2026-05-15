@@ -19,7 +19,7 @@
       },
       "Super Soldier Foxy": {
         "Normal": {
-          "value": "1+",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
