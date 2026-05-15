@@ -6787,13 +6787,7 @@
           "Description": "Toggles between Driving Mode and Stationary Mode.",
           "Cooldown": 10,
           "Upgrade": 0
-        	},
-          {
-          "Name": "360 No-Scope",
-          "Description": "Targets the strongest enemy in range dealing more damage the closer an enemy is. Only usable while stationary. 0%-25% range: 400% damage. 25%-55% range: 320% damage. 55%-80% range: 250% damage. 80%-100% range: 200% damage. ",
-          "Cooldown": 35,
-          "Upgrade": 0
-        },
+        	}
       ],
       "Obtainability": {
         "Base": [
