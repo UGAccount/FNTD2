@@ -19,7 +19,7 @@
       },
       "Super Soldier Foxy": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.55-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -35,7 +35,7 @@
       },
       "Ignited Burst Withered Freddy": {
         "Normal": {
-          "value": "0.6-0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -51,7 +51,7 @@
       },
       "Faz-Ino Springbonnie": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -67,7 +67,7 @@
       },
       "Antihero Mike": {
         "Normal": {
-          "value": "0.125-0.15",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -218,7 +218,7 @@
           "exists": 10782
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1063,14 +1063,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 82340
         },
         "Shiny": {
           "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 2580
         }
       },
       "Rockin Bonnie": {
@@ -1079,14 +1079,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 91350
         },
         "Shiny": {
           "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 3320
         }
       },
       "Freddy With a Glock": {
@@ -6780,7 +6780,7 @@
       ],
       "Passives": {
         "Prep Time": "While stationary, gain 2% damage per second (+50%). While driving, lose 1% damage per second from this buff.",
-        "360 No-Scope": "Targets the strongest enemy in range dealing more damage the closer an enemy is. Only usable while stationary. 0%-25% range: 400% damage. 25%-55% range: 320% damage. 55%-80% range: 250% damage. 80%-100% range: 200% damage."
+        "Active:360 No-Scope (Mode:Stationary)": "Targets the strongest enemy in range dealing more damage the closer an enemy is. Only usable while stationary. 0%-25% range: 400% damage. 25%-55% range: 320% damage. 55%-80% range: 250% damage. 80%-100% range: 200% damage.(Unlocks at placement, Cooldown: 35s)"
       },
       "Actives": [
         {
