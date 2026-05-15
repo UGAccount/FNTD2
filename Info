@@ -6728,6 +6728,79 @@
         ]
       }
     },
+		{
+      "Name": "Anti-Hero Mike",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2450,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 909,
+        "Cooldown": 2.4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.5,
+          "Damage": 939.3,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2450
+        },
+        {
+          "Range": 25,
+          "Damage": 984.8,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 27.5,
+          "Damage": 1035.3,
+          "Cooldown": 2.1,
+          "UpgradePrice": 3450
+        },
+        {
+          "Range": 27.5,
+          "Damage": 1070.6,
+          "Cooldown": 2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27.5,
+          "Damage": 1090.8,
+          "Cooldown": 2,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 27.5,
+          "Damage": 1136.3,
+          "Cooldown": 1.8,
+          "UpgradePrice": 7500
+        },
+      ],
+      "Passives": {
+        "Prep Time": "While stationary, gain 2% damage per second (+50%). While driving, lose 1% damage per second from this buff."
+      },
+			"Actives": [
+          {
+          "Name": "Saving Gas",
+          "Description": "Toggles between Driving Mode and Stationary Mode.",
+          "Cooldown": 10,
+          "Upgrade": 0+
+        },
+          {
+          "Name": "360 No-Scope",
+          "Description": "Targets the strongest enemy in range dealing more damage the closer an enemy is. Only usable while stationary. 0%-25% range: 400% damage. 25%-55% range: 320% damage. 55%-80% range: 250% damage. 80%-100% range: 200% damage. ",
+          "Cooldown": 35,
+          "Upgrade": 0+
+        },
+      ],
+      "Obtainability": {
+        "Base": [
+          "Super Hero Event Exclusive 2"
+        ]
+      }
+    },
     {
       "Name": "Faz-Ino Springbonnie",
       "Rarity": "Secret",
