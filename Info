@@ -2991,6 +2991,13 @@
       }
     },
     "Skins": {
+      "Professor Ennard": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Data Bolt Lolbit": {
         "value": "N/A",
         "soul": "N/A",
@@ -9764,6 +9771,11 @@
         {
           "Name": "Showtime Ennard",
           "Obtainability": "2nd Big Resource pack 3 (5999 R$)",
+          "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Professor Ennard",
+          "Obtainability": "Professor Ennard Cosmetic Pack (199 robux)",
           "Rarity": "Exclusive"
         }
       ]
