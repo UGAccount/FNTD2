@@ -1674,10 +1674,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "3.5+",
+          "value": "3.5-4+",
           "soul": "N/A",
           "demand": "7.5/10",
-          "status": "Unstable",
+          "status": "Overhyped",
           "exists": 0
         }
       },
