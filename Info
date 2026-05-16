@@ -1674,11 +1674,11 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "3.5-4+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Overhyped",
-          "exists": 0
+          "exists": 335
         }
       },
       "Blossom Chica": {
