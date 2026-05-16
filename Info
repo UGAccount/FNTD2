@@ -6712,7 +6712,7 @@
       ],
       "Passives": {
         "Pitstop": "Enemies hit by Fazmobile on the track take 2.5 knockback.",
-        "Dynamic Duo": "If Anti-Hero Mike is on the team, Fazmobile acceleration is buffed frok 2 studs every second to 2.75 studs, and both units gain a +25% dmg buff."
+        "Dynamic Duo": "If Anti-Hero Mike is on the team, Fazmobile acceleration is buffed from 2 studs every second to 2.75 studs, and both units gain a +25% dmg buff."
       },
       "Actives": [
         {
