@@ -3,11 +3,27 @@
     "Units": {
       "Fazman": {
         "Normal": {
-          "value": "0.6-0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 317
+          "exists": 400
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 41
+        }
+      },
+      "Super Soldier Foxy": {
+        "Normal": {
+          "value": "0.5+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 495
         },
         "Shiny": {
           "value": "N/A",
@@ -17,25 +33,9 @@
           "exists": 29
         }
       },
-      "Super Soldier Foxy": {
-        "Normal": {
-          "value": "0.55-0.7",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 385
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 19
-        }
-      },
       "Ignited Burst Withered Freddy": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.5-0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -46,19 +46,19 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 28
+          "exists": 41
         }
       },
       "Faz-Ino Springbonnie": {
         "Normal": {
-          "value": "0.6+",
+          "value": "0.5-0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 554
         },
         "Shiny": {
-          "value": "7+",
+          "value": "7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -67,7 +67,7 @@
       },
       "Antihero Mike": {
         "Normal": {
-          "value": "0.1+",
+          "value": "0.08-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -99,7 +99,7 @@
       },
       "Devious Purple Guy": {
         "Normal": {
-          "value": "1.6",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -131,18 +131,18 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "0.8-0.9",
+          "value": "0.7-0.8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
           "exists": 6240
         },
         "Shiny": {
-          "value": "7-8",
+          "value": "7+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 337
+          "exists": 350
         }
       },
       "Landslide Funtime Foxy": {
@@ -179,7 +179,7 @@
       },
       "HandUnit": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.05+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -202,7 +202,7 @@
           "exists": 22140
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -250,7 +250,7 @@
           "exists": 49782
         },
         "Shiny": {
-          "value": "0.3-0.5",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -330,10 +330,10 @@
           "exists": 5830
         },
         "Shiny": {
-          "value": "10+",
+          "value": "11+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 230
         }
       },
@@ -1114,7 +1114,7 @@
           "exists": 4499
         },
         "Shiny": {
-          "value": "58",
+          "value": "53-55",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -1155,7 +1155,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "6-6.5",
+          "value": "6.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -1594,7 +1594,7 @@
           "exists": 2568
         },
         "Shiny": {
-          "value": "55+",
+          "value": "60+",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
@@ -1667,14 +1667,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.3+",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Stable",
+          "status": "Overhyped",
           "exists": 0
         },
         "Shiny": {
-          "value": "4+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Overhyped",
@@ -1683,7 +1683,7 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "0.04-0.06",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -1706,9 +1706,9 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.4+",
+          "value": "0"2-0.25",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "N/A",
           "status": "Stable",
           "exists": 0
         }
@@ -1731,14 +1731,14 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.015-0.02",
+          "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 0
         },
         "Shiny": {
-          "value": "0.35-0.5",
+          "value": "0.35-0.4",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -2316,7 +2316,7 @@
         "status": "Unstable"
       },
       "Scooped Micheal Present": {
-        "value": "N/A",
+        "value": "0.5-0.6",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -2376,7 +2376,7 @@
         "status": "N/A"
       },
       "Season 4 Present": {
-        "value": "0.0005",
+        "value": "0.0003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -2676,7 +2676,7 @@
         "status": "Stable"
       },
       "AFK Present": {
-        "value": "N/A",
+        "value": "0.0002-0.0003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -2727,7 +2727,7 @@
         "exists": 0
       },
       "Superhero Bonnie": {
-        "value": "N/A",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
@@ -2748,7 +2748,7 @@
         "exists": 0
       },
       "Exotic Butters": {
-        "value": "N/A",
+        "value": "0.0003-0.0005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
