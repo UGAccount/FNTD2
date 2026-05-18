@@ -1706,7 +1706,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0"2-0.25",
+          "value": "0.2-0.25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
