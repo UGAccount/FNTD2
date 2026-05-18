@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Kronos Endo Freddy": {
+        "Normal": {
+          "value": "4+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 1070
+        },
+        "Shiny": {
+          "value": "15",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 234
+        }
+      },
       "Fazman": {
         "Normal": {
           "value": "0.6",
