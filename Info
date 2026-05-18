@@ -9034,6 +9034,107 @@
       }
     },
     {
+      "Name": "Kronos Endo Freddy",
+      "Rarity": "Apex",
+      "PlacementPrice": 12500,
+      "Type": "Cone",
+      "Degrees": 30,
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 1111,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 1262.5,
+          "Cooldown": 5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 22,
+          "Damage": 1358.5,
+          "Cooldown": 5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 23,
+          "Damage": 1414,
+          "Cooldown": 5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 1600.8,
+          "Cooldown": 5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 1818,
+          "Cooldown": 5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 25,
+          "Damage": 765,
+          "Cooldown": 1.3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 26,
+          "Damage": 2070.5,
+          "Cooldown": 5,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 27,
+          "Damage": 2166.4,
+          "Cooldown": 5,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 28,
+          "Damage": 2267.4,
+          "Cooldown": 5,
+          "UpgradePrice": 13000
+        },
+        {
+          "Range": 29,
+          "Damage": 2368.4,
+          "Cooldown": 5,
+          "UpgradePrice": 13000
+        },
+        {
+          "Range": 30,
+          "Damage": 2575.5,
+          "Cooldown": 5,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "In Due Time...": "Kronos will gain an Hour Stack every wave, capping out at 12. These stacks give an additional 2% to Attack and Range. At 12 stacks, the boost will apply at half the efficiency for non-rust units, but apply completely for rust units. When alongside 2+ rust units, gain 2 hour stacks per wave. ",
+        "Tipping The Scales": "Starting at a 30-degree cone, this unit's AoE will increase in range by 20 degrees based on the number of stacks held, becoming Full AOE at max stacks. When killing enemies with negative effects, follow up with an attack dealing 10% damage that re-applies the negative effects of defeated enemies.",
+        "Overclocked": "When Kronos is fully stacked (12) without triggering Timestop, he goes Overclocked, multiplying his attack 1.2x. Passive turns off upon stack reset."
+      },
+      "Actives": [
+        {
+          "Name": "Time: The End of All Things (global)",
+          "Description": "Kronos Endo Freddy freezes time for all enemies on the map for 2 seconds multiplied by the amount of stacks consumed to activate the time stop. During stopped time, enemies do not take damage; instead, the damage is stored and dealt to enemies when time resumes. The stored damage will be boosted based on the number of rust units on the team. 110% - 1+ Rust Units 115% - 3+ Rust Units 125% - 6 Rust Units.",
+          "Cooldown": 30,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Evolving Timelord (100% chance to be shiny with a shiny timelord, regular chances of 2% for shiny otherwise)",
+          "Materials to craft:1 Timelord,1 Clock, 3 Blossom Chicas, 20 Overgrown Foxy's"
+        ]
+      }
+    },
+    {
       "Name": "Astral Bonnie",
       "Rarity": "Apex",
       "PlacementPrice": 13500,
