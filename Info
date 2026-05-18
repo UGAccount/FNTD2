@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Kronos Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Overhyped",
+          "exists": 585
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Overhyped",
+          "exists": 158
+        }
+      },
       "Fazman": {
         "Normal": {
           "value": "0.6",
@@ -9016,6 +9032,113 @@
           "Token Summons (0.01%)"
         ]
       }
+    },
+    {
+      "Name": "Kronos Freddy",
+      "Rarity": "Apex",
+      "PlacementPrice": 12500,
+      "Type": "Cone",
+      "Degrees": 30,
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 400,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 445,
+          "Cooldown": 1.5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23,
+          "Damage": 490,
+          "Cooldown": 1.4,
+          "UpgradePrice": 5350
+        },
+        {
+          "Range": 23,
+          "Damage": 550,
+          "Cooldown": 1.4,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 24,
+          "Damage": 625,
+          "Cooldown": 1.4,
+          "UpgradePrice": 7350
+        },
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 1.3,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 26,
+          "Damage": 765,
+          "Cooldown": 1.3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 2950,
+          "Cooldown": 5,
+          "UpgradePrice": 14500
+        },
+        {
+          "Range": 31.5,
+          "Damage": 3100,
+          "Cooldown": 5,
+          "UpgradePrice": 12000,
+          "Type": "Circle"
+        },
+        {
+          "Range": 33,
+          "Damage": 3225,
+          "Cooldown": 4.9,
+          "UpgradePrice": 13500
+        },
+        {
+          "Range": 33,
+          "Damage": 3350,
+          "Cooldown": 4.9,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 34,
+          "Damage": 3500,
+          "Cooldown": 4.8,
+          "UpgradePrice": 18000
+        },
+        {
+          "Range": 22,
+          "Damage": 260,
+          "Cooldown": 0.43,
+          "UpgradePrice": 20250
+        }
+      ],
+      "Passives": {
+        "Astral Alignment": " Every 30 seconds, the stars align, giving Astral Bonnie one of three constellations for 45 seconds. Big Dipper: Astral Bonnie's attacks ricochet between enemies, and each bounce deals 5% more damage. Caps at 6 targets. Orion's Belt: Units aligned with Astral Bonnie gain +3% range and +2% damage per connected unit. Caps at +45% range and +30% damage. Hercules: Astral Bonnie gains +1.5% damage for each enemy currently on the map. ",
+        "Astral Sickness": "Regenerating enemies inside Astral Bonnie's range have their regeneration reduced by 15%. If Astral Bonnie hits one, that reduction becomes 40% for 3 seconds."
+      },
+      "Actives": [
+        {
+          "Name": "Za Warudo!",
+          "Description": "Placeholder.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Evolving Timelord (100% chance to be shiny with a shiny timelord, regular chances of 2% otherwise) "
+        ]
+      },
+      "Note": "Stats and passives are placeholder (cnped astral over here), expect it to be finished later. "
     },
     {
       "Name": "Astral Bonnie",
