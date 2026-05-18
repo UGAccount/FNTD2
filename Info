@@ -1687,30 +1687,30 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Overhyped",
-          "exists": 0
+          "exists": 12630
         },
         "Shiny": {
           "value": "10",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Overhyped",
-          "exists": 335
+          "exists": 279
         }
       },
       "Blossom Chica": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
-          "demand": "6/10",
-          "status": "Stable",
-          "exists": 0
+          "demand": "9/10",
+          "status": "Overhyped",
+          "exists": 19610
         },
         "Shiny": {
-          "value": "1+",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 1000
         }
       },
       "Overgrown Foxy": {
@@ -1719,14 +1719,14 @@
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
-          "exists": 0
+          "exists": 155520
         },
         "Shiny": {
-          "value": "0.2-0.25",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 10450
         }
       },
       "Clockwork Cupcake": {
