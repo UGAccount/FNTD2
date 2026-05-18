@@ -1,22 +1,6 @@
 {
   "Values": {
     "Units": {
-      "Kronos Freddy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Overhyped",
-          "exists": 585
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Overhyped",
-          "exists": 158
-        }
-      },
       "Fazman": {
         "Normal": {
           "value": "0.6",
