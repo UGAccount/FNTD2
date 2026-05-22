@@ -3,18 +3,18 @@
     "Units": {
       "Kronos Endo Freddy": {
         "Normal": {
-          "value": "4+",
+          "value": "3.5-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 1070
         },
         "Shiny": {
-          "value": "15+",
+          "value": "12-15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 237
+          "exists": 409
         }
       },
       "Fazman": {
@@ -26,7 +26,7 @@
           "exists": 649
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -51,7 +51,7 @@
       },
       "Ignited Burst Withered Freddy": {
         "Normal": {
-          "value": "0.5-0.6",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -90,7 +90,7 @@
           "exists": 14850
         },
         "Shiny": {
-          "value": "1.5+",
+          "value": "1.1-1.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -106,11 +106,11 @@
           "exists": 16570
         },
         "Shiny": {
-          "value": "0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1080
+          "exists": 1190
         }
       },
       "Devious Purple Guy": {
@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 594
+          "exists": 865
         },
         "Shiny": {
-          "value": "10",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 40
+          "exists": 56
         }
       },
       "Goodnight Plushtime": {
@@ -135,14 +135,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 14700
+          "exists": 35960
         },
         "Shiny": {
-          "value": "0.4+",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1400
+          "exists": 2040
         }
       },
       "Stormbound Chica": {
@@ -243,14 +243,14 @@
       },
       "Circus Baby": {
         "Normal": {
-          "value": "0.08",
+          "value": "0.05-0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 20940
         },
         "Shiny": {
-          "value": "1.3",
+          "value": "1-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -259,7 +259,7 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.04-0.05",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -339,7 +339,7 @@
       },
       "Bear5": {
         "Normal": {
-          "value": "1.1-1.2",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -428,8 +428,8 @@
         "Shiny": {
           "value": "46+",
           "soul": "N/A",
-          "demand": "N/A",
-          "status": "Fluctuating",
+          "demand": "6/10",
+          "status": "Stable",
           "exists": 153
         }
       },
@@ -442,7 +442,7 @@
           "exists": 11700
         },
         "Shiny": {
-          "value": "13",
+          "value": "13+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -451,7 +451,7 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "0.1-0.12",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Unstable",
@@ -490,7 +490,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.6",
+          "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -586,7 +586,7 @@
           "exists": 18250
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "1.8-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1683,14 +1683,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.5-0.8",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Overhyped",
           "exists": 12630
         },
         "Shiny": {
-          "value": "10",
+          "value": "10+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Overhyped",
@@ -1699,14 +1699,14 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "8/10",
           "status": "Overhyped",
           "exists": 19610
         },
         "Shiny": {
-          "value": "0.8",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
@@ -1722,7 +1722,7 @@
           "exists": 155520
         },
         "Shiny": {
-          "value": "0.2",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -2686,7 +2686,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.003+",
+        "value": "0.005+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
