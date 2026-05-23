@@ -4481,7 +4481,7 @@
         }
       ],
       "Passives": {
-        "Golden Blessing": "This unit boosts all unit stats in range by 5%. For each Light element unit you have on your team, this boost is increased by 5% (capped at 15%, does not stack)."
+        "Golden Blessing": "This unit boosts both damage and range by 5%. For each Light element unit you have on your team, this boost is increased by 5% (capped at 30% dmg and 18% range, does not stack)."
       },
       "Obtainability": {
         "Base": [
@@ -6143,14 +6143,13 @@
         }
       ],
       "Passives": {
-        "Showtime!": "He performs a show that boosts all stats of units within range by 5%. Every 35 seconds, this boost increases to 10% for 10 seconds."
+        "Showtime!": "He performs a show that boosts all stats of units within range by 10%. Every 35 seconds, this boost increases to 15% for 10 seconds."
       },
       "Obtainability": {
         "Base": [
           "Season 4 Present (15%)"
         ]
-      },
-      "Note": "He is one of 4 boosters that can stack with multipe players using him! (Spring duo,Scarecrow,Balloon boy and ofc himself) Being the best and consisent one, he can output 40% universal buffs to 80% every 35s. Allowing for insane stacking in squads, surpassing even spring duo in boosting and consistency."
+      }
     },
     {
       "Name": "HandUnit",
@@ -6415,14 +6414,14 @@
         }
       ],
       "Passives": {
-        "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.20% damage,30% range, and 12.5% cooldown reduction."
+        "Countdown": "Provides Different buffs base off the clock switching every 4 seconds.30% damage,30% range, and 7.25% cooldown reduction."
       },
       "Obtainability": {
         "Base": [
           "Boss Raid Present (4.5%)"
         ]
       },
-      "Note": "He CANNOT desync his buffs and stack with himself (your own and others), meaning dice will not allow him to stackup boosts akin to spring duo or funtime foxy who do stack with eachother."
+      "Note": "He CANNOT desync his buffs and stack with himself (your own and others)."
     },
     {
       "Name": "Phantom Bonnie",
@@ -7104,7 +7103,7 @@
         }
       ],
       "Passives": {
-        "Promise": " This unit will gain bonuses based on lost stock 0 Stock Lost: Boost Speed of all towers in range by 5% 1 Stock Lost: Boost Damage of all towers in range by 15% and Range by 20% 2 Stock Lost: Boost Damage of all towers in range by 20%, Range by 25%, and Speed by 10% "
+        "Promise": " This unit will gain bonuses based on lost stock 0 Stock Lost: Boost Speed of all towers in range by 2.5% 1 Stock Lost: Boost Damage of all towers in range by 15% and Range by 20% 2 Stock Lost: Boost Damage of all towers in range by 30%, Range by 25%, and Speed by 10% "
       },
       "Obtainability": {
         "Base": [
@@ -8811,14 +8810,13 @@
         ]
       },
       "Passives": {
-        "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown and increasing their range by 10% (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage and range by 25% (includes itself). "
+        "Spotlight!": " These units fight for fame! Switching between each other every 15 seconds. (Only 1 boost at a time) Spring Bonnie: Type: 65 degree Cone AOE, dealing high dps, and boosts all units in range, decreasing their cooldown by 5% and increasing their range by 30%, damage is increased by 10% too (includes itself). Fredbear: Type: Small Circle AOE, dealing low DPS, with a boost to all units in range, increasing their damage by 40% and range by 15% (includes itself). "
       },
       "Obtainability": {
         "Base": [
           "Season 2 Present Craftable"
         ]
-      },
-      "Note": "He is one of 4 boosters that can stack with multiple players using him! (Scarecrow,Funtime Foxy,BB and ofc himself) Meaning they're able to go crazy in squads and with the dice modifier. Though he is inconsistent, he's just behind funtime foxy. "
+      }
     },
     {
       "Name": "Thanatos",
@@ -9998,10 +9996,10 @@
       "Passives": {
         "Coiling Combination [Smasher] (Upgrade 5+)": "Every 10 seconds, 3 random enemies anywhere on the map are attacked from below by coils, each taking damage equal to 345% of this unit’s damage.",
         "Tanglement [Smasher] (Upgrade 13+)": "Ennard copies the base damage of the highest-damage unit within range. Its cooldown becomes the average of both units’ cooldowns, but it cannot go lower than Ennard’s base cooldown. The copied damage is then increased by 1.45x.",
-        "Conductor [Smasher] (Upgrade 18+)": "All Electrical units within range gain an additional 30% damage, 45% range, and 15% cooldown reduction. For each Electrical unit in range, these boosts decrease by 1%, down to a minimum of 25% damage, 30% range, and 10% cooldown reduction.",
+        "Conductor [Smasher] (Upgrade 18+)": "All Electrical units within range gain an additional 40% damage, 45% range. For each Electrical unit in range, these boosts decrease by 1%, down to a minimum of 25% damage, 30% range, and 10% cooldown reduction.",
         "Coiling Combination [Shocker] (Upgrade 5+)": "Every 6 seconds, 4 random enemies anywhere on the map are attacked from below by coils, each taking damage equal to 40% of this unit’s damage and being stunned for 1.5 seconds.",
         "Tanglement [Shocker] (Upgrade 13+)": "Ennard copies 0.85x of the base damage of the highest-damage unit within range, and its cooldown becomes the average of the two units’ cooldowns. It also gains the ability to stun enemies for 1.5 seconds.",
-        "Conductor [Shocker] (Upgrade 18+)": "All Electrical units within range gain an additional 10% damage, 15% range, and 3% cooldown reduction. For each Electrical unit in range, these boosts increase by 2%, up to a maximum of 13% damage, 35% range, and 15% cooldown reduction."
+        "Conductor [Shocker] (Upgrade 18+)": "All Electrical units within range gain an additional 15% damage, 20% range, and 5% cooldown reduction. For each Electrical unit in range, these boosts increase by 2%, up to a maximum of 13% damage, 35% range, and 15% cooldown reduction."
       },
       "Actives": [
         {
@@ -11830,7 +11828,7 @@
           "Scarecrow Present (100%)"
         ]
       },
-      "Note": "Scarecrow Freddy is one of 4 boosters aboe to stack within multipe players (BB,Spring duo and Funtime Foxy). "
+      "Note": "Scarecrow Freddy is one of 2 boosters able to stack within multipe players (BB). "
     },
     {
       "Name": "Shadow Knight Freddy",
