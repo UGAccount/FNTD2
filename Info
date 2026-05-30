@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Bones Of The Pasy Nightmare Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Kronos Endo Freddy": {
         "Normal": {
           "value": "3.5",
@@ -2735,6 +2751,13 @@
       }
     },
     "Pets": {
+      "Ghost rider Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Minion Freddles": {
         "value": "N/A",
         "soul": "N/A",
@@ -3007,6 +3030,20 @@
       }
     },
     "Skins": {
+      "Shiny Ghost rider Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Ghost rider Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Professor Ennard": {
         "value": "N/A",
         "soul": "N/A",
@@ -3199,6 +3236,12 @@
       }
     },
     "Bytes": {
+      "UFO": {
+        "value": "0.1",
+        "soul": "N/A",
+        "demand": "8/10",
+        "status": "Fluctuating"
+      },
       "The Box": {
         "value": "0.1",
         "soul": "N/A",
