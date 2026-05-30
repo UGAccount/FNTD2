@@ -3,14 +3,14 @@
     "Units": {
       "Kronos Endo Freddy": {
         "Normal": {
-          "value": "3.5-4",
+          "value": "3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 1070
         },
         "Shiny": {
-          "value": "12-15",
+          "value": "12-14",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -250,7 +250,7 @@
           "exists": 20940
         },
         "Shiny": {
-          "value": "1-1.2",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -323,7 +323,7 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "11+",
+          "value": "11-12",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Stable",
@@ -995,7 +995,7 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.2-0.25",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -1011,7 +1011,7 @@
       },
       "Deadeye Freddy": {
         "Normal": {
-          "value": "0.175-0.2",
+          "value": "0.2-0.25",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1027,7 +1027,7 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
