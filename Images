@@ -162,7 +162,8 @@
       "Kaboom!": "https://iili.io/BgG8Yjp.png",
       "Reaper": "https://iili.io/BgG8lnI.png",
       "Boss Drain": "https://iili.io/BgG80Gt.png",
-      "The Fan": "https://iili.io/Bbzsx4I.png"
+      "The Fan": "https://iili.io/Bbzsx4I.png",
+      "UFO": "https://iili.io/C3TNqBa.png"
 },
     "Pets": {
     "Old Man Consequences": "https://iili.io/fZKo7N1.png",
@@ -198,7 +199,8 @@
     "Shiny Linkage Golden Freddy": "https://iili.io/BQdEGFR.png",
     "Exotic Butters": "https://iili.io/BPDxqdX.png",
     "Superhero Bonnie": "https://iili.io/BbzgApR.png",
-    "Minion Freddles": "https://iili.io/Bbzmm0v.png"
+    "Minion Freddles": "https://iili.io/Bbzmm0v.png",
+    "Ghost Rider Micheal": "https://iili.io/C3T6omJ.png"
     },
     "Skins": {
     "Fredbear": "https://iili.io/fmgTRLv.png",
@@ -225,7 +227,10 @@
     "Vintage OMC": "https://iili.io/BQd3sCx.png",
     "Professor Ennard": "https://iili.io/BbIHSTB.png",
     "Meltdown Mangle": "https://iili.io/BbzPXSe.png",
-    "Data Bolt Lolbit": "https://iili.io/BDScyR1.png"
+    "Data Bolt Lolbit": "https://iili.io/BDScyR1.png",
+    "Oxidized Kronos Endo Freddy": "https://iili.io/BpbbzTx.png",
+    "Ghost Rider Micheal": "https://iili.io/C3T4mJe.png",
+    "Shiny Ghost Rider Micheal": "https://iili.io/C3T6zzv.png"
     },
     "Units": {
     "Balloon Boy": "https://iili.io/fPZ5UNa.png",
@@ -510,8 +515,10 @@
     "Shiny Faz-Ino Springbonnie": "https://iili.io/BbZcK5x.png",
     "Super Soldier Foxy": "https://iili.io/BbzPsDv.png",
     "Shiny Super Soldier Foxy": "https://iili.io/BbZcfOQ.png",
-    "Kronos Endo Freddy": "https://iili.io/BpbbzTx.png",
-    "Shiny Kronos Endo Freddy": "https://iili.io/BpbbEjR.png"
+    "Kronos Endo Freddy": "https://iili.io/BpbbzTx.png"
+    "Shiny Kronos Endo Freddy": "https://iili.io/C3TNqBa.png"
+    "Bones Of The Past Nightmare Freddy": "https://iili.io/C3TNFhF.png",
+    "Shiny Bones Of The Past Nightmare Freddy": "https://iili.io/C3Tw8ss.png"
 }
   }
 }
