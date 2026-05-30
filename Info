@@ -1,7 +1,7 @@
 {
   "Values": {
     "Units": {
-      "Bones Of The Pasy Nightmare Freddy": {
+      "Bones Of The Past Nightmare Freddy": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -3237,9 +3237,9 @@
     },
     "Bytes": {
       "UFO": {
-        "value": "0.1",
+        "value": "N/A",
         "soul": "N/A",
-        "demand": "8/10",
+        "demand": "N/A",
         "status": "Fluctuating"
       },
       "The Box": {
@@ -6913,7 +6913,19 @@
         "Base": [
           "Super Hero Event Exclusive 2"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Ghost Rider Micheal",
+          "Obtainability": "Bi-weekly skin bundle",
+          "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Shiny Ghost Rider",
+          "Obtainability": "Bi-weekly skin bundle",
+          "Rarity": "Exclusive"
+        }
+      ]
     },
     {
       "Name": "Ignited Burst Withered Freddy",
@@ -9298,7 +9310,14 @@
           "Evolving Timelord (100% chance to be shiny with a shiny timelord, regular chances of 2% for shiny otherwise)",
           "Materials to craft:1 Timelord,1 Clock, 3 Blossom Chicas, 20 Overgrown Foxy's"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Oxidized Kronos Endo Freddy",
+          "Obtainability": "Obtained from a code (Code: PASSINGOFTIME)",
+          "Rarity": "Secret"
+        }
+      ]
     },
     {
       "Name": "Astral Bonnie",
