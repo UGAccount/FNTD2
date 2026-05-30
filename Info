@@ -6253,6 +6253,67 @@
       }
     },
     {
+      "Name": "Bones Of The Past Nightmare Freddy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2350,
+      "Type": "Single",
+      "Element": "Fire",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 757.6,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 808.1,
+          "Cooldown": 2.9,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 22,
+          "Damage": 909.1,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2500,
+          "Type": "Circle"
+        },
+        {
+          "Range": 24,
+          "Damage": 984.8,
+          "Cooldown": 2.7,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 24,
+          "Damage": 1060.6,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 25,
+          "Damage": 1212,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 1414.1,
+          "Cooldown": 2.21,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Deathly Bones": "For every 5 kills, his Freddles will have 5% more damage (caps at 65%). Every 25 kills within its range, he will permanently spawn an extra Freddle. Caps at 3.",
+        "Freddles of Fire": "He will spawn in Small fire Freddles which will run down the lane every 20 second with 50% of his damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Unit quest 1"
+        ]
+      }
+    },
+    {
       "Name": "Circus Baby",
       "Rarity": "Nightmare",
       "PlacementPrice": 4000,
