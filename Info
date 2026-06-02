@@ -1,22 +1,6 @@
 {
   "Values": {
     "Units": {
-      "Foxy Fighters": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 1062
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 90
-        }
-      },
       "Bones Of The Past Nightmare Freddy": {
         "Normal": {
           "value": "N/A",
