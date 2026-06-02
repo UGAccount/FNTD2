@@ -536,6 +536,13 @@
           "demand": "6/10",
           "status": "Unstable",
           "exists": 36639
+        },
+        "Shiny": {
+          "value": "0.45+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 1840
         }
       },
       "Barbarian Boy": {
