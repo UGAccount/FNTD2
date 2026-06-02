@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Foxy Fighters": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 10620
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 90
+        }
+      },
       "Bones Of The Past Nightmare Freddy": {
         "Normal": {
           "value": "N/A",
@@ -7049,6 +7065,75 @@
         "Base": [
           "Superhero Event pass (Premium T30 villain side unit)",
           "Faz-Ino Springbonnie Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Foxy Fighters",
+      "Rarity": "Secret",
+      "PlacementPrice": 850,
+      "Type": "Explosion",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 580.8,
+        "Cooldown": 3.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 590.9,
+          "Cooldown": 3.8,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 24,
+          "Damage": 606,
+          "Cooldown": 3.7,
+          "UpgradePrice": 1150
+        },
+        {
+          "Range": 24,
+          "Damage": 641.4,
+          "Cooldown": 3.8,
+          "UpgradePrice": 1450,
+          "Type": "Cone",
+          "Degrees": 85
+        },
+        {
+          "Range": 25,
+          "Damage": 661.5,
+          "Cooldown": 3.7,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 27,
+          "Damage": 691.9,
+          "Cooldown": 3.7,
+          "UpgradePrice": 1875
+        },
+        {
+          "Range": 29,
+          "Damage": 742.4,
+          "Cooldown": 3.6,
+          "UpgradePrice": 2150
+        }
+      ],
+      "Passives": {
+        "Bombs Away": "Every 8 seconds, he’ll drop a bomb on the track that explodes 2.5s after landing, dealing 125% damage and stunning enemies for 1.5s in a 4 stud radius. Each additional Foxy Fighter placed increases the bomb damage by 15%."
+      },
+      "Actives": [
+        {
+          "Name": "Do a barrel roll!",
+          "Description": "Barrel rolls down the track dealing 250% damage in line AOE, Foxy stops attacking for 3 seconds afterwards.",
+          "Cooldown": 15,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Unit 2 Quest"
         ]
       }
     },
