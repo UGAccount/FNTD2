@@ -1,22 +1,6 @@
 {
   "Values": {
     "Units": {
-      "Foxy Fighters": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 1026
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 90
-        }
-      },
       "Bones Of The Past Nightmare Freddy": {
         "Normal": {
           "value": "N/A",
@@ -51,7 +35,7 @@
       },
       "Fazman": {
         "Normal": {
-          "value": "0.5",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -147,7 +131,7 @@
       },
       "Devious Purple Guy": {
         "Normal": {
-          "value": "1-1.1",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -166,14 +150,14 @@
           "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 35960
         },
         "Shiny": {
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 2040
         }
       },
@@ -490,7 +474,7 @@
           "exists": 7398
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -511,6 +495,22 @@
           "demand": "N/A",
           "status": "Stable",
           "exists": 519
+        }
+      },
+      "Shepherd Fredbear": {
+        "Normal": {
+          "value": "0.05",
+          "soul": "N/A",
+          "demand": "5/10",
+          "status": "Stable",
+          "exists": 20160
+        },
+        "Shiny": {
+          "value": "0.6+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 740
         }
       },
       "Shadow Knight Freddy": {
@@ -822,14 +822,14 @@
           "value": "0.03-0.04",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 47360
         },
         "Shiny": {
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 1220
         }
       },
@@ -1018,7 +1018,7 @@
           "exists": 31800
         },
         "Shiny": {
-          "value": "8",
+          "value": "7.5-8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1037,7 +1037,7 @@
           "value": "3+",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Stable",
+          "status": "Slowly Dropping",
           "exists": 670
         }
       },
@@ -1053,7 +1053,7 @@
           "value": "3.25+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 506
         }
       },
@@ -1162,7 +1162,7 @@
           "exists": 30875
         },
         "Shiny": {
-          "value": "0.7-0.8",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1187,7 +1187,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "6",
+          "value": "6.5",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -1674,7 +1674,7 @@
           "exists": 3011
         },
         "Shiny": {
-          "value": "45",
+          "value": "40+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1722,7 +1722,7 @@
           "exists": 19610
         },
         "Shiny": {
-          "value": "0.5",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
@@ -1818,7 +1818,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.6",
+          "value": "0.6-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -5331,25 +5331,25 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
-        "Damage": 691.9,
+        "Damage": 641.4,
         "Cooldown": 4
       },
       "UpgradeStats": [
         {
           "Range": 21,
-          "Damage": 772.6,
+          "Damage": 671,
           "Cooldown": 3.9,
           "UpgradePrice": 2700
         },
         {
           "Range": 21,
-          "Damage": 833.3,
+          "Damage": 702,
           "Cooldown": 3.8,
           "UpgradePrice": 3200
         },
         {
           "Range": 22,
-          "Damage": 944.4,
+          "Damage": 732,
           "Cooldown": 3.7,
           "UpgradePrice": 4200,
           "Type": "Cone",
@@ -5357,25 +5357,25 @@
         },
         {
           "Range": 23,
-          "Damage": 994.9,
+          "Damage": 777,
           "Cooldown": 3.7,
           "UpgradePrice": 3700
         },
         {
           "Range": 25,
-          "Damage": 1075,
+          "Damage": 833,
           "Cooldown": 3.6,
           "UpgradePrice": 4200
         },
         {
           "Range": 27,
-          "Damage": 1111,
+          "Damage": 883,
           "Cooldown": 3.4,
           "UpgradePrice": 4750
         },
         {
           "Range": 29,
-          "Damage": 1262,
+          "Damage": 1010,
           "Cooldown": 3.3,
           "UpgradePrice": 6000
         }
@@ -5384,7 +5384,7 @@
       "Actives": [
         {
           "Name": "Soft-Served",
-          "Description": "When activated, Scooped Micheal spews a bit of ennard on the track right beside him. This trap can hit 10 enemies, inflicting enemies with 5% Bleed, but if there are 2 other Electric units present within your team, Bleed increases to 15%. If the team is Mono-Electric, Bleed stat increases to 25%, along with Exponential Slow in which every tick enemies lose 0.5% movement speed up to 25% till death. Max of 3 traps at a time.",
+          "Description": "When activated, Scooped Micheal spews a bit of ennard on the track right beside him. This trap can hit 10 enemies, inflicting enemies with 5% Bleed, but if there are 2 other Electric units present within your team, Bleed increases to 10%. If the team is Mono-Electric, Bleed stat increases to 20%, along with Exponential Slow in which every tick enemies lose 0.5% movement speed up to 20% till death. Max of 3 traps at a time.",
           "Cooldown": 35,
           "Upgrade": 4
         }
@@ -7353,57 +7353,57 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
-        "Damage": 434.3,
+        "Damage": 385,
         "Cooldown": 2.8
       },
       "UpgradeStats": [
         {
           "Range": 22,
-          "Damage": 464.6,
+          "Damage": 400,
           "Cooldown": 2.8,
           "UpgradePrice": 1000
         },
         {
           "Range": 23,
-          "Damage": 489.9,
+          "Damage": 430,
           "Cooldown": 2.6,
           "UpgradePrice": 1500
         },
         {
           "Range": 23,
-          "Damage": 505,
+          "Damage": 455,
           "Cooldown": 2.6,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
-          "Damage": 530,
+          "Damage": 500,
           "Cooldown": 2.5,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
-          "Damage": 590.9,
+          "Damage": 485,
           "Cooldown": 3,
           "UpgradePrice": 3500,
           "Type": "FullAOE"
         },
         {
           "Range": 26,
-          "Damage": 626.2,
+          "Damage": 500,
           "Cooldown": 3,
           "UpgradePrice": 4000
         },
         {
           "Range": 27,
-          "Damage": 661.5,
+          "Damage": 545,
           "Cooldown": 3,
           "UpgradePrice": 4500
         }
       ],
       "Passives": {
         "Corrosion": "Attacks reduce armor damage resistance for 5s by 5% per hit, up to 70%.",
-        "Energy Siphon": "This unit's range increases by 3% for each upgrade performed within its range. [75% max buff]"
+        "Energy Siphon": "This unit's range increases by 2% for each upgrade performed within its range. [30% max buff]"
       },
       "Obtainability": {
         "Base": [
@@ -7520,32 +7520,32 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 15,
-        "Damage": 166.7,
+        "Damage": 125,
         "Cooldown": 1.4
       },
       "UpgradeStats": [
         {
           "Range": 16,
-          "Damage": 186.8,
+          "Damage": 150,
           "Cooldown": 1.6,
           "UpgradePrice": 1750
         },
         {
           "Range": 17,
-          "Damage": 217.2,
+          "Damage": 195,
           "Cooldown": 1.5,
           "UpgradePrice": 2250,
           "Type": "Line"
         },
         {
           "Range": 18,
-          "Damage": 247.4,
+          "Damage": 235,
           "Cooldown": 1.4,
           "UpgradePrice": 2750
         },
         {
           "Range": 18,
-          "Damage": 287.9,
+          "Damage": 245,
           "Cooldown": 1.4,
           "UpgradePrice": 3500,
           "Type": "Cone",
@@ -7553,19 +7553,19 @@
         },
         {
           "Range": 19,
-          "Damage": 318.1,
+          "Damage": 265,
           "Cooldown": 1.3,
           "UpgradePrice": 3000
         },
         {
           "Range": 20,
-          "Damage": 353.5,
+          "Damage": 285,
           "Cooldown": 1.2,
           "UpgradePrice": 3500
         }
       ],
       "Passives": {
-        "Sword Lunge": "When this unit first hits an enemy, does 75% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
+        "Sword Lunge": "When this unit first hits an enemy, does 30% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
       },
       "Obtainability": {
         "Base": [
@@ -7653,44 +7653,44 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 25,
-        "Damage": 732.3,
+        "Damage": 650,
         "Cooldown": 3
       },
       "UpgradeStats": [
         {
           "Range": 25,
-          "Damage": 772.6,
+          "Damage": 695,
           "Cooldown": 2.9,
           "UpgradePrice": 4500
         },
         {
           "Range": 27,
-          "Damage": 873.6,
+          "Damage": 735,
           "Cooldown": 2.7,
           "UpgradePrice": 5000
         },
         {
           "Range": 27,
-          "Damage": 909,
+          "Damage": 780,
           "Cooldown": 2.5,
           "UpgradePrice": 6000
         },
         {
           "Range": 28,
-          "Damage": 944.4,
+          "Damage": 830,
           "Cooldown": 2.5,
           "UpgradePrice": 6850,
           "Type": "Circle"
         },
         {
           "Range": 28,
-          "Damage": 964.5,
+          "Damage": 885,
           "Cooldown": 2.3,
           "UpgradePrice": 7350
         }
       ],
       "Passives": {
-        "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1850 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 1150 DMG. Toy Chica: AoE type 8 range, 1000 DMG. Slows by 20% for 3.5 seconds Mangle: Single type, 2350. Stuns an enemy for 2 seconds. ",
+        "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1350 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 850 DMG. Toy Chica: AoE type 8 range, 700 DMG. Slows by 12% for 3.5 seconds Mangle: Single type, 1850. Stuns an enemy for 2 seconds. ",
         "Together": "If 2 amalgams are in range then both gain: 10% Damage, -10% Cooldown, 5% Damage burn/second"
       },
       "Obtainability": {
@@ -10993,7 +10993,7 @@
     {
       "Name": "Frosty the Snowcake",
       "Rarity": "Exclusive",
-      "PlacementPrice": 950,
+      "PlacementPrice": 1050,
       "Type": "Circle",
       "Element": "Water",
       "MaxPlaced": 3,
@@ -11959,53 +11959,53 @@
       "PlacementPrice": 3850,
       "Type": "Circle",
       "Element": "Dark",
-      "MaxPlaced": 2,
+      "MaxPlaced": 1,
       "BaseStats": {
         "Range": 20,
-        "Damage": 717.1,
-        "Cooldown": 2.5
+        "Damage": 520,
+        "Cooldown": 2.7
       },
       "UpgradeStats": [
         {
           "Range": 22.5,
-          "Damage": 752.5,
-          "Cooldown": 2.4,
+          "Damage": 570,
+          "Cooldown": 2.6,
           "UpgradePrice": 3500
         },
         {
           "Range": 25,
-          "Damage": 823.1,
-          "Cooldown": 2.4,
+          "Damage": 625,
+          "Cooldown": 2.6,
           "UpgradePrice": 4000
         },
         {
           "Range": 27.5,
-          "Damage": 863.5,
-          "Cooldown": 2.3,
+          "Damage": 655,
+          "Cooldown": 2.5,
           "UpgradePrice": 4500
         },
         {
           "Range": 22.5,
-          "Damage": 1141.3,
-          "Cooldown": 3.2,
+          "Damage": 870,
+          "Cooldown": 3.4,
           "UpgradePrice": 7000
         },
         {
           "Range": 25,
-          "Damage": 1201.9,
-          "Cooldown": 3.2,
+          "Damage": 915,
+          "Cooldown": 3.4,
           "UpgradePrice": 7450,
           "Type": "Line"
         },
         {
           "Range": 27.5,
-          "Damage": 1262.5,
-          "Cooldown": 3,
+          "Damage": 950,
+          "Cooldown": 3.2,
           "UpgradePrice": 8500
         }
       ],
       "Passives": {
-        "Roaring Scream": "When 5 or more enemies are in the range of this unit, this unit screams at units around it, these units gain 2% spa but gain 25% dmg for 10s (Cooldown of 25s)"
+        "Roaring Scream": "When 5 or more enemies are in the range of this unit, this unit screams at units around it, these units gain 5% spa but gain 20% dmg for 10s (Cooldown of 45s)"
       },
       "Obtainability": {
         "Base": [
