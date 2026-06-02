@@ -513,22 +513,6 @@
           "exists": 519
         }
       },
-      "Shepherd Fredbear": {
-        "Normal": {
-          "value": "0.05",
-          "soul": "N/A",
-          "demand": "5/10",
-          "status": "Stable",
-          "exists": 20160
-        },
-        "Shiny": {
-          "value": "0.6+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable",
-          "exists": 740
-        }
-      },
       "Shadow Knight Freddy": {
         "Normal": {
           "value": "0.025",
