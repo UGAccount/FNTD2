@@ -465,22 +465,6 @@
           "exists": 446
         }
       },
-      "Shadow Knight Freddy": {
-        "Normal": {
-          "value": "0.025",
-          "soul": "N/A",
-          "demand": "4.5/10",
-          "status": "Stable",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "0.4+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable",
-          "exists": 1
-        }
-      },
       "Lich Shadow Bonnie": {
         "Normal": {
           "value": "0.15+",
@@ -527,6 +511,22 @@
           "demand": "N/A",
           "status": "Stable",
           "exists": 740
+        }
+      },
+      "Shadow Knight Freddy": {
+        "Normal": {
+          "value": "0.025",
+          "soul": "N/A",
+          "demand": "4.5/10",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "0.01-0.015",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
         }
       },
       "Cursed Jester Spring Bonnie": {
