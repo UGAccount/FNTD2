@@ -35,7 +35,7 @@
       },
       "Fazman": {
         "Normal": {
-          "value": "0.6",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -131,7 +131,7 @@
       },
       "Devious Purple Guy": {
         "Normal": {
-          "value": "1.2+",
+          "value": "1-1.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -150,14 +150,14 @@
           "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 35960
         },
         "Shiny": {
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 2040
         }
       },
@@ -474,7 +474,7 @@
           "exists": 7398
         },
         "Shiny": {
-          "value": "5.5+",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -822,14 +822,14 @@
           "value": "0.03-0.04",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 47360
         },
         "Shiny": {
           "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 1220
         }
       },
@@ -1018,7 +1018,7 @@
           "exists": 31800
         },
         "Shiny": {
-          "value": "7.5-8",
+          "value": "8",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1037,7 +1037,7 @@
           "value": "3+",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 670
         }
       },
@@ -1053,7 +1053,7 @@
           "value": "3.25+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Slowly Dropping",
+          "status": "Unstable",
           "exists": 506
         }
       },
@@ -1162,7 +1162,7 @@
           "exists": 30875
         },
         "Shiny": {
-          "value": "0.5+",
+          "value": "0.7-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1187,7 +1187,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "6.5",
+          "value": "6",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -1674,7 +1674,7 @@
           "exists": 3011
         },
         "Shiny": {
-          "value": "40+",
+          "value": "45",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1722,7 +1722,7 @@
           "exists": 19610
         },
         "Shiny": {
-          "value": "0.6",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "5.5/10",
           "status": "Stable",
@@ -1818,7 +1818,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.6-0.7",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
