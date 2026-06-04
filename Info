@@ -5,8 +5,8 @@
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
-          "demand": "Fluctuating",
-          "status": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
           "exists": 70
         },
         "Shiny": {
