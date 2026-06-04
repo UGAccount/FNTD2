@@ -1,12 +1,28 @@
 {
   "Values": {
     "Units": {
+      "Chicas Magic Rainbow": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "Fluctuating",
+          "status": "N/A",
+          "exists": 70
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 4
+        }
+      },
       "Foxy Fighters": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 7530
         },
         "Shiny": {
@@ -22,7 +38,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 14140
         },
         "Shiny": {
@@ -8581,6 +8597,82 @@
         "Base": [
           "Medieval Event Premium Pass Tier 30",
           "Lich Shadow Bonnie Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Chicas Magic Rainbow",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 7350,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 691.9,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 737.3,
+          "Cooldown": 2.6,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 20,
+          "Damage": 792.9,
+          "Cooldown": 3.7,
+          "UpgradePrice": 7850
+        },
+        {
+          "Range": 21,
+          "Damage": 828.2,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 23,
+          "Damage": 873.6,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8950
+        },
+        {
+          "Range": 20,
+          "Damage": 939.3,
+          "Cooldown": 2.4,
+          "UpgradePrice": 9350,
+          "Type": "Cone",
+          "Degrees": 85
+        },
+        {
+          "Range": 21,
+          "Damage": 994.9,
+          "Cooldown": 2.4,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 23,
+          "Damage": 1095.8,
+          "Cooldown": 2.3,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "I’M GONNA KILL YOU!": "When your last stock is taken by a enemy (but not a boss), return that stock and fire a rainbow cannon dealing 999% damage and knockbacking back all enemies by 5 studs. (Once per match)",
+        "The Main Character!": "Gains 1 free upgrade every 7 waves (reduces by 2 waves per missing team slot, min 1 wave). Each manual upgrade gives +10% damage permanently. Bonuses per empty team slot: 1 - +30% dmg | 2 - -25% placement cost, +50% dmg | 3 - -50% placement cost, +75% dmg, -10% cd | 4 - -75% placement cost, +100% dmg, -30% cd | 5 - Free placement, +200% dmg, -50% cd."
+      },
+      "Actives": [
+        {
+          "Name": "Do a barrel roll!",
+          "Description": "Spawn a mini rainbow tower of a chosen element, Max one per element. You get 1 more mini rainbow per missing unit slot.",
+          "Cooldown": 1,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "1/100 from every pvp win (3000 trophies required)"
         ]
       }
     },
