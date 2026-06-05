@@ -3062,6 +3062,13 @@
       }
     },
     "Skins": {
+      "Chippers Revenge": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
@@ -10155,6 +10162,166 @@
           "Name": "Linkcage Freddy",
           "Obtainability": "12th Bi-weekly Exclusive (199 robux/40500 coins/1350 souls)",
           "Rarity": "Exclusive"
+        }
+      ]
+    },
+    {
+      "Name": "Chipper",
+      "Rarity": "Hero",
+      "PlacementPrice": 4500,
+      "Type": "Circle",
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 121.2,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 151.5,
+          "Cooldown": 2,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 23,
+          "Damage": 175.7,
+          "Cooldown": 2,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 24,
+          "Damage": 202,
+          "Cooldown": 2,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 25,
+          "Damage": 227.3,
+          "Cooldown": 2,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25,
+          "Damage": 258.6,
+          "Cooldown": 2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 280.8,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 26,
+          "Damage": 302,
+          "Cooldown": 2,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 604,
+          "Cooldown": 4,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 696.9,
+          "Cooldown": 3.8,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26,
+          "Damage": 696.9,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 27,
+          "Damage": 737.3,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 27,
+          "Damage": 784.8,
+          "Cooldown": 3.6,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 28,
+          "Damage": 844.4,
+          "Cooldown": 3.4,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 29,
+          "Damage": 905,
+          "Cooldown": 3.4,
+          "UpgradePrice": 10009
+        },
+        {
+          "Range": 30,
+          "Damage": 950.4,
+          "Cooldown": 3.2,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30,
+          "Damage": 1005,
+          "Cooldown": 3.2,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30,
+          "Damage": 1045.3,
+          "Cooldown": 3,
+          "UpgradePrice": 11500
+        },
+        {
+          "Range": 31,
+          "Damage": 1111,
+          "Cooldown": 3,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 32,
+          "Damage": 1191.8,
+          "Cooldown": 3,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 33,
+          "Damage": 1312,
+          "Cooldown": 2.8,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Stock Stacker": "Boost scales from max stock: +0.5% Damage and +0.5% Range per stock (up to 10%). Nature units receive 3x this buff.",
+        "Lumber Mill": "Generates 1 wood per attack. Has a chance to generate +1 extra wood (10% + 10% per nature unit, max 50%) and a chance to generate special wood (10% base + 2% per nature unit, bonus capped at 10%). Uses wood to craft temporary lumber bots.",
+        "Lumber Co.": "This unit gains +0.1% damage per wood farmed (Max 50%). Placed lumber bots give +25% damage (Max 50%). Nature units in range receive 20% of these buffs."
+      },
+      "Actives": [
+        {
+          "Name": "Lumber Bot Shop (visually not there)",
+          "Description": "Grants a shop used to craft Lumber Bots in exchange for varying amounts of Wood and Special Wood. You can have a max of 3 Bots at a time, and all Bots can attack and last 5 Waves. Lumber Bot 1.0: Costs 5 Wood and has low-end DPS. Lumber Bot 2.0: Costs 12 Wood and has low-mid-end DPS. Lumber Bot 3.0: Costs 20 Wood and 2 Special Wood, has mid-end DPS, and applies 3% Slow on hit. Lumber Bot 4.0: Costs 30 Wood and 5 Special Wood, has mid-high-end DPS, and 5% AOE Slow. Lumber Bot 5.0: Costs 45 Wood and 10 Special Wood, has high-end DPS, and 8% AOE Slow.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Minigames (game 5)"
+        ]
+      },
+      "Skins": [
+        {
+          "Name": "Chippers Revenge",
+          "Obtainability": "Pvp Skin Presents (0.1% chance, obtain pvp skin presents per round, 5% chance) ",
+          "Rarity": "Secret"
         }
       ]
     },
