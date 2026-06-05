@@ -7621,32 +7621,32 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 15,
-        "Damage": 125,
+        "Damage": 166.7,
         "Cooldown": 1.4
       },
       "UpgradeStats": [
         {
           "Range": 16,
-          "Damage": 150,
+          "Damage": 186.8,
           "Cooldown": 1.6,
           "UpgradePrice": 1750
         },
         {
           "Range": 17,
-          "Damage": 195,
+          "Damage": 217.2,
           "Cooldown": 1.5,
           "UpgradePrice": 2250,
           "Type": "Line"
         },
         {
           "Range": 18,
-          "Damage": 235,
+          "Damage": 247.4,
           "Cooldown": 1.4,
           "UpgradePrice": 2750
         },
         {
           "Range": 18,
-          "Damage": 245,
+          "Damage": 287.9,
           "Cooldown": 1.4,
           "UpgradePrice": 3500,
           "Type": "Cone",
@@ -7654,19 +7654,19 @@
         },
         {
           "Range": 19,
-          "Damage": 265,
+          "Damage": 318.1,
           "Cooldown": 1.3,
           "UpgradePrice": 3000
         },
         {
           "Range": 20,
-          "Damage": 285,
+          "Damage": 353.5,
           "Cooldown": 1.2,
           "UpgradePrice": 3500
         }
       ],
       "Passives": {
-        "Sword Lunge": "When this unit first hits an enemy, does 30% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
+        "Sword Lunge": "When this unit first hits an enemy, does 75% bonus damage; then applies a bleed dealing 30% DMG over 2 seconds. [15% DMG/tick]."
       },
       "Obtainability": {
         "Base": [
@@ -7754,44 +7754,44 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 25,
-        "Damage": 650,
+        "Damage": 732.3,
         "Cooldown": 3
       },
       "UpgradeStats": [
         {
           "Range": 25,
-          "Damage": 695,
+          "Damage": 772.6,
           "Cooldown": 2.9,
           "UpgradePrice": 4500
         },
         {
           "Range": 27,
-          "Damage": 735,
+          "Damage": 873.6,
           "Cooldown": 2.7,
           "UpgradePrice": 5000
         },
         {
           "Range": 27,
-          "Damage": 780,
+          "Damage": 909,
           "Cooldown": 2.5,
           "UpgradePrice": 6000
         },
         {
           "Range": 28,
-          "Damage": 830,
+          "Damage": 944.4,
           "Cooldown": 2.5,
           "UpgradePrice": 6850,
           "Type": "Circle"
         },
         {
           "Range": 28,
-          "Damage": 885,
+          "Damage": 964.5,
           "Cooldown": 2.3,
           "UpgradePrice": 7350
         }
       ],
       "Passives": {
-        "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1350 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 850 DMG. Toy Chica: AoE type 8 range, 700 DMG. Slows by 12% for 3.5 seconds Mangle: Single type, 1850. Stuns an enemy for 2 seconds. ",
+        "Parts and Pieces": " Every 3s this unit throws parts of itself as a trap, giving 1 of 4 status effects (selection is random, traps capped at 4). Toy Freddy: explosion type, 1850 DMG. Toy Bonnie: line type (direction of the enemy) 5 range, 1150 DMG. Toy Chica: AoE type 8 range, 1000 DMG. Slows by 20% for 3.5 seconds Mangle: Single type, 2350. Stuns an enemy for 2 seconds. ",
         "Together": "If 2 amalgams are in range then both gain: 10% Damage, -10% Cooldown, 5% Damage burn/second"
       },
       "Obtainability": {
