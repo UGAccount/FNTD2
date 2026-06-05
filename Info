@@ -7454,57 +7454,57 @@
       "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
-        "Damage": 385,
+        "Damage": 434.3,
         "Cooldown": 2.8
       },
       "UpgradeStats": [
         {
           "Range": 22,
-          "Damage": 400,
+          "Damage": 464.6,
           "Cooldown": 2.8,
           "UpgradePrice": 1000
         },
         {
           "Range": 23,
-          "Damage": 430,
+          "Damage": 489.9,
           "Cooldown": 2.6,
           "UpgradePrice": 1500
         },
         {
           "Range": 23,
-          "Damage": 455,
+          "Damage": 505,
           "Cooldown": 2.6,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
-          "Damage": 500,
+          "Damage": 530,
           "Cooldown": 2.5,
           "UpgradePrice": 2500
         },
         {
           "Range": 25,
-          "Damage": 485,
+          "Damage": 590.9,
           "Cooldown": 3,
           "UpgradePrice": 3500,
           "Type": "FullAOE"
         },
         {
           "Range": 26,
-          "Damage": 500,
+          "Damage": 626.2,
           "Cooldown": 3,
           "UpgradePrice": 4000
         },
         {
           "Range": 27,
-          "Damage": 545,
+          "Damage": 661.5,
           "Cooldown": 3,
           "UpgradePrice": 4500
         }
       ],
       "Passives": {
         "Corrosion": "Attacks reduce armor damage resistance for 5s by 5% per hit, up to 70%.",
-        "Energy Siphon": "This unit's range increases by 2% for each upgrade performed within its range. [30% max buff]"
+        "Energy Siphon": "This unit's range increases by 3% for each upgrade performed within its range. [75% max buff]"
       },
       "Obtainability": {
         "Base": [
@@ -12136,53 +12136,53 @@
       "PlacementPrice": 3850,
       "Type": "Circle",
       "Element": "Dark",
-      "MaxPlaced": 1,
+      "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
-        "Damage": 520,
-        "Cooldown": 2.7
+        "Damage": 717.1,
+        "Cooldown": 2.5
       },
       "UpgradeStats": [
         {
           "Range": 22.5,
-          "Damage": 570,
-          "Cooldown": 2.6,
+          "Damage": 752.5,
+          "Cooldown": 2.4,
           "UpgradePrice": 3500
         },
         {
           "Range": 25,
-          "Damage": 625,
-          "Cooldown": 2.6,
+          "Damage": 823.1,
+          "Cooldown": 2.4,
           "UpgradePrice": 4000
         },
         {
           "Range": 27.5,
-          "Damage": 655,
-          "Cooldown": 2.5,
+          "Damage": 863.5,
+          "Cooldown": 2.3,
           "UpgradePrice": 4500
         },
         {
           "Range": 22.5,
-          "Damage": 870,
-          "Cooldown": 3.4,
+          "Damage": 1141.3,
+          "Cooldown": 3.2,
           "UpgradePrice": 7000
         },
         {
           "Range": 25,
-          "Damage": 915,
-          "Cooldown": 3.4,
+          "Damage": 1201.9,
+          "Cooldown": 3.2,
           "UpgradePrice": 7450,
           "Type": "Line"
         },
         {
           "Range": 27.5,
-          "Damage": 950,
-          "Cooldown": 3.2,
+          "Damage": 1262.5,
+          "Cooldown": 3,
           "UpgradePrice": 8500
         }
       ],
       "Passives": {
-        "Roaring Scream": "When 5 or more enemies are in the range of this unit, this unit screams at units around it, these units gain 5% spa but gain 20% dmg for 10s (Cooldown of 45s)"
+        "Roaring Scream": "When 5 or more enemies are in the range of this unit, this unit screams at units around it, these units gain 2% spa but gain 25% dmg for 10s (Cooldown of 25s)"
       },
       "Obtainability": {
         "Base": [
