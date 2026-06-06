@@ -10166,6 +10166,163 @@
       ]
     },
     {
+      "Name": "Animdude",
+      "Rarity": "Hero",
+      "PlacementPrice": 900,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity",
+        "Light"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 225,
+        "Cooldown": 3.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 235,
+          "Cooldown": 3.5,
+          "UpgradePrice": 2014
+        },
+        {
+          "Range": 21,
+          "Damage": 250,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 21,
+          "Damage": 280,
+          "Cooldown": 3.3,
+          "UpgradePrice": 3850
+        },
+        {
+          "Range": 21,
+          "Damage": 320,
+          "Cooldown": 3.3,
+          "UpgradePrice": 4150
+        },
+        {
+          "Range": 22,
+          "Damage": 340,
+          "Cooldown": 3.2,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 22,
+          "Damage": 375,
+          "Cooldown": 3.1,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23,
+          "Damage": 385,
+          "Cooldown": 3.1,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 23,
+          "Damage": 405,
+          "Cooldown": 3.1,
+          "UpgradePrice": 5250
+        },
+        {
+          "Range": 24,
+          "Damage": 420,
+          "Cooldown": 3,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 22,
+          "Damage": 420,
+          "Cooldown": 2.7,
+          "Type": "Cone",
+          "UpgradePrice": 6350
+        },
+        {
+          "Range": 22,
+          "Damage": 445,
+          "Cooldown": 2.7,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 24,
+          "Damage": 460,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6750
+        },
+        {
+          "Range": 24,
+          "Damage": 480,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7250
+        },
+        {
+          "Range": 26,
+          "Damage": 530,
+          "Cooldown": 2.2,
+          "UpgradePrice": 7850
+        },
+        {
+          "Range": 27,
+          "Damage": 550,
+          "Cooldown": 2,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 23,
+          "Damage": 500,
+          "Cooldown": 1.8,
+          "Type": "FullAoe",
+          "UpgradePrice": 8250
+        },
+        {
+          "Range": 23,
+          "Damage": 510,
+          "Cooldown": 1.6,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 535,
+          "Cooldown": 1.5,
+          "UpgradePrice": 9250
+        },
+        {
+          "Range": 25,
+          "Damage": 575,
+          "Cooldown": 1.4,
+          "UpgradePrice": 11500
+        }
+      ],
+      "Passives": {
+        "Alarm": "On enemy hit follow up for 50% dmg, each repeat hit on the same enemy adds 10% (up to +50% extra). Enemies leaving range are hit by a neon wall for 250% dmg and stunned 2s. Each Alarm activation buffs Animdude's damage by 2% (up to +100%).",
+        "Familiar Tools": "Bonuses based on equipped byte: Box - every 10s rotates through Damage, Range and Cooldown and gives an extra 50% of the % the byte gives on that stat. Boss Drain - attacks on bosses deal +10% damage and apply 10% wither. Reaper - executes non-boss enemies below 5% HP, +50% crit chance. KABOOM! - every other attack toggles +50% damage and +30% range. The Fan - -20% cooldown, every 10s next attack knocks back enemies 1.5 studs."
+      },
+      "Actives": [
+        {
+          "Name": "My Favorite Creation",
+          "Description": "Applies a 65% Damage and 30% range boost to 1 unit in range. (PvP: buffed units have 25% reduced upgrade cost and two instances can be active at once)",
+          "Cooldown": 0,
+          "Upgrade": 0
+        },
+        {
+          "Name": "A World Under My Control",
+          "Description": "Opens a chip selection screen. Pick 2 chips for permanent buffs and effects.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Animdude Hero Quest"
+        ]
+      }
+    },
+    {
       "Name": "Chipper",
       "Rarity": "Hero",
       "PlacementPrice": 4500,
