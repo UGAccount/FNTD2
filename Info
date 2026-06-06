@@ -9116,7 +9116,14 @@
         "Base": [
           "Season 2 Present Craftable"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Circus Duo",
+          "Obtainability": "PvP Skin Present (1% chance)",
+          "Rarity": "Nightmare"
+        }
+      ]
     },
     {
       "Name": "Thanatos",
@@ -10477,7 +10484,7 @@
       "Skins": [
         {
           "Name": "Chippers Revenge",
-          "Obtainability": "Pvp Skin Presents (0.1% chance, obtain pvp skin presents per round, 5% chance) ",
+          "Obtainability": "Pvp Skin Presents (0.1% chance) ",
           "Rarity": "Secret"
         }
       ]
