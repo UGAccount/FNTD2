@@ -3069,6 +3069,13 @@
       }
     },
     "Skins": {
+      "Hazard Fredbear": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Chippers Revenge": {
         "value": "N/A",
         "soul": "N/A",
@@ -10858,7 +10865,12 @@
         {
           "Name": "Remnant Fredbear",
           "Obtainability": "2nd Exclusive Skin Bundle (199 R$)",
-          "Rarity": "Mythic"
+          "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Hazard Fredbear",
+          "Obtainability": "S2 Clan Rewards (top 10)",
+          "Rarity": "Secret"
         }
       ]
     },
