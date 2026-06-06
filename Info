@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 70
+          "exists": 12
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 4
+          "exists": 6
         }
       },
       "Foxy Fighters": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 7530
+          "exists": 9530
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 326
+          "exists": 395
         }
       },
       "Bones Of The Past Nightmare Freddy": {
@@ -39,7 +39,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 14140
+          "exists": 21350
         },
         "Shiny": {
           "value": "N/A",
@@ -55,14 +55,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 4785
+          "exists": 5267
         },
         "Shiny": {
           "value": "12-14",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 591
+          "exists": 775
         }
       },
       "Fazman": {
@@ -371,18 +371,18 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "11-12",
+          "value": "8-10",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Stable",
-          "exists": 3765
+          "status": "Underpaid For",
+          "exists": 4400
         },
         "Shiny": {
           "value": "60+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Overhyped",
-          "exists": 177
+          "exists": 225
         }
       },
       "Bear5": {
