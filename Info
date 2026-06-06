@@ -2783,6 +2783,13 @@
       }
     },
     "Pets": {
+      "Shiny Ghost Rider Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
