@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 12
+          "exists": 120
         },
         "Shiny": {
           "value": "N/A",
@@ -374,7 +374,7 @@
           "value": "8-10",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Underpaid For",
+          "status": "Underpaid",
           "exists": 4400
         },
         "Shiny": {
