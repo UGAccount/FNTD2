@@ -71,14 +71,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 649
+          "exists": 1419
         },
         "Shiny": {
           "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 53
+          "exists": 101
         }
       },
       "Super Soldier Foxy": {
@@ -87,14 +87,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 800
+          "exists": 1728
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 44
+          "exists": 103
         }
       },
       "Ignited Burst Withered Freddy": {
@@ -103,14 +103,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 1400
+          "exists": 2899
         },
         "Shiny": {
           "value": "6-6.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 65
+          "exists": 162
         }
       },
       "Faz-Ino Springbonnie": {
@@ -119,14 +119,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1030
+          "exists": 2158
         },
         "Shiny": {
           "value": "6.5-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 69
+          "exists": 119
         }
       },
       "Antihero Mike": {
@@ -167,14 +167,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 865
+          "exists": 2165
         },
         "Shiny": {
-          "value": "8",
+          "value": "7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 56
+          "exists": 136
         }
       },
       "Goodnight Plushtime": {
