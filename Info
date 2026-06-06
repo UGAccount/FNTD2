@@ -4503,7 +4503,14 @@
           "Merchant 7500 Tokens",
           "Token Summons (2%)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Mendo",
+          "Obtainability": "PvP Skin Present (65.9% chance)",
+          "Rarity": "Mythic"
+        }
+      ]
     },
     {
       "Name": "Fazcade",
@@ -9269,7 +9276,14 @@
           "Time Lord Withered Freddy Present (100%)",
           "Game Mode Shop (350 Raid Tokens)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Clockbear",
+          "Obtainability": "PvP Skin Present (33% chance)",
+          "Rarity": "Secret"
+        }
+      ]
     },
     {
       "Name": "Valkyrie Chica",
