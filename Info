@@ -51,14 +51,14 @@
       },
       "Foxy Fighters": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 9530
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1075,14 +1075,14 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.35",
+          "value": "0.35+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
           "exists": 31800
         },
         "Shiny": {
-          "value": "8",
+          "value": "8.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
