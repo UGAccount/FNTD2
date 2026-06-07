@@ -67,7 +67,7 @@
       },
       "Bones Of The Past Nightmare Freddy": {
         "Normal": {
-          "value": "0.05-0.1",
+          "value": "0.06-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -11368,15 +11368,15 @@
         }
       ],
       "Passives": {
-        "Music Box": "Once every 10 seconds, Puppet deals +15% Damage for all Units placed to all Enemies in Range, with a maximum of 150% Damage.",
-        "Soul Calling [Upgrade 5+]": "Once every 15 seconds, Puppet summons a [Soul Kid] that deals 60% Damage and applies 20% [Slow] for 5 seconds to each Enemy it walks through, including Bosses."
+        "Music Box [Upgrade 10+]": "For every activation of Gift of Life, gain a buff and stack called windup (up to 4). Every 8th activation resets the buffs and resets all buffs+stacks while dealing 400% damage to all enemies on map. (1 Stack: 100% damage buff (to self), 2 Stacks: 50% range (to self) , 3 Stacks: Enemies within ramge take 30% more damage from light enemies, 4 Stacks: +20% damage to all light type units in range.)",
+        "Happiest Day [Upgrade 5+]": "Once every 15 seconds, Puppet summons a [Soul Kid] that deals 60% Damage and applies 20% [Slow] for 5 seconds to each Enemy it walks through, including Bosses."
       },
       "Actives": [
         {
-          "Name": "Happiest Day",
-          "Description": "Upon activation, Puppet increases Damage by 30% for 15 seconds to all Units.",
-          "Cooldown": 40,
-          "Upgrade": 18
+          "Name": "Gift of life",
+          "Description": "Upon activation, Puppet increases range by 40% to all light units in ranhe for 10 seconds.",
+          "Cooldown": 20,
+          "Upgrade": 9
         }
       ],
       "Obtainability": {
