@@ -10374,15 +10374,15 @@
         }
       ],
       "Passives": {
-        "Vengeful Spirit": "Once every 20 seconds, Golden Freddy increases his Damage and Range by 100% and decreases Cooldown by 50% for 5 seconds.",
-        "Restless Soul [Upgrade 5+]": "Golden Freddy receives +3% Damage, +1% in Endless, for each Wave completed, with a maximum of +150% Damage.",
-        "It's Me! [Upgrade 12+]": "Once every 15 seconds, Golden Freddy applies [Stun] to all Enemies in Range for 2 seconds, making Enemies take +25% Damage."
+        "Vengeful Spirit": "Attacks apply 20% slow for 5s, neutral element units upgrades cost are reduced by 20%.",
+        "Restless Soul [Upgrade 5+]": "For each base stock lost, gain 10% range and 5% cd. Every wave completed, all units gain 1% dmg (75% max) ",
+        "It's Me! [Upgrade 12+]": "Every 45s, increases this units boost to 100% towards a random neutral type unit in range for 10s (cannot apply to self)."
       },
       "Actives": [
         {
-          "Name": "The one you should not have killed",
-          "Description": "Upon activation,Golden Freddy deals 250% Damage to all Enemies on the map.",
-          "Cooldown": 30,
+          "Name": "Shouldn't have killed me",
+          "Description": "Upon activation,Golden Freddy knockd back  all Enemies on the map regardless of their current global knockback cd and buffs all natural type units by 15% damage, 10% range for 120s (applies to self).",
+          "Cooldown": 200,
           "Upgrade": 18
         }
       ],
@@ -11049,6 +11049,11 @@
           "Name": "Remnant Fredbear",
           "Obtainability": "2nd Exclusive Skin Bundle (199 R$)",
           "Rarity": "Exclusive"
+        },
+        {
+          "Name": "Depth Fredbear",
+          "Obtainability": "Discover 100 cosmetics",
+          "Rarity": "Secret"
         },
         {
           "Name": "Hazard Fredbear",
