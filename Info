@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Mother Nature Ballora": {
+        "Normal": {
+          "value": "5-6",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 971
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 130
+        }
+      },
       "Purifier Mercenary Toy Chica": {
         "Normal": {
           "value": "0.03-0.05",
@@ -9318,6 +9334,85 @@
         ],
         "Shiny": [
           "Clan Season 1 Unit (Top 5)"
+        ],
+        "Shiny-Champion": [
+          "Clan Season 1 Unit (Top 1)"
+        ]
+      }
+    },
+    {
+      "Name": "Mother Nature Ballora",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6350,
+      "Type": "Single",
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 260,
+        "Cooldown": 3.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 525,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 20,
+          "Damage": 590,
+          "Cooldown": 3,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 21,
+          "Damage": 665,
+          "Cooldown": 3,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 750,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 22,
+          "Damage": 830,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 925,
+          "Cooldown": 2.7,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 1050,
+          "Cooldown": 2.7,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 24,
+          "Damage": 1225,
+          "Cooldown": 2.5,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "Deathbringer": " N/A ",
+        "Sprawling Roots": " N/A ",
+        "Nature’s Blessing": " N/A "
+      },
+      "Obtainability": {
+        "Base": [
+          "Clan Season 1 Unit (Top 25)"
+        ],
+        "Shiny": [
+          "Clan Season 1 Unit (Top 3)"
         ],
         "Shiny-Champion": [
           "Clan Season 1 Unit (Top 1)"
