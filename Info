@@ -227,7 +227,7 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "0.7-0.8",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
