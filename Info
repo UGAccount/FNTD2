@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Purifier Mercenary Toy Chica": {
+        "Normal": {
+          "value": "0.03-0.05",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 20622
+        },
+        "Shiny": {
+          "value": "0.6+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Dropping",
+          "exists": 1402
+        }
+      },
       "Chicas Magic Rainbow": {
         "Normal": {
           "value": "N/A",
@@ -6860,6 +6876,69 @@
       }
     },
     {
+      "Name": "Purifier Mercenary Toy Chica",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 3250,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 27,
+        "Damage": 1001.1,
+        "Cooldown": 3.61
+      },
+      "UpgradeStats": [
+        {
+          "Range": 28,
+          "Damage": 1054.6,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 28,
+          "Damage": 1108,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3350
+        },
+        {
+          "Range": 29,
+          "Damage": 1161.7,
+          "Cooldown": 3.4,
+          "Type": "Cone",
+          "Degrees": 85,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 29,
+          "Damage": 1284.8,
+          "Cooldown": 3.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 32,
+          "Damage": 1445.4,
+          "Cooldown": 3.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 34,
+          "Damage": 1552.5,
+          "Cooldown": 2.99,
+          "UpgradePrice": 5350
+        }
+      ],
+      "Passives": {
+        "Biding Time": "Every hit after the first on an enemy, it’ll generate a stack. At 10 stack she applies 50% bleed over 5s, to all enemies in full AOE. Before following up with an attack doing 500% damage in 180 degree cone.",
+        "Sprawling Roots": "All attacks apply 50% bleed over 5s. Enemies bleeding within her range will be marked and take 10% more damage from this units element (rust), Enemies marked while being hit up by follow ups will have the bleed reapplied at 20% effectiveness. Bleeds applied this way cannot be reapplied again.",
+        "Make It Count": "This unit has 6 bullets, the attack that consumed the last bullet will apply 30% more bleed before performing a followup attack. When at 0 ammo, fires a single target followup that deals 50% damage on random enemies 5 times. Prioritizing enemies marked (max 2 hits per target), then reloads reloading grants 50% damage for 20s."
+      },
+      "Obtainability": {
+        "Base": [
+          "Bi-weekly Unit (14th)"
+        ]
+      }
+    },
+    {
       "Name": "Fazman",
       "Rarity": "Secret",
       "PlacementPrice": 2500,
@@ -9166,6 +9245,89 @@
           "Rarity": "Nightmare"
         }
       ]
+    },
+    {
+    { 
+      "Name": "Mother Nature Ballora",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6350,
+      "Type": "Single",
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 260,
+        "Cooldown": 3.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 525,
+          "Cooldown": 3.2,
+          "UpgradePrice": 2200
+        },
+        {
+          "Range": 20,
+          "Damage": 590,
+          "Cooldown": 3,
+          "UpgradePrice": 2400,
+          "Type": "Line"
+        },
+        {
+          "Range": 21,
+          "Damage": 665,
+          "Cooldown": 3,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 21,
+          "Damage": 750,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 22,
+          "Damage": 830,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 925,
+          "Cooldown": 2.7,
+          "UpgradePrice": 5000
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 24,
+          "Damage": 1050,
+          "Cooldown": 2.7,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 24,
+          "Damage": 1225,
+          "Cooldown": 2.5,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "Changing of the Seasons": " N/A ",
+        "Sprawling Roots": " N/A ",
+        "Nature’s Blessing": " N/A "
+      },
+      "Obtainability": {
+        "Base": [
+          "Clan Season 1 Unit (Top 25)"
+        ],
+        "Shiny": [
+          "Clan Season 1 Unit (Top 3)"
+        ],
+        "Shiny-Champion": [
+          "Clan Season 1 Unit (Top 1)"
+        ]
+      }
     },
     {
       "Name": "Thanatos",
