@@ -53,7 +53,7 @@
         "Normal": {
           "value": "0.1-0.2",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "2/10",
           "status": "Unstable",
           "exists": 9530
         },
