@@ -2408,6 +2408,12 @@
       }
     },
     "Presents": {
+      "PvP Skin Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Clan Wars Season 2 Present": {
         "value": "0.002",
         "soul": "N/A",
@@ -2439,7 +2445,7 @@
         "status": "Unstable"
       },
       "April Fools Present": {
-        "value": "0.003-0.004",
+        "value": "0.008+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
