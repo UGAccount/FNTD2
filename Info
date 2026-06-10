@@ -7,14 +7,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 971
+          "exists": 1260
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 130
+          "exists": 174
         }
       },
       "Purifier Mercenary Toy Chica": {
@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 20622
+          "exists": 45480
         },
         "Shiny": {
           "value": "0.6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1402
+          "exists": 2761
         }
       },
       "Chicas Magic Rainbow": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 150
+          "exists": 192
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 6
+          "exists": 11
         }
       },
       "Foxy Fighters": {
@@ -727,14 +727,14 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 3410
+          "exists": 3592
         },
         "Shiny": {
           "value": "21-22",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
-          "exists": 122
+          "exists": 132
         }
       },
       "Crying Child": {
