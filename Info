@@ -1690,11 +1690,11 @@
           "exists": 2568
         },
         "Shiny": {
-          "value": "60+",
+          "value": "75+",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
-          "exists": 95
+          "exists": 98
         }
       },
       "Endo 02": {
