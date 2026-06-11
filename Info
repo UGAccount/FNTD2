@@ -557,7 +557,7 @@
           "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 519
         }
       },
@@ -717,7 +717,7 @@
           "value": "2.5+",
           "soul": "N/A",
           "demand": "10/10",
-          "status": "Overhyped",
+          "status": "Overpriced",
           "exists": 276
         }
       },
@@ -1082,10 +1082,10 @@
           "exists": 31800
         },
         "Shiny": {
-          "value": "8-8.5+",
+          "value": "8.5+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 1090
         }
       },
@@ -1290,7 +1290,7 @@
           "exists": 5686
         },
         "Shiny": {
-          "value": "7.5-8",
+          "value": "8+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1510,14 +1510,14 @@
           "value": "0.2+",
           "soul": "N/A",
           "demand": "5/10",
-          "status": "Stable",
+          "status": "Overhyped",
           "exists": 22910
         },
         "Shiny": {
           "value": "3",
           "soul": "N/A",
           "demand": "5.5/10",
-          "status": "Stable",
+          "status": "Overhyped",
           "exists": 870
         }
       },
@@ -1549,7 +1549,7 @@
           "value": "2.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctating",
+          "status": "Fluctuating",
           "exists": 402
         }
       },
@@ -1565,7 +1565,7 @@
           "value": "2.5+",
           "soul": "N/A",
           "demand": "10/10",
-          "status": "Stable",
+          "status": "Overhyped",
           "exists": 265
         }
       },
@@ -9372,49 +9372,49 @@
           "Range": 20,
           "Damage": 525,
           "Cooldown": 3.2,
-          "UpgradePrice": 2200
+          "UpgradePrice": 4500
         },
         {
           "Range": 20,
           "Damage": 590,
           "Cooldown": 3,
-          "UpgradePrice": 2400
+          "UpgradePrice": 6000
         },
         {
           "Range": 21,
           "Damage": 665,
           "Cooldown": 3,
-          "UpgradePrice": 3200
+          "UpgradePrice": 7350
         },
         {
           "Range": 21,
           "Damage": 750,
           "Cooldown": 2.8,
-          "UpgradePrice": 3400
+          "UpgradePrice": 7650
         },
         {
           "Range": 22,
           "Damage": 830,
           "Cooldown": 2.8,
-          "UpgradePrice": 5000
+          "UpgradePrice": 8250
         },
         {
           "Range": 22,
           "Damage": 925,
           "Cooldown": 2.7,
-          "UpgradePrice": 5000
+          "UpgradePrice": 8750
         },
         {
           "Range": 24,
           "Damage": 1050,
           "Cooldown": 2.7,
-          "UpgradePrice": 7500
+          "UpgradePrice": 9450
         },
         {
           "Range": 24,
           "Damage": 1225,
           "Cooldown": 2.5,
-          "UpgradePrice": 9000
+          "UpgradePrice": 11250
         }
       ],
       "Passives": {
