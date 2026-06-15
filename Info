@@ -35,7 +35,7 @@
       },
       "Chicas Magic Rainbow": {
         "Normal": {
-          "value": "5-7",
+          "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -227,7 +227,7 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "0.8+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -403,23 +403,23 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "8-10",
+          "value": "7-9",
           "soul": "N/A",
-          "demand": "9/10",
-          "status": "Underpaid",
+          "demand": "7/10",
+          "status": "Unstable",
           "exists": 4675
         },
         "Shiny": {
-          "value": "60+",
+          "value": "60",
           "soul": "N/A",
-          "demand": "9/10",
-          "status": "Overhyped",
+          "demand": "8/10",
+          "status": "Unstable",
           "exists": 236
         }
       },
       "Bear5": {
         "Normal": {
-          "value": "1",
+          "value": "0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -515,16 +515,16 @@
       },
       "Dragon Endo 01": {
         "Normal": {
-          "value": "0.9",
-          "soul": "8,500-9,000",
+          "value": "1+",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 11700
         },
         "Shiny": {
-          "value": "13+",
+          "value": "14-15+",
           "soul": "N/A",
-          "demand": "6/10",
+          "demand": "8/10",
           "status": "Unstable",
           "exists": 446
         }
@@ -1258,7 +1258,7 @@
           "exists": 4517
         },
         "Shiny": {
-          "value": "70+",
+          "value": "75+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
@@ -1395,7 +1395,7 @@
       },
       "Headless Horseman Mangle": {
         "Normal": {
-          "value": "0.9+",
+          "value": "0.9-1",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -1434,11 +1434,11 @@
           "exists": 2650
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "30+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 93
+          "exists": 63
         }
       },
       "Scarecrow Freddy": {
@@ -1690,7 +1690,7 @@
           "exists": 2568
         },
         "Shiny": {
-          "value": "75+",
+          "value": "80+",
           "demand": "8/10",
           "soul": "N/A",
           "status": "Fluctuating",
@@ -1754,7 +1754,7 @@
           "exists": 13290
         },
         "Shiny": {
-          "value": "2+",
+          "value": "3+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
