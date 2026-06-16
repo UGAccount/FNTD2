@@ -9975,7 +9975,14 @@
         "Base": [
           "Season 1 Present Craftable"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Dave Miller",
+          "Obtainability": "Given out by Webzybird",
+          "Rarity": "Nightmare"
+        }
+      ]
     },
     {
       "Name": "Scrooge Freddy",
