@@ -6454,6 +6454,69 @@
       }
     },
     {
+      "Name": "Helpy",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 180,
+        "Cooldown": 1.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 210,
+          "Cooldown": 1.2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 270,
+          "Cooldown": 1.3,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 24,
+          "Damage": 320,
+          "Cooldown": 1.3,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 26,
+          "Damage": 400,
+          "Cooldown": 1.4,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 500,
+          "Cooldown": 1.5,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "Lawsuit": "On placement: • This unit receives +50% damage Every 5s: • Roll a chance for a lawsuit, starting at 10% and increasing by 5% per failed attempt When sued: • On lawsuit, disable this passive's damage buff for 15s",
+        "Little Helper": "Units in range: • Gain +5% damage and +5% range When a unit in range attacks: • Follow up for 1% of this unit's damage"
+      },
+      "Actives": [
+        {
+          "Name": "Play Time!",
+          "Description": "Spend cash to unlock and select a minigame. • Ballpit: Circle 150% damage and leaves balls on the track nearby that do damage. • Riding Rockets: Line 120% damage and secondary single target pizza attack on the weakest enemy. • Gravity Vortex: Full AoE 80% damage and -3% cooldown for every successful lawsuit avoided until lawsuit, then reset.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "5th Starter Pack (249 R$)",
+          "Helpy Present (100%)"
+        ]
+      }
+    },
+    {
       "Name": "HandUnit",
       "Rarity": "Exclusive",
       "PlacementPrice": 800,
