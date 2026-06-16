@@ -17,6 +17,70 @@
           "exists": 76
         }
       },
+      "Rockstar Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 11030
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 327
+        }
+      },
+      "Rockstar Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 941461
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 34950
+        }
+      },
+      "Rockstar Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 2616100
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 99480
+        }
+      },
+      "Rockstar Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 14190000
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 572910
+        }
+      },
       "Mother Nature Ballora": {
         "Normal": {
           "value": "5+",
