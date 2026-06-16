@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 680
+          "exists": 1291
         },
         "Shiny": {
           "value": "N/A",
@@ -12328,6 +12328,44 @@
         "Base": [
           "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)",
           "Movie Director Freddy Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Candy Cadet",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 2500,
+      "Type": "Support",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "Candy. Candy. Candy.": "On placement, select which type of candy to give units in range: Red candy: +30% damage and +10% range. Yellow candy: +30% range and +10% damage"
+      },
+      "Actives": [
+        {
+          "Name": "Story Time",
+          "Description": "Choose a story. Only one story buff can be active at a time and each lasts 30s. Orphans: Spend 1-5k cash for +20% to candy values for every 1k spent. Keys: Choose 1-5 keys for +30% to candy values per key. 100%/90%/75%/60%/40% success rate depending on amount of keys chosen. Kittens: Choose 1-5 kittens for +10% damage per kitten to units in range for 30s, then disable candy buffs for 3s per kitten.",
+          "Cooldown": 60,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "5th Exclusive Pack (2500 R$)",
+          "Candy Cadet Tangle Present (100%)"
         ]
       }
     },
