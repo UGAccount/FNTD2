@@ -3146,6 +3146,20 @@
       }
     },
     "Pets": {
+      "Dark Knight Lefty": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Candy Cadet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
