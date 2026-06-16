@@ -2910,6 +2910,14 @@
       }
     },
     "Pets": {
+      },
+      "Dark Knight Lefty Pet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
@@ -6684,7 +6692,7 @@
       "Skins": [
         {
           "Name": "Dark Knight Lefty",
-          "Obtainability": "6th Exclusive Skin Bundle (199 R$)",
+          "Obtainability": "3rd Big Resource Pack (5,999 R$)",
           "Rarity": "Exclusive"
         }
       ]
