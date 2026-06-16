@@ -6376,6 +6376,111 @@
       }
     },
     {
+      "Name": "Rockstar Freddy",
+      "Rarity": "Mythic",
+      "PlacementPrice": 2500,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 202,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 232.3,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 27,
+          "Damage": 282.8,
+          "Cooldown": 2.3,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 28,
+          "Damage": 363.6,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3500,
+          "Type": "Cone",
+          "Degrees": 65
+        },
+        {
+          "Range": 28,
+          "Damage": 404,
+          "Cooldown": 2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 28,
+          "Damage": 454.5,
+          "Cooldown": 2,
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "Rockstars Assemble": "When 3 other rockstar animatronics are in the same loadout, buff this unit's range by 25% and damage by 15%",
+        "Overheating": "Every 30 Seconds, 50% DMG increase for 10s. When 1 Fire element is on team, 50% DMG Increase -> 75% DMG Increase plus an additional 25% if 2 or more",
+        "Show Time!": "If Rockstar Foxy is on your team, each coin held increases Overheating duration by 1s"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present (5%)"
+        ]
+      }
+    },
+    {
+      "Name": "Rockstar Bonnie",
+      "Rarity": "Epic",
+      "PlacementPrice": 1200,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 252.5,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 303,
+          "Cooldown": 1.4,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 28,
+          "Damage": 358.6,
+          "Cooldown": 1.3,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 28,
+          "Damage": 378.8,
+          "Cooldown": 1.1,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 30,
+          "Damage": 404,
+          "Cooldown": 1,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Rockstars Assemble": "When 3 other rockstar animatronics are in the same loadout, reduce this unit's cooldown by 20%.",
+        "Lost Guitar": "Randomly loses their guitar on the track. While lost, this unit loses 10% damage and range. If found manually, gain 30% damage and range until guitar is lost again. If not found, guitar is automatically reclaimed after 30s with no buff"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present (15%)"
+        ]
+      }
+    },
+    {
       "Name": "Rockstar Chica",
       "Rarity": "Rare",
       "PlacementPrice": 750,
