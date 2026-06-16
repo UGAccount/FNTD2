@@ -3132,6 +3132,20 @@
       }
     },
     "Skins": {
+      "Shiny Security Puppet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Security Puppet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Dark Knight Lefty": {
         "value": "N/A",
         "soul": "N/A",
@@ -11543,6 +11557,11 @@
         {
           "Name": "Anubis Wrath Puppet",
           "Obtainability": "Collect 100 units (Index Milestone reward)",
+          "Rarity": "Secret"
+        },
+        {
+          "Name": "Security Puppet",
+          "Obtainability": "Tier 1 Premium battlepass reward",
           "Rarity": "Secret"
         }
       ]
