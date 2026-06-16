@@ -10642,6 +10642,166 @@
       ]
     },
     {
+      "Name": "Michael Afton",
+      "Rarity": "Hero",
+      "PlacementPrice": 6500,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 480,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 495,
+          "Cooldown": 3,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 24,
+          "Damage": 510,
+          "Cooldown": 3,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 24,
+          "Damage": 520,
+          "Cooldown": 2.9,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 25,
+          "Damage": 545,
+          "Cooldown": 3.3,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 565,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 25,
+          "Damage": 580,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 25,
+          "Damage": 600,
+          "Cooldown": 2.8,
+          "Type": "Cone",
+          "UpgradePrice": 3800
+        },
+        {
+          "Range": 26,
+          "Damage": 620,
+          "Cooldown": 2.8,
+          "UpgradePrice": 4400
+        },
+        {
+          "Range": 26,
+          "Damage": 545,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 670,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5600
+        },
+        {
+          "Range": 26,
+          "Damage": 690,
+          "Cooldown": 2.7,
+          "UpgradePrice": 6200
+        },
+        {
+          "Range": 27,
+          "Damage": 715,
+          "Cooldown": 2.7,
+          "UpgradePrice": 6800
+        },
+        {
+          "Range": 27,
+          "Damage": 740,
+          "Cooldown": 2.7,
+          "UpgradePrice": 7400
+        },
+        {
+          "Range": 27,
+          "Damage": 770,
+          "Cooldown": 2.7,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 28,
+          "Damage": 810,
+          "Cooldown": 2.7,
+          "UpgradePrice": 8750
+        },
+        {
+          "Range": 28,
+          "Damage": 850,
+          "Cooldown": 2.6,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 28,
+          "Damage": 900,
+          "Cooldown": 2.6,
+          "UpgradePrice": 10500
+        },
+        {
+          "Range": 29,
+          "Damage": 960,
+          "Cooldown": 2.6,
+          "UpgradePrice": 11500
+        },
+        {
+          "Range": 29,
+          "Damage": 1025,
+          "Cooldown": 2.6,
+          "UpgradePrice": 13250
+        },
+        {
+          "Range": 30,
+          "Damage": 1100,
+          "Cooldown": 2.6,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Together Again": "When paired with [Rust] element units: • [Rust] element units in range gain +30% damage, +25% range, and -10% cooldown • This unit receives these buffs and an additional 10% damage and range for each Rust animatronic on the team",
+        "Completing The Salvage": "When an enemy is killed within Michael's range: • Add their parts to his pile to make traps Every 10 seconds: • Create a trap at a random place on the track • Traps deal 75% of Michael's current damage • Max 10 traps on the track per placement"
+      },
+      "Actives": [
+        {
+          "Name": "Today's Sponsorship",
+          "Description": "Michael throws a TV onto the track in range showing 1 of 5 possible ads. A max of 3 TVs can be placed at a time. • Fiztime Pop Soda: Enemies move 10% faster but take 15% more damage from Rust units. • Marty's Plungers: Enemies bleed for 15% of this units damage every second. • Flo's Glossy Floss: The enemy and the next 4 closest enemies are stunned for 1.5 seconds. • Wacky Wart Paste: Reduce enemies regen by 25% until death. • Lally's Lollies: Enemies are slowed by 20% for 15 seconds.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Micheal Afton Hero Quest"
+        ]
+      },
+      "Skins": [
+        {
+          "Name": "Puppet Boy Micheal",
+          "Obtainability": "7th Exluscive Skin Bundle (199 R$) ",
+          "Rarity": "Exclusive"
+        }
+      ]
+    },
+    {
       "Name": "Animdude",
       "Rarity": "Hero",
       "PlacementPrice": 3150,
@@ -10947,7 +11107,7 @@
       ],
       "Obtainability": {
         "Base": [
-          "Minigames (game 5)"
+          "Minigames (game 5, 5% in normal ending and 10% in secret,)"
         ]
       },
       "Skins": [
