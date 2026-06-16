@@ -6,15 +6,31 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
-          "exists": 1291
+          "status": "N/A",
+          "exists": 403
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 76
+          "exists": 18
+        }
+      },
+      "Lefty": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 1225
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 125
         }
       },
       "Rockstar Foxy": {
