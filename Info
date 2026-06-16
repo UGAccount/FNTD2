@@ -8320,6 +8320,152 @@
       }
     },
     {
+      "Name": "Scraptrap",
+      "Rarity": "Secret",
+      "Element": [
+        "Fire",
+        "Rust"
+      ],
+      "PlacementPrice": 3500,
+      "Type": "Line",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 323.2,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 323.2,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 343.4,
+          "Cooldown": 3.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 358.6,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 28,
+          "Damage": 368.6,
+          "Cooldown": 3.6,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 378.8,
+          "Cooldown": 3.4,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 28,
+          "Damage": 386.8,
+          "Cooldown": 3.1,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 30,
+          "Damage": 394.9,
+          "Cooldown": 2.8,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 30,
+          "Damage": 404.0,
+          "Cooldown": 2.6,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Withering Away": "Enemies in range receive 5% wither. If burning, they receive 10% wither instead.",
+        "Engulfing Flames": "Attacks apply 10% burn over 5s. Each subsequent application increases burn by 5% (max 50%). For each burning enemy in range, gain +5% damage (max 50%).",
+        "Opportune Strike": "+25% crit rate and +100% crit damage. Every 5 attacks: follow up for 100% damage (guaranteed crit). When an enemy is stunned in range: follow up for 150% damage (guaranteed crit)."
+      },
+      "Obtainability": {
+        "Base": [
+          "S5 Free Pass lvl 50"
+        ]
+      }
+    },
+    {
+      "Name": "Molten Freddy",
+      "Rarity": "Secret",
+      "Element": [
+        "Fire",
+        "Rust"
+      ],
+      "PlacementPrice": 3500,
+      "Type": "Explosion",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 303.0,
+        "Cooldown": 3.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 303.0,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 323.2,
+          "Cooldown": 3.3,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 26,
+          "Damage": 353.5,
+          "Cooldown": 3.3,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 27,
+          "Damage": 378.8,
+          "Cooldown": 3.2,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 28,
+          "Damage": 404.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 28,
+          "Damage": 434.3,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5750
+        },
+        {
+          "Range": 30,
+          "Damage": 454.5,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7250
+        }
+      ],
+      "Passives": {
+        "Heated Endo Skeleton": "On attack: apply burn. If already burning, apply stronger burn. Burning enemies in range are slowed.",
+        "Heat Seeking Tendrils": "Burning enemies trying to leave range are hit with damage, burn, stun, and slow.",
+        "All As One": "Each Rust or Fire unit grants bonus damage. Each Molten Freddy nearby further increases damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "S5 Premium Pass lvl 50"
+        ]
+      }
+    },
+    {
       "Name": "Fredtrap",
       "Rarity": "Secret",
       "PlacementPrice": 3000,
