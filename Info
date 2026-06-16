@@ -6376,6 +6376,48 @@
       }
     },
     {
+      "Name": "Rockstar Chica",
+      "Rarity": "Rare",
+      "PlacementPrice": 750,
+      "Type": "Circle",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 151.5,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 161.6,
+          "Cooldown": 1.9,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 25,
+          "Damage": 176.8,
+          "Cooldown": 1.8,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 25,
+          "Damage": 181,8,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Rockstars Assemble": "When 3 other rockstar animatronics are in the same loadout, reduce this unit's cooldown by 20%.",
+        "Wet Floor Sign!": "Every 10 seconds place a sign in the track that stuns for 1 second (3 max)."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present (80%)"
+        ]
+      }
+    },
+    {
       "Name": "Bidybabs",
       "Rarity": "Rare",
       "PlacementPrice": 900,
@@ -6412,7 +6454,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Season 4 Present (30%)"
+          "Season 4 Present (80%)"
         ]
       }
     },
