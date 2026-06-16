@@ -6402,7 +6402,7 @@
         },
         {
           "Range": 25,
-          "Damage": 181,8,
+          "Damage": 181.8,
           "Cooldown": 1.5,
           "UpgradePrice": 2500
         }
