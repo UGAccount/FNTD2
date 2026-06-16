@@ -17,70 +17,6 @@
           "exists": 76
         }
       },
-      "Rockstar Foxy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 12680
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 365
-        }
-      },
-      "Rockstar Freddy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 941461
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 34950
-        }
-      },
-      "Rockstar Bonnie": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 2616100
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 99480
-        }
-      },
-      "Rockstar Chica": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 14190000
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 572910
-        }
-      },
       "Mother Nature Ballora": {
         "Normal": {
           "value": "5+",
@@ -343,14 +279,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 5910
+          "exists": 5790
         },
         "Shiny": {
           "value": "19-20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 233
+          "exists": 231
         }
       },
       "HandUnit": {
@@ -359,14 +295,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 17930
+          "exists": 16098
         },
         "Shiny": {
           "value": "1.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 621
+          "exists": 541
         }
       },
       "Exotic Butters": {
@@ -375,14 +311,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 35920
+          "exists": 30841
         },
         "Shiny": {
           "value": "0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1500
+          "exists": 1299
         }
       },
       "Scooped Micheal": {
@@ -391,14 +327,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 158680
+          "exists": 13749
         },
         "Shiny": {
           "value": "2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 767
+          "exists": 669
         }
       },
       "Circus Baby": {
@@ -407,14 +343,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 36920
+          "exists": 29840
         },
         "Shiny": {
           "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 1710
+          "exists": 1076
         }
       },
       "Ballora": {
@@ -423,14 +359,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 203510
+          "exists": 113987
         },
         "Shiny": {
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 9666
+          "exists": 5742
         }
       },
       "Funtime Freddy": {
@@ -439,14 +375,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 6050000
+          "exists": 0
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 333999
+          "exists": 0
         }
       },
       "Funtime Foxy": {
@@ -455,14 +391,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1573000
+          "exists": 0
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 916420
+          "exists": 0
         }
       },
       "Bidybabs": {
@@ -471,14 +407,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 6861000
+          "exists": 0
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 391000
+          "exists": 0
         }
       },
       "Astral Bonnie": {
@@ -487,7 +423,7 @@
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
-          "exists": 5180
+          "exists": 4675
         },
         "Shiny": {
           "value": "60",
@@ -2910,14 +2846,6 @@
       }
     },
     "Pets": {
-      },
-      "Dark Knight Lefty Pet": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
-      },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
@@ -6692,7 +6620,7 @@
       "Skins": [
         {
           "Name": "Dark Knight Lefty",
-          "Obtainability": "3rd Big Resource Pack (5,999 R$)",
+          "Obtainability": "6th Exclusive Skin Bundle (199 R$)",
           "Rarity": "Exclusive"
         }
       ]
@@ -9590,15 +9518,14 @@
         {
           "Range": 23,
           "Damage": 1055,
-          "Cooldown": 3.7,
+          "Cooldown": 3,7,
           "UpgradePrice": 7350
         },
         {
           "Range": 24,
           "Damage": 1145,
           "Cooldown": 3.5,
-          "UpgradePrice": 7650,
-          "Type": "Line"
+          "UpgradePrice": 7650
         },
         {
           "Range": 24,
@@ -10077,14 +10004,7 @@
           "Token Summons (0.0005%)",
           "Soul Summons (0.001%)"
         ]
-      },
-      "Skins": [
-        {
-          "Name": "Radiant Astral Bonnie",
-          "Obtainability": "Prestige Shop (10 prestige tokens)",
-          "Rarity": "Secret"
-        }
-      ]
+      }
     },
     {
       "Name": "Dragon Endo 01",
