@@ -10005,7 +10005,14 @@
           "Token Summons (0.0005%)",
           "Soul Summons (0.001%)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Radiant Astral Bonnie",
+          "Obtainability": "Prestige Shop (10 prestige tokens)",
+          "Rarity": "Secret"
+        }
+      ]
     },
     {
       "Name": "Dragon Endo 01",
