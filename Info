@@ -8201,6 +8201,125 @@
       }
     },
     {
+      "Name": "Sparky",
+      "Rarity": "Secret",
+      "PlacementPrice": 1500,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 222.2,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 222.2,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24,
+          "Damage": 237.3,
+          "Cooldown": 2.3,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 27,
+          "Damage": 262.6,
+          "Cooldown": 2.0,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 30,
+          "Damage": 303.0,
+          "Cooldown": 1.8,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 32,
+          "Damage": 353.5,
+          "Cooldown": 1.5,
+          "UpgradePrice": 1500
+        }
+      ],
+      "Passives": {
+        "Ferocious Bite": "Once a regen enemy enters within 60% of this unit's range, permanently reduce that enemy's regeneration by 50%."
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 1 Unit Quest"
+        ]
+      }
+    },
+    {
+      "Name": "Showtime Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 3250,
+      "Type": "Line",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 404,
+        "Cooldown": 3.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 424.2,
+          "Cooldown": 3.7,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 454.5,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 27,
+          "Damage": 479.8,
+          "Cooldown": 2.6,
+          "UpgradePrice": 3250,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 27,
+          "Damage": 515.1,
+          "Cooldown": 2.6,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 555.5,
+          "Cooldown": 3,
+          "UpgradePrice": 5000,
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 28,
+          "Damage": 606,
+          "Cooldown": 3,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Funeral Song of Fire": "Every 3rd attack, this unit performs a follow-up attack as a full AOE. Enemies hit by this follow-up attack are inflicted 50% burn over 5s. Follow-up attacks permanently remove enemy DoT immunity",
+        "Harmonic Inferno": "When this unit's burn expires on an enemy within this units range, Inflict 100% burn over 10s"
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 6 Unit Quest",
+          "Boss Raid Shop (25 Boss raid tokens)"
+        ]
+      }
+    },
+    {
       "Name": "Fredtrap",
       "Rarity": "Secret",
       "PlacementPrice": 3000,
