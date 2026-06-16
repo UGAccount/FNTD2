@@ -3212,6 +3212,20 @@
       }
     },
     "Skins": {
+      "Radiant Astral Bonnie": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Puppet Boy Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Security Puppet": {
         "value": "N/A",
         "soul": "N/A",
