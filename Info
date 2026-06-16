@@ -6485,6 +6485,110 @@
       }
     },
     {
+      "Name": "Lefty",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5,
+      "Type": "Single",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 1,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 181.8,
+          "Cooldown": 3,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 21,
+          "Damage": 404.4,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Damage": 555.5,
+          "Cooldown": 3.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 24,
+          "Damage": 757.5,
+          "Cooldown": 3.5,
+          "UpgradePrice": 5000,
+          "Type": "Circle"
+        },
+        {
+          "Range": 24,
+          "Damage": 1010,
+          "Cooldown": 4,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 27,
+          "Damage": 1464.5,
+          "Cooldown": 4.5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 2121,
+          "Cooldown": 5,
+          "UpgradePrice": 16000
+        },
+        {
+          "Range": 31,
+          "Damage": 2828,
+          "Cooldown": 6,
+          "UpgradePrice": 20000,
+          "Type": "Cone",
+          "Degrees": 50
+        },
+        {
+          "Range": 32,
+          "Damage": 3535,
+          "Cooldown": 6.2,
+          "UpgradePrice": 25000
+        },
+        {
+          "Range": 32,
+          "Damage": 4545,
+          "Cooldown": 6.5,
+          "UpgradePrice": 35000,
+          "Type": "Cone",
+          "Degrees": 90
+        }
+      ],
+      "Passives": {
+        "Rare Finds": "Every wave this unit's upgrade cost is reduced by 25%, resetting on upgrade. When cost reduction reaches 100%, automatically upgrade this unit. For every other Rockstar unit on the team, cost reduction increases by an additional 25%, buff this unit's damage by 10%, and Rockstar units in range Gain 20% damage and Upgrade cost reduced by 20%",
+        "Music Box": "When selecting this unit, lowers this unit's cooldown by 10% for 30s. Puppet units on the team also receive this buff. If this unit is not selected for 60s, attack for 200% damage in a full AOE and stun enemies hit for 2s"
+      },
+      "Actives": [
+        {
+          "Name": "L.E.F.T.E",
+          "Description": "Stun enemies in range for 5s and deal 250% damage. Enemies with stun lockout take 500% damage instead. Change this unit's target to Strongest and buff this unit's damage by 50% for 15s. If The Puppet is on the team, lower their damage by 25% for 15s and buff this unit's damage by an additional 50% for 15s.",
+          "Cooldown": 75,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present Craftable"
+        ]
+      },
+      "Skins": [
+        {
+          "Name": "Dark Knight Lefty",
+          "Obtainability": "6th Exclusive Skin Bundle (199 R$)",
+          "Rarity": "Exclusive"
+        }
+      ]
+    },
+    {
       "Name": "Circus Baby",
       "Rarity": "Nightmare",
       "PlacementPrice": 4000,
@@ -9364,63 +9468,65 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 20,
-        "Damage": 260,
-        "Cooldown": 3.3
+        "Damage": 950,
+        "Cooldown": 3.8
       },
       "UpgradeStats": [
         {
-          "Range": 20,
-          "Damage": 525,
-          "Cooldown": 3.2,
-          "UpgradePrice": 4500
-        },
-        {
-          "Range": 20,
-          "Damage": 590,
-          "Cooldown": 3,
+          "Range": 22,
+          "Damage": 985,
+          "Cooldown": 3.7,
           "UpgradePrice": 6000
         },
         {
-          "Range": 21,
-          "Damage": 665,
-          "Cooldown": 3,
+          "Range": 23,
+          "Damage": 1055,
+          "Cooldown": 3,7,
           "UpgradePrice": 7350
         },
         {
-          "Range": 21,
-          "Damage": 750,
-          "Cooldown": 2.8,
+          "Range": 24,
+          "Damage": 1145,
+          "Cooldown": 3.5,
           "UpgradePrice": 7650
         },
         {
-          "Range": 22,
-          "Damage": 830,
-          "Cooldown": 2.8,
+          "Range": 24,
+          "Damage": 1200,
+          "Cooldown": 3.5,
           "UpgradePrice": 8250
         },
         {
-          "Range": 22,
-          "Damage": 925,
-          "Cooldown": 2.7,
+          "Range": 25,
+          "Damage": 1365,
+          "Cooldown": 3.3,
           "UpgradePrice": 8750
         },
         {
-          "Range": 24,
-          "Damage": 1050,
-          "Cooldown": 2.7,
+          "Range": 25,
+          "Damage": 1545,
+          "Cooldown": 3.2,
           "UpgradePrice": 9450
         },
         {
-          "Range": 24,
-          "Damage": 1225,
-          "Cooldown": 2.5,
+          "Range": 25,
+          "Damage": 1665,
+          "Cooldown": 3.2,
+          "UpgradePrice": 10000,
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 27,
+          "Damage": 1735,
+          "Cooldown": 3,
           "UpgradePrice": 11250
         }
       ],
       "Passives": {
-        "Deathbringer": " N/A ",
-        "Sprawling Roots": " N/A ",
-        "Nature’s Blessing": " N/A "
+        "Changing of Seasons": "Changes form to the majority element in the team, chooses default if none are applicable (Multiple elements are equal). Neutral: +15% DMG, +10% RNG, -5% CD, gains +2% DMG, +1% RNG, and -1% CD per unique element (max 5). Nature: -10% DMG, +10% RNG, adds +1 stock, gains +20% DMG for 15s when losing a stock, and buffs teammates based on max stocks. Fire: +20% DMG, applies 20% burn, every 3 attacks detonates burns for 1.1x DMG, leaves lava pools on kill dealing 50% DMG and 10% burn over 3s. Water: Slows nearby enemies by 10%, creates whirlpools that slow and damage enemies, Water units deal 10% more DMG to whirlpooled enemies. Dark: +30% DMG, applies Fear up to 10% wither based on dark units, every 3rd hit on the same enemy deals 30% more damage. Light: +30% RNG, buffs nearby units to all stats (+5% for Light units), focuses the highest HP enemy dealing +20% damage while allies deal +5% to it. Rust: +15% DMG and RNG applies 10% wither, gains double wither value, attacks on withered enemies apply stacking slows up to 15%. Electric: -20% DMG, -10% CD, applies Static Shock dealing 7.5% DMG/s and triggering follow-up attacks on stunned enemies.",
+        "Sprawling Roots": "Attacks all enemies in 66% of range every 5s for 50% DMG. Effects change depending on the form. Nature: Roots deal double damage to enemies above 50% HP. Fire: Roots deal 70% DMG and apply 25% burn. Water: Spawns an additional whirlpool on the highest HP enemy. Dark: Gains +2% DMG per enemy in range. Light: Roots deal +100% DMG to the highest hp enemy. Rust: Roots attack every 10s, deal 120% DMG and apply 5% wither. Electric: Roots attack every 2.5s for 40% DMG and apply a 0.2s stun that bypasses stun cooldowns. ",
+        "Nature’s Blessing": "Gains boosts based on the number of units of the same element in the team (excluding self) requires 3/4/5 units respectively. Neutral: +1/2/5% DMG and RNG. Nature:"
       },
       "Obtainability": {
         "Base": [
