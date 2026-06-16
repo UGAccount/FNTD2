@@ -10381,7 +10381,7 @@
       ],
       "Passives": {
         "Vengeful Spirit": "Attacks apply 20% slow for 5s, neutral element units upgrades cost are reduced by 20%.",
-        "Restless Soul [Upgrade 5+]": "For each base stock lost, gain 10% range and 5% cd. Every wave completed, all units gain 1% dmg (75% max) ",
+        "Restless Soul [Upgrade 5+]": "For each base stock lost, gain 10% range and 5% cd. Every wave completed, all units gain 1% dmg (30% max, it stacks.) ",
         "It's Me! [Upgrade 12+]": "Every 45s, increases this units boost to 100% towards a random neutral type unit in range for 10s (cannot apply to self)."
       },
       "Actives": [
