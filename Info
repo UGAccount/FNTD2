@@ -6578,6 +6578,75 @@
       }
     },
     {
+      "Name": "Rockstar Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 5000,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 646.4,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 757.5,
+          "Cooldown": 3,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 808,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 24,
+          "Damage": 888.8,
+          "Cooldown": 2.6,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 969.6,
+          "Cooldown": 2.6,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 26,
+          "Damage": 1060.5,
+          "Cooldown": 2.4,
+          "UpgradePrice": 9500,
+          "Type": "Cone",
+          "Degrees": 80
+        },
+        {
+          "Range": 28,
+          "Damage": 1111,
+          "Cooldown": 2,
+          "UpgradePrice": 12000
+        }
+      ],
+      "Passives": {
+        "Hidden Treasure": "Every 10 seconds spawns a coin somewhere on the map. Every 30 seconds auto collects 1 coin. Each coin picked up permanently gives +2% damage and +2% range (max 20%) and gives +5% crit rate and crit damage. Coins held max 10.",
+        "Rockstars Assemble": "When 3 other Rockstar animatronics are in the same loadout, buff this unit's damage and range by 25%."
+      },
+      "Actives": [
+        {
+          "Name": "Ye Win Some, Ye Lose Some!",
+          "Description": "Upon activation, Rockstar Foxy will grant a random effect. Positive effects include +1 Stock, +1k Cash, +10k Cash, +15% attack, +10% range, -5% cooldown. Negative effects include -1 Stock, -3 Stocks, 0.1% HP to 1 chance, -20% attack for 3 waves, +10% cooldown for 5 waves."
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present (0.05%)"
+        ]
+      }
+    },
+    {
       "Name": "Rockstar Freddy",
       "Rarity": "Mythic",
       "PlacementPrice": 2500,
