@@ -7851,6 +7851,72 @@
       ]
     },
     {
+      "Name": "Detective Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 1450,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 1050,
+        "Cooldown": 3.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 1260,
+          "Cooldown": 3.7,
+          "DPS": 340.54,
+          "UpgradePrice": 1850
+        },
+        {
+          "Range": 20,
+          "Damage": 1400,
+          "Cooldown": 3.6,
+          "DPS": 388.89,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 21,
+          "Damage": 1540,
+          "Cooldown": 3.5,
+          "DPS": 440,
+          "UpgradePrice": 2350
+        },
+        {
+          "Range": 23,
+          "Damage": 1715,
+          "Cooldown": 3.4,
+          "DPS": 504.41,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 24,
+          "Damage": 1960,
+          "Cooldown": 3.4,
+          "DPS": 576.47,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Gotcha": "Once a boss spawns, Detective Bonnie switches targeting to bosses and gains 45% damage. While a boss is alive, all non-boss enemies are slowed by 30% but take 5% less damage.",
+        "What Could This Mean...": "When enemies enter range, gain 1 evidence stack giving 1% damage per stack."
+      },
+      "Actives": [
+        {
+          "Name": "Scene of the Crime",
+          "Description": "Consumes all evidence stacks to gain 2% damage per stack for 20 seconds. During this time, no new evidence stacks can be gained. After the active ends, permanently gain 0.2% damage per stack consumed (caps at 15%).",
+          "Cooldown": 60
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Superhero Event Exclusive 1"
+        ]
+      }
+    },
+    {
       "Name": "Ignited Burst Withered Freddy",
       "Rarity": "Secret",
       "PlacementPrice": 8000,
