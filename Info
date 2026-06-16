@@ -9525,7 +9525,8 @@
           "Range": 24,
           "Damage": 1145,
           "Cooldown": 3.5,
-          "UpgradePrice": 7650
+          "UpgradePrice": 7650,
+          "Type": "Line"
         },
         {
           "Range": 24,
