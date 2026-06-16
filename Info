@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Lefty": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 680
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 76
+        }
+      },
       "Mother Nature Ballora": {
         "Normal": {
           "value": "5+",
@@ -2830,6 +2846,20 @@
       }
     },
     "Pets": {
+      "Shiny Security Puppet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Security Puppet": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
@@ -3116,6 +3146,13 @@
       }
     },
     "Skins": {
+      "Dark Knight Lefty": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Hazard Fredbear": {
         "value": "N/A",
         "soul": "N/A",
