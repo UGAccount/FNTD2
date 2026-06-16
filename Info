@@ -8201,6 +8201,67 @@
       }
     },
     {
+      "Name": "Fredtrap",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 606,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 646.4,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 707,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 21,
+          "Damage": 782.8,
+          "Cooldown": 2.6,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 23,
+          "Damage": 909,
+          "Cooldown": 2.6,
+          "UpgradePrice": 3400
+        },
+        {
+          "Range": 25,
+          "Damage": 1010,
+          "Cooldown": 2.5,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 1111,
+          "Cooldown": 2.4,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Clobbering Time!": "Every other attack this unit performs a follow-up attack for 75% damage and inflicts Breakable on enemies. Enemies inflicted with Breakable lose 1 additional shield from all sources",
+        "Hybrid": "When there are 3+ Rust element units on the team, buff this unit's damage by 25%. When there are 5+ Rust element units on the team, this unit's follow-up attacks deal 15% more damage"
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 2 Unit Quest",
+          "Boss Raid Shop (25 Boss raid tokens)"
+        ]
+      }
+    },
+    {
       "Name": "Foxy Fighters",
       "Rarity": "Secret",
       "PlacementPrice": 850,
