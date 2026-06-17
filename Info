@@ -8568,6 +8568,60 @@
       }
     },
     {
+      "Name": "Funtime Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 2000,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 303,
+        "Cooldown": 1.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 328.3,
+          "Cooldown": 1.7,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 26,
+          "Damage": 353.5,
+          "Cooldown": 1.7,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 28,
+          "Damage": 383.8,
+          "Cooldown": 1.7,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 32,
+          "Damage": 414.1,
+          "Cooldown": 1.6,
+          "UpgradePrice": 3200
+        },
+        {
+          "Range": 32,
+          "Damage": 454.5,
+          "Cooldown": 1.5,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "Undead Encore": "While a Necromancer or his summons are alive, this units cooldown is reduced by 25%."
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 5 Unit Quest"
+        ]
+      }
+    },
+    {
       "Name": "Fredtrap",
       "Rarity": "Secret",
       "PlacementPrice": 3000,
