@@ -8466,6 +8466,108 @@
       }
     },
     {
+      "Name": "Toy Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 2500,
+      "Type": "Circle",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 303,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 323.2,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 22,
+          "Damage": 353.5,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24,
+          "Damage": 388.9,
+          "Cooldown": 2.3,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 26,
+          "Damage": 424.2,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Cleansing Solution": "Whenever a mystery enemy dies in range, the new enemy loses 30% of its HP."
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 2 Unit Quest"
+        ]
+      }
+    },
+    {
+      "Name": "Nightmare Shadow Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Single",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 353.5,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 454.5,
+          "Cooldown": 2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 606,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 26,
+          "Damage": 984.8,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 28,
+          "Damage": 1237.3,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000,
+          "Type": "Cone",
+          "Degrees": 45
+        },
+        {
+          "Range": 30,
+          "Damage": 1565.5,
+          "Cooldown": 3,
+          "UpgradePrice": 6750
+        }
+      ],
+      "Passives": {
+        "Shade’s Presence": "For every second an enemy is in range, they gain 1 stack each enemy, and for every stack on the enemy, reduce their regen by 2% and take 2% more damage from this unit."
+      },
+      "Obtainability": {
+        "Base": [
+          "Endless 4 Unit Quest"
+        ]
+      }
+    },
+    {
       "Name": "Fredtrap",
       "Rarity": "Secret",
       "PlacementPrice": 3000,
