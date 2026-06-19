@@ -7,7 +7,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 342
         },
         "Shiny": {
           "value": "N/A",
@@ -23,7 +23,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 430
         },
         "Shiny": {
           "value": "N/A",
@@ -8455,9 +8455,9 @@
         }
       ],
       "Passives": {
-        "Heated Endo Skeleton": "On attack: apply burn. If already burning, apply stronger burn. Burning enemies in range are slowed.",
-        "Heat Seeking Tendrils": "Burning enemies trying to leave range are hit with damage, burn, stun, and slow.",
-        "All As One": "Each Rust or Fire unit grants bonus damage. Each Molten Freddy nearby further increases damage."
+        "Heated Endo Skeleton": "On attack: apply 20% burn. If already burning, apply 10% more burn. Burning enemies in range are slowed by 15%.",
+        "Heat Seeking Tendrils": "Burning enemies trying to leave range will be hit with a follow up doing 150% damage, 50% burn over 5s and stunned for 5s, along with 20% slow.",
+        "All As One": "Each Rust or Fire unit grants bonus damage (+10% more dmg). Each Molten Freddy nearby will further increase the damage by +25%."
       },
       "Obtainability": {
         "Base": [
