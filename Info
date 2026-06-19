@@ -35,30 +35,30 @@
       },
       "Candy Cadet": {
         "Normal": {
-          "value": "N/A",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 403
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20-25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 18
+          "exists": 23
         }
       },
       "Helpy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -67,14 +67,14 @@
       },
       "Lefty": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.8-0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1225
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -83,14 +83,14 @@
       },
       "Rockstar Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 12680
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -147,14 +147,14 @@
       },
       "Showtime Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -163,7 +163,7 @@
       },
       "Funtime Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.02-0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -179,7 +179,7 @@
       },
       "Fredtrap": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05-0.09",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -195,7 +195,7 @@
       },
       "Nightmare Shadow Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05-0.09",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -211,10 +211,10 @@
       },
       "Toy Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Slowly Droppint",
           "exists": 0
         },
         "Shiny": {
@@ -227,17 +227,17 @@
       },
       "Sparky": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 0
         }
       },
@@ -291,14 +291,14 @@
       },
       "Chicas Magic Rainbow": {
         "Normal": {
-          "value": "3-4",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 192
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "47-50",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -490,7 +490,7 @@
           "exists": 8346
         },
         "Shiny": {
-          "value": "7+",
+          "value": "8+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -522,7 +522,7 @@
           "exists": 5910
         },
         "Shiny": {
-          "value": "19-20",
+          "value": "20+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -666,7 +666,7 @@
           "exists": 5180
         },
         "Shiny": {
-          "value": "60",
+          "value": "50-55",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -774,7 +774,7 @@
           "value": "1+",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 11700
         },
         "Shiny": {
@@ -1338,7 +1338,7 @@
           "exists": 31800
         },
         "Shiny": {
-          "value": "8.5+",
+          "value": "9+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Fluctuating",
@@ -1363,14 +1363,14 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "0.5+",
+          "value": "1+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
           "exists": 17944
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "9+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Overhyped",
@@ -1539,16 +1539,16 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "0.5+",
+          "value": "10+",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 5686
         },
         "Shiny": {
           "value": "8+",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "8.5/10",
           "status": "Stable",
           "exists": 185
         }
