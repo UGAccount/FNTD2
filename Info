@@ -147,7 +147,7 @@
       },
       "Showtime Freddy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.05-0.09",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -177,7 +177,7 @@
           "exists": 0
         }
       },
-      "Fredtrap": {
+      "Nightmare Shadow Bonnie": {
         "Normal": {
           "value": "0.05-0.09",
           "soul": "N/A",
@@ -193,7 +193,7 @@
           "exists": 0
         }
       },
-      "Nightmare Shadow Bonnie": {
+      "Fredtrap": {
         "Normal": {
           "value": "0.05-0.09",
           "soul": "N/A",
@@ -227,7 +227,7 @@
       },
       "Sparky": {
         "Normal": {
-          "value": "0.04",
+          "value": "0.02-0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
