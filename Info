@@ -8951,6 +8951,139 @@
       }
     },
     {
+      "Name": "Firework Shadow Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 2500,
+      "Type": "Circle",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 231.8,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 231.8,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 247.3,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 26,
+          "Damage": 267.9,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1800
+        },
+        {
+          "Range": 28,
+          "Damage": 278.2,
+          "Cooldown": 3.7,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 30,
+          "Damage": 288.5,
+          "Cooldown": 3.4,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 32,
+          "Damage": 298.8,
+          "Cooldown": 3.0,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 32,
+          "Damage": 340.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Firework Show": "Every 30s, rotate the current firework color: Red - +50% damage. Blue - -20% cooldown. Purple - +50% crit rate and +25% crit damage.",
+        "Fuse": "On attack, apply Fuse, exploding after 3s dealing 100% damage in a small aoe. Fuse has bonus effects based on current firework color: Red - Explosion radius increased by 25%. Blue - Detonates a second explosion after 1s dealing 35% damage. Purple - Explosion is guaranteed to crit."
+      },
+      "Obtainability": {
+        "Base": [
+          "Firework Present"
+        ]
+      }
+    },
+    {
+      "Name": "Music Man",
+      "Rarity": "Secret",
+      "PlacementPrice": 2000,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 515.2,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 515.2,
+          "Cooldown": 3.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 530.6,
+          "Cooldown": 2.9,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 22,
+          "Damage": 561.6,
+          "Cooldown": 2.9,
+          "UpgradePrice": 1900
+        },
+        {
+          "Range": 24,
+          "Damage": 618.2,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 654.3,
+          "Cooldown": 2.8,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 27,
+          "Damage": 685.2,
+          "Cooldown": 2.7,
+          "UpgradePrice": 3700
+        },
+        {
+          "Range": 28,
+          "Damage": 762.5,
+          "Cooldown": 2.7,
+          "UpgradePrice": 4600
+        }
+      ],
+      "Passives": {
+        "Neutral Element": "+3% RNG, +3% DMG, & -3% CD (self buff).",
+        "Pump up the Jam": "This unit gains +1% damage for every 1% the music setting is turned up.",
+        "Cymbal Crash": "Every 10s deal 200% damage to all enemies in range"
+      },
+      "Obtainability": {
+        "Base": [
+          "Music Man Present"
+        ]
+      }
+    },
+    {
       "Name": "Scrap Baby",
       "Rarity": "Secret",
       "PlacementPrice": 4000,
