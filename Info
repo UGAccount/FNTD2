@@ -10488,9 +10488,10 @@
           "Name": "Dave Miller",
           "Obtainability": "Given out by Webzybird",
           "Rarity": "Nightmare"
-        ]
-      },
-      {
+        }
+      ]
+    },
+    {
       "Name": "Scrooge Freddy",
       "Rarity": "Nightmare",
       "PlacementPrice": 2500,
