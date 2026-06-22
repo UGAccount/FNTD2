@@ -11059,6 +11059,173 @@
       }
     },
     {
+      "Name": "Fathomless Withered Foxy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 12000,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 1236.4,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 1236.4,
+          "Cooldown": 4.0,
+          "Type": "Line",
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 24,
+          "Damage": 1339.5,
+          "Cooldown": 4.0,
+          "Type": "Line",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 1391.0,
+          "Cooldown": 3.8,
+          "Type": "Line",
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 27,
+          "Damage": 1494.0,
+          "Cooldown": 3.5,
+          "Type": "Line",
+          "UpgradePrice": 7250
+        },
+        {
+          "Range": 28,
+          "Damage": 1648.6,
+          "Cooldown": 3.2,
+          "Type": "Line",
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 30,
+          "Damage": 1803.2,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 45,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 2060.7,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 45,
+          "UpgradePrice": 12500
+        }
+      ],
+      "Passives": {
+        "Call of the Abyss": "While enemy is in range, deal more damage the longer the enemy is in this unit's range (2%/s) (Max 150%). If enemy is bleeding, increase by 2.5%/s instead. When enemy tries to leave range for the first time, knockback enemy by 5 tiles and stun them for 2s and reset Call of the Abyss damage buff on that enemy",
+        "Apex Predator": "Attacks apply 25% bleed over 5s. If there are 3+ sources of bleed on the enemy, buff this bleed application to 40%. Deal 25% more damage to bleeding enemies. If enemy is in the latter half of the track, deal 20% more damage and apply an additional 10% bleed"
+      },
+      "Obtainability": {
+        "Base": [
+          "Fathomless Present"
+        ]
+      }
+    },
+    {
+      "Name": "Fallen Angel Nightmarionne",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6660,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": [
+        "Dark",
+        "Light"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 721.3,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 721.3,
+          "Cooldown": 4.0,
+          "Degrees": 45,
+          "UpgradePrice": 6660
+        },
+        {
+          "Range": 25,
+          "Damage": 875.8,
+          "Cooldown": 4.0,
+          "Degrees": 45,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 26,
+          "Damage": 1184.9,
+          "Cooldown": 4.2,
+          "Degrees": 45,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 1236.4,
+          "Cooldown": 4.2,
+          "Degrees": 45,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 1442.5,
+          "Cooldown": 4.2,
+          "Degrees": 45,
+          "UpgradePrice": 6250
+        },
+        {
+          "Range": 27,
+          "Damage": 1957.7,
+          "Cooldown": 4.8,
+          "Degrees": 45,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 27,
+          "Damage": 2266.5,
+          "Cooldown": 4.8,
+          "Degrees": 60,
+          "UpgradePrice": 8750
+        },
+        {
+          "Range": 28,
+          "Damage": 2679.0,
+          "Cooldown": 5.0,
+          "Degrees": 60,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 3091.1,
+          "Cooldown": 5.0,
+          "Degrees": 60,
+          "UpgradePrice": 12500
+        }
+      ],
+      "Passives": {
+        "Retribution": "Deals 500% damage in a line. On hit, apply 20% slow for 10s. If enemy dies while this slow is still active, summon a Flaming Nightmarionne Plushie for 100% damage as health. (Upgrade 0+, Global CD: 90s).",
+        "The Fallen": "On attack, buff this units damage by +10% (Max 50%). Once this buff is maxed out, keep maxed buff for 3 attacks and reset. Gains boosts for every Light or Dark element unit on the team: Dark - +5% damage, Light - +5% range."
+      },
+      "Obtainability": {
+        "Base": [
+          "Fallen Angel Present",
+          "Community Pass dark/light"
+        ]
+      }
+    },
+    {
       "Name": "Spring Duo",
       "Rarity": "Nightmare",
       "PlacementPrice": 3000,
