@@ -1,71 +1,7 @@
 {
   "Values": {
     "Units": {
-      "Fathomless Withered Foxy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
       "Deep Sea Calamity Endo": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Sole Survivor Withered Bonnie": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Roadkill Phantom Foxy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Radioactive Phantom Freddy": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -8766,6 +8702,127 @@
         "Base": [
           "Endless 3 Unit Quest",
           "Boss Raid Shop (25 Boss raid tokens)"
+        ]
+      }
+    },
+    {
+      "Name": "Scrap Baby",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Explosion",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 240,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 255,
+          "Cooldown": 6,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 25,
+          "Damage": 280,
+          "Cooldown": 6,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 300,
+          "Cooldown": 6,
+          "Type": "Cone",
+          "Degrees": 45,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 26,
+          "Damage": 340,
+          "Cooldown": 6,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 30,
+          "Damage": 350,
+          "Cooldown": 4,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 32,
+          "Damage": 365,
+          "Cooldown": 4,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 35,
+          "Damage": 390,
+          "Cooldown": 4,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "Decaying Benevolence": "Every attack: Lower this unit's cooldown by 1% (Max 20%). After 20 attacks: Enemies in range take 30% more damage from DoT effects.",
+        "Arterial Claw": "Attacks: Inflict [Bleed], dealing 45% of this unit's damage every second for 4 seconds. Deal 55% more damage to enemies already inflicted with [Bleed]."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Unit"
+        ]
+      }
+    },
+    {
+      "Name": "Roadkill Phantom Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 325,
+        "Cooldown": 3.2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 400,
+          "Cooldown": 3.4,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 26,
+          "Damage": 525,
+          "Cooldown": 3.6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 28,
+          "Damage": 660,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 30,
+          "Damage": 800,
+          "Cooldown": 4,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 30,
+          "Damage": 900,
+          "Cooldown": 4,
+          "UpgradePrice": 7000
+        }
+      ],
+      "Passives": {
+        "Walking Dead": "On attack: Apply 25% bleed and 25% poison over 5s. When this unit is stunned: Next attack applies an additional 100% bleed and 100% poison over 10s. Stun enemies in range for 1.8s. Slow enemies in range by 15% for 15s."
+      },
+      "Obtainability": {
+        "Base": [
+          "Apocalypse AFK Present (2% chance,AFK present 2)"
         ]
       }
     },
