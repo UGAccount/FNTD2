@@ -8770,6 +8770,187 @@
       }
     },
     {
+      "Name": "Radioactive Phantom Freddy",
+      "Rarity": "Epic",
+      "PlacementPrice": 1250,
+      "Type": "Explosion",
+      "Element": "Rust",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 110,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 125,
+          "Cooldown": 2,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 25,
+          "Damage": 140,
+          "Cooldown": 2,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 28,
+          "Damage": 155,
+          "Cooldown": 1.8,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 28,
+          "Damage": 175,
+          "Cooldown": 1.8,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 28,
+          "Damage": 200,
+          "Cooldown": 1.8,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "Hazardous Material": "On attack: Apply 50% poison over 5s. If this unit is stunned: Buff this unit's damage by 50% for 20s. Apply 500% poison over 15s in a full AOE when stun ends."
+      },
+      "Obtainability": {
+        "Base": [
+          "Apocalypse Present (97.9%)",
+          "AFK Present"
+        ]
+      }
+    },
+    {
+      "Name": "El Chip",
+      "Rarity": "Secret",
+      "PlacementPrice": 7460,
+      "Type": "Line",
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 150,
+        "Cooldown": 0.6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 155,
+          "Cooldown": 0.6,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 162,
+          "Cooldown": 0.6,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 25,
+          "Damage": 170,
+          "Cooldown": 0.6,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 180,
+          "Cooldown": 0.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 29,
+          "Damage": 195,
+          "Cooldown": 0.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 32,
+          "Damage": 220,
+          "Cooldown": 0.5,
+          "UpgradePrice": 7500
+        }
+      ],
+      "Passives": {
+        "Taco Tuesday!": "This unit gains buffs depending on the chosen filling: Beef (+15% damage, +15% range, +5% cooldown), Chicken (-5% damage, +5% range, -10% cooldown), or Vegan (+25% damage, +10% range, +10% cooldown).",
+        "Happy Hour": "Buff this unit's damage by 50% on odd waves. Reduce this unit's cooldown by 30% on even waves. When a boss is on the map, both buffs are active at once.",
+        "Tax Return": "Every 3 waves: Automatically upgrade El Chip once. This unit cannot be sold after being placed."
+      },
+      "Obtainability": {
+        "Base": [
+          "El Chip Present"
+        ]
+      }
+    },
+    {
+      "Name": "Henry Emily",
+      "Rarity": "Secret",
+      "PlacementPrice": 1500,
+      "Type": "Explosion",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 210,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 225,
+          "Cooldown": 2,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 250,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2400
+        },
+        {
+          "Range": 21,
+          "Damage": 280,
+          "Cooldown": 2.3,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 23,
+          "Damage": 325,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 23,
+          "Damage": 360,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 23,
+          "Damage": 400,
+          "Cooldown": 2.5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 24,
+          "Damage": 450,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5500
+        }
+      ],
+      "Passives": {
+        "Machine Learning": "Every 5s this unit summons an endo with stats depending on its current upgrade. This unit gains [Parts] whenever enemies are killed within its range (Boss kills grant 16 [Parts]). [Parts] are used to upgrade the Endo summon: Level 1 (50 Parts): Summon has 125% damage as health, increased to 150% if another Rust unit is on the team. Level 2 (100 Parts): Summon has 200% damage as health, explodes on death for 150% damage in a 16 range radius. Level 3 (175 Parts): Summon has 275% damage as health and is guaranteed to crit. On death explodes for 150% damage and applies 15% [Exposure], increasing this units' summons damage to enemies within an 18 range radius for 10s.",
+        "Turning Gears": "For every [Rust] element unit in range: Buff this units damage by 2.5% and range by 3% (Max 12.5% damage and 15% range)."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Unit"
+        ]
+      }
+    },
+    {
       "Name": "Scrap Baby",
       "Rarity": "Secret",
       "PlacementPrice": 4000,
@@ -8834,6 +9015,76 @@
       "Obtainability": {
         "Base": [
           "Quest Unit"
+        ]
+      }
+    },
+    {
+      "Name": "Sole Survivor Withered Bonnie",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4500,
+      "Type": "Line",
+      "Element": "Rust",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 28,
+        "Damage": 1236.4,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 28,
+          "Damage": 1236.4,
+          "Cooldown": 3.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 29,
+          "Damage": 1339.5,
+          "Cooldown": 3.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 30,
+          "Damage": 1401.3,
+          "Cooldown": 2.75,
+          "Type": "Cone",
+          "Degrees": 45,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 31,
+          "Damage": 1463.1,
+          "Cooldown": 2.5,
+          "Type": "Cone",
+          "Degrees": 90,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 33,
+          "Damage": 1545.6,
+          "Cooldown": 2.25,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 35,
+          "Damage": 1648.6,
+          "Cooldown": 2.0,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 35,
+          "Damage": 1854.7,
+          "Cooldown": 2.0,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Mutating Gas": "Gas surrounds the inner 50% of this unit's range. Units in range of the gas have their damage buffed by 30% and cooldown increased by 5%",
+        "Wasteland Scavenger": "Units in range of Mutating Gas are stunned for 5s every 15s. Whenever a unit is stunned in this unit's range, this unit receives +50% damage for 5s for every stunned unit. The stunned units receive +25% damage for 10s"
+      },
+      "Obtainability": {
+        "Base": [
+          "Apocalypse Present (0.1%, AFK present 2)"
         ]
       }
     },
