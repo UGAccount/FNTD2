@@ -8999,7 +8999,7 @@
           "Cooldown": 2.5,
           "UpgradePrice": 10000,
           "Type": "Cone",
-          "Degrees": 80
+          "Degrees": 245
         },
         {
           "Range": 30,
