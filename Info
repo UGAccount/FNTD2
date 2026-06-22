@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 342
+          "exists": 537
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 26
         }
       },
       "Scraptrap": {
@@ -39,14 +39,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 430
+          "exists": 762
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 36
         }
       },
       "Candy Cadet": {
@@ -54,15 +54,15 @@
           "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 403
+          "status": "N/A",
+          "exists": 767
         },
         "Shiny": {
           "value": "20-25",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 23
+          "status": "N/A",
+          "exists": 29
         }
       },
       "Helpy": {
@@ -70,14 +70,14 @@
           "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
           "value": "3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "N/A",
           "exists": 0
         }
       },
@@ -86,20 +86,20 @@
           "value": "0.8-0.9",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Fluctuating",
           "exists": 1225
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
-          "exists": 339
+          "status": "N/A",
+          "exists": 125
         }
       },
       "Rockstar Foxy": {
         "Normal": {
-          "value": "0.2-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -109,7 +109,7 @@
           "value": "2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "N/A",
           "exists": 365
         }
       },
@@ -166,11 +166,11 @@
           "value": "0.05-0.09",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
-          "value": "1.5-1.8",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -183,14 +183,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 10203
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 484
         }
       },
       "Nightmare Shadow Bonnie": {
@@ -199,14 +199,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 19632
         },
         "Shiny": {
-          "value": "0.3-0.5",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 875
         }
       },
       "Fredtrap": {
@@ -215,14 +215,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 5394
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 226
         }
       },
       "Toy Foxy": {
@@ -231,14 +231,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Droppint",
-          "exists": 0
+          "exists": 4390
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 157
         }
       },
       "Sparky": {
@@ -247,14 +247,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 40918
         },
         "Shiny": {
-          "value": "0.3",
+          "value": "0.1-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 1667
         }
       },
       "Hero Paperpals": {
@@ -3551,7 +3551,14 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": 0
+        "exists": 17176
+      },
+      "Pridetime Foxy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 33486
       },
       "Shiny Ghost Rider Micheal": {
         "value": "N/A",
@@ -3754,7 +3761,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
-        "exists": 0
+        "exists": 997
       }
     },
     "Currency": {
@@ -10481,10 +10488,9 @@
           "Name": "Dave Miller",
           "Obtainability": "Given out by Webzybird",
           "Rarity": "Nightmare"
-        }
-      ]
-    },
-    {
+        ]
+      },
+      {
       "Name": "Scrooge Freddy",
       "Rarity": "Nightmare",
       "PlacementPrice": 2500,
