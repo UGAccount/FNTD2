@@ -83,7 +83,7 @@
       },
       "Fallen Angel Nightmarionne": {
         "Normal": {
-          "value": "N/A",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -163,7 +163,7 @@
       },
       "Molten Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "1-1.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -174,7 +174,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 26
+          "exists": 49
         }
       },
       "Scraptrap": {
@@ -182,15 +182,15 @@
           "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 762
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "8-8.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
-          "exists": 36
+          "status": "Dropping",
+          "exists": 62
         }
       },
       "Candy Cadet": {
@@ -211,7 +211,7 @@
       },
       "Helpy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -227,14 +227,14 @@
       },
       "Lefty": {
         "Normal": {
-          "value": "0.8-0.9",
+          "value": "0.6-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1225
         },
         "Shiny": {
-          "value": "4",
+          "value": "3.4-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -330,10 +330,10 @@
           "exists": 10203
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Slowly Dropping",
           "exists": 484
         }
       },
@@ -362,10 +362,10 @@
           "exists": 5394
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.2-1.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstabe",
+          "status": "Fluctuating",
           "exists": 226
         }
       },
@@ -458,10 +458,10 @@
           "exists": 192
         },
         "Shiny": {
-          "value": "47-50",
+          "value": "50",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 11
         }
       },
@@ -611,7 +611,7 @@
       },
       "Devious Purple Guy": {
         "Normal": {
-          "value": "0.7-.09",
+          "value": "0.9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1482,7 +1482,7 @@
           "exists": 16650
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1491,10 +1491,10 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "0.35+",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "8/10",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 31800
         },
         "Shiny": {
@@ -2873,7 +2873,7 @@
     },
     "Presents": {
       "Season 5 Present": {
-        "value": "0.0007-0.001",
+        "value": "0.0005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3616,6 +3616,12 @@
       }
     },
     "Gamepasses": {
+      "Community Pass": {
+        "value": "2.5-3",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "Shiny Hunter": {
         "value": "1.8-2",
         "soul": "N/A",
@@ -3684,10 +3690,10 @@
         "exists": 0
       },
       "Radiant Astral Bonnie": {
-        "value": "N/A",
+        "value": "3",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Fluctuating",
         "exists": 0
       },
       "Puppet Boy Micheal": {
@@ -3705,7 +3711,7 @@
         "exists": 0
       },
       "Security Puppet": {
-        "value": "N/A",
+        "value": "0.2",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
@@ -3768,7 +3774,7 @@
         "exists": 33486
       },
       "Shiny Ghost Rider Micheal": {
-        "value": "N/A",
+        "value": "0.4",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
@@ -3901,7 +3907,7 @@
         "exists": 1640
       },
       "Easter Springtrap": {
-        "value": "0.08+",
+        "value": "0.1-0.2",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating",
@@ -3915,21 +3921,21 @@
         "exists": 0
       },
       "Jack'O Trap": {
-        "value": "0.2+",
+        "value": "0.3+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
         "exists": 0
       },
       "Mafia Masked Bullies": {
-        "value": "N/A",
+        "value": "1-1.5",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable",
         "exists": 0
       },
       "Showtime Ennard": {
-        "value": "N/A",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A",
