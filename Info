@@ -3661,20 +3661,6 @@
         "status": "N/A",
         "exists": 0
       },
-      "Shiny Scooped Ice-Cream Micheal": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
-      },
-      "Scooped Ice-Cream Micheal": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A",
-        "exists": 0
-      },
       "Shiny Glacier Springtrap": {
         "value": "N/A",
         "soul": "N/A",
@@ -3683,6 +3669,20 @@
         "exists": 0
       },
       "Glacier Springtrap": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Shiny Scooped Ice-Cream Micheal": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Scooped Ice-Cream Micheal": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
