@@ -23,14 +23,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 223
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 601
         }
       },
       "Sole Survivor Withered Bonnie": {
@@ -86,8 +86,8 @@
           "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
+          "status": "Slowly Dropping",
+          "exists": 2101
         },
         "Shiny": {
           "value": "N/A",
