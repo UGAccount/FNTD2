@@ -29,7 +29,7 @@
           "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Slowly Dropping",
           "exists": 601
         }
       },
@@ -83,7 +83,7 @@
       },
       "Fallen Angel Nightmarionne": {
         "Normal": {
-          "value": "1",
+          "value": "0.7-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -129,7 +129,7 @@
           "exists": 0
         }
       },
-      "Scrap Baby": {
+      "El Chip": {
         "Normal": {
           "value": "0.25",
           "soul": "N/A",
