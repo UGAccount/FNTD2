@@ -3363,10 +3363,10 @@
         "exists": 0
       },
       "Shiny Ghost Rider Micheal": {
-        "value": "0.4",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Stable",
+        "status": "N/A",
         "exists": 0
       },
       "Ghost Rider Micheal": {
@@ -3774,17 +3774,17 @@
         "exists": 33486
       },
       "Shiny Ghost Rider Micheal": {
-        "value": "0.4",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Stable",
         "exists": 0
       },
       "Ghost Rider Micheal": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Stable",
         "exists": 0
       },
       "Professor Ennard": {
