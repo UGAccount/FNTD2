@@ -1715,7 +1715,7 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "10+",
+          "value": "0.5+",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Unstable",
