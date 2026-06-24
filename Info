@@ -6167,7 +6167,14 @@
           "Scooped Micheal Present (100%)",
           "Season 4 Free Premium tier 30"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Scooped Ice-Cream Micheal",
+          "Obtainability": "Special Quests",
+          "Rarity": "Exclusive"
+        }
+      ]
     },
     {
       "Name": "Freddles",
