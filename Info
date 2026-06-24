@@ -253,7 +253,7 @@
           "value": "3.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Droppinh",
+          "status": "Slowly Dropping",
           "exists": 1000
         }
       },
@@ -374,7 +374,7 @@
           "value": "0.05-0.09",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 5394
         },
         "Shiny": {
