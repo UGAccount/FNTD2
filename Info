@@ -3663,7 +3663,7 @@
         "status": "Stable"
       },
       "Quick Open": {
-        "value": "0.5+",
+        "value": "0.8+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -3958,10 +3958,10 @@
         "exists": 0
       },
       "Dark Springtrap": {
-        "value": "N/A",
+        "value": "0.25+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Stable",
         "exists": 0
       },
       "8-Bit Baby": {
