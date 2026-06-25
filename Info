@@ -390,7 +390,7 @@
           "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Droppint",
+          "status": "Slowly Dropping",
           "exists": 4390
         },
         "Shiny": {
@@ -1722,7 +1722,7 @@
           "exists": 5686
         },
         "Shiny": {
-          "value": "8+",
+          "value": "10+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
