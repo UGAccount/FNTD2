@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Gaia Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 49
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 129
+        }
+      },
       "Fathomless Withered Foxy": {
         "Normal": {
           "value": "2+",
