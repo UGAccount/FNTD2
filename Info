@@ -97,6 +97,22 @@
           "exists": 623
         }
       },
+      "Trash O Tron": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 1906
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 17
+        }
+      },
       "Fathomless Withered Foxy": {
         "Normal": {
           "value": "2+",
