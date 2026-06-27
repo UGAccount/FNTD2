@@ -7803,6 +7803,82 @@
       "Note": "He CANNOT desync his buffs and stack with himself (your own and others)."
     },
     {
+      "Name": "Nature Reclaimed",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 2500,
+      "Type": "Line",
+      "Element": [
+        "Nature",
+        "Rust"
+      ],
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 77.3,
+        "Cooldown": 1.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 77.3,
+          "Cooldown": 1.8,
+          "Type": "Line",
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25,
+          "Damage": 82.4,
+          "Cooldown": 1.8,
+          "Type": "Line",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 92.7,
+          "Cooldown": 1.8,
+          "Type": "Line",
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 27,
+          "Damage": 103.0,
+          "Cooldown": 1.7,
+          "Type": "Line",
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 28,
+          "Damage": 118.5,
+          "Cooldown": 1.6,
+          "Type": "Line",
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 30,
+          "Damage": 133.9,
+          "Cooldown": 1.5,
+          "Type": "Line",
+          "UpgradePrice": 11500
+        },
+        {
+          "Range": 30,
+          "Damage": 154.6,
+          "Cooldown": 1.5,
+          "Type": "Line",
+          "UpgradePrice": 11500
+        }
+      ],
+      "Passives": {
+        "Grönin": "When a boss spawns, create a clone of this unit with 33% of this unit's damage. Clone teleports next to the boss when it leaves its range. Buff this unit's damage by 5% per Nature/Rust unit on the team, by 3% per max stock (Max 45%) and by 2.5% per missing stock (Max 30%)",
+        "Drifter's Blessing": "When placed, this unit generates an additional stock. Units in range have their damage buffed by 30%, range buffed by 25%, and cooldown reduced by 5%"
+      },
+      "Obtainability": {
+        "Base": [
+          "Nature Reclaimed Present"
+        ]
+      }
+    },
+    {
       "Name": "Phantom Bonnie",
       "Rarity": "Secret",
       "PlacementPrice": 1000,
@@ -12081,6 +12157,303 @@
       }
     },
     {
+      "Name": "Afterbite Withered Golden Freddy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5000,
+      "Type": "Cone",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 25,
+        "Damage": 793.4,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 793.4,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 25,
+          "Damage": 922.2,
+          "Cooldown": 3.2,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 1051.0,
+          "Cooldown": 3.4,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 1200.4,
+          "Cooldown": 3.7,
+          "UpgradePrice": 5750
+        },
+        {
+          "Range": 27,
+          "Damage": 1380.7,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 27,
+          "Damage": 1463.1,
+          "Cooldown": 4.0,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 28,
+          "Damage": 1545.6,
+          "Cooldown": 4.0,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 28,
+          "Damage": 1648.6,
+          "Cooldown": 4.0,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 1772.2,
+          "Cooldown": 4.0,
+          "UpgradePrice": 12000
+        }
+      ],
+      "Passives": {
+        "Keep Out": "Enemies within 60% of this unit's range are slowed by 30% and take 10% of this unit's damage every second. Once an enemy is 10 studs from the exit, knockback 3 tiles. If the enemy is a Boss, stun for 2.5s instead.",
+        "Closed For Restoration": "Enemies in the latter half of the track take 25% more damage from this unit. This unit gains +5% damage per enemy on the track, deals +10% damage to Necromancer enemies and deals +25% damage to their summons."
+      },
+      "Obtainability": {
+        "Base": [
+          "Afterbite Withered Golden Freddy Present"
+        ]
+      }
+    },
+    {
+      "Name": "Foxy EXE",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4040,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 432.8,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 432.8,
+          "Cooldown": 3.0,
+          "Type": "Circle",
+          "UpgradePrice": 4040
+        },
+        {
+          "Range": 22,
+          "Damage": 577.0,
+          "Cooldown": 3.5,
+          "Type": "Circle",
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 23,
+          "Damage": 762.5,
+          "Cooldown": 4.0,
+          "Type": "Circle",
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 24,
+          "Damage": 968.5,
+          "Cooldown": 4.5,
+          "Type": "Cone",
+          "Degrees": 65,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25,
+          "Damage": 1288.0,
+          "Cooldown": 5.0,
+          "Type": "Cone",
+          "Degrees": 65,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 1545.6,
+          "Cooldown": 5.0,
+          "Type": "Cone",
+          "Degrees": 65,
+          "UpgradePrice": 8000
+        }
+      ],
+      "Passives": {
+        "Corrupted Data": "First hit per enemy deals 100% more damage, applies 50% bleed over 5s bypassing DoT immunity, and stuns for 1.5s. Every 10s buff this unit's damage by 50% for 5s",
+        "Go Phishing": "Enemies hit by Corrupted Data permanently generate 20% more income and generate 40% more income while this unit is hitting them. If the enemy is a Tank, apply a permanent bleed that deals 5% of this unit's damage every second"
+      },
+      "Obtainability": {
+        "Base": [
+          "Withered Foxy Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Commander Withered Freddy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4500,
+      "Type": "Cone",
+      "Degrees": 75,
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 51.5,
+        "Cooldown": 0.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 51.5,
+          "Cooldown": 0.5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 67.0,
+          "Cooldown": 0.5,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 25,
+          "Damage": 72.1,
+          "Cooldown": 0.45,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 25,
+          "Damage": 82.4,
+          "Cooldown": 0.45,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 90.7,
+          "Cooldown": 0.40,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 26,
+          "Damage": 103.0,
+          "Cooldown": 0.40,
+          "UpgradePrice": 7000
+        }
+      ],
+      "Passives": {
+        "Adaptive Tactics": "When 3+ enemies are in range, decrease this unit's damage by 40%, increase this unit's range by 35%, reduce this unit's cooldown by 25%, and increase this unit's AoE to a 210 cone. After not attacking for 5s, buff this unit's damage by 20% every second until this unit attacks (Max 100%), Buff is removed after 3 attacks. If damage buff reaches max value, buff this unit's damage by 50% and decrease this unit's AoE to a 25 cone",
+        "Strength In Numbers": "For every unit in range, buff this unit's damage by 5% and buff all units in range by 1%"
+      },
+      "Obtainability": {
+        "Base": [
+          "Withered Freddy Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Abyssal Ballora",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 10935,
+      "Type": "Cone",
+      "Degrees": 150,
+      "Element": "Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 721.3,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 721.3,
+          "Cooldown": 2.5,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 10935
+        },
+        {
+          "Range": 24,
+          "Damage": 752.2,
+          "Cooldown": 2.5,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 798.5,
+          "Cooldown": 2.6,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 5200
+        },
+        {
+          "Range": 27,
+          "Damage": 850.1,
+          "Cooldown": 2.7,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 28,
+          "Damage": 927.3,
+          "Cooldown": 2.8,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 8250
+        },
+        {
+          "Range": 28,
+          "Damage": 1030.4,
+          "Cooldown": 2.9,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1184.9,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 28,
+          "Damage": 1339.5,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 150,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Tidal Shift": "Every 30s swaps between High Tide and Low Tide. High Tide: +10% damage and +50% range. Cone 150 AoE. Low Tide: +50% damage and +10% range. Cone 90 AoE. When changing tide, deal 200% of this unit's damage as Full AoE and stun enemies hit for 2s. Deals an additional 20% damage per Water unit on the team",
+        "Eternal Flow": "This unit is immune to stuns. On attack reduce this unit's cooldown by 3%, resetting when changing target (Max -15%). Every other attack deals 1.2x damage. If the cooldown buff is maxed, every attack deals 1.2x damage"
+      },
+      "Obtainability": {
+        "Base": [
+          "Abyssal Ballora Present (350 Raid Coins)"
+        ]
+      }
+    },
+    {
       "Name": "Kronos Endo Freddy",
       "Rarity": "Apex",
       "PlacementPrice": 12500,
@@ -12187,6 +12560,124 @@
           "Rarity": "Secret"
         }
       ]
+    },
+    {
+      "Name": "Gaia Chica",
+      "Rarity": "Apex",
+      "PlacementPrice": 12000,
+      "Type": "Circle",
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 927.3,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 927.3,
+          "Cooldown": 2.8,
+          "Type": "Circle",
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 25,
+          "Damage": 978.9,
+          "Cooldown": 2.8,
+          "Type": "Circle",
+          "UpgradePrice": 5250
+        },
+        {
+          "Range": 26,
+          "Damage": 1056.1,
+          "Cooldown": 2.8,
+          "Type": "Circle",
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 27,
+          "Damage": 1133.4,
+          "Cooldown": 2.8,
+          "Type": "Circle",
+          "UpgradePrice": 6750
+        },
+        {
+          "Range": 28,
+          "Damage": 1210.7,
+          "Cooldown": 2.8,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 30,
+          "Damage": 1313.7,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 30,
+          "Damage": 1365.2,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 31,
+          "Damage": 1416.8,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 31,
+          "Damage": 1468.3,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 32,
+          "Damage": 1519.8,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 60,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 34,
+          "Damage": 1597.1,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 120,
+          "UpgradePrice": 16000
+        },
+        {
+          "Range": 36,
+          "Damage": 1674.4,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "Degrees": 120,
+          "UpgradePrice": 18000
+        }
+      ],
+      "Passives": {
+        "Growmain Expansion": "Creates a nature domain in this unit's range for 30 seconds. Nature units in the domain gain +30% damage and -10% cooldown. Gaia Chica gains +50% damage and -15% cooldown instead. Duration is extended by 1 second per stock, up to 15 seconds. The first 3 activations generate +1 stock. (Upgrade 0+, Global CD: 90s).",
+        "Healing Roots": "Every 8 kills from Gaia Chica, gain 1 [Healing Root] stack. Each stack prevents 2 seconds of stun on a unit. A single stun can only be reduced once.",
+        "Blossom Bloom": "Every 5 seconds spawn a rose trap anywhere on the track for 75% of this unit's damage, increasing to 100% if spawned during Growmain Expansion (Max 10). Rose traps generate 50% more income on hit, increasing by 2% per max stock. Rose traps shoot thorns every 3 seconds, dealing 1% of this unit's damage per max stock in 15 range, increasing to 1.5% during Growmain Expansion.",
+        "Persistent Vines": "On attack, apply Rooted, applying an increasing slow at 2%/s. When Rooted reaches 30% slow, stun the enemy for 1.5 seconds and remove Rooted. If the enemy has stun lockout, deal 200% of this unit's damage instead. When Growmain Expansion is active, Rooted slow increases 50% faster."
+      },
+      "Obtainability": {
+        "Base": [
+          "Blossom Chica Evolution"
+        ]
+      }
     },
     {
       "Name": "Astral Bonnie",
