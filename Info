@@ -147,18 +147,18 @@
       },
       "Sole Survivor Withered Bonnie": {
         "Normal": {
-          "value": "0.75+",
+          "value": "0.75-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 2185
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "8-10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 67
+          "exists": 131
         }
       },
       "Roadkill Phantom Foxy": {
@@ -195,23 +195,23 @@
       },
       "Fallen Angel Nightmarionne": {
         "Normal": {
-          "value": "0.7",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 2101
         },
         "Shiny": {
-          "value": "3-3.5",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 0
         }
       },
       "Firework Shadow Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -259,7 +259,7 @@
       },
       "Henry Emily": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -291,7 +291,7 @@
       },
       "Molten Freddy": {
         "Normal": {
-          "value": "0.8-1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -307,14 +307,14 @@
       },
       "Scraptrap": {
         "Normal": {
-          "value": "0.3-0.5",
+          "value": "0.2-0.35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 762
         },
         "Shiny": {
-          "value": "8",
+          "value": "4-5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -330,11 +330,11 @@
           "exists": 767
         },
         "Shiny": {
-          "value": "25",
+          "value": "27.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 29
+          "exists": 43
         }
       },
       "Helpy": {
@@ -362,16 +362,16 @@
           "exists": 10510
         },
         "Shiny": {
-          "value": "3.4",
+          "value": "3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Dropping",
           "exists": 1000
         }
       },
       "Rockstar Foxy": {
         "Normal": {
-          "value": "0.25+",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -646,14 +646,14 @@
           "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 1419
         },
         "Shiny": {
-          "value": "8",
+          "value": "8-10",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 101
         }
       },
@@ -662,14 +662,14 @@
           "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 1728
         },
         "Shiny": {
-          "value": "6+",
+          "value": "8+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 103
         }
       },
@@ -685,8 +685,8 @@
           "value": "6-6.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
-          "exists": 162
+          "status": "Stable",
+          "exists": 183
         }
       },
       "Faz-Ino Springbonnie": {
@@ -694,14 +694,14 @@
           "value": "0.5-0.6",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 2158
         },
         "Shiny": {
           "value": "8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 119
         }
       },
@@ -710,7 +710,7 @@
           "value": "0.08-0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 14850
         },
         "Shiny": {
@@ -2330,7 +2330,7 @@
           "exists": 19610
         },
         "Shiny": {
-          "value": "3.5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Overhyped",
@@ -3001,7 +3001,7 @@
     },
     "Presents": {
       "Season 5 Present": {
-        "value": "0.0005-0.0007",
+        "value": "0.0007+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3391,7 +3391,7 @@
         "status": "Stable"
       },
       "AFK Present": {
-        "value": "0.002+",
+        "value": "0.002-0.005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Overpaid"
