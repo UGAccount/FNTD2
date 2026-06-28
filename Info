@@ -17,7 +17,7 @@
           "exists": 129
         }
       },
-      "Reclaimed Nature Foxy": {
+      "Nature Reclaimed Foxy": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -7874,7 +7874,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Nature Reclaimed Present"
+          "Overgrown Foxy Evolution"
         ]
       }
     },
