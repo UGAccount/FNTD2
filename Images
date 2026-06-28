@@ -167,7 +167,8 @@
       "Reaper": "https://iili.io/BgG8lnI.png",
       "Boss Drain": "https://iili.io/BgG80Gt.png",
       "The Fan": "https://iili.io/Bbzsx4I.png",
-      "UFO": "https://iili.io/C3TNqBa.png"
+      "UFO": "https://iili.io/C3TNqBa.png",
+      "Pearl": "https://iili.io/CRAim91.png"
 },
     "Pets": {
     "Old Man Consequences": "https://iili.io/fZKo7N1.png",
@@ -261,7 +262,9 @@
     "Scooped Ice-Cream Micheal": "https://iili.io/CTbllYg.png",
     "Shiny Scooped Ice-Cream Micheal": "https://iili.io/CTblOan.png",
     "Glacier Springtrap": "https://iili.io/CIMruR9.png",
-    "Shiny Glacier Springtrap": "https://iili.io/CIMrGHP.png"
+    "Shiny Glacier Springtrap": "https://iili.io/CIMrGHP.png",
+    "Mad Doctor Purple Guy": "https://iili.io/CRAsCAX.png",
+    "Shiny Mad Doctor Purple Guy": "https://iili.io/CRAslDu.png"
     },
     "Units": {
     "Balloon Boy": "https://iili.io/fPZ5UNa.png",
@@ -624,9 +627,11 @@
     "Commander Withered Freddy": "https://iili.io/CRxa7yB.png",
     "Shiny Commander Withered Freddy": "https://iili.io/CRxa5vV.png",
     "Reclaimed Nature Foxy": "https://iili.io/CRxaaTP.png",
+    "Shiny Nature Reclaimed Foxy": "https://iili.io/CRAkgst.png",
     "Abyssal Ballora": "https://iili.io/CRxa1Cg.png",
     "Shiny Abyssal Ballora": "https://iili.io/CRxalZF.png",
     "Afterbite Withered Golden Freddy": "https://iili.io/CRxaEGa.png",
+    "Shiny Afterbite Witheed Golden Freddy": "https://iili.io/CRAU91t.png",
     "Gaia Chica": "https://iili.io/CRxaV3v.png",
     "Shiny Gaia Chica": "https://iili.io/CRxaG6J.png"
 }
