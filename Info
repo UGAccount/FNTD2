@@ -2291,7 +2291,7 @@
       },
       "Party Packer Cupcake": {
         "Normal": {
-          "value": "0.03-0.04",
+          "value": "0.06+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
