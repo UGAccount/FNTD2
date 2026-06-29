@@ -2339,14 +2339,14 @@
       },
       "Overgrown Foxy": {
         "Normal": {
-          "value": "0.01+",
+          "value": "0.03+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 155520
         },
         "Shiny": {
-          "value": "0.05+",
+          "value": "0.07-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
