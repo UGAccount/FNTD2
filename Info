@@ -1267,7 +1267,7 @@
       },
       "Nightmarionne": {
         "Normal": {
-          "value": "0.8",
+          "value": "1+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
