@@ -67,7 +67,7 @@
       },
       "Commander Withered Freddy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -83,10 +83,10 @@
       },
       "Foxy EXE": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 1840
         },
         "Shiny": {
@@ -115,7 +115,7 @@
       },
       "Fathomless Withered Foxy": {
         "Normal": {
-          "value": "2+",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -227,7 +227,7 @@
       },
       "Scrap Baby": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -259,7 +259,7 @@
       },
       "El Chip": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -291,7 +291,7 @@
       },
       "Funtime Chica": {
         "Normal": {
-          "value": "0.25",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -307,7 +307,7 @@
       },
       "Molten Freddy": {
         "Normal": {
-          "value": "0.6+",
+          "value": "0.6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -330,11 +330,11 @@
           "exists": 762
         },
         "Shiny": {
-          "value": "4+",
+          "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 62
+          "exists": 150
         }
       },
       "Candy Cadet": {
@@ -362,7 +362,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "3",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -378,7 +378,7 @@
           "exists": 10510
         },
         "Shiny": {
-          "value": "3",
+          "value": "2.5-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -451,7 +451,7 @@
       },
       "Showtime Freddy": {
         "Normal": {
-          "value": "0.05-0.09",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -483,7 +483,7 @@
       },
       "Nightmare Shadow Bonnie": {
         "Normal": {
-          "value": "0.05-0.09",
+          "value": "0.04",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -499,7 +499,7 @@
       },
       "Fredtrap": {
         "Normal": {
-          "value": "0.05-0.09",
+          "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -515,7 +515,7 @@
       },
       "Toy Foxy": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.03+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -531,7 +531,7 @@
       },
       "Sparky": {
         "Normal": {
-          "value": "0.02-0.04",
+          "value": "0.01+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
