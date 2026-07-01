@@ -3,14 +3,14 @@
     "Units": {
       "Gaia Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "5-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 829
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -19,97 +19,97 @@
       },
       "Nature Reclaimed Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 52
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3.5-4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 307
         }
       },
       "Abyssal Ballora": {
         "Normal": {
-          "value": "N/A",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 828
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "9+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 35
         }
       },
       "Afterbite Withered Golden Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 2357
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 1361
         }
       },
       "Commander Withered Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 306
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 858
         }
       },
       "Foxy EXE": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 1840
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 2455
         }
       },
       "Trash O Tron": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 2696
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.15+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 1942
         }
       },
@@ -202,7 +202,7 @@
           "exists": 6345
         },
         "Shiny": {
-          "value": "2+",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -218,10 +218,10 @@
           "exists": 3144
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2-2.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 276
         }
       },
@@ -234,10 +234,26 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Slowly Dropping",
+          "exists": 0
+        }
+      },
+      "Music Man": {
+        "Normal": {
+          "value": "0.1-0.2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Slowly Dropping",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "4.5+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
           "exists": 0
         }
       },
@@ -250,10 +266,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 0
         }
       },
@@ -266,10 +282,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 0
         }
       },
@@ -282,10 +298,10 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3-4.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 0
         }
       },
@@ -298,7 +314,7 @@
           "exists": 537
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "11-12",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -307,14 +323,14 @@
       },
       "Scraptrap": {
         "Normal": {
-          "value": "0.2-0.35",
+          "value": "0.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 762
         },
         "Shiny": {
-          "value": "4-5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -371,14 +387,14 @@
       },
       "Rockstar Foxy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 34579
         },
         "Shiny": {
-          "value": "2-3",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -442,7 +458,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.6-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -458,7 +474,7 @@
           "exists": 10203
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.6-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -490,7 +506,7 @@
           "exists": 5394
         },
         "Shiny": {
-          "value": "1-1.3",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -506,7 +522,7 @@
           "exists": 4390
         },
         "Shiny": {
-          "value": "0.8-1",
+          "value": "0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -643,14 +659,14 @@
       },
       "Fazman": {
         "Normal": {
-          "value": "0.8",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1419
         },
         "Shiny": {
-          "value": "10+",
+          "value": "25-27.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -659,14 +675,14 @@
       },
       "Super Soldier Foxy": {
         "Normal": {
-          "value": "0.4-0.7",
+          "value": "0.5-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1728
         },
         "Shiny": {
-          "value": "10+",
+          "value": "15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -675,14 +691,14 @@
       },
       "Ignited Burst Withered Freddy": {
         "Normal": {
-          "value": "0.4",
+          "value": "0.5-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 2899
         },
         "Shiny": {
-          "value": "6-6.5",
+          "value": "10-15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -691,14 +707,14 @@
       },
       "Faz-Ino Springbonnie": {
         "Normal": {
-          "value": "0.5-0.6",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 2158
         },
         "Shiny": {
-          "value": "8",
+          "value": "13+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -3385,7 +3401,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.005+",
+        "value": "0.006+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -3757,7 +3773,7 @@
         "status": "Stable"
       },
       "VIP": {
-        "value": "1+",
+        "value": "1-1.5+",
         "soul": "N/A",
         "demand": "8/10",
         "status": "Fluctuating"
@@ -3769,10 +3785,10 @@
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "0.8-1",
+        "value": "1.5-2+",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Stable"
+        "status": "Unstable"
       },
       "Quick Open": {
         "value": "0.8+",
