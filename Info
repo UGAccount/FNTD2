@@ -3401,7 +3401,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.006+",
+        "value": "0.005-0.006",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
