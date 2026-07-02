@@ -787,14 +787,14 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "1.4+",
+          "value": "1.8-2",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
           "exists": 8346
         },
         "Shiny": {
-          "value": "10+",
+          "value": "13+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -1075,7 +1075,7 @@
       },
       "Dragon Endo 01": {
         "Normal": {
-          "value": "2-3.4",
+          "value": "3.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
