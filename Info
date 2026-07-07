@@ -1,6 +1,22 @@
 {
   "Values": {
     "Units": {
+      "Lore Keeper Shadow Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Gaia Chica": {
         "Normal": {
           "value": "5-6",
@@ -15006,6 +15022,88 @@
         "Base": [
           "9th Bi-Weekly Exclusive (699 R$ / 65000 Tokens / 1500 Souls)",
           "Hacker Bonnie Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Lore Keeper Shadow Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 1932.0,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 1932.0,
+          "Cooldown": 3.0,
+          "Type": "Circle",
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 2189.0,
+          "Cooldown": 3.0,
+          "Type": "Circle",
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 28,
+          "Damage": 2511.0,
+          "Cooldown": 3.0,
+          "Type": "Circle",
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 3091.0,
+          "Cooldown": 3.25,
+          "Type": "Line",
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 30,
+          "Damage": 3477.0,
+          "Cooldown": 3.25,
+          "Type": "Line",
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 30,
+          "Damage": 3864.0,
+          "Cooldown": 3.25,
+          "Type": "Line",
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 32,
+          "Damage": 4636.0,
+          "Cooldown": 3.5,
+          "Type": "Cone",
+          "Degrees": 180,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 32,
+          "Damage": 5409.0,
+          "Cooldown": 3.5,
+          "Type": "Cone",
+          "Degrees": 180,
+          "UpgradePrice": 12500
+        }
+      ],
+      "Passives": {
+        "Meticulous Study": "Enemies entering this unit's range for the first time: are stunned for 3s and are inflicted with 25% Wither for 30s.",
+        "Callings of the Past": "At the start of every game, 5 Missing Children's Posters are collected by Lore Keeper Shadow Bonnie. This grants Remnant based on the majority element on the team and applies its effect to the units of that element. Water: Attacks apply 5% slow, capping at 20%. Dark: Attacks apply 15% poison over 5s and cannot reapply until it ends. Nature: Grants +1 stock, then grants +1 bonus stock when Nature units are placed, capping at +5 bonus stock. Rust: Attacks apply 10% Wither for 5s and cannot reapply until it ends. Light: Attacks 15% faster. Neutral: +15% crit rate and +20% crit damage. Fire: Attacks apply 20% more burn. Electric: Attacks stun for 0.75s and cannot bypass stun lock."
+      },
+      "Obtainability": {
+        "Base": [
+          "The Tower, Floor 50 Rewards"
         ]
       }
     },
