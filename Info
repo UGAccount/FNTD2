@@ -15034,55 +15034,55 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 24,
-        "Damage": 1932.0,
+        "Damage": 765.2,
         "Cooldown": 3.0
       },
       "UpgradeStats": [
         {
           "Range": 24,
-          "Damage": 1932.0,
+          "Damage": 765.2,
           "Cooldown": 3.0,
           "Type": "Circle",
           "UpgradePrice": 4000
         },
         {
           "Range": 26,
-          "Damage": 2189.0,
+          "Damage": 867.2,
           "Cooldown": 3.0,
           "Type": "Circle",
           "UpgradePrice": 3000
         },
         {
           "Range": 28,
-          "Damage": 2511.0,
+          "Damage": 994.7,
           "Cooldown": 3.0,
           "Type": "Circle",
           "UpgradePrice": 4000
         },
         {
           "Range": 28,
-          "Damage": 3091.0,
+          "Damage": 1224.3,
           "Cooldown": 3.25,
           "Type": "Line",
           "UpgradePrice": 5500
         },
         {
           "Range": 30,
-          "Damage": 3477.0,
+          "Damage": 1377.3,
           "Cooldown": 3.25,
           "Type": "Line",
           "UpgradePrice": 7000
         },
         {
           "Range": 30,
-          "Damage": 3864.0,
+          "Damage": 1530.3,
           "Cooldown": 3.25,
           "Type": "Line",
           "UpgradePrice": 8500
         },
         {
           "Range": 32,
-          "Damage": 4636.0,
+          "Damage": 1836.3,
           "Cooldown": 3.5,
           "Type": "Cone",
           "Degrees": 180,
@@ -15090,7 +15090,7 @@
         },
         {
           "Range": 32,
-          "Damage": 5409.0,
+          "Damage": 2142.4,
           "Cooldown": 3.5,
           "Type": "Cone",
           "Degrees": 180,
