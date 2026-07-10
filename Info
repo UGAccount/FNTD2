@@ -3432,10 +3432,10 @@
         "status": "Stable"
       },
       "AFK Present": {
-        "value": "0.002-0.005",
+        "value": "0.001-0.002",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Overpaid"
+        "status": "Stable"
       },
       "Secret Present": {
         "value": "N/A",
