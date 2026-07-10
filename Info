@@ -6,7 +6,7 @@
           "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 0
         },
         "Shiny": {
@@ -26,7 +26,7 @@
           "exists": 1886
         },
         "Shiny": {
-          "value": "8",
+          "value": "7-8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -666,7 +666,7 @@
           "exists": 1419
         },
         "Shiny": {
-          "value": "25-30+",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -689,22 +689,6 @@
           "exists": 103
         }
       },
-      "Ignited Burst Withered Freddy": {
-        "Normal": {
-          "value": "0.5-0.7",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Fluctuating",
-          "exists": 2899
-        },
-        "Shiny": {
-          "value": "18+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable",
-          "exists": 183
-        }
-      },
       "Faz-Ino Springbonnie": {
         "Normal": {
           "value": "1.2-1.5",
@@ -719,6 +703,22 @@
           "demand": "N/A",
           "status": "Stable",
           "exists": 119
+        }
+      },
+      "Ignited Burst Withered Freddy": {
+        "Normal": {
+          "value": "0.5-0.7",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Fluctuating",
+          "exists": 2899
+        },
+        "Shiny": {
+          "value": "18",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 183
         }
       },
       "Antihero Mike": {
@@ -1066,7 +1066,7 @@
           "exists": 11700
         },
         "Shiny": {
-          "value": "70+",
+          "value": "80",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -2250,7 +2250,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "35+",
+          "value": "30-35",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Overhyped",
@@ -3426,7 +3426,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.004-0.005",
+        "value": "0.003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
