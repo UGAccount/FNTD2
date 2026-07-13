@@ -16926,7 +16926,7 @@
       "Boost": {
         "Damage": 2.2,
         "Range": 1.05,
-        "Cooldown": 0.92.5
+        "Cooldown": 0.925
       }
     },
     "Prototype": {
