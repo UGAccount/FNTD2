@@ -4852,6 +4852,196 @@
       }
     },
     {
+      "Name": "Arch Angler Toy Bonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 385.0,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Damage": 385.0,
+          "Cooldown": 5.0,
+          "Type": "Line",
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 18,
+          "Damage": 460.0,
+          "Cooldown": 4.8,
+          "Type": "Line",
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 20,
+          "Damage": 610.0,
+          "Cooldown": 4.8,
+          "Type": "Line",
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Damage": 710.0,
+          "Cooldown": 4.5,
+          "Type": "Line",
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 24,
+          "Damage": 880.0,
+          "Cooldown": 4.5,
+          "Type": "Line",
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 24,
+          "Damage": 1100.0,
+          "Cooldown": 4.2,
+          "Type": "Line",
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Shark Infested Waters": "Attacks: Apply 25% bleed over 5s. All shark towers perform a follow-up automatically on double this units cooldown, dealing 25% of their damage as bleed over 5s.",
+        "Sit for a While": "If Old Man Consequences is on the team: This unit is free to place. Receives double the buffs of [Guiding Whistle]."
+      },
+      "Obtainability": {
+        "Base": [
+          "Fisherman Toy Bonnie evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Bombwork Cupcake",
+      "Rarity": "Secret",
+      "PlacementPrice": 2000,
+      "Type": "Explosion",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 380.0,
+        "Cooldown": 3.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Damage": 380.0,
+          "Cooldown": 3.0,
+          "Type": "Explosion",
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 18,
+          "Damage": 420.0,
+          "Cooldown": 3.3,
+          "Type": "Explosion",
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 22,
+          "Damage": 480.0,
+          "Cooldown": 3.3,
+          "Type": "Explosion",
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 550.0,
+          "Cooldown": 3.6,
+          "Type": "Explosion",
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 25,
+          "Damage": 650.0,
+          "Cooldown": 3.6,
+          "Type": "Explosion",
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 800.0,
+          "Cooldown": 4.0,
+          "Type": "Explosion",
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 950.0,
+          "Cooldown": 4.0,
+          "Type": "Explosion",
+          "UpgradePrice": 6000
+        }
+      ],
+      "Passives": {
+        "Short Fuse": "Every 20s: Deal 200% of this unit's damage as Full AoE. Damage increases by 20% per Nature unit on the team. Timer decreases by 1.5s per Fire unit on the team. Every second: Gain +1% damage (Max 30%). If the team only has Nature and Fire units, gain +1.5% damage instead (Max 45%). If sold with max buff: Deal 300% of this unit's damage as Full AoE."
+      },
+      "Obtainability": {
+        "Base": [
+          "Clockwork Cupcake's evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Party Never Ends Cupcake",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Explosion",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 12,
+        "Damage": 100.0,
+        "Cooldown": 15.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 12,
+          "Damage": 100.0,
+          "Cooldown": 15.0,
+          "Type": "Explosion",
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 15,
+          "Damage": 125.0,
+          "Cooldown": 15.0,
+          "Type": "Explosion",
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 20,
+          "Damage": 150.0,
+          "Cooldown": 15.0,
+          "Type": "Explosion",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 175.0,
+          "Cooldown": 15.0,
+          "Type": "Explosion",
+          "UpgradePrice": 50000
+        }
+      ],
+      "Passives": {
+        "Varity Pack": "At max upgrade: Mimics the highest damage and range from nearby towers. Has a set cooldown of 15s. On takedown: Summons 3 cupcakes with 25% damage as health. Summons 6 cupcakes if 2+ cupcake towers are within range.",
+        "Birthday Boy": "Towers in range: Buff damage and range by 15%. Reduce cooldown by 5%. Cupcake towers receive double this buff."
+      },
+      "Obtainability": {
+        "Base": [
+          "Cupcake evolution"
+        ]
+      }
+    },
+    {
       "Name": "John Pigpatch",
       "Rarity": "Epic",
       "PlacementPrice": 3250,
