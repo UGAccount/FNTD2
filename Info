@@ -1,29 +1,61 @@
 {
   "Values": {
     "Units": {
-      "Party Never Ends Cupcake": {
+      "Arch Angler Toy Bonnie": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 12
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 210
+        }
+      },
+      "Bombwork Cupcake": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 25
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 277
+        }
+      },
+      "Party Never Ends Cupcake": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 42
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 574
         }
       },
       "Lore Keeper Shadow Bonnie": {
         "Normal": {
-          "value": "0.4+",
+          "value": "0.2-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 7801
         },
         "Shiny": {
           "value": "N/A",
@@ -1795,7 +1827,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "17",
+          "value": "18+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Overhyped",
@@ -1843,7 +1875,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "18-20",
+          "value": "20+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Overhyped",
@@ -16887,6 +16919,14 @@
         "Damage": 1.9,
         "Range": 1.15,
         "Cooldown": 0.95
+      }
+    },
+    "Hijacked": {
+      "Description": "120% damage but placement limit is capped at 1 (180%+ more damage per placement lost), 5% range, 6.5% cd",
+      "Boost": {
+        "Damage": 2.2,
+        "Range": 1.05,
+        "Cooldown": 0.92.5
       }
     },
     "Prototype": {
