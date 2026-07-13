@@ -115,7 +115,7 @@
       },
       "Afterbite Withered Golden Freddy": {
         "Normal": {
-          "value": "0.1-0.25",
+          "value": "0.1-0.15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1747,7 +1747,7 @@
       },
       "Blighted Endo Freddy": {
         "Normal": {
-          "value": "1",
+          "value": "1.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1763,7 +1763,7 @@
       },
       "Tarnished Spring Bonnie": {
         "Normal": {
-          "value": "0.4+",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1898,7 +1898,7 @@
           "exists": 3945
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -2051,14 +2051,14 @@
       },
       "Jack'O Bonnie": {
         "Normal": {
-          "value": "0.4+",
+          "value": "1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 2650
         },
         "Shiny": {
-          "value": "50",
+          "value": "60+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -2179,14 +2179,14 @@
       },
       "Golden Cupcake": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.4-0.5+",
           "soul": "N/A",
-          "demand": "4/10",
+          "demand": "N/A",
           "status": "Stable",
           "exists": 9380
         },
         "Shiny": {
-          "value": "3+",
+          "value": "7+",
           "soul": "N/A",
           "demand": "10/10",
           "status": "Overhyped",
@@ -2202,7 +2202,7 @@
           "exists": 3460
         },
         "Shiny": {
-          "value": "20+",
+          "value": "30+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -2330,7 +2330,7 @@
           "exists": 3163
         },
         "Shiny": {
-          "value": "20-25",
+          "value": "30+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -2339,7 +2339,7 @@
       },
       "Balloon Boy": {
         "Normal": {
-          "value": "0.1",
+          "value": "1+",
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
@@ -2985,7 +2985,7 @@
         "enchant": "Champion",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Unstable",
         "exists": "0"
       },
       "Mother Nature Ballora": {
@@ -2998,12 +2998,12 @@
         "exists": "31"
       },
       "Bear5": {
-        "value": "15",
+        "value": "20+",
         "version": "Normal",
         "enchant": "Champion",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Underpaid",
+        "status": "Fluctuating",
         "exists": "67"
       },
       "Thanatos": {
@@ -3879,10 +3879,10 @@
         "exists": 0
       },
       "Mad Doctor Purple Guy": {
-        "value": "N/A",
+        "value": "0.5-1",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A",
+        "status": "Fluctuating",
         "exists": 0
       },
       "Wandering Soul": {
@@ -8302,7 +8302,19 @@
         "Base": [
           "Superhero Event Summons (0.005% chance)"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Mad Doctor Purple Guy",
+          "Obtainability": "Top (?)",
+          "Rarity": "Nightmare"
+        },
+        {
+          "Name": "Shiny Mad Doctor Purple Guy",
+          "Obtainability": "Top (?)",
+          "Rarity": "Nightmare"
+        }
+      ]
     },
     {
       "Name": "Phantom Mangle",
@@ -13076,7 +13088,7 @@
       ],
       "Passives": {
         "Astral Alignment": " Every 30 seconds, the stars align, giving Astral Bonnie one of three constellations for 45 seconds. Big Dipper: Astral Bonnie's attacks ricochet between enemies, and each bounce deals 5% more damage. Caps at 6 targets. Orion's Belt: Units aligned with Astral Bonnie gain +3% range and +2% damage per connected unit. Caps at +45% range and +30% damage. Hercules: Astral Bonnie gains +1.5% damage for each enemy currently on the map. ",
-        "Astral Sickness": "Regenerating enemies inside Astral Bonnie's range have their regeneration reduced by 15%. If Astral Bonnie hits one, that reduction becomes 40% for 3 seconds."
+        "Astral Sickness": "Regenerating enemies inside Astral Bonnie's range have their regeneration reduced by 15%. If Astral Bonnie hits one, that reduction becomes 100% for 3 seconds."
       },
       "Actives": [
         {
