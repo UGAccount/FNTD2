@@ -2403,7 +2403,7 @@
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "0.7-0.09",
+          "value": "0.05+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
