@@ -10,7 +10,7 @@
           "exists": 12
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.5-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -26,7 +26,7 @@
           "exists": 25
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -42,7 +42,7 @@
           "exists": 42
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.25-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -3089,12 +3089,6 @@
       }
     },
     "Presents": {
-      "Season 5 Present": {
-        "value": "0.0004-0.0006",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
       "Candy Cadet Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3107,18 +3101,6 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Clan Wars Season 2 Present": {
-        "value": "0.002",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
-      "Season 4 Present": {
-        "value": "0.0003",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
       "Lolbit Present": {
         "value": "2.2-2.5",
         "soul": "N/A",
@@ -3126,7 +3108,7 @@
         "status": "Unstable"
       },
       "Scooped Micheal Present": {
-        "value": "0.5-0.6",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3185,6 +3167,18 @@
         "demand": "N/A",
         "status": "N/A"
       },
+      "Season 5 Present": {
+        "value": "0.0004-0.0006",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Season 4 Present": {
+        "value": "0.0003",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Season 3 Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3233,8 +3227,14 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Season 1 Clan Present": {
+      "Clan Wars Season 2 Present": {
         "value": "0.002",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Season 1 Clan Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
