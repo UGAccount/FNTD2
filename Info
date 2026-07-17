@@ -3222,7 +3222,7 @@
         "status": "N/A"
       },
       "Clan Wars Season 2 Present": {
-        "value": "0.002",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3245,13 +3245,13 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Hacker Bonnie Present": {
+      "Hacker Shadow Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
-      "Sweetheart Present": {
+      "Sweetheart Mangle Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3269,7 +3269,7 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Luminary Reporter Present": {
+      "Luminary Reporter Shadow Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3293,7 +3293,7 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Party Glock Present": {
+      "Party Glock Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
