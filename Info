@@ -3137,6 +3137,12 @@
         "demand": "N/A",
         "status": "Fluctuating"
       },
+      "Medieval Present": {
+        "value": "0.0003",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Lich Shadow Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3157,12 +3163,6 @@
       },
       "Shadow Knight Freddy Present": {
         "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Medieval Present": {
-        "value": "0.0003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
