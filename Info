@@ -2369,22 +2369,6 @@
           "exists": 288
         }
       },
-      "Time Lord Withered Freddy": {
-        "Normal": {
-          "value": "0.8",
-          "soul": "N/A",
-          "demand": "6/10",
-          "status": "Overhyped",
-          "exists": 12630
-        },
-        "Shiny": {
-          "value": "10+",
-          "soul": "N/A",
-          "demand": "7.5/10",
-          "status": "Overhyped",
-          "exists": 791
-        }
-      },
       "Blossom Chica": {
         "Normal": {
           "value": "0.05+",
@@ -3098,7 +3082,7 @@
         "status": "N/A"
       },
       "Lolbit Present": {
-        "value": "2.2-2.5",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3150,30 +3134,6 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
-      },
-      "Season 4 Present": {
-        "value": "0.0003",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Season 3 Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Season 2 Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Season 1 Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
       },
       "Freddles Present": {
         "value": "N/A",
@@ -3446,12 +3406,6 @@
         "status": "N/A"
       },
       "Abyssal Ballora Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Time Lord Withered Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
