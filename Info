@@ -218,7 +218,7 @@
           "exists": 8174
         },
         "Shiny": {
-          "value": "8-11+",
+          "value": "12+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -314,7 +314,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "4.5-6",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -346,7 +346,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "1.5-2",
+          "value": "1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -378,7 +378,7 @@
           "exists": 537
         },
         "Shiny": {
-          "value": "11-15",
+          "value": "15+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -387,14 +387,14 @@
       },
       "Scraptrap": {
         "Normal": {
-          "value": "0.2+",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 762
         },
         "Shiny": {
-          "value": "3-4",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -522,7 +522,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "0.6-1",
+          "value": "0.45+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -538,7 +538,7 @@
           "exists": 10203
         },
         "Shiny": {
-          "value": "0.6-0.8",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -554,7 +554,7 @@
           "exists": 19632
         },
         "Shiny": {
-          "value": "0.3",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -570,7 +570,7 @@
           "exists": 5394
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -586,7 +586,7 @@
           "exists": 4390
         },
         "Shiny": {
-          "value": "0.7",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -602,7 +602,7 @@
           "exists": 40918
         },
         "Shiny": {
-          "value": "0.1-0.3",
+          "value": "0.04-0.06",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -689,22 +689,6 @@
           "exists": 754
         }
       },
-      "Kronos Endo Freddy": {
-        "Normal": {
-          "value": "3.5",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 5267
-        },
-        "Shiny": {
-          "value": "13-14",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 775
-        }
-      },
       "Fazman": {
         "Normal": {
           "value": "1-1.4+",
@@ -714,7 +698,7 @@
           "exists": 1419
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "30+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -730,7 +714,7 @@
           "exists": 1728
         },
         "Shiny": {
-          "value": "20",
+          "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -746,7 +730,7 @@
           "exists": 2158
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "30+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -826,7 +810,7 @@
           "exists": 8346
         },
         "Shiny": {
-          "value": "25+",
+          "value": "35-40",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -835,7 +819,7 @@
       },
       "Landslide Funtime Foxy": {
         "Normal": {
-          "value": "0.02+",
+          "value": "0.05+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1306,7 +1290,7 @@
           "exists": 9470
         },
         "Shiny": {
-          "value": "7+",
+          "value": "8+",
           "soul": "N/A",
           "demand": "10/10",
           "status": "Overhyped",
@@ -1338,7 +1322,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "6+",
+          "value": "10+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1786,7 +1770,7 @@
           "exists": 82340
         },
         "Shiny": {
-          "value": "3+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
@@ -1802,7 +1786,7 @@
           "exists": 91350
         },
         "Shiny": {
-          "value": "1.5+",
+          "value": "3+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2202,7 +2186,7 @@
           "exists": 3460
         },
         "Shiny": {
-          "value": "30+",
+          "value": "80+",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -2330,7 +2314,7 @@
           "exists": 3163
         },
         "Shiny": {
-          "value": "30+",
+          "value": "60+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -2410,7 +2394,7 @@
           "exists": 19610
         },
         "Shiny": {
-          "value": "3-3.5",
+          "value": "2.5",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
@@ -3840,25 +3824,25 @@
         "status": "Unstable"
       },
       "Shiny Hunter": {
-        "value": "3+",
+        "value": "3.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
       },
       "VIP": {
-        "value": "1-1.5+",
+        "value": "2+",
         "soul": "N/A",
         "demand": "8/10",
         "status": "Fluctuating"
       },
       "Premium": {
-        "value": "1+",
+        "value": "1.5+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
       "Event Premium": {
-        "value": "1.5-2+",
+        "value": "2-3+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
