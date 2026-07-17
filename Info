@@ -3467,6 +3467,12 @@
         "demand": "N/A",
         "status": "N/A"
       },
+      "Abyssal Ballora Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Time Lord Withered Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
