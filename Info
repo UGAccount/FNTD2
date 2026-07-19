@@ -3087,20 +3087,20 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "April Fools Present": {
+      "Deagon Endo 01 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Dragon Endo 01 Present": {
+      "Lolbit Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Fluctuating"
+        "status": "N/A"
       },
-      "Medieval Present": {
-        "value": "0.0003",
+      "Nightmarionne Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -3111,7 +3111,7 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Nightmarionne Present": {
+      "Medieval Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
