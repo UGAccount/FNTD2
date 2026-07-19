@@ -3057,6 +3057,12 @@
       }
     },
     "Presents": {
+      "PvP Skin Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Candy Cadet Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3067,16 +3073,34 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       },
       "Scraptrap Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       },
       "Helpy Present": {
         "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "April Fools Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Dragon Endo 01 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Fluctuating"
+      },
+      "Medieval Present": {
+        "value": "0.0003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -3091,15 +3115,9 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
-      },
-      "Lolbit Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
         "status": "N/A"
       },
-      "Dragon Endo 01 Present": {
+      "Crying Child Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
