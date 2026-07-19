@@ -3057,13 +3057,7 @@
       }
     },
     "Presents": {
-      "Fallen Angel Nightmarionne Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Firework Shadow Freddy Present": {
+      "PvP Skin Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3073,40 +3067,28 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       },
-      "PvP Skin Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Lolbit Present": {
+      "Molten Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Scooped Micheal Present": {
+      "Scrapyrap Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Exotic Butters Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
-      "HandUnit Present": {
+      "Helpy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
       },
       "April Fools Present": {
-        "value": "0.008+",
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3119,12 +3101,6 @@
       },
       "Medieval Present": {
         "value": "0.0003",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Lich Shadow Bonnie Present": {
-        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
@@ -3165,18 +3141,6 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "War Machine Foxy Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Rockin Bonnie Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "Christmas Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3201,18 +3165,6 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Movie Director Freddy Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Christmas Event Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "Headless Horseman Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3231,47 +3183,11 @@
         "demand": "N/A",
         "status": "O/C"
       },
-      "Scarecrow Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Slasher Bonnie Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Follow Me Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phantom Bonnie Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Golden Cupcake Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "Phone Dude Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "O/C"
-      },
-      "Cloaked Sparky Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
       },
       "Shadow Bonnie Present": {
         "value": "N/A",
