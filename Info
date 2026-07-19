@@ -3087,8 +3087,26 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "April Fools Present": {
+      "Scooped Micheal Present": {
         "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Exotic Butters Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "HandUnit Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "April Fools Present": {
+        "value": "0.008+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -3098,6 +3116,12 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating"
+      },
+      "Medieval Present": {
+        "value": "0.0003",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
       },
       "Lich Shadow Bonnie Present": {
         "value": "N/A",
@@ -3118,6 +3142,18 @@
         "status": "N/A"
       },
       "Crying Child Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Clan Wars Season 2 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Clan Wars Season 1 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3322,6 +3358,12 @@
         "status": "N/A"
       },
       "Uncommon Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Halloween Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
