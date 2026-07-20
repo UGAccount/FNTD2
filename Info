@@ -12451,6 +12451,221 @@
       }
     },
     {
+      "Name": "Cthulhu Nightmare Foxy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 1928,
+      "Type": "Line",
+      "Element": "Dark/Water",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 600.0,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 600.0,
+          "Cooldown": 4.0,
+          "Type": "Line",
+          "UpgradePrice": 1928
+        },
+        {
+          "Range": 19,
+          "Damage": 750.0,
+          "Cooldown": 4.0,
+          "Type": "Line",
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 20,
+          "Damage": 950.0,
+          "Cooldown": 4.0,
+          "Type": "Line",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 1100.0,
+          "Cooldown": 3.0,
+          "Type": "Line",
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 25,
+          "Damage": 1300.0,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1600.0,
+          "Cooldown": 3.0,
+          "Type": "Cone",
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Star spawn": "Active: Warp a unit in range (Cap of 3). Warped units: Receive +15% damage and range. Have their element changed to Dark/Water.",
+        "Depth of insanity": "Every 30 seconds: Become invisible every other second for 10 seconds (+2 seconds per Warped unit in range). Every time this unit becomes invisible: Receive +2% damage and range (Cap of 40%). When there are 3 warped units in range: Attacks stun for 1 second. Attacks apply 20% slow for 5 seconds."
+      },
+      "Actives": {
+        "Star spawn": "Warp a unit in range. Warped units receive +30% damage and range and become Dark/Water."
+      },
+      "Obtainability": {
+        "Base": [
+          "Open War's tournament reward (Top 10)"
+        ]
+      }
+    },
+    {
+      "Name": "Mothman Lefty",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 7500,
+      "Type": "Explosion",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 200.0,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 200.0,
+          "Cooldown": 1.5,
+          "Type": "Explosion",
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 22,
+          "Damage": 230.0,
+          "Cooldown": 1.5,
+          "Type": "Explosion",
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Damage": 275.0,
+          "Cooldown": 1.5,
+          "Type": "Explosion",
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23,
+          "Damage": 340.0,
+          "Cooldown": 1.5,
+          "Type": "Explosion",
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 23,
+          "Damage": 420.0,
+          "Cooldown": 1.5,
+          "Type": "Explosion",
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 23,
+          "Damage": 500.0,
+          "Cooldown": 2.0,
+          "Type": "Explosion",
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 26,
+          "Damage": 540.0,
+          "Cooldown": 2.0,
+          "Type": "Line",
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 26,
+          "Damage": 600.0,
+          "Cooldown": 2.0,
+          "Type": "Line",
+          "UpgradePrice": 12000
+        }
+      ],
+      "Passives": {
+        "Piercing eyes": "Enemies in range: Slowed by 1% per second (Max 20%). Every 3 seconds, take 100% of this unit's damage, increasing by 10% per repetition (Max 200%). On hit: Deals +4 shield damage",
+        "Figure in the dark": "If other Dark units are on the team: 1+ Dark units: +10% damage and +5% range. 3+ Dark units: +50% damage and +10% range. 5 Dark units: +100% damage and +20% range. At 5+ Dark units: Enemies in range take 25% more damage from Dark units"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 3 Clan Present (0.05%)"
+        ]
+      }
+    },
+    {
+      "Name": "Unicorn Toy Foxy",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 1000,
+      "Type": "Ricochet",
+      "Element": "Light",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 500.0,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 500.0,
+          "Cooldown": 4.0,
+          "Type": "Ricochet",
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 22,
+          "Damage": 550.0,
+          "Cooldown": 4.0,
+          "Type": "Ricochet",
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 625.0,
+          "Cooldown": 4.0,
+          "Type": "Ricochet",
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 28,
+          "Damage": 700.0,
+          "Cooldown": 4.0,
+          "Type": "Ricochet",
+          "UpgradePrice": 4750
+        },
+        {
+          "Range": 32,
+          "Damage": 750.0,
+          "Cooldown": 3.5,
+          "Type": "Ricochet",
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 32,
+          "Damage": 800.0,
+          "Cooldown": 3.5,
+          "Type": "Ricochet",
+          "UpgradePrice": 8500
+        }
+      ],
+      "Passives": {
+        "Light eater": "Attacks: Apply a 1% stacking wither (Max 15%). Performs a follow-up attack if an enemy reaches under 35% HP.",
+        "Star of the show": "For every Light element unit in range: Attacks ricochet to an additional enemy."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 3 Clan Present (0.5%)"
+        ]
+      }
+    },
+    {
       "Name": "Kronos Endo Freddy",
       "Rarity": "Apex",
       "PlacementPrice": 12500,
@@ -13175,6 +13390,96 @@
         ]
       },
       "Note": "His summons (and a few others) are unable to finish or kill enemies fully, as well as not able to hit bosses. "
+    },
+    {
+      "Name": "Grand Strategist Chica",
+      "Rarity": "Apex",
+      "PlacementPrice": 2882,
+      "Type": "Continuous",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 16,
+        "Damage": 35.0,
+        "Cooldown": 0.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Damage": 35.0,
+          "Cooldown": 0.5,
+          "Type": "Continuous",
+          "UpgradePrice": 2882
+        },
+        {
+          "Range": 18,
+          "Damage": 40.0,
+          "Cooldown": 0.5,
+          "Type": "Continuous",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 20,
+          "Damage": 50.0,
+          "Cooldown": 0.45,
+          "Type": "Continuous",
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 22,
+          "Damage": 60.0,
+          "Cooldown": 0.45,
+          "Type": "Continuous",
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 24,
+          "Damage": 70.0,
+          "Cooldown": 0.4,
+          "Type": "Continuous",
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 25,
+          "Damage": 80.0,
+          "Cooldown": 0.4,
+          "Type": "Continuous",
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 26,
+          "Damage": 90.0,
+          "Cooldown": 0.35,
+          "Type": "Continuous",
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 26,
+          "Damage": 100.0,
+          "Cooldown": 0.35,
+          "Type": "Continuous",
+          "UpgradePrice": 16000
+        },
+        {
+          "Range": 26,
+          "Damage": 110.0,
+          "Cooldown": 0.35,
+          "Type": "Continuous",
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "HOLD THE LINE!": "When losing a stock: Buff all units in range by +10% crit damage. Buff this unit's crit rate by +5%. Stacks up to 3 times.",
+        "PRESSING THE ADVANTAGE": "When killing an enemy of any valid element: Buff units matching that enemy's element by +35% damage for 25 seconds. Only one element buff can exist at a time. Valid elements: Rust, Light, Nature, Water, Fire, Neutral."
+      },
+      "Actives": {
+        "YOU'RE ALL PAWNS ON MY BOARD.": "Place up to 5 Chess Pieces on the board. Pieces start as Pawns and promote after earning kills. Pawn: Single target, 80% damage, max 5. Knight: Cone 25, 65% damage, applies 15% bleed over 2 seconds, max 3. Rook: Line, 60% damage, stuns the nearest 3 enemies for 1 seconds on its 10th attack. Max 1. Bishop: Cone 75, 80% damage, attacks apply a secondary piercing shot to 3 enemies for 40% damage, max 2. Queen: Cone 180, 50% damage, applies 20% bleed for 5 seconds, applies 10% slow for 5 seconds, and stuns the nearest 5 enemies for 1.5 second. Max 1. King: Full AoE, 65% damage, passively applies 15% slow to enemies in range, max 1."
+      },
+      "Obtainability": {
+        "Base": [
+          "Soul summon apex (0.001%)"
+        ]
+      }
     },
     {
       "Name": "Golden Freddy",
