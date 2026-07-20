@@ -3202,13 +3202,13 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.003",
+        "value": "0.003+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
       },
       "AFK Present": {
-        "value": "0.001-0.002",
+        "value": "0.0015-0.002",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
