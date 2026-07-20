@@ -12455,7 +12455,10 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 1928,
       "Type": "Line",
-      "Element": "Dark/Water",
+      "Element": [
+        "Dark",
+        "Water"
+      ],
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
