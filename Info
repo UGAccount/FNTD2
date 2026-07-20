@@ -3093,11 +3093,11 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Dragon Endo 01 Present": {
-        "value": "N/A",
+      "Season 5 Present": {
+        "value": "0.0004-0.0006",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Fluctuating"
+        "status": "Unstable"
       },
       "Medieval Present": {
         "value": "0.0003",
@@ -3105,11 +3105,11 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Season 5 Present": {
-        "value": "0.0004-0.0006",
+      "Dragon 01 Endo Presnet": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
       "Nightmarionne Present": {
         "value": "N/A",
@@ -3127,7 +3127,7 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
       "Blighted Endo Freddy Present": {
         "value": "N/A",
