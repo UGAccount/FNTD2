@@ -1,6 +1,70 @@
 {
   "Values": {
     "Units": {
+      "Grand Strategist Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Cthulhu Nightmare Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Mothman Lefty": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Unicorn Toy Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Arch Angler Toy Bonnie": {
         "Normal": {
           "value": "N/A",
@@ -1715,17 +1779,17 @@
       },
       "Gravelord Foxy": {
         "Normal": {
-          "value": "4-4.5",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
           "exists": 17944
         },
         "Shiny": {
-          "value": "65",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 554
         }
       },
