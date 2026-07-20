@@ -3093,11 +3093,11 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Season 5 Present": {
-        "value": "0.0003",
+      "Dragon Endo 01 Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "Fluctuating"
       },
       "Medieval Present": {
         "value": "0.0003",
@@ -3105,11 +3105,11 @@
         "demand": "N/A",
         "status": "N/A"
       },
-      "Dragon 01 Endo Presnet": {
-        "value": "N/A",
+      "Season 5 Present": {
+        "value": "0.0004-0.0006",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Unstable"
       },
       "Nightmarionne Present": {
         "value": "N/A",
