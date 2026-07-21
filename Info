@@ -6,7 +6,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 0
         },
         "Shiny": {
@@ -22,7 +22,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "N/A",
           "exists": 0
         },
         "Shiny": {
@@ -38,7 +38,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
@@ -54,14 +54,14 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Dropping",
           "exists": 0
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Dropping",
           "exists": 0
         }
       },
@@ -474,7 +474,7 @@
           "exists": 767
         },
         "Shiny": {
-          "value": "70+",
+          "value": "50-70",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
