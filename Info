@@ -12573,9 +12573,14 @@
       "Passives": {
         "Depth of insanity": "Every 30 seconds: Become invisible every other second for 10 seconds (+2 seconds per Warped unit in range). Every time this unit becomes invisible: Receive +2% damage and range (Cap of 40%). When there are 3 warped units in range: Attacks stun for 1 second. Attacks apply 20% slow for 5 seconds."
       },
-      "Actives": {
-        "Star spawn": "Warp a unit in range. Warped units receive +30% damage and range and become Dark/Water."
-      },
+      "Actives": [
+        {
+          "Name": "Star spawn",
+          "Description": "Warp a unit in range. Warped units receive +30% damage and range and become Dark/Water.",
+          "Cooldown": 0,
+          "Upgrade": 1
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Open War's tournament reward (Top 10)"
