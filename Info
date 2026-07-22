@@ -14106,6 +14106,8 @@
           "Range": 26,
           "Damage": 836.5,
           "Cooldown": 3.8,
+          "Type": "Cone",
+          "Degrees": 45,
           "UpgradePrice": 7000
         },
         {
@@ -14142,6 +14144,8 @@
           "Range": 30,
           "Damage": 1163,
           "Cooldown": 3.2,
+          "Type": "Cone",
+          "Degrees": 75,
           "UpgradePrice": 11000
         },
         {
