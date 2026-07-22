@@ -13537,9 +13537,14 @@
         "HOLD THE LINE!": "When losing a stock: Buff all units in range by +10% crit damage. Buff this unit's crit rate by +5%. Stacks up to 3 times.",
         "Pressing the advantage": "When killing an enemy of any valid element: Buff units matching that enemy's element by +35% damage for 25 seconds. Only one element buff can exist at a time. Valid elements: Rust, Light, Nature, Water, Fire, Neutral."
       },
-      "Actives": {
-        "You're all pawns on my board.": "Place up to 5 Chess Pieces on the board. Pieces start as Pawns and promote after earning kills. Pawn: Single target, 80% damage, max 5. Knight: Cone 25, 65% damage, applies 15% bleed over 2 seconds, max 3. Rook: Line, 60% damage, stuns the nearest 3 enemies for 1 seconds on its 10th attack. Max 1. Bishop: Cone 75, 80% damage, attacks apply a secondary piercing shot to 3 enemies for 40% damage, max 2. Queen: Cone 180, 50% damage, applies 20% bleed for 5 seconds, applies 10% slow for 5 seconds, and stuns the nearest 5 enemies for 1.5 second. Max 1. King: Full AoE, 65% damage, passively applies 15% slow to enemies in range, max 1."
-      },
+      "Actives": [
+        {
+          "Name": "You're all pawns on my board.",
+          "Description": "Place up to 5 Chess Pieces on the board. Pieces start as Pawns and promote after earning kills. Pawn: Single target, 80% damage, max 5. Knight: Cone 25, 65% damage, applies 15% bleed over 2 seconds, max 3. Rook: Line, 60% damage, stuns the nearest 3 enemies for 1 seconds on its 10th attack. Max 1. Bishop: Cone 75, 80% damage, attacks apply a secondary piercing shot to 3 enemies for 40% damage, max 2. Queen: Cone 180, 50% damage, applies 20% bleed for 5 seconds, applies 10% slow for 5 seconds, and stuns the nearest 5 enemies for 1.5 second. Max 1. King: Full AoE, 65% damage, passively applies 15% slow to enemies in range, max 1.",
+          "Cooldown": 0,
+          "Upgrade": 1
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Soul summon apex (0.001%)"
