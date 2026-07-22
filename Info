@@ -1,3 +1,4 @@
+
 {
   "Values": {
     "Units": {
@@ -10826,7 +10827,7 @@
         }
       ],
       "Passives": {
-        "Necromancer's Revenge": "Enemies hit by Gravelord Foxy are resurrected when defeated with 85% of their original health. Max 6 resurrected enemies at once."
+        "Necromancer's Revenge": "Enemies hit by Gravelord Foxy are resurrected when defeated with 20% of their original health. Max 6 resurrected enemies at once."
       },
       "Obtainability": {
         "Base": [
