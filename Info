@@ -14056,121 +14056,121 @@
       "UpgradeStats": [
         {
           "Range": 22,
-          "Damage": 151.5,
+          "Damage": 367.3,
           "Cooldown": 2,
           "UpgradePrice": 2500
         },
         {
           "Range": 23,
-          "Damage": 175.7,
+          "Damage": 408.1,
           "Cooldown": 2,
           "UpgradePrice": 2750
         },
         {
           "Range": 24,
-          "Damage": 202,
+          "Damage": 459.1,
           "Cooldown": 2,
           "UpgradePrice": 3000
         },
         {
           "Range": 25,
-          "Damage": 227.3,
+          "Damage": 484.6,
           "Cooldown": 2,
           "UpgradePrice": 4000
         },
         {
           "Range": 25,
-          "Damage": 258.6,
+          "Damage": 510.1,
           "Cooldown": 2,
           "UpgradePrice": 5000
         },
         {
           "Range": 26,
-          "Damage": 280.8,
+          "Damage": 535.6,
           "Cooldown": 2,
           "UpgradePrice": 6000
         },
         {
           "Range": 26,
-          "Damage": 302,
+          "Damage": 561.1,
           "Cooldown": 2,
           "UpgradePrice": 6500
         },
         {
           "Range": 26,
-          "Damage": 604,
+          "Damage": 795.7,
           "Cooldown": 4,
           "UpgradePrice": 8000
         },
         {
           "Range": 26,
-          "Damage": 696.9,
+          "Damage": 836.5,
           "Cooldown": 3.8,
           "UpgradePrice": 7000
         },
         {
           "Range": 26,
-          "Damage": 696.9,
+          "Damage": 887.5,
           "Cooldown": 3.6,
           "UpgradePrice": 8000
         },
         {
           "Range": 27,
-          "Damage": 737.3,
+          "Damage": 948.8,
           "Cooldown": 3.6,
           "UpgradePrice": 8000
         },
         {
           "Range": 27,
-          "Damage": 784.8,
+          "Damage": 989.6,
           "Cooldown": 3.6,
           "UpgradePrice": 9000
         },
         {
           "Range": 28,
-          "Damage": 844.4,
+          "Damage": 1061,
           "Cooldown": 3.4,
           "UpgradePrice": 10000
         },
         {
           "Range": 29,
-          "Damage": 905,
+          "Damage": 1112,
           "Cooldown": 3.4,
           "UpgradePrice": 10009
         },
         {
           "Range": 30,
-          "Damage": 950.4,
+          "Damage": 1163,
           "Cooldown": 3.2,
           "UpgradePrice": 11000
         },
         {
           "Range": 30,
-          "Damage": 1005,
+          "Damage": 1219.1,
           "Cooldown": 3.2,
           "UpgradePrice": 11000
         },
         {
           "Range": 30,
-          "Damage": 1045.3,
+          "Damage": 1259.9,
           "Cooldown": 3,
           "UpgradePrice": 11500
         },
         {
           "Range": 31,
-          "Damage": 1111,
+          "Damage": 1326.2,
           "Cooldown": 3,
           "UpgradePrice": 12000
         },
         {
           "Range": 32,
-          "Damage": 1191.8,
+          "Damage": 1407.8,
           "Cooldown": 3,
           "UpgradePrice": 12500
         },
         {
           "Range": 33,
-          "Damage": 1312,
+          "Damage": 1530.3,
           "Cooldown": 2.8,
           "UpgradePrice": 15000
         }
