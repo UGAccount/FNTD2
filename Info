@@ -12292,7 +12292,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Afterbite Withered Golden Freddy Present"
+          "Withered Golden Freddy Evolution "
         ]
       }
     },
@@ -12571,7 +12571,6 @@
         }
       ],
       "Passives": {
-        "Star spawn": "Active: Warp a unit in range (Cap of 3). Warped units: Receive +15% damage and range. Have their element changed to Dark/Water.",
         "Depth of insanity": "Every 30 seconds: Become invisible every other second for 10 seconds (+2 seconds per Warped unit in range). Every time this unit becomes invisible: Receive +2% damage and range (Cap of 40%). When there are 3 warped units in range: Attacks stun for 1 second. Attacks apply 20% slow for 5 seconds."
       },
       "Actives": {
@@ -13478,63 +13477,54 @@
           "Range": 16,
           "Damage": 35.0,
           "Cooldown": 0.5,
-          "Type": "Continuous",
           "UpgradePrice": 2882
         },
         {
           "Range": 18,
           "Damage": 40.0,
           "Cooldown": 0.5,
-          "Type": "Continuous",
           "UpgradePrice": 5000
         },
         {
           "Range": 20,
           "Damage": 50.0,
           "Cooldown": 0.45,
-          "Type": "Continuous",
           "UpgradePrice": 6000
         },
         {
           "Range": 22,
           "Damage": 60.0,
           "Cooldown": 0.45,
-          "Type": "Continuous",
           "UpgradePrice": 7000
         },
         {
           "Range": 24,
           "Damage": 70.0,
           "Cooldown": 0.4,
-          "Type": "Continuous",
           "UpgradePrice": 10000
         },
         {
           "Range": 25,
           "Damage": 80.0,
           "Cooldown": 0.4,
-          "Type": "Continuous",
           "UpgradePrice": 12000
         },
         {
           "Range": 26,
           "Damage": 90.0,
           "Cooldown": 0.35,
-          "Type": "Continuous",
           "UpgradePrice": 14000
         },
         {
           "Range": 26,
           "Damage": 100.0,
           "Cooldown": 0.35,
-          "Type": "Continuous",
           "UpgradePrice": 16000
         },
         {
           "Range": 26,
           "Damage": 110.0,
           "Cooldown": 0.35,
-          "Type": "Continuous",
           "UpgradePrice": 20000
         }
       ],
