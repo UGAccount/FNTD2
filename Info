@@ -10081,45 +10081,45 @@
       "Element": "Light",
       "MaxPlaced": 1,
       "BaseStats": {
-        "Range": 16,
+        "Range": 20,
         "Damage": 235,
         "Cooldown": 3
       },
       "UpgradeStats": [
         {
-          "Range": 16,
+          "Range": 21,
           "Damage": 285,
           "Cooldown": 2.5,
           "UpgradePrice": 4500
         },
         {
-          "Range": 17,
+          "Range": 22,
           "Damage": 300,
           "Cooldown": 2.5,
           "UpgradePrice": 4500
         },
         {
-          "Range": 17,
+          "Range": 23,
           "Damage": 450,
           "Cooldown": 2,
           "UpgradePrice": 6000
         },
         {
-          "Range": 18,
+          "Range": 24,
           "Damage": 545,
           "Cooldown": 2,
           "UpgradePrice": 7500,
           "Type": "Line"
         },
         {
-          "Range": 19,
+          "Range": 25,
           "Damage": 635,
           "Cooldown": 1.8,
           "UpgradePrice": 8000
         }
       ],
       "Passives": {
-        "Holy Lake of Golden Stars": "This unit's range becomes its domain. The Golden Lake grants a 35% active ability cd reduction to any unit within the domain. Additionally, enemies within the domain are slowed by 15%, and light element units have increased +30% damage to enemies."
+        "Holy Lake of Golden Stars": "This unit's range becomes its domain. The Golden Lake grants a 15% active ability cd reduction to any unit within the domain. Additionally, enemies within the domain are slowed by 20%, and light element units have increased +30% damage to enemies."
       },
       "Obtainability": {
         "Base": [
@@ -13543,10 +13543,10 @@
       ],
       "Passives": {
         "HOLD THE LINE!": "When losing a stock: Buff all units in range by +10% crit damage. Buff this unit's crit rate by +5%. Stacks up to 3 times.",
-        "PRESSING THE ADVANTAGE": "When killing an enemy of any valid element: Buff units matching that enemy's element by +35% damage for 25 seconds. Only one element buff can exist at a time. Valid elements: Rust, Light, Nature, Water, Fire, Neutral."
+        "Pressing the advantage": "When killing an enemy of any valid element: Buff units matching that enemy's element by +35% damage for 25 seconds. Only one element buff can exist at a time. Valid elements: Rust, Light, Nature, Water, Fire, Neutral."
       },
       "Actives": {
-        "YOU'RE ALL PAWNS ON MY BOARD.": "Place up to 5 Chess Pieces on the board. Pieces start as Pawns and promote after earning kills. Pawn: Single target, 80% damage, max 5. Knight: Cone 25, 65% damage, applies 15% bleed over 2 seconds, max 3. Rook: Line, 60% damage, stuns the nearest 3 enemies for 1 seconds on its 10th attack. Max 1. Bishop: Cone 75, 80% damage, attacks apply a secondary piercing shot to 3 enemies for 40% damage, max 2. Queen: Cone 180, 50% damage, applies 20% bleed for 5 seconds, applies 10% slow for 5 seconds, and stuns the nearest 5 enemies for 1.5 second. Max 1. King: Full AoE, 65% damage, passively applies 15% slow to enemies in range, max 1."
+        "You're all pawns on my board.": "Place up to 5 Chess Pieces on the board. Pieces start as Pawns and promote after earning kills. Pawn: Single target, 80% damage, max 5. Knight: Cone 25, 65% damage, applies 15% bleed over 2 seconds, max 3. Rook: Line, 60% damage, stuns the nearest 3 enemies for 1 seconds on its 10th attack. Max 1. Bishop: Cone 75, 80% damage, attacks apply a secondary piercing shot to 3 enemies for 40% damage, max 2. Queen: Cone 180, 50% damage, applies 20% bleed for 5 seconds, applies 10% slow for 5 seconds, and stuns the nearest 5 enemies for 1.5 second. Max 1. King: Full AoE, 65% damage, passively applies 15% slow to enemies in range, max 1."
       },
       "Obtainability": {
         "Base": [
