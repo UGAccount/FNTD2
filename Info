@@ -12745,7 +12745,6 @@
         "Range": 20,
         "Damage": 1111,
         "Cooldown": 5
-      },
       "UpgradeStats": [
         {
           "Range": 21,
@@ -12768,6 +12767,12 @@
         {
           "Range": 24,
           "Damage": 1600.8,
+          "Cooldown": 5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 24,
+          "Damage": 1651.3,
           "Cooldown": 5,
           "UpgradePrice": 8500
         },
