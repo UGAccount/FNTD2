@@ -12745,6 +12745,7 @@
         "Range": 20,
         "Damage": 1111,
         "Cooldown": 5
+      },
       "UpgradeStats": [
         {
           "Range": 21,
