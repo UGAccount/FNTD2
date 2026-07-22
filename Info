@@ -12535,28 +12535,24 @@
           "Range": 18,
           "Damage": 600.0,
           "Cooldown": 4.0,
-          "Type": "Line",
           "UpgradePrice": 1928
         },
         {
           "Range": 19,
           "Damage": 750.0,
           "Cooldown": 4.0,
-          "Type": "Line",
           "UpgradePrice": 3500
         },
         {
           "Range": 20,
           "Damage": 950.0,
           "Cooldown": 4.0,
-          "Type": "Line",
           "UpgradePrice": 5000
         },
         {
           "Range": 22,
           "Damage": 1100.0,
           "Cooldown": 3.0,
-          "Type": "Line",
           "UpgradePrice": 7500
         },
         {
@@ -12564,13 +12560,13 @@
           "Damage": 1300.0,
           "Cooldown": 3.0,
           "Type": "Cone",
+          "Degrees": 120,
           "UpgradePrice": 10000
         },
         {
           "Range": 28,
           "Damage": 1600.0,
           "Cooldown": 3.0,
-          "Type": "Cone",
           "UpgradePrice": 15000
         }
       ],
