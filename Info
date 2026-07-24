@@ -10778,50 +10778,50 @@
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 23,
-        "Damage": 1650,
+        "Damage": 2350,
         "Cooldown": 7.2
       },
       "UpgradeStats": [
         {
           "Range": 23,
-          "Damage": 1730,
+          "Damage": 2600,
           "Cooldown": 7.2,
           "UpgradePrice": 5000
         },
         {
           "Range": 23,
-          "Damage": 1830,
+          "Damage": 2900,
           "Cooldown": 7.2,
           "UpgradePrice": 6000
         },
         {
           "Range": 23,
-          "Damage": 1925,
+          "Damage": 3100,
           "Cooldown": 7,
           "UpgradePrice": 6000
         },
         {
           "Range": 24,
-          "Damage": 2020,
+          "Damage": 3300,
           "Cooldown": 7,
           "UpgradePrice": 6500
         },
         {
           "Range": 24,
-          "Damage": 2475,
+          "Damage": 3500,
           "Cooldown": 6.6,
           "UpgradePrice": 7000,
           "Type": "Circle"
         },
         {
           "Range": 24,
-          "Damage": 2600,
+          "Damage": 3700,
           "Cooldown": 6.2,
           "UpgradePrice": 7000
         },
         {
           "Range": 25,
-          "Damage": 2750,
+          "Damage": 3950,
           "Cooldown": 6,
           "UpgradePrice": 8500
         }
@@ -14680,7 +14680,7 @@
         }
       ],
       "Passives": {
-        "Guiding Whistle": "Old Man Consequences empowers all `[Water]` Units with +10% Damage, +25% Range, and -10% Cooldown.",
+        "Guiding Whistle": "Old Man Consequences empowers all `[Water]` Units with +30% Damage and Range.",
         "Purgatory's Reimbursement [Upgrade 5+]": "When Old Man Consequences attacks an Enemy with below 25% Health remaining, he deals +200% Damage.",
         "Ferryman's Blessing [Upgrade 15+]": "When the Player reaches 0 Base Health without a Boss exiting, Old Man Consequences prevents death and gains +166% Damage and applies `[Stun]` to all Enemies on the map for 6s."
       },
