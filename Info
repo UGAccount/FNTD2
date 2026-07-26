@@ -10609,7 +10609,7 @@
         {
           "Name": "Mode Swap",
           "Description": "Change this units attack between focused fire and Faz-Metal-jacket. (Local)",
-          "Cooldown": 1s,
+          "Cooldown": 1,
           "Upgrade": 0
         }
       ],
