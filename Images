@@ -106,11 +106,12 @@
      "Music Man Present": "https://iili.io/CEHqRst.png",
      "Scrap Baby Present": "https://iili.io/CEHB06F.png",
      "Super Soldier Foxy Present": "https://iili.io/CEHCg0F.png",
-     "Season 3 Clan Present": "https://iili.io/CwNwJhG.png"
+     "Season 3 Clan Present": "https://iili.io/CwNwJhG.png",
+     "Pirate Present": "https://iili.io/CkdDcvt.png"
 },
   "Gamepasses": {
     "Community Pass": "https://iili.io/CTTHU74.png",
-    "Event Premium": "https://iili.io/BHjW8PI.png",
+    "Event Premium": "https://iili.io/CkdDdhb.png",
     "Shiny Hunter": "https://iili.io/KtqMeQR.png",
     "Quick Open": "https://iili.io/KtqMvBp.png",
     "Premium": "https://iili.io/KtqM8EN.png",
@@ -606,7 +607,7 @@
     "Molten Freddy": "https://iili.io/CnE8Pf4.png",
     "Shiny Molten Freddy": "https://iili.io/CnE8pWb.png",
     "Scraptrap": "https://iili.io/CnEVEga.png",
-    "Shiny Scraptrap": "https://iili.io/CnEVEga.png",
+    "Shiny Scraptrap": "https://iili.io/Ck23WbV.png",
     "Fredtrap": "https://iili.io/CnEkk1p.png",
     "Shiny Fredtrap": "https://iili.io/CnEk6Is.png",
     "Funtime Bonnie": "https://iili.io/CnEWTBt.png",
@@ -673,9 +674,26 @@
     "Cthulhu Nightmare Foxy": "https://iili.io/CwNOFJS.png",
     "Shiny Cthulhu Nightmare Foxy": "https://iili.io/CwNO2g2.png",
     "Unicorn Toy Foxy": "https://iili.io/CwNN8R1.png",
+    "Shiny Unicorn Toy Foxy": "https://iili.io/Ck2JVON.png",
     "Mothman Lefty": "https://iili.io/CwNNbbn.png",
     "Shiny Mothman Lefty": "https://iili.io/CwNeeu1.png",
-    "Grand Strategist Chica": "https://iili.io/CwNN0SS.png"
+    "Grand Strategist Chica": "https://iili.io/CwNN0SS.png",
+    "Mecha-Lizabeth": "https://iili.io/CkdgPiF.png",
+    "Shiny Mecha-Lizabeth": "https://iili.io/CkdrBb2.png",
+    "Mechanic Endo 01": "https://iili.io/CkdrgdG.png",
+    "Shiny Mechanic Endo 01": "https://iili.io/Ckd42LP.png",
+    "Aqua Strike Toy Chica": "https://iili.io/Ckd4bnI.png",
+    "Shiny Aqua Strike Toy Chica": "https://iili.io/Ckd69Fn.png",
+    "Salvaged Toy Bonnie": "https://iili.io/Ckd6GHJ.png",
+    "Shiny Salvaged Toy Bonnie": "https://iili.io/Ckd64x2.png",
+    "Witch of the Sea Scrapbaby": "https://iili.io/Ckdi2Q2.png",
+    "Shiny Witch of the Sea Scrapbaby": "https://iili.io/CkdiaYg.png",
+    "Dutchman Nightmare Bonnie": "https://iili.io/CkdLRdF.png",
+    "Shiny Dutchman Nightmare Bonnie": "https://iili.io/CkdLX7n.png",
+    "Pirate Withered Foxy": "https://iili.io/CkdQJTJ.png",
+    "Shiny Pirate Withered Foxy": "https://iili.io/CkdQWGV.png",
+    "Cannoneer Chica": "https://iili.io/CkdZGHX.png",
+    "Shiny Cannoneer Chica": "https://iili.io/CkdZL0B.png"
 }
   }
 }
