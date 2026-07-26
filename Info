@@ -10333,7 +10333,7 @@
       "Actives": [
         {
           "Name": "Blackout",
-          "Description": "Darkens the entire map for 15s on actviation. During this time, each kill or death in range gives Shadow Bonnie a permeant range and damage boosy (max of 20%)",
+          "Description": "Darkens the entire map for 15s on actviation. During this time, each kill or death in range gives Shadow Bonnie a permeant range and damage boosy (max of 20%, Local cooldown.)",
           "Cooldown": 60,
           "Upgrade": 6
         }
@@ -10637,6 +10637,14 @@
         "Focused Fire": "For every second that the unit targets the same enemy increase rng by 3% up to 35%. (Circle AOE)",
         "Faz-Metal-Jacket": "Every second shot applies burn for 1s, dealing 10% of this unit's current damage. (Cone AOE)"
       },
+      "Actives": [
+        {
+          "Name": "Mode Swap",
+          "Description": "Change this units attack between focused fire and Faz-Metal-jacket. (Local)",
+          "Cooldown": 1s,
+          "Upgrade": 0
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Secret Present (33%)",
