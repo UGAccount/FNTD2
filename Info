@@ -7961,6 +7961,306 @@
       }
     },
     {
+      "Name": "Cannoneer Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 750,
+      "Type": "Explosion",
+      "Element": "Fire",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 320.0,
+        "Cooldown": 2.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 385.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 1750
+        },
+        {
+          "Range": 24,
+          "Damage": 460.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 25,
+          "Damage": 560.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 26,
+          "Damage": 670.0,
+          "Cooldown": 4.0,
+          "Type": "Cone",
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 800.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 5250
+        }
+      ],
+      "Passives": {
+        "Steel barrage": "Every 5s: Fire a cannonball dealing 50% of this unit's damage. Upgrade the cannon every 50,000 damage dealt, up to Level 5. Level 1: Cannonballs knockback enemies 2 tiles. Level 2: Cannonballs deal +20% damage. Level 3: Cannon cooldown reduced by 10%. Level 4: Cannonballs inflict 35% burn for 5s. Level 5: Every attack fires an additional cannonball dealing 40% damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Event battlepass free Tier 50",
+          "Cannoneer Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Pirate Withered Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 900,
+      "Type": "Explosion",
+      "Element": "Water",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 155.0,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 170.0,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25,
+          "Damage": 190.0,
+          "Cooldown": 1.5,
+          "Type": "Line",
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 28,
+          "Damage": 210.0,
+          "Cooldown": 1.4,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 28,
+          "Damage": 240.0,
+          "Cooldown": 1.4,
+          "Type": "Cone",
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 30,
+          "Damage": 270.0,
+          "Cooldown": 1.3,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 30,
+          "Damage": 300.0,
+          "Cooldown": 1.2,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "YOU ARE A PIRATE!": "Every 10 attacks swap between using a [Gun] and a [Cutlass]. During [Cutlass]: Attacks apply 80% [Bleed] over 4s. Enemies in range drop +100% bonus income. During [Gun]: Attacks stun for 1.2s. Enemies in range are slowed by 10%.",
+        "Seafarer": "[Water] element units in range are buffed by 15%. At 3+ [Water] element units on the team buff this units damage by 25%."
+      },
+      "Obtainability": {
+        "Base": [
+          "Event battlepass premium Tier 50",
+          "Pirate Withered Foxy Present (100%)"
+        ]
+      }
+    },
+    {
+      "Name": "Aqua Strike Toy Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Line",
+      "Element": "Water",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 325.0,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 350.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 375.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 28,
+          "Damage": 400.0,
+          "Cooldown": 2.2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 30,
+          "Damage": 450.0,
+          "Cooldown": 2.2,
+          "Type": "Cone",
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 32,
+          "Damage": 500.0,
+          "Cooldown": 2.0,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "Water warfare": "On attack: Generate 1 water balloon, or 2 if the team has 3+ Water units. At 6 water balloons: The next 6 attacks follow up with a water balloon in a Circle AOE, dealing 50% damage. Follow-ups apply [Soaked] and create a puddle that applies [Soaked]. [Soaked] enemies: Take 10% more damage from Water units. Fire hits deal +25% damage and remove [Soaked]. Electric hits deal +10% damage, stun for 1.5s, and remove [Soaked]."
+      },
+      "Obtainability": {
+        "Base": [
+          "Toy Chica Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Mecha-Lizabeth",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 4000,
+      "Type": "Explosion",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 600.0,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 700.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 24,
+          "Damage": 850.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 25,
+          "Damage": 1000.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 1250.0,
+          "Cooldown": 2.8,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 28,
+          "Damage": 1500.0,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 30,
+          "Damage": 1800.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 2100.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Sweet treat": "Every 5s: Drop an ice cream on the track. On hit, deal 7.5% damage and apply 1.5% slow for 5s per ice cream in the stack (Max 30). Gain +5% damage on the next attack per stack consumed."
+      },
+      "Actives": [
+        {
+          "Name": "I'VE COME TO MAKE AN ANNOUNCEMENT",
+          "Description": "Fire a Full AoE ice cream rocket, dealing 300% damage and stunning enemies for 3 seconds.",
+          "Cooldown": 20,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Elizabeth Evolution",
+          "Ice cream Mech Suit material (Craftable from icecream, 50 springs, 15 ash, 75 ice creams and 25 TVs.)
+        ]
+      }
+    },
+    {
+      "Name": "Mechanic Endo 01",
+      "Rarity": "Secret",
+      "PlacementPrice": 2000,
+      "Type": "Explosion",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 150.0,
+        "Cooldown": 2.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 175.0,
+          "Cooldown": 2.0,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24,
+          "Damage": 200.0,
+          "Cooldown": 2.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 26,
+          "Damage": 250.0,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 325.0,
+          "Cooldown": 3.0,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 28,
+          "Damage": 500.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Endo CPU": "Every upgrade: Buff nearby units by 10% damage (Max 30%)",
+        "Tinkerer": "Every 5s: Summon a Mini Endo dealing 150% of this unit's damage on contact. This player's summons: Gain +20% health. Does not affect summons that scale on enemy HP"
+      },
+      "Obtainability": {
+        "Base": [
+          "Endo 01 Evolution"
+        ]
+      }
+    },
+    {
       "Name": "Phantom Bonnie",
       "Rarity": "Secret",
       "PlacementPrice": 1000,
@@ -10030,6 +10330,14 @@
       "Passives": {
         "Agonizing Energy": "Attacks apply poison for 2s, dealing 20% of this unit's current damage. [10% dmg/tick]"
       },
+      "Actives": [
+        {
+          "Name": "Blackout",
+          "Description": "Darkens the entire map for 15s on actviation. During this time, each kill or death in range gives Shadow Bonnie a permeant range and damage boosy (max of 20%)",
+          "Cooldown": 60,
+          "Upgrade": 6
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Shadow Bonnie Present (100%)",
