@@ -12668,8 +12668,159 @@
       }
     },
     {
-      "Name": "Unicorn Toy Foxy",
+      "Name": "Dutchman Nightmare Bonnie",
       "Rarity": "Nightmare",
+      "PlacementPrice": 3500,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 21.0,
+        "Damage": 331.6,
+        "Cooldown": 2.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22.0,
+          "Damage": 367.3,
+          "Cooldown": 2.0,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 23.0,
+          "Damage": 408.1,
+          "Cooldown": 2.0,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 24.0,
+          "Damage": 459.1,
+          "Cooldown": 2.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 484.6,
+          "Cooldown": 2.0,
+          "Type": "Explosion",
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 510.1,
+          "Cooldown": 2.0,
+          "Type": "Circle",
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 535.6,
+          "Cooldown": 2.0,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 561.1,
+          "Cooldown": 2.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 795.7,
+          "Cooldown": 4.0,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 836.5,
+          "Cooldown": 3.8,
+          "Type": "Cone",
+          "Degrees": 45,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 887.5,
+          "Cooldown": 3.8,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 948.8,
+          "Cooldown": 3.6,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 989.6,
+          "Cooldown": 3.6,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 1061.0,
+          "Cooldown": 3.4,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 29.0,
+          "Damage": 1112.0,
+          "Cooldown": 3.4,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1163.0,
+          "Cooldown": 3.2,
+          "Type": "Cone",
+          "Degrees": 75,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1219.1,
+          "Cooldown": 3.2,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1259.9,
+          "Cooldown": 3.0,
+          "UpgradePrice": 11500
+        },
+        {
+          "Range": 31.0,
+          "Damage": 1326.2,
+          "Cooldown": 3.0,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 32.0,
+          "Damage": 1407.8,
+          "Cooldown": 3.0,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 33.0,
+          "Damage": 1530.3,
+          "Cooldown": 2.8,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "GHOSTLY APPARITION": "If there is no ghost currently on the map: When a unit is sold, create a ghost copy with 1/4 of their damage for 3 waves. If there is a ghost currently on the map: Buff this unit's damage by 50%. Follow up on ghost attacks for 50% of this unit's damage with a 3s cooldown.",
+        "SOUL COLLECTOR": "Attacks: Buff this unit's damage by 5% for 15s, up to 50%. If an enemy dies in range, the next attack buffs by 10% instead. Deal 20% more damage to enemies below 50% HP."
+      },
+      "Obtainability": {
+        "Base": [
+          "Event Summon Banner Nightmare (0.066% chance)",
+          "Pirate Present"
+        ]
+      }
+    },
+    {
+      "Name": "Unicorn Toy Foxy",
+      "Rarity": "Secret",
       "PlacementPrice": 1000,
       "Type": "Ricochet",
       "Element": "Light",
@@ -12962,6 +13113,104 @@
       "Obtainability": {
         "Base": [
           "Blossom Chica Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Witch of the Sea Scrapbaby",
+      "Rarity": "Apex",
+      "PlacementPrice": 16900,
+      "Type": "Explosion",
+      "Element": [
+        "Water",
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 325.0,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 375.0,
+          "Cooldown": 5.0,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 24,
+          "Damage": 450.0,
+          "Cooldown": 4.5,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 27,
+          "Damage": 525.0,
+          "Cooldown": 4.5,
+          "Type": "Line",
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 27,
+          "Damage": 600.0,
+          "Cooldown": 4.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 30,
+          "Damage": 700.0,
+          "Cooldown": 4.5,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 30,
+          "Damage": 800.0,
+          "Cooldown": 4.2,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 32,
+          "Damage": 925.0,
+          "Cooldown": 4.2,
+          "Type": "Cone",
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 32,
+          "Damage": 1050.0,
+          "Cooldown": 4.2,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 34,
+          "Damage": 1200.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 20000
+        },
+        {
+          "Range": 34,
+          "Damage": 1400.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 25000
+        }
+      ],
+      "Passives": {
+        "Underwater Goliath": "This unit takes up 2 equip slots and gains +200% damage on placement. On attack: Deal +5 damage to shields. Apply 30% [Bleed] over 10s. Summon 2 eels that target the weakest enemies in range, dealing 25% of this unit's damage with equal range and cooldown.",
+        "Dangerous Waters": "Enemies in range: Regen reduced by 75%. Take 10% of this unit's damage every second, 15% if the enemy has regen. Take 20% more damage from [Water] and [Electricity] units. At 3+ [Electricity] units on the team: Reduce this unit's cooldown by 10%. Buff this unit's damage by 20%. Buff [Dangerous Waters] damage by 50%. At 3+ [Water] units on the team: Buff this unit's damage by 50% and range by 25%."
+      },
+      "Actives": [
+        {
+          "Name": "Brace the storm",
+          "Description": "Buff [Electricity] and [Water] units in range by +60% damage for 30 seconds. Other element units in range lose 20% damage instead, and a random non-[Electricity]/[Water] unit in range is stunned for 2 seconds every 5 seconds while active.",
+          "Cooldown": 60,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Event Summon Banner Apex (0.001% chance)",
+          "Pirate Present"
         ]
       }
     },
