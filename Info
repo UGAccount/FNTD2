@@ -20,7 +20,7 @@
       },
       "Dutchman Nightmare Bonnie": {
         "Normal": {
-          "value": "0.02-0.05",
+          "value": "0.005+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -30,7 +30,7 @@
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Dropping",
           "exists": 0
         }
       },
@@ -2315,7 +2315,7 @@
           "exists": 22910
         },
         "Shiny": {
-          "value": "18+",
+          "value": "14-18",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Fluctuating",
