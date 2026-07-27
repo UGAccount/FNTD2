@@ -4943,7 +4943,7 @@
         }
       ],
       "Passives": {
-        "Varity Pack": "At max upgrade: Mimics the highest damage and range from nearby towers. Has a set cooldown of 15s. On takedown: Summons 3 cupcakes with 25% damage as health. Summons 6 cupcakes if 2+ cupcake towers are within range.",
+        "Varity Pack": "At max upgrade: Mimics the highest damage and range from nearby towers. Has a set cooldown of 15s. On takedown: Summons 3 cupcakes with 25% damage as health. Summons 6 cupcakes if 2+ cupcake towers are within range (max 10 summons).",
         "Birthday Boy": "Towers in range: Buff damage and range by 15%. Reduce cooldown by 5%. Cupcake towers receive double this buff."
       },
       "Obtainability": {
