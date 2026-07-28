@@ -500,7 +500,7 @@
       },
       "Music Man": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.05-0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
