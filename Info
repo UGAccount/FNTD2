@@ -4721,6 +4721,264 @@
       }
     },
     {
+      "Name": "Pan Stan",
+      "Rarity": "Rare",
+      "PlacementPrice": 750,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 14.0,
+        "Damage": 183.6,
+        "Cooldown": 3.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15.0,
+          "Damage": 244.8,
+          "Cooldown": 3.00,
+          "UpgradePrice": 600
+        },
+        {
+          "Range": 15.0,
+          "Damage": 306.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 16.0,
+          "Damage": 408.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 1500
+        }
+      ],
+      "Passives": {
+        "Clank": "Every 15s, Stun all enemies in range for 1.5s.",
+        "Trash Gang": "If all other Trash Gang members are in range, all Trash Gang members share combined damage and range. All Trash Gang members use the average cooldown of everyone."
+      },
+      "Obtainability": {
+        "Base": [
+          "Rare Summons (30%)"
+        ]
+      }
+    },
+    {
+      "Name": "No.1 Crate",
+      "Rarity": "Rare",
+      "PlacementPrice": 1000,
+      "Type": "FullAoE",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 14.0,
+        "Damage": 204.0,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 15.0,
+          "Damage": 224.4,
+          "Cooldown": 3.80,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 17.0,
+          "Damage": 255.0,
+          "Cooldown": 3.80,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 20.0,
+          "Damage": 285.6,
+          "Cooldown": 3.50,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Cheer": "Gives all nearby units +20% Damage.",
+        "Trash Gang": "If all other Trash Gang members are in range, all Trash Gang members share combined damage and range. All Trash Gang members use the average cooldown of everyone."
+      },
+      "Obtainability": {
+        "Base": [
+          "Rare Summons (30%)"
+        ]
+      }
+    },
+    {
+      "Name": "Bucket Bob",
+      "Rarity": "Rare",
+      "PlacementPrice": 500,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 14.0,
+        "Damage": 204.0,
+        "Cooldown": 3.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 14.0,
+          "Damage": 224.4,
+          "Cooldown": 2.80,
+          "UpgradePrice": 300
+        },
+        {
+          "Range": 15.0,
+          "Damage": 255.0,
+          "Cooldown": 2.70,
+          "UpgradePrice": 450
+        },
+        {
+          "Range": 15.0,
+          "Damage": 285.6,
+          "Cooldown": 2.50,
+          "UpgradePrice": 600
+        }
+      ],
+      "Passives": {
+        "Sheer Stupidity": "Enemies that come within 50% of this unit's range receive a permanent 10% Slow.",
+        "Trash Gang": "If all other Trash Gang members are in range, all Trash Gang members share combined damage and range. All Trash Gang members use the average cooldown of everyone."
+      },
+      "Obtainability": {
+        "Base": [
+          "Rare Summons (30%)"
+        ]
+      }
+    },
+    {
+      "Name": "Trash O Tron",
+      "Rarity": "Secret",
+      "PlacementPrice": 5000,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20.0,
+        "Damage": 206.1,
+        "Cooldown": 2.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20.0,
+          "Damage": 231.8,
+          "Cooldown": 2.50,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 21.0,
+          "Damage": 257.6,
+          "Cooldown": 2.50,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 22.0,
+          "Damage": 278.2,
+          "Cooldown": 2.40,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 23.0,
+          "Damage": 298.8,
+          "Cooldown": 2.30,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 24.0,
+          "Damage": 319.4,
+          "Cooldown": 2.20,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 25.0,
+          "Damage": 345.2,
+          "Cooldown": 2.20,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 365.8,
+          "Cooldown": 2.10,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 391.5,
+          "Cooldown": 2.10,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 412.1,
+          "Cooldown": 2.00,
+          "UpgradePrice": 13000
+        }
+      ],
+      "Passives": {
+        "Bits and Bobs": "Every attack is randomly decided between Electric Pan Hand and Flamethrower. Pan: Line AOE. Stuns for 1.2s. Deals +20% damage. Flamethrower: Wide Cone. Inflicts 50% Burn for 5s. Deals +30% damage to Mystery enemies. Deals 3 hits worth of shield damage. If the same attack happens 3 times in a row, the next attack hits all enemies in range with double damage. Applies the effect of the attack that was not used 3 times at double value where applicable.",
+        "Assorted Parts": "Every 3 upgrades, place one of three Trash Gang members as a sub tower with 25% of their normal damage. Trash Gang members in range gain +50% Damage. This unit gains +50% Damage per Trash Gang member in range, up to +300%."
+      },
+      "Obtainability": {
+        "Base": [
+          "Summons"
+        ]
+      }
+    },
+    {
+      "Name": "Salvaged Toy Bonnie",
+      "Rarity": "Mythic",
+      "PlacementPrice": 2500,
+      "Type": "Cone",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 357.1,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 367.3,
+          "Cooldown": 4.5,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 24.0,
+          "Damage": 377.5,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 387.7,
+          "Cooldown": 3.0,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 418.3,
+          "Cooldown": 3.0,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 28.0,
+          "Damage": 459.1,
+          "Cooldown": 3.0,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Energy Surplus": "This unit gains +25% Damage every attack, up to 200%. Resets after one hit with max buff.",
+        "Resourceful": "For every max hit from Energy Surplus, reduce all Active CDs by 5%, up to 25%. If any Active Ability is used, reset Resourceful."
+      },
+      "Obtainability": {
+        "Base": [
+          "Toy Bonnie Evolution"
+        ]
+      }
+    },
+    {
       "Name": "Fisherman Toy Bonnie",
       "Rarity": "Epic",
       "PlacementPrice": 2300,
@@ -9636,7 +9894,79 @@
       },
       "Obtainability": {
         "Base": [
-          "Music Man Present"
+          "Quest Unit Shop"
+        ]
+      }
+    },
+    {
+      "Name": "Funtime Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 1200,
+      "Type": "Cone",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24.0,
+        "Damage": 489.4,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 515.2,
+          "Cooldown": 5.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 25.0,
+          "Damage": 556.4,
+          "Cooldown": 5.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 582.2,
+          "Cooldown": 4.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 613.1,
+          "Cooldown": 4.6,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 27.0,
+          "Damage": 644.0,
+          "Cooldown": 4.3,
+          "UpgradePrice": 2900
+        },
+        {
+          "Range": 27.0,
+          "Damage": 680.0,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3100
+        },
+        {
+          "Range": 28.0,
+          "Damage": 741.9,
+          "Cooldown": 3.8,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 28.0,
+          "Damage": 803.7,
+          "Cooldown": 3.5,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "Spotlight": "Light units in range gain +20% Damage. For each Light unit in range, this unit gains +5% Damage (max +50%). If an enemy is within half of this unit's range, this unit gains +50% Damage.",
+        "Star of the Show": "+50% crit rate and +50% crit damage. If there is a unit with a higher damage stat in range, gain +25% crit damage and +20% Damage. When another unit in range crits, buff this unit's crit rate by +1% (max +75%). Crit rate over 100% converts directly into crit damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Unit Shop"
         ]
       }
     },
