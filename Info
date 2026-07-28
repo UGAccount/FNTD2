@@ -4979,6 +4979,48 @@
       }
     },
     {
+      "Name": "Hero Paperpals",
+      "Rarity": "Epic",
+      "PlacementPrice": 500,
+      "Type": "Circle",
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 24.0,
+        "Damage": 153.0,
+        "Cooldown": 2.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 26.0,
+          "Damage": 183.6,
+          "Cooldown": 2.40,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 28.0,
+          "Damage": 214.2,
+          "Cooldown": 2.30,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 30.0,
+          "Damage": 234.6,
+          "Cooldown": 2.00,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Paper Cuts": "Attacks apply 25% Bleed for 5s.",
+        "Paper Pals": "If any Paperpal unit is in range, this unit gains +25% Damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Paperpals Evolution"
+        ]
+      }
+    },
+    {
       "Name": "Fisherman Toy Bonnie",
       "Rarity": "Epic",
       "PlacementPrice": 2300,
