@@ -9569,7 +9569,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Firework Present"
+          "Fireworker Freddy Quest"
         ]
       }
     },
@@ -9636,7 +9636,190 @@
       },
       "Obtainability": {
         "Base": [
+          "Quest Shop Unit",
           "Music Man Present"
+        ]
+      }
+    },
+    {
+      "Name": "Salvaged Toy Bonnie",
+      "Rarity": "Mythic",
+      "PlacementPrice": 1200,
+      "Type": "Cone",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 357.1,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 367.3,
+          "Cooldown": 4.5,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 24,
+          "Damage": 377.5,
+          "Cooldown": 4.0,
+          "UpgradePrice": 950
+        },
+        {
+          "Range": 26,
+          "Damage": 387.7,
+          "Cooldown": 3.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 26,
+          "Damage": 418.3,
+          "Cooldown": 3.0,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 28,
+          "Damage": 459.1,
+          "Cooldown": 3.0,
+          "UpgradePrice": 1600
+        }
+      ],
+      "Passives": {
+        "Energy Surplus": "This unit gains +25% Damage every attack, up to 200%. Resets after one hit with max buff.",
+        "Resourceful": "For every max hit from Energy Surplus, reduce all Active CDs by 5%, up to 25%. If any Active Ability is used, reset Resourceful."
+      },
+      "Obtainability": {
+        "Base": [
+          "Toy Bonnie Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Rockstar Freddy",
+      "Rarity": "Mythic",
+      "PlacementPrice": 1200,
+      "Type": "Line",
+      "Element": "Light",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 204.0,
+        "Cooldown": 2.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 234.6,
+          "Cooldown": 2.40,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 285.6,
+          "Cooldown": 2.30,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 28.0,
+          "Damage": 367.3,
+          "Cooldown": 2.20,
+          "Type": "Cone",
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 28.0,
+          "Damage": 408.1,
+          "Cooldown": 2.00,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 459.1,
+          "Cooldown": 2.00,
+          "UpgradePrice": 2500
+        }
+      ],
+      "Passives": {
+        "Rockstars Assemble": "When 3 other rockstar animatronics are in the same loadout, this unit gains +15% Damage and +25% Range.",
+        "Overheating": "Every 30s, this unit gains +50% Damage for 10s. When 1 Fire element is on team, this buff increases to +75%, then to +100% if 2 or more Fire units are on the team.",
+        "Show Time": "If Rockstar Foxy is on your team, each coin held increases Overheating duration by 1s."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 5 Present (5%)"
+        ]
+      }
+    },
+    {
+      "Name": "Funtime Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 1200,
+      "Type": "Cone",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24.0,
+        "Damage": 489.4,
+        "Cooldown": 5.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 515.2,
+          "Cooldown": 5.00,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 25.0,
+          "Damage": 556.4,
+          "Cooldown": 5.00,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 582.2,
+          "Cooldown": 4.80,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 613.1,
+          "Cooldown": 4.60,
+          "UpgradePrice": 2800
+        },
+        {
+          "Range": 27.0,
+          "Damage": 644.0,
+          "Cooldown": 4.30,
+          "UpgradePrice": 2900
+        },
+        {
+          "Range": 27.0,
+          "Damage": 680.0,
+          "Cooldown": 4.00,
+          "UpgradePrice": 3100
+        },
+        {
+          "Range": 28.0,
+          "Damage": 741.9,
+          "Cooldown": 3.80,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 28.0,
+          "Damage": 803.7,
+          "Cooldown": 3.50,
+          "UpgradePrice": 4000
+        }
+      ],
+      "Passives": {
+        "Spotlight": "Light units in range gain +20% Damage. For each Light unit in range, this unit gains +5% Damage (max +50%). If an enemy is within half of this unit's range, this unit gains +50% Damage.",
+        "Star of the Show": "+50% crit rate and +50% crit damage. If there is a unit with a higher damage stat in range, gain +25% crit damage and +20% Damage. When another unit in range crits, buff this unit's crit rate by +1% (max +75%). Crit rate over 100% converts directly into crit damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop Unit"
         ]
       }
     },
@@ -9704,7 +9887,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Quest Unit"
+          "Quest Shop Unit"
         ]
       }
     },
