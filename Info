@@ -4,17 +4,17 @@
     "Units": {
       "Witch of the Sea Scrapbaby": {
         "Normal": {
-          "value": "4-6",
+          "value": "3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "20-25",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Slowly Dropping",
           "exists": 0
         }
       },
@@ -884,16 +884,16 @@
       },
       "Fazman": {
         "Normal": {
-          "value": "1-1.1+",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1419
         },
         "Shiny": {
-          "value": "40-45+",
+          "value": "45-50",
           "soul": "N/A",
-          "demand": "N/A",
+          "demand": "6/10",
           "status": "Stable",
           "exists": 101
         }
@@ -916,7 +916,7 @@
       },
       "Faz-Ino Springbonnie": {
         "Normal": {
-          "value": "1.2+",
+          "value": "1-1.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1876,14 +1876,14 @@
       },
       "Valkyrie Chica": {
         "Normal": {
-          "value": "2+",
+          "value": "2",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
           "exists": 31800
         },
         "Shiny": {
-          "value": "40+",
+          "value": "35",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -1915,7 +1915,7 @@
           "exists": 17944
         },
         "Shiny": {
-          "value": "30",
+          "value": "25",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Dropping",
@@ -2091,7 +2091,7 @@
           "exists": 5686
         },
         "Shiny": {
-          "value": "50",
+          "value": "40-50",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
@@ -2507,7 +2507,7 @@
           "exists": 3163
         },
         "Shiny": {
-          "value": "60+",
+          "value": "100",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Unstable",
@@ -3159,7 +3159,7 @@
         "exists": "31"
       },
       "Bear5": {
-        "value": "20+",
+        "value": "N/A",
         "version": "Normal",
         "enchant": "Champion",
         "soul": "N/A",
