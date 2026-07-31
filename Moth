@@ -4,14 +4,14 @@
     "Units": {
       "Witch of the Sea Scrapbaby": {
         "Normal": {
-          "value": "3+",
+          "value": "2-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 0
         },
         "Shiny": {
-          "value": "20-28",
+          "value": "20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -148,7 +148,7 @@
       },
       "Cthulhu Nightmare Foxy": {
         "Normal": {
-          "value": "5+",
+          "value": "5-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -164,14 +164,14 @@
       },
       "Mothman Lefty": {
         "Normal": {
-          "value": "0.2-0.5",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "4-5",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -1044,14 +1044,14 @@
       },
       "HandUnit": {
         "Normal": {
-          "value": "0.2+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 17930
         },
         "Shiny": {
-          "value": "2+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1108,14 +1108,14 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.01-0.02",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 203510
         },
         "Shiny": {
-          "value": "0.2+",
+          "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1172,16 +1172,16 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "7-8",
+          "value": "7",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
           "exists": 5180
         },
         "Shiny": {
-          "value": "60+",
+          "value": "50",
           "soul": "N/A",
-          "demand": "8/10",
+          "demand": "6.5/10",
           "status": "Unstable",
           "exists": 498
         }
@@ -1300,14 +1300,14 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "1.4-1.7",
+          "value": "1.2-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 7398
         },
         "Shiny": {
-          "value": "22.5-25+",
+          "value": "50+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
