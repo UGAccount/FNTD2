@@ -1108,7 +1108,7 @@
       },
       "Ballora": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.01-0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
