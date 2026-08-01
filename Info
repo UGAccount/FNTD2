@@ -8,14 +8,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 7195
         },
         "Shiny": {
           "value": "20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 281
         }
       },
       "Dutchman Nightmare Bonnie": {
@@ -24,14 +24,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 344459
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 16054
         }
       },
       "Pirate Withered Foxy": {
@@ -40,7 +40,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 66
         },
         "Shiny": {
           "value": "N/A",
@@ -56,14 +56,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 60
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 7
         }
       },
       "Mechanic Endo 01": {
@@ -72,14 +72,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 118
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 1357
         }
       },
       "Mecha-Lizabeth": {
@@ -88,14 +88,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 434
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 2039
         }
       },
       "Aqua Strike Toy Chica": {
@@ -104,14 +104,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 88
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 903
         }
       },
       "Salvaged Toy Bonnie": {
@@ -136,14 +136,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 262
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 7
         }
       },
       "Cthulhu Nightmare Foxy": {
@@ -152,14 +152,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 253
+          "exists": 1692
         },
         "Shiny": {
           "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 125
+          "exists": 245
         }
       },
       "Mothman Lefty": {
@@ -168,14 +168,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 11634
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 425
         }
       },
       "Unicorn Toy Foxy": {
@@ -184,14 +184,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 84532
         },
         "Shiny": {
           "value": "0.3-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 0
+          "exists": 3961
         }
       },
       "Arch Angler Toy Bonnie": {
@@ -216,14 +216,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 25
+          "exists": 250
         },
         "Shiny": {
           "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 277
+          "exists": 2020
         }
       },
       "Party Never Ends Cupcake": {
@@ -232,14 +232,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 42
+          "exists": 346
         },
         "Shiny": {
           "value": "0.1-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 574
+          "exists": 3646
         }
       },
       "Lore Keeper Shadow Bonnie": {
