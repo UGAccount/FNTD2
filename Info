@@ -10633,6 +10633,69 @@
       }
     },
     {
+      "Name": "Vessel Plushtrap",
+      "Rarity": "Secret",
+      "PlacementPrice": 5400,
+      "Type": "FullAoE",
+      "Element": [
+        "Nature",
+        "Dark"
+      ],
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20.0,
+        "Damage": 204.0,
+        "Cooldown": 5.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20.0,
+          "Damage": 255.0,
+          "Cooldown": 5.50,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 21.0,
+          "Damage": 331.6,
+          "Cooldown": 5.50,
+          "UpgradePrice": 5750
+        },
+        {
+          "Range": 21.0,
+          "Damage": 382.6,
+          "Cooldown": 5.30,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 22.0,
+          "Damage": 459.1,
+          "Cooldown": 5.30,
+          "UpgradePrice": 7250
+        },
+        {
+          "Range": 23.0,
+          "Damage": 510.1,
+          "Cooldown": 5.00,
+          "UpgradePrice": 8250
+        },
+        {
+          "Range": 25.0,
+          "Damage": 612.1,
+          "Cooldown": 5.00,
+          "UpgradePrice": 9500
+        }
+      ],
+      "Passives": {
+        "Research Subject": "Buff units in range by +1% damage and range per 10k damage dealt (Max 10%). This unit receives this buff at 5x value",
+        "Corrosive Substance": "Attacks apply 50% poison over 5s. Poison increases by +5% per 5k damage dealt in range (Max 50%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Vessel Plushtrap Present (200 Challenge Tokens)"
+        ]
+      }
+    },
+    {
       "Name": "Deep Sea Calamity Endo",
       "Rarity": "Nightmare",
       "PlacementPrice": 8000,
@@ -11244,6 +11307,77 @@
       "Obtainability": {
         "Base": [
           "April Fools Present (0.0555%)"
+        ]
+      }
+    },
+    {
+      "Name": "Patient White Rabbit",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 9000,
+      "Type": "Circle",
+      "Element": [
+        "Nature",
+        "Dark"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 25.0,
+        "Damage": 306.1,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 26.0,
+          "Damage": 357.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 408.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 433.6,
+          "Cooldown": 3.50,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 29.0,
+          "Damage": 510.1,
+          "Cooldown": 3.50,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 29.0,
+          "Damage": 561.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 31.0,
+          "Damage": 714.1,
+          "Cooldown": 3.00,
+          "Type": "Cone 75°",
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 33.0,
+          "Damage": 969.2,
+          "Cooldown": 3.00,
+          "Type": "Cone 75°",
+          "UpgradePrice": 17500
+        }
+      ],
+      "Passives": {
+        "Imperfect Vessel": "On attack apply 25% poison over 5s and buff this units damage by 10% and poison by 2.5% (Max +100% damage and +25% poison). At max buff deal 500% poison over 10s as Full AoE, stun this unit for 5s and lose these buffs",
+        "Dangerous Concoction": "This unit deals 5% more damage for every poison instance on the enemy. Enemies in range take 40% more poison damage"
+      },
+      "Obtainability": {
+        "Base": [
+          "Vessel Plushtrap Evolution"
         ]
       }
     },
