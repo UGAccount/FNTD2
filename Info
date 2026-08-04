@@ -84,7 +84,7 @@
       },
       "Cannoneer Chica": {
         "Normal": {
-          "value": "2-3",
+          "value": "0.5-0.8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -180,14 +180,14 @@
       },
       "Cthulhu Nightmare Foxy": {
         "Normal": {
-          "value": "4.5",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1692
         },
         "Shiny": {
-          "value": "20-30",
+          "value": "19-23",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -523,7 +523,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "2.5",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -555,7 +555,7 @@
           "exists": 0
         },
         "Shiny": {
-          "value": "2+",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1083,7 +1083,7 @@
           "exists": 17930
         },
         "Shiny": {
-          "value": "4+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1204,17 +1204,17 @@
       },
       "Astral Bonnie": {
         "Normal": {
-          "value": "6-7",
+          "value": "6",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 5180
         },
         "Shiny": {
-          "value": "45-50",
+          "value": "35-45",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Unstable",
+          "status": "Slowly Dropping",
           "exists": 498
         }
       },
