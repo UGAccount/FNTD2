@@ -164,7 +164,7 @@
       },
       "Grand Strategist Chica": {
         "Normal": {
-          "value": "30+",
+          "value": "35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -187,7 +187,7 @@
           "exists": 1692
         },
         "Shiny": {
-          "value": "19-23",
+          "value": "15-20",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
