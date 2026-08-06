@@ -1332,7 +1332,7 @@
       },
       "Lich Shadow Bonnie": {
         "Normal": {
-          "value": "1.2-1.5",
+          "value": "1.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
