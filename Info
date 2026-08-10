@@ -9326,6 +9326,170 @@
       }
     },
     {
+      "Name": "Happy Frog",
+      "Rarity": "Secret",
+      "PlacementPrice": 500,
+      "Type": "Cone",
+      "Degrees": 90,
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 17.0,
+        "Damage": 153.0,
+        "Cooldown": 2.80
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18.0,
+          "Damage": 178.5,
+          "Cooldown": 2.80,
+          "UpgradePrice": 350
+        },
+        {
+          "Range": 19.0,
+          "Damage": 204.0,
+          "Cooldown": 2.60,
+          "UpgradePrice": 600
+        },
+        {
+          "Range": 21.0,
+          "Damage": 244.8,
+          "Cooldown": 2.60,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 23.0,
+          "Damage": 295.8,
+          "Cooldown": 2.40,
+          "UpgradePrice": 1400,
+          "Type": "Circle"
+        },
+        {
+          "Range": 25.0,
+          "Damage": 357.1,
+          "Cooldown": 2.40,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "Shadow Leap": "After defeating 8 enemies, enter [Frenzy] for 30 seconds. During [Frenzy] cooldown is reduced by 30% and damage is reduced by 20%. Defeated enemies determine [Stealth] duration. When [Frenzy] ends enter [Stealth] for 0.5 seconds per enemy defeated (Max 10 seconds). Cannot attack during [Stealth]. Gain +50% damage every second in [Stealth] (Max +500%). When [Stealth] ends the next attack deals the stored bonus damage. Enemies hit are slowed by 25% for 3 seconds. Cannot enter [Frenzy] again for 60 seconds"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Present (0.05%)"
+        ]
+      }
+    },
+    {
+      "Name": "Stitchwraith",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Explosion",
+      "Element": [
+        "Dark",
+        "Light"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 15,
+        "Damage": 150,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 16,
+          "Damage": 200,
+          "Cooldown": 2.5,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 18,
+          "Damage": 250,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 21,
+          "Damage": 325,
+          "Cooldown": 2.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 24,
+          "Damage": 425,
+          "Cooldown": 2.5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 24,
+          "Damage": 550,
+          "Cooldown": 2.5,
+          "UpgradePrice": 12500
+        }
+      ],
+      "Passives": {
+        "Are You Really in Control?": "On placement, choose between Jake Mode and Andrew Mode. Remnant is gained from enemies defeated in this unit's range. Remnant stacks: 1 stack: 5 enemies. 2 stacks: 25 enemies. 3 stacks: 75 enemies. Jake Mode: 1 stack: Units in range gain +15% damage, +10% range, and -5% cooldown. 2 stacks: Also gain +10% crit rate and +10% crit damage. 3 stacks: Units in range gain +15% damage, +25% range, -5% cooldown, +20% crit rate, and +20% crit damage. Andrew Mode: 1 stack: +75% damage and -10% cooldown. 2 stacks: +125% damage, +25% range, and -20% cooldown. 3 stacks: +175% damage, +40% range, and -30% cooldown. Attacks apply 25% bleed over 5 seconds and stun enemies in a small circle for 1.2 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop"
+        ]
+      }
+    },
+    {
+      "Name": "Orville Elephant",
+      "Rarity": "Rare",
+      "PlacementPrice": 750,
+      "Type": "Explosion",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 200,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 220,
+          "Cooldown": 2.5,
+          "UpgradePrice": 500
+        },
+        {
+          "Range": 20,
+          "Damage": 240,
+          "Cooldown": 2.2,
+          "UpgradePrice": 850
+        },
+        {
+          "Range": 21,
+          "Damage": 280,
+          "Cooldown": 2.2,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 23,
+          "Damage": 340,
+          "Cooldown": 2.2,
+          "UpgradePrice": 2100
+        },
+        {
+          "Range": 25,
+          "Damage": 400,
+          "Cooldown": 2.2,
+          "UpgradePrice": 3000
+        }
+      ],
+      "Passives": {
+        "Magic Act": "Every 10th attack: Make an enemy [Disappear] for 2 seconds. After reappearing, the enemy takes +20% damage for 5 seconds. Bosses cannot disappear and are slowed by 15% for 2 seconds instead."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Present (79.95%)"
+        ]
+      }
+    },
+    {
       "Name": "Lefty",
       "Rarity": "Nightmare",
       "PlacementPrice": 5,
@@ -9424,7 +9588,7 @@
       "Skins": [
         {
           "Name": "Dark Knight Lefty",
-          "Obtainability": "6th Exclusive Skin Bundle (199 R$)",
+          "Obtainability": "6th Exclusive Skin Bundle (2999 R$)",
           "Rarity": "Exclusive"
         }
       ]
