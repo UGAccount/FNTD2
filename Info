@@ -14935,13 +14935,172 @@
         }
       ],
       "Passives": {
-        "GHOSTLY APPARITION": "If there is no ghost currently on the map: When a unit is sold, create a ghost copy with 1/4 of their damage for 3 waves. If there is a ghost currently on the map: Buff this unit's damage by 50%. Follow up on ghost attacks for 50% of this unit's damage with a 3s cooldown.",
-        "SOUL COLLECTOR": "Attacks: Buff this unit's damage by 5% for 15s, up to 50%. If an enemy dies in range, the next attack buffs by 10% instead. Deal 20% more damage to enemies below 50% HP."
+        "Ghostly Apparaition": "If there is no ghost currently on the map: When a unit is sold, create a ghost copy with 1/4 of their damage for 3 waves. If there is a ghost currently on the map: Buff this unit's damage by 50%. Follow up on ghost attacks for 50% of this unit's damage with a 3s cooldown.",
+        "Soul collector": "Attacks: Buff this unit's damage by 5% for 15s, up to 50%. If an enemy dies in range, the next attack buffs by 10% instead. Deal 20% more damage to enemies below 50% HP."
       },
       "Obtainability": {
         "Base": [
           "Event Summon Banner Nightmare (0.066% chance)",
           "Pirate Present"
+        ]
+      }
+    },
+    {
+      "Name": "Vengeful Spirit",
+      "Rarity": "Hero",
+      "PlacementPrice": 3000,
+      "Type": "Explosion",
+      "Element": [
+        "Dark",
+        "Neutral"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 750,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 850,
+          "Cooldown": 6,
+          "UpgradePrice": 3800
+        },
+        {
+          "Range": 26,
+          "Damage": 900,
+          "Cooldown": 6,
+          "UpgradePrice": 4200
+        },
+        {
+          "Range": 26,
+          "Damage": 950,
+          "Cooldown": 6,
+          "UpgradePrice": 4600
+        },
+        {
+          "Range": 26,
+          "Damage": 1000,
+          "Cooldown": 5.8,
+          "UpgradePrice": 4900
+        },
+        {
+          "Range": 26,
+          "Damage": 1100,
+          "Cooldown": 5.8,
+          "UpgradePrice": 5300
+        },
+        {
+          "Range": 26,
+          "Damage": 1200,
+          "Cooldown": 5.8,
+          "UpgradePrice": 5700
+        },
+        {
+          "Range": 27,
+          "Damage": 1300,
+          "Cooldown": 5.8,
+          "UpgradePrice": 6100
+        },
+        {
+          "Range": 27,
+          "Damage": 1350,
+          "Cooldown": 5.8,
+          "UpgradePrice": 6600
+        },
+        {
+          "Range": 27,
+          "Damage": 1400,
+          "Cooldown": 5.6,
+          "UpgradePrice": 7000,
+          "Type": "Cone",
+          "Degrees": 60
+        },
+        {
+          "Range": 28,
+          "Damage": 1450,
+          "Cooldown": 5.6,
+          "UpgradePrice": 8600
+        },
+        {
+          "Range": 28,
+          "Damage": 1500,
+          "Cooldown": 5.6,
+          "UpgradePrice": 8900
+        },
+        {
+          "Range": 28,
+          "Damage": 1550,
+          "Cooldown": 5.6,
+          "UpgradePrice": 9200
+        },
+        {
+          "Range": 28,
+          "Damage": 1600,
+          "Cooldown": 5.4,
+          "UpgradePrice": 9500
+        },
+        {
+          "Range": 29,
+          "Damage": 1650,
+          "Cooldown": 5.4,
+          "UpgradePrice": 9600
+        },
+        {
+          "Range": 29,
+          "Damage": 1700,
+          "Cooldown": 5.2,
+          "UpgradePrice": 9700
+        },
+        {
+          "Range": 29,
+          "Damage": 1750,
+          "Cooldown": 5.2,
+          "UpgradePrice": 9700
+        },
+        {
+          "Range": 29,
+          "Damage": 1800,
+          "Cooldown": 5.2,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 1850,
+          "Cooldown": 5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 31,
+          "Damage": 1900,
+          "Cooldown": 5,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 32,
+          "Damage": 2000,
+          "Cooldown": 5,
+          "UpgradePrice": 11000,
+          "Type": "Cone",
+          "Degrees": 120
+        }
+      ],
+      "Passives": {
+        "Hell of Your Own Making": "[Neutral] and [Dark] element units gain +20% damage and +20% range and apply 5 Marks on hit divided by their max placements (Max 50). When this unit attacks a Marked enemy: Consume Marks and apply bleed equal to the Marks consumed over 3s. Apply [Dark] and [Neutral] Wither equal to half the Marks consumed for 20s. Increase this attack's critical damage by the Marks consumed. Gain +2% damage and crit rate on the next attack per Mark consumed.",
+        "You're Not Going Anywhere": "Enemies in range are slowed by 20%. Slow increases by 1% every 3s (Max 30%). When an enemy tries to leave this unit's range: Follow up with a Full AOE attack for 25% damage (3s cooldown). Stun the escaping enemy for 2s and all other enemies hit for 1s. Buff [Dark] and [Neutral] units by +20% damage for 15s."
+      },
+      "Actives": [
+        {
+          "Name": "Playtime",
+          "Description": "For 30s, enemies are constantly set to 50 Marks that cannot be reduced. Gain +20% damage and follow up each attack with a Full AOE attack for 50% damage.",
+          "Cooldown": 90,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Hero Quest 8"
         ]
       }
     },
