@@ -8823,6 +8823,200 @@
       }
     },
     {
+      "Name": "Phone Guy",
+      "Rarity": "Secret",
+      "PlacementPrice": 10000,
+      "Type": "Single",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 142.8,
+        "Cooldown": 0.3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 158.1,
+          "Cooldown": 0.3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 168.3,
+          "Cooldown": 0.28,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 26,
+          "Damage": 188.7,
+          "Cooldown": 0.28,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 209.1,
+          "Cooldown": 0.28,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 30,
+          "Damage": 219.3,
+          "Cooldown": 0.25,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 32,
+          "Damage": 239.7,
+          "Cooldown": 0.25,
+          "UpgradePrice": 17500
+        },
+        {
+          "Range": 36,
+          "Damage": 265.2,
+          "Cooldown": 0.25,
+          "UpgradePrice": 20000
+        },
+        {
+          "Range": 40,
+          "Damage": 306.1,
+          "Cooldown": 0.25,
+          "UpgradePrice": 25000
+        }
+      ],
+      "Passives": {
+        "Under My Watchful Eye": "After each kill, Phone Guy's TV switches cameras and prepares the next attack. Freddy: Apply 25% [Slow] to enemies in range. Chica: Change the next attack to [Ricochet]. Foxy: Apply 15% [Wither] and 75% [Bleed] over 5s to all enemies. Bonnie: On hit, reduce the cooldown of units in range by 5% for 15s.After all four cameras are used deal 200% damage to all enemies and The TV goes static for 25s"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 pass (T50 free side)"
+        ]
+      }
+    },
+    {
+      "Name": "Happy Frog",
+      "Rarity": "Secret",
+      "PlacementPrice": 500,
+      "Type": "Cone",
+      "Degrees": 35,
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 17,
+        "Damage": 153,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 18,
+          "Damage": 178.5,
+          "Cooldown": 2.8,
+          "UpgradePrice": 350
+        },
+        {
+          "Range": 19,
+          "Damage": 204,
+          "Cooldown": 2.6,
+          "UpgradePrice": 600
+        },
+        {
+          "Range": 21,
+          "Damage": 244.8,
+          "Cooldown": 2.6,
+          "UpgradePrice": 900
+        },
+        {
+          "Range": 23,
+          "Damage": 295.8,
+          "Cooldown": 2.4,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 25,
+          "Damage": 357.1,
+          "Cooldown": 2.4,
+          "UpgradePrice": 2000
+        }
+      ],
+      "Passives": {
+        "Shadow Leap": "After defeating 8 enemies, enter [Frenzy] for 30 seconds. During [Frenzy] cooldown is reduced by 30% and damage is reduced by 20%. Defeated enemies determine [Stealth] duration. When [Frenzy] ends enter [Stealth] for 0.5 seconds per enemy defeated (Max 10 seconds). Cannot attack during [Stealth]. Gain +50% damage every second in [Stealth] (Max +500%). When [Stealth] ends the next attack deals the stored bonus damage. Enemies hit are slowed by 25% for 3 seconds. Cannot enter [Frenzy] again for 60 seconds"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Present (0.05%)"
+        ]
+      }
+    },
+    {
+      "Name": "Mr. Hippo",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6000,
+      "Type": "Single",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 500,
+        "Cooldown": 3.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 550,
+          "Cooldown": 3.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 675,
+          "Cooldown": 3.3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 750,
+          "Cooldown": 3.3,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 800,
+          "Cooldown": 3.0,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 30,
+          "Damage": 925,
+          "Cooldown": 3.0,
+          "UpgradePrice": 10000,
+          "Type": "Explosion"
+        },
+        {
+          "Range": 32,
+          "Damage": 1100,
+          "Cooldown": 3.0,
+          "UpgradePrice": 12500,
+          "Type": "Explosion"
+        }
+      ],
+      "Passives": {
+        "Moral of the Story": "This unit gains +50% crit rate and +30% crit damage. Crits in range: Buff this unit's damage by +2% for 20 seconds (Max +100%). Units in range: Gain +5% crit rate and +10% crit damage. Mediocre Melodies receive +20% crit rate and +40% crit damage instead. After this unit crits 5 times: Deal 100% damage in a Full AOE. If all 5 crits were consecutive, this attack deals 150% damage and is guaranteed to crit."
+      },
+      "Actives": [
+        {
+          "Name": "Story Time",
+          "Description": "Tell a story for up to 30 seconds. While active, all units gain 1% crit chance and crit damage per second, enemies in range receive 10% wither, and Mr. Hippo follows up on other units' crits. (5s cd)",
+          "Cooldown": 90,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Season 6 Craftable Nightmare"
+        ]
+      }
+    },
+    {
       "Name": "Bones Of The Past Nightmare Freddy",
       "Rarity": "Nightmare",
       "PlacementPrice": 2350,
