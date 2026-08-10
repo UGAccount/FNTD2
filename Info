@@ -8173,6 +8173,73 @@
       }
     },
     {
+      "Name": "Nightguard Afton",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 4500,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 200,
+        "Cooldown": 2.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 300,
+          "Cooldown": 2.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 420,
+          "Cooldown": 3.0,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 500,
+          "Cooldown": 3.0,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 650,
+          "Cooldown": 4.0,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 30,
+          "Damage": 850,
+          "Cooldown": 4.0,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30,
+          "Damage": 1150,
+          "Cooldown": 4.0,
+          "UpgradePrice": 13500
+        },
+        {
+          "Range": 30,
+          "Damage": 1600,
+          "Cooldown": 4.0,
+          "UpgradePrice": 17000
+        }
+      ],
+      "Passives": {
+        "Never Ending Cycle": "This unit gains +5% damage per unique type of enemy hit. Deals +20% damage to enemy types it has hit 10+ times. The first time this unit is stunned, gain +25% damage and range. Ignores 75% of enemy damage reduction.",
+        "Phantom Shackles": "For the first 5 waves this unit is placed: +100% cooldown and -20% damage. After 5 waves have passed: Remove the debuffs. Gain +50% damage and +20% range. Increase this unit's AOE by 20. Attacks apply 30% burn."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Exclusive Pack"
+        ]
+      }
+    },
+    {
       "Name": "Count the Ways Funtime Freddy",
       "Rarity": "Mythic",
       "PlacementPrice": 8500,
@@ -8276,6 +8343,73 @@
       "Obtainability": {
         "Base": [
           "Season 6 Present (5%)"
+        ]
+      }
+    },
+    {
+      "Name": "Dee Dee",
+      "Rarity": "Exclusive",
+      "PlacementPrice": 3500,
+      "Type": "Cone",
+      "Degrees": 90,
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 408.1,
+        "Cooldown": 3.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 484.6,
+          "Cooldown": 3.00,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 535.6,
+          "Cooldown": 2.80,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 637.6,
+          "Cooldown": 2.80,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 30.0,
+          "Damage": 714.1,
+          "Cooldown": 2.50,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 30.0,
+          "Damage": 867.1,
+          "Cooldown": 2.50,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 32.0,
+          "Damage": 1071.2,
+          "Cooldown": 2.50,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 32.0,
+          "Damage": 1326.2,
+          "Cooldown": 2.50,
+          "UpgradePrice": 14000
+        }
+      ],
+      "Passives": {
+        "Uh-Oh! How Unfortunate!": "Every 5 waves spawn a boss with 500% of this unit's damage as health. The boss does not count for kills or damage and does not affect base health. When this boss dies deal 250% of this unit's damage in a large AOE. Buff this unit's damage by 50% for 60 seconds",
+        "Variety is the Spice of Life": "For every Neutral or unique element unit on the team buff this unit's damage by 10% (Max 50%). This unit's attack type randomly swaps between Full AOE, Circle, and Cone 90."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Starter Pack"
         ]
       }
     },
