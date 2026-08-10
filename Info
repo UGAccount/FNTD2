@@ -73,10 +73,24 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
         }
       },
       "Scott Plushie": {
         "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
@@ -107,10 +121,24 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
         }
       },
       "Hoax Purple Guy": {
         "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
