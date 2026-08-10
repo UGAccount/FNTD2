@@ -8347,6 +8347,80 @@
       }
     },
     {
+      "Name": "Eleanor",
+      "Rarity": "Secret",
+      "PlacementPrice": 7500,
+      "Type": "Explosion",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 1200,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 1400,
+          "Cooldown": 5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 26,
+          "Damage": 1600,
+          "Cooldown": 5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 1900,
+          "Cooldown": 5,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 30,
+          "Damage": 2200,
+          "Cooldown": 5,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 32,
+          "Damage": 2600,
+          "Cooldown": 5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 32,
+          "Damage": 3200,
+          "Cooldown": 5,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 32,
+          "Damage": 4000,
+          "Cooldown": 5,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "This Is What I've Longed For!": "When [To Be Beautiful]'s pendant breaks: Shapeshift into its recipient for 15s. Copy their damage, range, element, attack type, and attack behavior. Attack 15% faster.",
+        "Maybe Next Time...": "When [To Be Beautiful]'s pendant does not break: Enter an enraged state until the next pendant is thrown. Change attack type to Line. Gain +30% damage and -10% cooldown."
+      },
+      "Actives": [
+        {
+          "Name": "To Be Beautiful",
+          "Description": "Throw a pendant to the unit in range with the highest displayed damage. It gains +30% damage, fading by 1.5% every second. When the buff expires, the pendant has a 50% chance to break.",
+          "Cooldown": 130,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Summons (0.25%)"
+        ]
+      }
+    },
+    {
       "Name": "Dee Dee",
       "Rarity": "Exclusive",
       "PlacementPrice": 3500,
