@@ -15236,7 +15236,14 @@
         "Base": [
           "Hero Quest 8"
         ]
-      }
+      },
+      "Skins": [
+        {
+          "Name": "Gargoyle Vengeful Spirit",
+          "Obtainability": "7th Exclusive Skin Bundle (199 R$)",
+          "Rarity": "Exclusive"
+        }
+      ]
     },
     {
       "Name": "Unicorn Toy Foxy",
