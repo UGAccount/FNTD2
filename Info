@@ -8488,6 +8488,248 @@
       }
     },
     {
+      "Name": "Samurai Duo",
+      "Rarity": "Secret",
+      "PlacementPrice": 6000,
+      "Type": "Full AOE",
+      "Element": "Neutral",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 500,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 700,
+          "Cooldown": 3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 900,
+          "Cooldown": 3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 29,
+          "Damage": 1050,
+          "Cooldown": 3,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 32,
+          "Damage": 1350,
+          "Cooldown": 3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 35,
+          "Damage": 1700,
+          "Cooldown": 3,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Duel of Vengeance": "Every 3s, attack regardless of whether enemies are present. This unit is immune to stuns. On hit: Deal +2 shield damage. Apply 40% bleed over 4s. Deal +50% damage to non-Boss enemies. Every 3rd attack: Stun enemies for 1.8s. Deal +30% damage. Apply 30% burn and bleed over 3s. Deal +50% damage to Boss enemies."
+      },
+      "Obtainability": {
+        "Base": [
+          "Samurai Duo Present",
+          "Season 6 Pass (Premium Tier 50)"
+        ]
+      }
+    },
+    {
+      "Name": "XOR",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Explosion",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 350,
+          "Cooldown": 3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22,
+          "Damage": 400,
+          "Cooldown": 3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 22,
+          "Damage": 500,
+          "Cooldown": 3.5,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 24,
+          "Damage": 650,
+          "Cooldown": 3.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 27,
+          "Damage": 750,
+          "Cooldown": 4,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 30,
+          "Damage": 950,
+          "Cooldown": 4,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 35,
+          "Damage": 1200,
+          "Cooldown": 4,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Too Many to Count": "For every enemy in range: Buff this unit's damage and range by 5%. At 5+ enemies in range: Reduce this unit's cooldown by 10%."
+      },
+      "Actives": [
+        {
+          "Name": "!ETANUTROFNU WOH !HO-HU",
+          "Description": "Summon a copy of every enemy currently in range with health equal to 50% of this unit's damage. A maximum of 25 copies can exist at once.",
+          "Cooldown": 60,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "XOR Present",
+          "Season 6 Pass (Premium Tier 1)"
+        ]
+      }
+    },
+    {
+      "Name": "Anniversary Balloon Boy",
+      "Rarity": "Epic",
+      "PlacementPrice": 5000,
+      "Type": "Circle",
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20.0,
+        "Damage": 561.1,
+        "Cooldown": 2.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21.0,
+          "Damage": 510.1,
+          "Cooldown": 2.50,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 22.0,
+          "Damage": 612.1,
+          "Cooldown": 2.30,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24.0,
+          "Damage": 714.1,
+          "Cooldown": 2.30,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 816.1,
+          "Cooldown": 2.00,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 1275.2,
+          "Cooldown": 2.00,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "The Afterparty": "Light element units on the team gain +10% damage. Anniversary Duo instead gains +50% damage",
+        "Party Planners": "If Anniversary Duo is placed while this unit is not placed, Anniversary Duo gains +100% damage and this unit follows up every other attack, matching Anniversary Duo's upgrade level. While placed, Anniversary Duo follows up every other attack from this unit for 50% damage. Every 5th attack automatically upgrades this unit. After 60s, both units deal 250% damage in a Full AOE, then this unit is removed and cannot be placed for 60s"
+      },
+      "Obtainability": {
+        "Base": [
+          "Anniversary Present (79%)"
+        ]
+      }
+    },
+    {
+      "Name": "Hoax Purple Guy",
+      "Rarity": "Secret",
+      "PlacementPrice": 3000,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 382.6,
+        "Cooldown": 2.8
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 433.6,
+          "Cooldown": 2.8,
+          "UpgradePrice": 1400
+        },
+        {
+          "Range": 22,
+          "Damage": 484.6,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24,
+          "Damage": 510.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 26,
+          "Damage": 591.7,
+          "Cooldown": 2.5,
+          "UpgradePrice": 6000,
+          "Type": "Line"
+        },
+        {
+          "Range": 28,
+          "Damage": 693.7,
+          "Cooldown": 2.5,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 28,
+          "Damage": 816.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 12500
+        }
+      ],
+      "Passives": {
+        "Ring Ring Are You There?": "Every 45 seconds, Hoax receives a phone call. Call 1: +75% damage and +30% range for 30 seconds. Call 2: Debuff enemies on the map for 30 seconds, applying 30% slow. Dark units gain +25% damage and range while active. Call 3: Enter frenzy for 15 seconds, giving this unit -30% cooldown. Attacks apply 35% bleed over 5 seconds."
+      },
+      "Obtainability": {
+        "Base": [
+          "Unit Quest 4"
+        ]
+      }
+    },
+    {
       "Name": "Scott Plushie",
       "Rarity": "Uncommon",
       "PlacementPrice": 1500,
