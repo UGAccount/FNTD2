@@ -8573,9 +8573,14 @@
         "Overlord's Pressure": "Attacks: Stun enemies for 2 seconds. Deal +25% damage to enemies in stun lockout",
         "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
       },
-      "Actives": {
-        "Creation Arc Galactic": "Detonate a supernova, dealing 800% damage to all enemies, applying 100% Burn over 15s, slowing by 25% for 30s, and causing enemies to take +25% damage from all sources for 10s."
-      },
+      "Actives": [
+        {
+          "Name": "Creation Arc Galactic",
+          "Description": "Detonate a supernova, dealing 800% damage to all enemies, applying 100% Burn over 15s, slowing by 25% for 30s, and causing enemies to take +25% damage from all sources for 10s.",
+          "Cooldown": 120,
+          "Upgrade": 0
+        }
+      ],
       "Obtainability": {
         "Base": [
           "Evolves from Overlord Scott"
