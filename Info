@@ -9145,6 +9145,121 @@
       }
     },
     {
+      "Name": "Anniversary Duo",
+      "Rarity": "Secret",
+      "PlacementPrice": 8000,
+      "Type": "Cone",
+      "Degrees": 90,
+      "Element": "Light",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 400,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 525,
+          "Cooldown": 3,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24,
+          "Damage": 675,
+          "Cooldown": 2.8,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 2.8,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1000,
+          "Cooldown": 2.5,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 32,
+          "Damage": 1250,
+          "Cooldown": 2.5,
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "The Grand Celebration": "Attacks apply 10% [Light] element Wither. [Anniversary Balloon Boy] counts this Wither as 30%. For every [Light] element unit on the team: Gain +10% damage.",
+        "Party Planners": "If [Anniversary Balloon Boy] is in range: [Anniversary Balloon Boy] follows up every other attack for 50% damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Anniversary Present (1%)"
+        ]
+      }
+    },
+    {
+      "Name": "Pigpatch",
+      "Rarity": "Epic",
+      "PlacementPrice": 2500,
+      "Type": "Cone",
+      "Degrees": 45,
+      "Element": "Neutral",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 320,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 20,
+          "Damage": 350,
+          "Cooldown": 3,
+          "UpgradePrice": 1000
+        },
+        {
+          "Range": 21,
+          "Damage": 380,
+          "Cooldown": 3,
+          "UpgradePrice": 1500
+        },
+        {
+          "Range": 22,
+          "Damage": 410,
+          "Cooldown": 3,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 23,
+          "Damage": 460,
+          "Cooldown": 3,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 25,
+          "Damage": 525,
+          "Cooldown": 3,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28,
+          "Damage": 600,
+          "Cooldown": 3,
+          "UpgradePrice": 5000
+        }
+      ],
+      "Passives": {
+        "Banjo Breakdown": "Every 8 seconds, Pigpatch cycles between 3 banjo chords. Chord I - Open Chord: Cone attack. Deals 100% damage. Enemies hit are slowed by 10% for 2 seconds. Chord II - Power Chord: Line attack. Deals 130% damage. Chord III - Solo Chord: Single attack. Deals 180% damage. +25% crit chance and +50% crit damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Present (15%)"
+        ]
+      }
+    },
+    {
       "Name": "Phone Guy",
       "Rarity": "Secret",
       "PlacementPrice": 10000,
