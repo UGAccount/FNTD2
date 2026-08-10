@@ -8166,6 +8166,113 @@
       }
     },
     {
+      "Name": "Count the Ways Funtime Freddy",
+      "Rarity": "Mythic",
+      "PlacementPrice": 8500,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 459.1,
+        "Cooldown": 2.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 510.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27,
+          "Damage": 561.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 29,
+          "Damage": 612.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 31,
+          "Damage": 688.6,
+          "Cooldown": 2.5,
+          "UpgradePrice": 13000
+        },
+        {
+          "Range": 34,
+          "Damage": 765.1,
+          "Cooldown": 2.5,
+          "UpgradePrice": 16000
+        },
+        {
+          "Range": 34,
+          "Damage": 841.6,
+          "Cooldown": 2.5,
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "Count the Ways": "Every 45s, rotate between two attack modes:Bon Bon: Line attack every 1s that deals 75% damage",
+        "One by One": "For every kill permanently gain +10% damage (Max 100%). At +100% damage throw Bon Bon onto the track. Once every second, Bon Bon attacks an enemy below 25% HP for 30% damage"
+      },
+      "Obtainability": {
+        "Base": [
+          "Mythic Summons (2%)"
+        ]
+      }
+    },
+    {
+      "Name": "Nedd Bear",
+      "Rarity": "Mythic",
+      "PlacementPrice": 2500,
+      "Type": "Line",
+      "Element": "Neutral",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 21,
+        "Damage": 765.1,
+        "Cooldown": 3
+      },
+      "UpgradeStats": [
+        {
+          "Range": 22,
+          "Damage": 1020.2,
+          "Cooldown": 3,
+          "UpgradePrice": 1250
+        },
+        {
+          "Range": 24,
+          "Damage": 1224.2,
+          "Cooldown": 2.8,
+          "UpgradePrice": 2250
+        },
+        {
+          "Range": 27,
+          "Damage": 1530.3,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 30,
+          "Damage": 1632.3,
+          "Cooldown": 2,
+          "UpgradePrice": 5250
+        }
+      ],
+      "Passives": {
+        "Stranger Danger": "This unit deals -10% damage per nearby unit. At 4+ other units in range, this unit stops attacking and boosts units within 50% range by +25% damage"
+      },
+      "Obtainability": {
+        "Base": [
+          "Season 6 Present (5%)"
+        ]
+      }
+    },
+    {
       "Name": "Scott Plushie",
       "Rarity": "Uncommon",
       "PlacementPrice": 1500,
@@ -8654,7 +8761,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Event"
+          "Summonable Nightmare (0.01%)"
         ]
       }
     },
