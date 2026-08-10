@@ -374,8 +374,8 @@
         "Normal": {
           "value": "0.8-1",
           "soul": "N/A",
-          "demand": "Stable",
-          "status": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
           "exists": 1460
         },
         "Shiny": {
