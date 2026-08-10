@@ -178,15 +178,6 @@
           "exists": 84
         }
       },
-      "Phone Guy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 917
-        }
-      },
       "Samurai Duo": {
         "Normal": {
           "value": "N/A",
@@ -201,6 +192,22 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 17
+        }
+      },
+      "Phone Guy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 917
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 43
         }
       },
       "XOR": {
