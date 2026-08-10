@@ -7821,6 +7821,451 @@
       }
     },
     {
+      "Name": "Scott Plushie",
+      "Rarity": "Uncommon",
+      "PlacementPrice": 1500,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        }
+      ],
+      "Passives": {
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds"
+      },
+      "Obtainability": {
+        "Base": [
+          "Anniversary Present"
+        ]
+      }
+    },
+    {
+      "Name": "Scott Cawthon",
+      "Rarity": "Rare",
+      "PlacementPrice": 2500,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 700,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        }
+      ],
+      "Passives": {
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds",
+        "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Evolves from Scott Plushie"
+        ]
+      }
+    },
+    {
+      "Name": "Ragequit Scott",
+      "Rarity": "Epic",
+      "PlacementPrice": 4000,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 700,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 4.0,
+          "UpgradePrice": 10000
+        }
+      ],
+      "Passives": {
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds",
+        "Rage Quit": "Gain Rage: +1% every second, +1% when an enemy enters range, +2% when this unit kills an enemy, +20% when this unit is stunned. At 100% Rage, for 20 seconds: Reduce cooldown by 20%, Gain +30% damage, Lose 25% range, Reset Rage when the effect ends",
+        "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Evolves from Scott Cawthon"
+        ]
+      }
+    },
+    {
+      "Name": "Theory Crusher Scott",
+      "Rarity": "Mythical",
+      "PlacementPrice": 6000,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 700,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 4.0,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1050,
+          "Cooldown": 4.0,
+          "UpgradePrice": 14000
+        }
+      ],
+      "Passives": {
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds",
+        "The Creator": "For every enemy on the map: Gain +5% damage. Nearby units gain +1% damage and range",
+        "Rage Quit": "Gain Rage: +1% every second, +1% when an enemy enters range, +2% when this unit kills an enemy, +20% when this unit is stunned. At 100% Rage, for 20 seconds: Reduce cooldown by 20%, Gain +30% damage, Lose 25% range, Reset Rage when the effect ends",
+        "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Evolves from Ragequit Scott"
+        ]
+      }
+    },
+    {
+      "Name": "Overlord Scott",
+      "Rarity": "Secret",
+      "PlacementPrice": 8500,
+      "Type": "Explosion",
+      "Element": [
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 700,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 4.0,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1050,
+          "Cooldown": 4.0,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 31,
+          "Damage": 1300,
+          "Cooldown": 4.0,
+          "UpgradePrice": 19000
+        }
+      ],
+      "Passives": {
+        "Overlord's Pressure": "Attacks: Stun enemies for 2 seconds. Deal +25% damage to enemies in stun lockout",
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds",
+        "The Creator": "For every enemy on the map: Gain +5% damage. Nearby units gain +1% damage and range",
+        "Rage Quit": "Gain Rage: +1% every second, +1% when an enemy enters range, +2% when this unit kills an enemy, +20% when this unit is stunned. At 100% Rage, for 20 seconds: Reduce cooldown by 20%, Gain +30% damage, Lose 25% range, Reset Rage when the effect ends",
+        "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Evolves from Theory Crusher Scott"
+        ]
+      }
+    },
+    {
+      "Name": "Planet Buster Scott",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 12000,
+      "Type": "Explosion",
+      "Element": [
+        "Dark",
+        "Electricity",
+        "Fire",
+        "Light",
+        "Nature",
+        "Neutral",
+        "Rust",
+        "Water"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 18,
+        "Damage": 250,
+        "Cooldown": 4.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 19,
+          "Damage": 290,
+          "Cooldown": 4.0,
+          "UpgradePrice": 800
+        },
+        {
+          "Range": 20,
+          "Damage": 340,
+          "Cooldown": 4.0,
+          "UpgradePrice": 1200
+        },
+        {
+          "Range": 21,
+          "Damage": 400,
+          "Cooldown": 4.0,
+          "UpgradePrice": 2000
+        },
+        {
+          "Range": 22,
+          "Damage": 480,
+          "Cooldown": 4.0,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 580,
+          "Cooldown": 4.0,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 700,
+          "Cooldown": 4.0,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 4.0,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1050,
+          "Cooldown": 4.0,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 31,
+          "Damage": 1300,
+          "Cooldown": 4.0,
+          "UpgradePrice": 19000
+        },
+        {
+          "Range": 35,
+          "Damage": 1600,
+          "Cooldown": 4.0,
+          "UpgradePrice": 25000
+        }
+      ],
+      "Passives": {
+        "Rage Quit": "Gain Rage: +1% every second, +1% when an enemy enters range, +2% when this unit kills an enemy, +20% when this unit is stunned. At 100% Rage, for 20 seconds: Reduce cooldown by 20%, Gain +30% damage, Lose 25% range, Reset Rage when the effect ends",
+        "Planet Buster": "Attacks: Pull non-Boss enemies hit 1 stud toward the main target if they are on the same path. Enemies within 3 studs of the main target receive a follow-up hit for 50% damage",
+        "Alarm": "Every 5 seconds: Deal 100% damage in a Full AOE. Slow enemies hit by 25% for 5 seconds",
+        "The Creator": "For every enemy on the map: Gain +5% damage. Nearby units gain +1% damage and range",
+        "Overlord's Pressure": "Attacks: Stun enemies for 2 seconds. Deal +25% damage to enemies in stun lockout",
+        "4th Wall": "When an enemy tries to leave this unit's range: Fire a 4th Wall in a line for 250% damage. Every 4th attack: Fire a 4th Wall toward the last enemy in range for 250% damage. After every 4th Wall activation: Permanently gain +5% damage (Max +50%)"
+      },
+      "Actives": {
+        "Creation Arc Galactic": "Detonate a supernova, dealing 800% damage to all enemies, applying 100% Burn over 15s, slowing by 25% for 30s, and causing enemies to take +25% damage from all sources for 10s."
+      },
+      "Obtainability": {
+        "Base": [
+          "Evolves from Overlord Scott"
+        ]
+      }
+    },
+    {
       "Name": "Helpy",
       "Rarity": "Exclusive",
       "PlacementPrice": 3000,
