@@ -8142,9 +8142,7 @@
       "Rarity": "Uncommon",
       "PlacementPrice": 1500,
       "Type": "Explosion",
-      "Element": [
-        "Electricity"
-      ],
+      "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
@@ -8197,9 +8195,7 @@
       "Rarity": "Rare",
       "PlacementPrice": 2500,
       "Type": "Explosion",
-      "Element": [
-        "Electricity"
-      ],
+      "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
@@ -8259,9 +8255,7 @@
       "Rarity": "Epic",
       "PlacementPrice": 4000,
       "Type": "Explosion",
-      "Element": [
-        "Electricity"
-      ],
+      "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
@@ -8328,9 +8322,7 @@
       "Rarity": "Mythical",
       "PlacementPrice": 6000,
       "Type": "Explosion",
-      "Element": [
-        "Electricity"
-      ],
+      "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
@@ -8404,9 +8396,7 @@
       "Rarity": "Secret",
       "PlacementPrice": 8500,
       "Type": "Explosion",
-      "Element": [
-        "Electricity"
-      ],
+      "Element": "Electricity",
       "MaxPlaced": 1,
       "BaseStats": {
         "Range": 18,
