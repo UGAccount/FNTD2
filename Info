@@ -8578,6 +8578,59 @@
       }
     },
     {
+      "Name": "Into the Pit Spring Bonnie",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 6000,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 500,
+        "Cooldown": 5.0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 600,
+          "Cooldown": 5.0,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 800,
+          "Cooldown": 5.0,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 29,
+          "Damage": 1150,
+          "Cooldown": 5.0,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 31,
+          "Damage": 1300,
+          "Cooldown": 4.0,
+          "UpgradePrice": 11500
+        },
+        {
+          "Range": 34,
+          "Damage": 1800,
+          "Cooldown": 4.0,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Into the Pit": "After completing 8 attacks: Drag the highest-HP enemy in range into the pit, Stun it for 5 seconds, Apply 150% [Bleed] over 5 seconds. Units can continue attacking the enemy while it is in the pit. After 5 seconds: Apply [Scarred] for 15 seconds, An enemy can only be dragged into the pit once. [Scarred]: Non-boss enemies lose 0.25% of their max HP every second. If this unit does not attack for 10 seconds, its attack bar resets."
+      },
+      "Obtainability": {
+        "Base": [
+          "Event"
+        ]
+      }
+    },
+    {
       "Name": "Helpy",
       "Rarity": "Exclusive",
       "PlacementPrice": 3000,
