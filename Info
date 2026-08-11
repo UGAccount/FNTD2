@@ -5,14 +5,14 @@
       "Planet Buster Scott": {
         "Normal": {
           "value": "7",
-          "soul": "70k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1134
         },
         "Shiny": {
           "value": "25-30",
-          "soul": "250k-300k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 298
@@ -165,7 +165,7 @@
       "Nightguard Afton": {
         "Normal": {
           "value": "2.5",
-          "soul": "25k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 480
@@ -181,7 +181,7 @@
       "Dee Dee": {
         "Normal": {
           "value": "0.4-0.5",
-          "soul": "4k-5k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 1762
@@ -197,7 +197,7 @@
       "Samurai Duo": {
         "Normal": {
           "value": "0.8-1.5",
-          "soul": "8k-15k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 384
@@ -213,14 +213,14 @@
       "Phone Guy": {
         "Normal": {
           "value": "1",
-          "soul": "10k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 917
         },
         "Shiny": {
           "value": "7-10",
-          "soul": "70k-100k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 43
@@ -245,14 +245,14 @@
       "Mr. Hippo": {
         "Normal": {
           "value": "0.4",
-          "soul": "4k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 1878
         },
         "Shiny": {
           "value": "2.5-3",
-          "soul": "25k-30k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 194
@@ -261,14 +261,14 @@
       "Happy Frog": {
         "Normal": {
           "value": "0.35-0.5",
-          "soul": "3.50k-5k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 11815
         },
         "Shiny": {
           "value": "2.5",
-          "soul": "25k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 378
@@ -373,14 +373,14 @@
       "Patient White Rabbit": {
         "Normal": {
           "value": "0.9-1",
-          "soul": "9k-10k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1295
         },
         "Shiny": {
           "value": "7",
-          "soul": "70k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 129
@@ -405,7 +405,7 @@
       "Witch of the Sea Scrapbaby": {
         "Normal": {
           "value": "1-2",
-          "soul": "10k-20k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 13219
@@ -453,14 +453,14 @@
       "Cannoneer Chica": {
         "Normal": {
           "value": "0.4",
-          "soul": "4k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 4607
         },
         "Shiny": {
           "value": "4-5",
-          "soul": "40k-50k",
+          "soul": "N/A",
           "demand": "4/10",
           "status": "Stable",
           "exists": 200
@@ -476,7 +476,7 @@
         },
         "Shiny": {
           "value": "0.2-0.4",
-          "soul": "2k-4k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 2068
@@ -533,7 +533,7 @@
       "Grand Strategist Chica": {
         "Normal": {
           "value": "40+",
-          "soul": "400k+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 373
@@ -572,7 +572,7 @@
         },
         "Shiny": {
           "value": "3",
-          "soul": "30k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 568
@@ -604,7 +604,7 @@
         },
         "Shiny": {
           "value": "0.2-0.4",
-          "soul": "2k-4k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 3403
@@ -661,14 +661,14 @@
       "Gaia Chica": {
         "Normal": {
           "value": "3",
-          "soul": "30k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 4649
         },
         "Shiny": {
           "value": "5-5.5",
-          "soul": "50k-55k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 5635
@@ -796,7 +796,7 @@
         },
         "Shiny": {
           "value": "0.5-0.6",
-          "soul": "5k-6k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 12352
@@ -805,14 +805,14 @@
       "Sole Survivor Withered Bonnie": {
         "Normal": {
           "value": "0.3-0.4",
-          "soul": "3k-4k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 26714
         },
         "Shiny": {
           "value": "5-7",
-          "soul": "50k-70k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1002
@@ -972,7 +972,7 @@
         },
         "Shiny": {
           "value": "17+",
-          "soul": "170k+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 308
@@ -1237,7 +1237,7 @@
       "Chicas Magic Rainbow": {
         "Normal": {
           "value": "23-25",
-          "soul": "230k-250k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 402
@@ -1292,7 +1292,7 @@
         },
         "Shiny": {
           "value": "40",
-          "soul": "400k",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 189
@@ -1381,7 +1381,7 @@
       "Devious Purple Guy": {
         "Normal": {
           "value": "0.9-1",
-          "soul": "9k-10k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 6752
@@ -1452,7 +1452,7 @@
         },
         "Shiny": {
           "value": "6+",
-          "soul": "60k+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 620
@@ -1573,7 +1573,7 @@
       "Astral Bonnie": {
         "Normal": {
           "value": "4.5-5",
-          "soul": "45k-50k",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Slowly Dropping",
           "exists": 16556
@@ -1596,7 +1596,7 @@
         },
         "Shiny": {
           "value": "65",
-          "soul": "600k-650k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 232
@@ -1685,14 +1685,14 @@
       "Dragon Endo 01": {
         "Normal": {
           "value": "5-7",
-          "soul": "50k-70k",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
           "exists": 11520
         },
         "Shiny": {
           "value": "70+",
-          "soul": "700k+",
+          "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
           "exists": 1018
@@ -1852,7 +1852,7 @@
         },
         "Shiny": {
           "value": "13-15",
-          "soul": "130k-150k",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 247
@@ -1884,7 +1884,7 @@
         },
         "Shiny": {
           "value": "10+",
-          "soul": "100k+",
+          "soul": "N/A",
           "demand": "10/10",
           "status": "Overhyped",
           "exists": 312
@@ -1900,7 +1900,7 @@
         },
         "Shiny": {
           "value": "100-130",
-          "soul": "1m-1.3m",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 132
@@ -2124,7 +2124,7 @@
         },
         "Shiny": {
           "value": "5",
-          "soul": "50k",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 793
@@ -2172,7 +2172,7 @@
         },
         "Shiny": {
           "value": "3+",
-          "soul": "30k+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 595
@@ -2220,7 +2220,7 @@
         },
         "Shiny": {
           "value": "16-20",
-          "soul": "160k-200k",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 240
@@ -2252,7 +2252,7 @@
         },
         "Shiny": {
           "value": "4.5-5",
-          "soul": "45k-50k",
+          "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
           "exists": 1003
@@ -2277,7 +2277,7 @@
       "Valkyrie Chica": {
         "Normal": {
           "value": "1.5",
-          "soul": "15k",
+          "soul": "N/A",
           "demand": "8/10",
           "status": "Fluctuating",
           "exists": 38259
@@ -2332,7 +2332,7 @@
         },
         "Shiny": {
           "value": "65",
-          "soul": "650k",
+          "soul": "N/A",
           "demand": "5/10",
           "status": "Overhyped",
           "exists": 170
@@ -2348,7 +2348,7 @@
         },
         "Shiny": {
           "value": "35-40",
-          "soul": "350k-400k",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 214
@@ -2412,7 +2412,7 @@
         },
         "Shiny": {
           "value": "300-350",
-          "soul": "3m-3.5m",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Fluctuating",
           "exists": 202
@@ -2460,7 +2460,7 @@
         },
         "Shiny": {
           "value": "500-600",
-          "soul": "5m-6m",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Overhyped",
           "exists": 168
@@ -2613,7 +2613,7 @@
       "Dreadbear": {
         "Normal": {
           "value": "4+",
-          "soul": "40k+",
+          "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
           "exists": 3137
@@ -2629,14 +2629,14 @@
       "Jack'O Bonnie": {
         "Normal": {
           "value": "1.5+",
-          "soul": "15k+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 3630
         },
         "Shiny": {
           "value": "100-120",
-          "soul": "1m-2m",
+          "soul": "N/A",
           "demand": "5/10",
           "status": "Unstable",
           "exists": 76
@@ -2716,7 +2716,7 @@
         },
         "Shiny": {
           "value": "11+",
-          "soul": "110k+",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Fluctuating",
           "exists": 1003
@@ -2869,7 +2869,7 @@
       "Purple Guy": {
         "Normal": {
           "value": "1-1.1+",
-          "soul": "10k-11k+",
+          "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
           "exists": 32907
@@ -2893,7 +2893,7 @@
         "Shiny": {
           "value": "300-350+",
           "demand": "8/10",
-          "soul": "3m-3.5m+",
+          "soul": "N/A",
           "status": "Fluctuating",
           "exists": 100
         }
@@ -2940,7 +2940,7 @@
         },
         "Shiny": {
           "value": "300",
-          "soul": "300m",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 111
