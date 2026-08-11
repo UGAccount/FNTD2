@@ -146,6 +146,22 @@
           "exists": 33
         }
       },
+      "Stitchwraith": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 854
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 20
+        }
+      },
       "Nightguard Afton": {
         "Normal": {
           "value": "N/A",
