@@ -4,14 +4,14 @@
     "Units": {
       "Planet Buster Scott": {
         "Normal": {
-          "value": "7",
+          "value": "7-9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1134
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -84,7 +84,7 @@
       },
       "Scott Plushie": {
         "Normal": {
-          "value": "N/A",
+          "value": "8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -187,7 +187,7 @@
           "exists": 1762
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -196,14 +196,14 @@
       },
       "Samurai Duo": {
         "Normal": {
-          "value": "0.8-1.5",
+          "value": "0.6-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 384
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "15-18",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -212,7 +212,7 @@
       },
       "Phone Guy": {
         "Normal": {
-          "value": "1",
+          "value": "0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -260,7 +260,7 @@
       },
       "Happy Frog": {
         "Normal": {
-          "value": "0.35-0.5",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -388,7 +388,7 @@
       },
       "Vessel Plushtrap": {
         "Normal": {
-          "value": "0.8-1",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1396,7 +1396,7 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "3+",
+          "value": "2.5-3",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -2404,7 +2404,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "19-20",
+          "value": "18-19.5",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2452,7 +2452,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "20+",
+          "value": "19-20",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
