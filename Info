@@ -3668,6 +3668,12 @@
         "demand": "N/A",
         "status": "Stable"
       },
+      "Season 6 Present": {
+        "value": "0.0004-0.0005",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "Anniversary Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3698,6 +3704,138 @@
         "demand": "N/A",
         "status": "Unstable"
       },
+      "Scrap Baby Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Music Man Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "El Chip Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Henry Emily Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Funtime Chica Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Showtime Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Funtime Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Nightmare Shadow Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Fredtrap Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Toy Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Sparky Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Chicas Magic Rainbow Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Foxy Fighters Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Bones Of The Past Nightmare Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Anti Hero Mike Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Detective Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Fazman Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Super Soldier Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Faz-ino Spring Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Ignited Burst Withered Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Season 5 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "April Fools Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Dragon Endo 01 Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3710,7 +3848,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Shepard Fredbear Present": {
+      "Shepherd Fredbear Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3728,13 +3866,49 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Season 6 Present": {
-        "value": "0.0004-0.0005",
+      "Lolbit Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "Stable"
+      },
+      "Scooped Micheal Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Exotic Butters Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Handunit Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Season 4 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Nightmarionne Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Freddles Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Plushtrap Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3746,11 +3920,11 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Frozen King Foxy Present": {
+      "Season 3 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Stable"
       },
       "Blighted Endo Freddy Present": {
         "value": "N/A",
@@ -3764,6 +3938,36 @@
         "demand": "N/A",
         "status": "O/C"
       },
+      "OG Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Frozen King Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "O/C"
+      },
+      "Christmas Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Christmas Event Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phone Dude Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "O/C"
+      },
       "Follow Me Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3771,6 +3975,12 @@
         "status": "Stable"
       },
       "Phantom Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Season 2 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3794,11 +4004,11 @@
         "demand": "N/A",
         "status": "O/C"
       },
-      "Phone Dude Present": {
+      "Halloween Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "O/C"
+        "status": "Stable"
       },
       "Shadow Bonnie Present": {
         "value": "N/A",
@@ -3829,6 +4039,102 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
+     },
+      "Season 1 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+     "Tidal Wailer Crying Child Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "UFO Tangle Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Hacker Shadow Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Sweetheart Mangle Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Mecha Cupcake Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Popeyes Toy Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Luminary Reporter Shadow Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Popcorn Bot Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Turkey Chica Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Puppets Alliance Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Party Glock Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Season 3 Clan Wars Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Clan Wars Season 2 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Clan Wars Season 2 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Clan Season 3 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Abyssal Ballora Present": {
         "value": "N/A",
