@@ -3668,6 +3668,24 @@
         "demand": "N/A",
         "status": "N/A"
       },
+      "Candy Cadet Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Molten Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
+      "Scraptrap Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "Helpy Present": {
         "value": "N/A",
         "soul": "N/A",
