@@ -3541,7 +3541,7 @@
     },
     "Dev": {
       "Devious Purple Guy": {
-        "value": "N/A",
+        "value": "40",
         "version": "Shiny",
         "enchant": "Champion",
         "soul": "N/A",
@@ -3884,7 +3884,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Handunit Present": {
+      "Hand unit Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3909,6 +3909,12 @@
         "status": "Stable"
       },
       "Plushtrap Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Psychic Friend Fredbear Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3975,6 +3981,12 @@
         "status": "Stable"
       },
       "Phantom Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Golden Cupcake Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -4064,7 +4076,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Sweetheart Mangle Present": {
+      "Sweetheart Toy Foxy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -4082,7 +4094,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Luminary Reporter Shadow Bonnie Present": {
+      "Luminary Reporter Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -4124,13 +4136,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "Clan Wars Season 2 Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Clan Season 3 Present": {
+      "Clan Wars Season 1 Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -4150,6 +4156,36 @@
       },
       "AFK Present": {
         "value": "0.001-0.0015",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Secret Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Mythic Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Epic Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Rare Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Uncommon Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
