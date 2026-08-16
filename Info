@@ -3650,6 +3650,30 @@
       }
     },
     "Presents": {
+      "Nightguard Afton Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Samurai Duo Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phone Guy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Anniversary Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Unstable"
+      },
       "Candy Cadet Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3662,19 +3686,13 @@
         "demand": "N/A",
         "status": "Unstable"
       },
-      "Phone Guy Present": {
+      "Scraptrap Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "Stable"
       },
       "Helpy Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable"
-      },
-      "Anniversary Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -3685,6 +3703,24 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Fluctuating"
+      },
+      "Lich Shadow Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shepard Fredbear Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Shadow Knight Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Medieval Present": {
         "value": "N/A",
@@ -3702,31 +3738,43 @@
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "Crying Child Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "Frozen King Foxy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Blighted Endo Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
       },
       "Tarnished Spring Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "O/C"
+      },
+      "Follow Me Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phantom Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Headless Horseman Present": {
         "value": "N/A",
