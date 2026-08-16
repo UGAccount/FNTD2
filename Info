@@ -4575,20 +4575,20 @@
       "Medpod": {
         "value": "N/A",
         "soul": "N/A",
-        "demand": "N/A",
+        "demand": "0/10",
         "status": "N/A"
       },
       "Neon Bee": {
         "value": "N/A",
         "soul": "N/A",
-        "demand": "N/A",
+        "demand": "0/10",
         "status": "N/A"
       },
       "Pearl": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "N/A"
+        "status": "Stable"
       },
       "UFO": {
         "value": "N/A",
