@@ -3650,24 +3650,6 @@
       }
     },
     "Presents": {
-      "Nightguard Afton Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Samurai Duo Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
-      "Phone Guy Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
-      },
       "Candy Cadet Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3685,6 +3667,24 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
+      },
+      "Nightguard Afton Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Samurai Duo Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phone Guy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
       },
       "Helpy Present": {
         "value": "N/A",
