@@ -3802,6 +3802,20 @@
       }
     },
     "Pets": {
+      "Nightguard Afton": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
+      "Gargoyle Vengful Spirit": {
+        "value": "N/A", 
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Scooped Ice-Cream Micheal": {
         "value": "N/A",
         "soul": "N/A",
@@ -4150,6 +4164,13 @@
       }
     },
     "Skins": {
+      "Gargoyle Vengful Spirit": {
+        "value": "0.5-1",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "N/A",
+        "exists": 0
+      },
       "Shiny Frogman Hoaxes Purple Guy": {
         "value": "N/A",
         "soul": "N/A",
