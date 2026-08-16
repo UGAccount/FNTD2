@@ -3650,23 +3650,23 @@
       }
     },
     "Presents": {
-      "Candy Cadet Present": {
+      "Nightguard Afton Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
-      "Molten Freddy Present": {
+      "Samurai Duo Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
-      "Scraptrap Present": {
+      "Phone Guy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "N/A"
       },
       "Helpy Present": {
         "value": "N/A",
@@ -3693,7 +3693,7 @@
         "status": "N/A"
       },
       "Season 6 Present": {
-        "value": "N/A",
+        "value": "0.004-0.005",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
