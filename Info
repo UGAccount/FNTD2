@@ -2,7 +2,7 @@
 {
   "Values": {
     "Units": {
-      "Pyro Spring Bonnie": {
+      "Pyro Springbonnie": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -9572,6 +9572,96 @@
       "Obtainability": {
         "Base": [
           "Tower Shop (150 Coins)"
+        ]
+      }
+    },
+    {
+      "Name": "Pyro Springbonnie",
+      "Rarity": "Secret",
+      "PlacementPrice": 7500,
+      "Type": "Line",
+      "Element": "Fire",
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 459.1,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.0,
+          "Damage": 484.6,
+          "Cooldown": 4.00,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24.0,
+          "Damage": 510.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 25.0,
+          "Damage": 535.6,
+          "Cooldown": 4.00,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 637.6,
+          "Cooldown": 4.50,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 714.1,
+          "Cooldown": 4.50,
+          "UpgradePrice": 12500,
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 28.0,
+          "Damage": 816.1,
+          "Cooldown": 4.50,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 29.0,
+          "Damage": 969.2,
+          "Cooldown": 4.50,
+          "UpgradePrice": 17500
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1173.2,
+          "Cooldown": 4.50,
+          "UpgradePrice": 20000
+        },
+        {
+          "Range": 31.0,
+          "Damage": 1479.2,
+          "Cooldown": 5.00,
+          "UpgradePrice": 23000
+        },
+        {
+          "Range": 32.0,
+          "Damage": 1734.3,
+          "Cooldown": 5.00,
+          "UpgradePrice": 27500,
+          "Type": "Cone",
+          "Degrees": 120
+        }
+      ],
+      "Passives": {
+        "Fire Element": "All attacks apply burn for 3% DMG/second.",
+        "Now Let's Get Serious": "Max Heat for 20s and prevent it from decreasing. Gain +50% damage and apply 50% burn over 2s in a Full AOE on every attack during the duration. (Upgrade 10+, local CD: 90s).",
+        "Cooling System": "On attack stun for 1.8s and slow by 10% for 5s. Every 15s follow up for 150% damage in a Circle AOE and stun for 1s, bypassing stun lockout",
+        "Magnum Opus": "Immune to stuns and debuffs. Automatically upgrade every 3 waves",
+        "Heat Exhaust": "On hit apply 10% burn over 5s. On attack gain 10% Heat. Apply additional burn equal to Heat and buff this unit and Fire element units by +0.4% damage per Heat. At maximum Heat apply 300% burn over 10s to all enemies, slow all enemies by 20% for 20s, and reset Heat and gain +20% cooldown for the next 3 attacks. Fire element units apply 10% burn over 5s in a Full AOE within their range on attack"
+      },
+      "Obtainability": {
+        "Base": [
+          "Patient White Rabbit Evolution"
         ]
       }
     },
