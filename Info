@@ -18,6 +18,38 @@
           "exists": 0
         }
       },
+      "King In Purple Purple Guy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Pyro Springbonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Planet Buster Scott": {
         "Normal": {
           "value": "8-9",
@@ -9185,7 +9217,7 @@
       }
     },
     {
-      "Name": "King In Purple Guy",
+      "Name": "King In Purple Purple Guy",
       "Rarity": "Secret",
       "PlacementPrice": 7500,
       "Type": "Cone",
