@@ -82,6 +82,22 @@
           "exists": 0
         }
       },
+      "Spirit Of Willam Afton": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Planet Buster Scott": {
         "Normal": {
           "value": "8-9",
@@ -3731,6 +3747,12 @@
     },
     "Presents": {
       "Nightguard Afton Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Dee Dee Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
