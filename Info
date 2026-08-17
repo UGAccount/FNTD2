@@ -171,11 +171,11 @@
           "exists": 480
         },
         "Shiny": {
-          "value": "60-70",
+          "value": "50-60",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 17
+          "exists": 43
         }
       },
       "Dee Dee": {
