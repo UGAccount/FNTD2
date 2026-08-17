@@ -9169,6 +9169,397 @@
       }
     },
     {
+      "Name": "King In Purple Guy",
+      "Rarity": "Secret",
+      "PlacementPrice": 7500,
+      "Type": "Cone",
+      "Degrees": 60,
+      "Element": [
+        "Nature",
+        "Dark"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 459.1,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.0,
+          "Damage": 484.6,
+          "Cooldown": 4.00,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 24.0,
+          "Damage": 510.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 25.0,
+          "Damage": 535.6,
+          "Cooldown": 4.00,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 637.6,
+          "Cooldown": 4.50,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 714.1,
+          "Cooldown": 4.50,
+          "UpgradePrice": 12500,
+          "Type": "Cone",
+          "Degrees": 90
+        },
+        {
+          "Range": 28.0,
+          "Damage": 816.1,
+          "Cooldown": 4.50,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 29.0,
+          "Damage": 969.2,
+          "Cooldown": 4.50,
+          "UpgradePrice": 17500
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1173.2,
+          "Cooldown": 4.50,
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "The Whisperer in Darkness": "Non-boss enemies that die in range revive where they died as a summon with health equal to 50% of this unit's damage. Marked enemies instead revive with health equal to 100% of this unit's damage",
+        "The Purple Sign": "Attacks apply 50% poison over 10s. The strongest enemy in range is marked with [The Purple Sign] until death. Marked enemies are always targeted by this unit and receives double poison from this unit"
+      },
+      "Obtainability": {
+        "Base": [
+          "Community Pass 2"
+        ]
+      }
+    },
+    {
+      "Name": "Dirt Boss Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 2500,
+      "Type": "Circle",
+      "Element": "Rust",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 561.1,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.0,
+          "Damage": 663.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24.0,
+          "Damage": 765.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 816.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 969.2,
+          "Cooldown": 3.80,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 29.0,
+          "Damage": 1122.2,
+          "Cooldown": 3.80,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 31.0,
+          "Damage": 1275.2,
+          "Cooldown": 3.50,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 33.0,
+          "Damage": 1530.3,
+          "Cooldown": 3.50,
+          "UpgradePrice": 13500
+        }
+      ],
+      "Passives": {
+        "Bulldozer": "Consume all Scrap and summon a bulldozer to run down the track. On contact deal 30% of this unit's damage per Scrap consumed. Knockback enemies by 0.2 tiles per Scrap consumed; Bosses are stunned for 0.2s per Scrap consumed instead. Refund 5 Scrap when the bulldozer reaches the end of the track. (Upgrade 0+, Local CD: 30s).",
+        "Heavy Construction": "Every 3rd attack gain 1 stack of Scrap, up to 15, and deal 150% damage. Per Scrap stack Gain 3% damage and 1% range"
+      },
+      "Obtainability": {
+        "Base": [
+          "Community Pass 2"
+        ]
+      }
+    },
+    {
+      "Name": "Ocular Nightmare BB",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 1500,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 357.1,
+        "Cooldown": 2.50
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.0,
+          "Damage": 408.1,
+          "Cooldown": 2.50,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 24.0,
+          "Damage": 459.1,
+          "Cooldown": 2.50,
+          "UpgradePrice": 3250
+        },
+        {
+          "Range": 26.0,
+          "Damage": 561.1,
+          "Cooldown": 2.70,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 714.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 867.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 1020.2,
+          "Cooldown": 3.00,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 1224.2,
+          "Cooldown": 3.00,
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "I see you": "This unit deals 50% more damage to enemies in the outer 50% of it's range and 30% more damage to enemies in the inner 50% of it's range",
+        "Pop!": "Every 3 seconds spawn a stationary balloon (max of 4) on the track near this tower. When max is reached send them to the highest enemy on the track (Large AOE). Dealing 85% damage per balloon"
+      },
+      "Obtainability": {
+        "Base": [
+          "Nightmare BB Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Void Shaper Shadow Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 4000,
+      "Type": "Circle",
+      "Element": "Dark",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24.0,
+        "Damage": 663.1,
+        "Cooldown": 3.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24.0,
+          "Damage": 765.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 25.0,
+          "Damage": 867.1,
+          "Cooldown": 3.00,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 25.0,
+          "Damage": 1020.2,
+          "Cooldown": 3.00,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 1632.3,
+          "Cooldown": 4.00,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 2040.3,
+          "Cooldown": 4.00,
+          "UpgradePrice": 10000,
+          "Type": "FullAOE"
+        },
+        {
+          "Range": 27.0,
+          "Damage": 2346.4,
+          "Cooldown": 4.00,
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 27.0,
+          "Damage": 2652.4,
+          "Cooldown": 4.00,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 28.0,
+          "Damage": 3060.5,
+          "Cooldown": 4.00,
+          "UpgradePrice": 18000
+        }
+      ],
+      "Passives": {
+        "Corruption": "Enemies in range take 20% more damage from Dark units. Attacks apply 25% Anti-Regen for 10s, each hit increases by 25% and resets the duration. If the enemy has no regen, this unit's damage increases by 10%. This unit ignores 50% of enemy damage reduction",
+        "Umbral Dominion": "Enemies that remain in range for 10 seconds become Lost. Lost enemies take 25% more damage from this unit. Stun duration increased by 20%"
+      },
+      "Obtainability": {
+        "Base": [
+          "Shadow Freddy Evolution"
+        ]
+      }
+    },
+    {
+      "Name": "Hot Dog Guy",
+      "Rarity": "Secret",
+      "PlacementPrice": 450,
+      "Type": "Income",
+      "Element": "Neutral",
+      "MaxPlaced": 5,
+      "BaseStats": {
+        "Range": 0,
+        "Cooldown": 0
+      },
+      "UpgradeStats": [
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 1350
+        },
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 0,
+          "Cooldown": 0,
+          "UpgradePrice": 4500
+        }
+      ],
+      "Passives": {
+        "Booming Business": "Generates 1500 cash at the end of each wave per upgrade. Buffs the range of itself and nearby units by 2% per Hot Dog Guy (max 35%). Generates 3% more cash per Hot Dog Guy (max 30%)"
+      },
+      "Obtainability": {
+        "Base": [
+          "Hot Dog Guy Present",
+          "Boss Raids Shop (150 boss raids tokens)"
+        ]
+      }
+    },
+    {
+      "Name": "Spirit of William Afton",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5000,
+      "Type": "Full AOE",
+      "Element": [
+        "Dark",
+        "Fire",
+        "Light"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20.0,
+        "Damage": 510.1,
+        "Cooldown": 5.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21.0,
+          "Damage": 663.1,
+          "Cooldown": 5.00,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22.0,
+          "Damage": 816.1,
+          "Cooldown": 5.00,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 23.0,
+          "Damage": 1020.2,
+          "Cooldown": 5.00,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 24.0,
+          "Damage": 1224.2,
+          "Cooldown": 4.80,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 25.0,
+          "Damage": 1530.3,
+          "Cooldown": 4.50,
+          "UpgradePrice": 6750
+        },
+        {
+          "Range": 26.0,
+          "Damage": 1836.3,
+          "Cooldown": 4.20,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26.0,
+          "Damage": 2244.4,
+          "Cooldown": 4.00,
+          "UpgradePrice": 9500
+        }
+      ],
+      "Passives": {
+        "The Harder They Fall": "Deal more damage based on how much higher the enemy's current HP is than this unit's damage: • 2x HP: +10% damage • 3x HP: +15% damage • 5x HP: +20% damage • 10x HP: +30% damage. With 4/5/6 Dark, Fire, or Light element units on the team, gain +10%/+20%/+40% damage and +5%/+10%/+20% range",
+        "The Tower's Blessing": "While placed add +3 levels to the Destruction Spirit. Gain +1% damage per Destruction Spirit level. Levels above 25 grant +5% damage each instead. Immune to elemental bans in The Tower"
+      },
+      "Obtainability": {
+        "Base": [
+          "Tower Shop (150 Coins)"
+        ]
+      }
+    },
+    {
       "Name": "Scott Plushie",
       "Rarity": "Uncommon",
       "PlacementPrice": 1500,
