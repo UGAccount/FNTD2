@@ -112,7 +112,9 @@
      "Anniversary Present": "https://iili.io/C4NW6mX.png",
      "Phone Guy Present": "https://iili.io/Ci4290G.png",
      "Samurai Duo Present": "https://iili.io/Ci4dyfs.png",
-     "Nightguard Afton Present": "https://iili.io/Ci4TkoG.png"
+     "Nightguard Afton Present": "https://iili.io/Ci4TkoG.png",
+     "Dee Dee Present": "https://iili.io/Csz2Tvf.png",
+     "Stitchwraith Present": "https://iili.io/Csz25j2.png"
 },
   "Gamepasses": {
     "Community Pass": "https://iili.io/CTTHU74.png",
@@ -142,6 +144,8 @@
     "SpringLocked": "https://iili.io/fxdEH5x.png",
     "Vengeance": "https://iili.io/fxd1pUb.png",
     "Hijacked": "https://iili.io/CEosTBt.png",
+    "Prototype": "https://iili.io/Cs8TIne.png",
+    "Thespian": "https://iili.io/Cs8Ibvp.png",
     "Champion": "https://iili.io/BHYOMlV.png"
   },
     "Potions": {
@@ -665,6 +669,7 @@
     "Shiny Fallen Angel Nightmarionne": "https://iili.io/CIMwaYG.png",
     "Trash O Tron": "https://iili.io/CRxacj1.png",
     "Foxy EXE": "https://iili.io/CRIzwZJ.png",
+    "Shiny Foxy EXE": "https://iili.io/Cs8I4TP.png",
     "Commander Withered Freddy": "https://iili.io/CRxa7yB.png",
     "Shiny Commander Withered Freddy": "https://iili.io/CRAZsb1.png",
     "Nature Reclaimed Foxy": "https://iili.io/CRxaaTP.png",
@@ -672,7 +677,7 @@
     "Abyssal Ballora": "https://iili.io/CRxa1Cg.png",
     "Shiny Abyssal Ballora": "https://iili.io/CRxalZF.png",
     "Afterbite Withered Golden Freddy": "https://iili.io/CRxaEGa.png",
-    "Shiny Afterbite Witheed Golden Freddy": "https://iili.io/CRAU91t.png",
+    "Shiny Afterbite Witheed Golden Freddy": "https://iili.io/Cs8Ijj9.png",
     "Gaia Chica": "https://iili.io/CRxaV3v.png",
     "Shiny Gaia Chica": "https://iili.io/CRxaG6J.png",
     "Lore Keeper Shadow Bonnie": "https://iili.io/CcwWKl9.png",
@@ -749,7 +754,21 @@
     "Shiny Planet Buster Scott": "https://iili.io/C4UrLNI.png",
     "Vengeful Spirit": "https://iili.io/C61HHdv.png",
     "Stitchwraith": "https://iili.io/C619ZzP.png",
-    "Shiny Stitchwraith": "https://iili.io/C619DLF.png"
+    "Shiny Stitchwraith": "https://iili.io/C619DLF.png",
+    "Void Shaper Shadow Freddy": "https://iili.io/Cs8jTmP.webp",
+    "Ocular Nightmare BB": "https://iili.io/Cs8hyg4.png",
+    "Spirit Of Henry Emily": "https://iili.io/Cs8IlBs.png",
+    "Spirit Of Charlie Emily": "https://iili.io/CsvLTZb.png",
+    "Spirit Of Willam Afton": "https://iili.io/CsvLAnj.png",
+    "Spirit Of Henry Emily": "https://iili.io/CsvLCaS.png",
+    "Hot Dog Guy": "https://iili.io/CsvLCaS.png",
+    "Shiny Hot Dog Guy": "https://iili.io/CsvLx99.png",
+    "King In Purple": "https://iili.io/CsvLBF2.png",
+    "Shiny King In Purple": "https://iili.io/CsvLn87.png",
+    "Dirt Boss Freddy": "https://iili.io/CsvL2ZG.png",
+    "Shiny Dirt Boss Freddy": "https://iili.io/CsvLf6l.png",
+    "Pyro Springbonnie": "https://iili.io/CsvLKG4.png",
+    "Shiny Pyro Springbonnie": "https://iili.io/CsvLFnf.png"
 }
   }
 }
