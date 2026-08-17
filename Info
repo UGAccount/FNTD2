@@ -2,6 +2,22 @@
 {
   "Values": {
     "Units": {
+      "Pyro Spring Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Planet Buster Scott": {
         "Normal": {
           "value": "8-9",
