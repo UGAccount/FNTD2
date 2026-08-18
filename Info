@@ -9764,6 +9764,76 @@
       }
     },
     {
+      "Name": "Spirit of Charlie Emily",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5000,
+      "Type": "Cone",
+      "Degrees": 75,
+      "Element": [
+        "Water",
+        "Electricity"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22.0,
+        "Damage": 510.1,
+        "Cooldown": 5.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23.0,
+          "Damage": 586.6,
+          "Cooldown": 5.00,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24.0,
+          "Damage": 688.6,
+          "Cooldown": 5.00,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 25.0,
+          "Damage": 816.1,
+          "Cooldown": 5.00,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 969.2,
+          "Cooldown": 4.80,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 27.0,
+          "Damage": 1147.7,
+          "Cooldown": 4.50,
+          "UpgradePrice": 6750
+        },
+        {
+          "Range": 28.0,
+          "Damage": 1351.7,
+          "Cooldown": 4.20,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 30.0,
+          "Damage": 1632.3,
+          "Cooldown": 4.00,
+          "UpgradePrice": 9500
+        }
+      ],
+      "Passives": {
+        "Hold Them Back": "Enemies in range are slowed by 15% and have their stun duration increased by 25%. When a slow or stun is applied to an enemy in range follow up for 25% damage (1s cooldown). Follow up for 75% damage instead if this unit applied the effect. With 4/5/6 Water or Electricity element units on the team, gain +10%/+20%/+40% damage and gain +5%/+10%/+20% range",
+        "The Tower's Blessing": "While placed add +3 levels to the Support Spirit, gain +1% damage per Support Spirit level; levels above 25 grant +5% damage each instead. Immune to elemental bans in The Tower"
+      },
+      "Obtainability": {
+        "Base": [
+          "Tower Shop (150 Coins)"
+        ]
+      }
+    },
+    {
       "Name": "Pyro Springbonnie",
       "Rarity": "Apex",
       "PlacementPrice": 7500,
