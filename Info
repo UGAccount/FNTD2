@@ -9592,6 +9592,76 @@
       }
     },
     {
+      "Name": "Spirit of Henry Emily",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5000,
+      "Type": "Circle",
+      "Element": [
+        "Neutral",
+        "Rust",
+        "Nature"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 20,
+        "Damage": 561.1,
+        "Cooldown": 5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 21,
+          "Damage": 714.1,
+          "Cooldown": 5,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 22,
+          "Damage": 867.1,
+          "Cooldown": 5,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 23,
+          "Damage": 1020.2,
+          "Cooldown": 5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 25,
+          "Damage": 1224.2,
+          "Cooldown": 4.8,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 27,
+          "Damage": 1428.2,
+          "Cooldown": 4.5,
+          "UpgradePrice": 6750
+        },
+        {
+          "Range": 30,
+          "Damage": 1734.3,
+          "Cooldown": 4.2,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 33,
+          "Damage": 2040.3,
+          "Cooldown": 4,
+          "UpgradePrice": 9500
+        }
+      ],
+      "Passives": {
+        "Avarice": "Gain +0.5% damage per 1k cash held (Max +50%). Deposit cash into this unit to gain +1% damage and range per 5k deposited (Max +20%). With 4/5/6 Neutral, Rust, or Nature element units on the team, gain +10%/+20%/+40% damage and +5%/+10%/+20% range (Upgrade 0+, Local CD: 0s).",
+        "The Tower's Blessing": "While placed add +3 levels to the Economy Spirit. Gain +1% damage per Economy Spirit level. Levels above 25 grant +5% damage each instead. Immune to elemental bans in The Tower."
+      },
+      "Obtainability": {
+        "Base": [
+          "Tower Shop (150 Coins)"
+        ]
+      }
+    },
+    {
       "Name": "Spirit of William Afton",
       "Rarity": "Nightmare",
       "PlacementPrice": 5000,
