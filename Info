@@ -152,14 +152,14 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Fluctuating",
-          "exists": 1134
+          "exists": 3027
         },
         "Shiny": {
-          "value": "25+",
+          "value": "27.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 298
+          "exists": 908
         }
       },
       "Overlord Scott": {
@@ -168,14 +168,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 258
+          "exists": 908
         },
         "Shiny": {
-          "value": "25-30+",
+          "value": "35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 45
+          "exists": 101
         }
       },
       "Theory Crusher Scott": {
@@ -235,11 +235,11 @@
           "exists": 1162
         },
         "Shiny": {
-          "value": "30+",
+          "value": "40+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
-          "exists": 35
+          "exists": 81
         }
       },
       "Anniversary Duo": {
@@ -308,7 +308,7 @@
       },
       "Nightguard Afton": {
         "Normal": {
-          "value": "2.5",
+          "value": "2-2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -324,7 +324,7 @@
       },
       "Dee Dee": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "0.2-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -516,14 +516,14 @@
       },
       "Patient White Rabbit": {
         "Normal": {
-          "value": "0.6-0.8",
+          "value": "2.5-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1295
         },
         "Shiny": {
-          "value": "5.5-7",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -532,17 +532,17 @@
       },
       "Vessel Plushtrap": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1460
         },
         "Shiny": {
-          "value": "4.5-5.5",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 47
         }
       },
@@ -555,7 +555,7 @@
           "exists": 13219
         },
         "Shiny": {
-          "value": "13-14",
+          "value": "11",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -580,14 +580,14 @@
       },
       "Pirate Withered Foxy": {
         "Normal": {
-          "value": "1-1.5",
+          "value": "0.8-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 2372
         },
         "Shiny": {
-          "value": "30",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -603,7 +603,7 @@
           "exists": 4607
         },
         "Shiny": {
-          "value": "4-5",
+          "value": "3",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Stable",
@@ -699,7 +699,7 @@
           "exists": 3138
         },
         "Shiny": {
-          "value": "20-25+",
+          "value": "23-25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1051,7 +1051,7 @@
           "exists": 3315
         },
         "Shiny": {
-          "value": "6",
+          "value": "4.5-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1099,10 +1099,10 @@
           "exists": 4007
         },
         "Shiny": {
-          "value": "3+",
+          "value": "2-2.9",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 181
         }
       },
@@ -1140,7 +1140,7 @@
       },
       "Candy Cadet": {
         "Normal": {
-          "value": "1.5-2",
+          "value": "2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1540,7 +1540,7 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "2.5-3",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Unstable",
@@ -1723,7 +1723,7 @@
           "exists": 16556
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Slowly Dropping",
@@ -1835,7 +1835,7 @@
           "exists": 11520
         },
         "Shiny": {
-          "value": "70+",
+          "value": "65",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Unstable",
@@ -2411,7 +2411,7 @@
           "exists": 20206
         },
         "Shiny": {
-          "value": "10-12",
+          "value": "10",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2443,7 +2443,7 @@
           "exists": 24728
         },
         "Shiny": {
-          "value": "10+",
+          "value": "9",
           "soul": "N/A",
           "demand": "6.5/10",
           "status": "Stable",
@@ -2742,14 +2742,14 @@
         "Normal": {
           "value": "2",
           "soul": "N/A",
-          "demand": "6/10",
+          "demand": "4/10",
           "status": "Stable",
           "exists": 22470
         },
         "Shiny": {
-          "value": "40-50",
+          "value": "45+",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "5/10",
           "status": "Stable",
           "exists": 683
         }
@@ -3163,7 +3163,7 @@
           "exists": 107011
         },
         "Shiny": {
-          "value": "1+",
+          "value": "0.7-0.8",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -3813,6 +3813,18 @@
         "status": "Stable"
       },
       "Phone Guy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Stitchwraith Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Hoax Purple Guy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
