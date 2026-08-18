@@ -18,6 +18,22 @@
           "exists": 0
         }
       },
+      "Hot Dog Guy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "King In Purple Purple Guy": {
         "Normal": {
           "value": "N/A",
