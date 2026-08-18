@@ -3794,6 +3794,18 @@
       }
     },
     "Presents": {
+      "Dirt Boss Freddy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "King In Purple Purple Guy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Nightguard Afton Present": {
         "value": "N/A",
         "soul": "N/A",
