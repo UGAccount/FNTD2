@@ -4,14 +4,14 @@
     "Units": {
       "Pyro Springbonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 0
         },
         "Shiny": {
-          "value": "15+",
+          "value": "15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
