@@ -3084,7 +3084,7 @@
         },
         "Shiny": {
           "value": "280-290+",
-          "soul": "2,800,000-2,900,000",
+          "soul": "2,000,000-2,400,000",
           "demand": "N/A",
           "status": "Stable",
           "exists": 111
@@ -5083,8 +5083,8 @@
       "Souls": {
         "value": "0.0001",
         "soul": "N/A",
-        "demand": "N/A",
-        "status": "N/A"
+        "demand": "10/10",
+        "status": "Unstable"
       }
     },
     "Bytes": {
