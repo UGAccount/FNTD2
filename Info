@@ -340,17 +340,17 @@
       },
       "Anniversary Duo": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 32022
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.2-0"3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 1189
         }
       },
@@ -3945,10 +3945,10 @@
         "status": "Unstable"
       },
       "Anniversary Present": {
-        "value": "N/A",
+        "value": "0.025",
         "soul": "N/A",
         "demand": "N/A",
-        "status": "Unstable"
+        "status": "Stable"
       },
       "Candy Cadet Present": {
         "value": "N/A",
