@@ -66,38 +66,6 @@
           "exists": 0
         }
       },
-      "Ocular Nightmare BB": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
-        }
-      },
-      "Void Shaper Shadow Freddy": {
-        "Normal": {
-          "value": "0.1-0.3",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 0
-        },
-        "Shiny": {
-          "value": "0.15-0.3",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Unstable",
-          "exists": 0
-        }
-      },
       "Spirit Of Charlie Emily": {
         "Normal": {
           "value": "0.1",
@@ -132,7 +100,7 @@
       },
       "Spirit Of Willam Afton": {
         "Normal": {
-          "value": "0.1-0.2",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -143,6 +111,38 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
+          "exists": 0
+        }
+      },
+      "Ocular Nightmare BB": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Void Shaper Shadow Freddy": {
+        "Normal": {
+          "value": "0.1-0.3",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "0.15-0.3",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
           "exists": 0
         }
       },
