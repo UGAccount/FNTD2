@@ -130,7 +130,7 @@
           "exists": 213
         }
       },
-      "King In Purple Purple Guy": {
+      "King In Purple Guy": {
         "Normal": {
           "value": "0.1-0.2",
           "soul": "N/A",
@@ -3896,7 +3896,7 @@
         "demand": "N/A",
         "status": "Stable"
       },
-      "King In Purple Purple Guy Present": {
+      "King In Purple Guy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
@@ -9439,7 +9439,7 @@
       }
     },
     {
-      "Name": "King In Purple Purple Guy",
+      "Name": "King In Purple Guy",
       "Rarity": "Secret",
       "PlacementPrice": 7500,
       "Type": "Cone",
