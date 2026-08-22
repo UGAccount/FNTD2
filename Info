@@ -66,6 +66,22 @@
           "exists": 0
         }
       },
+      "Spirit Of Willam Afton": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Ocular Nightmare BB": {
         "Normal": {
           "value": "N/A",
@@ -9616,7 +9632,7 @@
       }
     },
     {
-      "Name": "Spirit of Henry Emily",
+      "Name": "Spirit Of Henry Emily",
       "Rarity": "Nightmare",
       "PlacementPrice": 5000,
       "Type": "Circle",
@@ -9686,7 +9702,7 @@
       }
     },
     {
-      "Name": "Spirit of William Afton",
+      "Name": "Spirit Of Willam Afton",
       "Rarity": "Nightmare",
       "PlacementPrice": 5000,
       "Type": "Full AOE",
@@ -9756,7 +9772,7 @@
       }
     },
     {
-      "Name": "Spirit of Charlie Emily",
+      "Name": "Spirit Of Charlie Emily",
       "Rarity": "Nightmare",
       "PlacementPrice": 5000,
       "Type": "Cone",
