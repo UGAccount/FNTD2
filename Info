@@ -139,7 +139,7 @@
           "exists": 10012
         },
         "Shiny": {
-          "value": "1-1.5",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -148,7 +148,7 @@
       },
       "Dirt Boss Freddy": {
         "Normal": {
-          "value": "0.2-0.3",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -500,7 +500,7 @@
       },
       "Happy Frog": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.08+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
