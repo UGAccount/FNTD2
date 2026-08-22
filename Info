@@ -642,22 +642,6 @@
           "exists": 3102
         }
       },
-      "Aqua Strike Toy Chica": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 134
-        },
-        "Shiny": {
-          "value": "0.4-0.5+",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 1227
-        }
-      },
       "Salvaged Toy Bonnie": {
         "Normal": {
           "value": "N/A",
@@ -672,6 +656,22 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 1308
+        }
+      },
+      "Aqua Strike Toy Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 134
+        },
+        "Shiny": {
+          "value": "0.4-0.5+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 1227
         }
       },
       "Grand Strategist Chica": {
