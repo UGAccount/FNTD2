@@ -2,20 +2,116 @@
 {
   "Values": {
     "Units": {
+      "DJ 101Bit": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "High Voltage Rockstar Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "White Lily Toy Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Malachite Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Phantom Endo 02": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Phantom Withered Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Pyro Springbonnie": {
         "Normal": {
           "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 1230
         },
         "Shiny": {
           "value": "15",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 284
         }
       },
       "Hot Dog Guy": {
@@ -24,14 +120,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 4820
         },
         "Shiny": {
           "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 213
         }
       },
       "King In Purple Purple Guy": {
@@ -40,14 +136,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 10012
         },
         "Shiny": {
           "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 1648
         }
       },
       "Dirt Boss Freddy": {
@@ -56,14 +152,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 0
+          "exists": 7126
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 0
+          "exists": 509
         }
       },
       "Spirit Of Willam Afton": {
@@ -72,14 +168,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 16687
         },
         "Shiny": {
           "value": "1-1.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 659
         }
       },
       "Spirit Of Charlie Emily": {
@@ -88,14 +184,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 10597
         },
         "Shiny": {
           "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 405
         }
       },
       "Spirit Of Henry Emily": {
@@ -104,14 +200,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 10522
         },
         "Shiny": {
           "value": "1-1.2+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 0
+          "exists": 400
         }
       },
       "Ocular Nightmare BB": {
@@ -120,14 +216,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 578
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 1481
         }
       },
       "Void Shaper Shadow Freddy": {
@@ -136,14 +232,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 7190
         },
         "Shiny": {
           "value": "0.15-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 0
+          "exists": 6448
         }
       },
       "Planet Buster Scott": {
@@ -152,14 +248,14 @@
           "soul": "N/A",
           "demand": "9/10",
           "status": "Fluctuating",
-          "exists": 3027
+          "exists": 4866
         },
         "Shiny": {
           "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
-          "exists": 908
+          "exists": 1099
         }
       },
       "Overlord Scott": {
@@ -168,14 +264,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 908
+          "exists": 709
         },
         "Shiny": {
           "value": "30-40",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
-          "exists": 101
+          "exists": 150
         }
       },
       "Theory Crusher Scott": {
@@ -184,14 +280,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 130
+          "exists": 152
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
-          "exists": 15
+          "exists": 30
         }
       },
       "Ragequit Scott": {
@@ -200,14 +296,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
-          "exists": 193
+          "exists": 126
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
-          "exists": 19
+          "exists": 32
         }
       },
       "Scott Cawthon": {
@@ -216,14 +312,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 186
+          "exists": 123
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
-          "exists": 15
+          "exists": 26
         }
       },
       "Scott Plushie": {
@@ -232,14 +328,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
-          "exists": 1162
+          "exists": 1022
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
-          "exists": 81
+          "exists": 96
         }
       },
       "Anniversary Duo": {
@@ -5103,13 +5199,13 @@
       "Pearl": {
         "value": "N/A",
         "soul": "N/A",
-        "demand": "N/A",
+        "demand": "0/10",
         "status": "Stable"
       },
       "UFO": {
         "value": "N/A",
         "soul": "N/A",
-        "demand": "N/A",
+        "demand": "0/10",
         "status": "N/A"
       },
       "The Box": {
@@ -17073,6 +17169,401 @@
           "Rarity": "Exclusive"
         }
       ]
+    },
+    {
+	  "Name": "Malachite Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 6000,
+      "Type": "Cone",
+      "Degrees": 120,
+      "Element": "Nature",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 250,
+        "Cooldown": 2.5,
+        "Type": "Cone",
+        "Degrees": 120
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 300,
+          "Cooldown": 2.5,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 26,
+          "Damage": 350,
+          "Cooldown": 2.5,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 28,
+          "Damage": 400,
+          "Cooldown": 2.3,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 30,
+          "Damage": 475,
+          "Cooldown": 2.3,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 32,
+          "Damage": 550,
+          "Cooldown": 2,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 35,
+          "Damage": 650,
+          "Cooldown": 2,
+          "UpgradePrice": 13000
+        },
+        {
+          "Range": 35,
+          "Damage": 800,
+          "Cooldown": 2,
+          "UpgradePrice": 17500
+        }
+      ],
+      "Passives": {
+        "Gemstone Heart": "On hit: Apply a stack of Crystallize. Apply 50% poison over 5s. If there are 3+ Nature units on the team, follow up for 25% damage and 50% poison. When Crystallize reaches 5 stacks: Stun the enemy for 2s. Apply 200% poison over 10s. While this poison is active, slow for 20%."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop (40K)"
+        ]
+      }
+    },
+    {
+	  "Name": "Phantom Endo 02",
+      "Rarity": "Secret",
+      "PlacementPrice": 2000,
+      "Type": "Line",
+      "Element": "Dark",
+      "MaxPlaced": 3,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 480,
+        "Cooldown": 6
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 525,
+          "Cooldown": 6,
+          "UpgradePrice": 3000
+        },
+        {
+          "Range": 24,
+          "Damage": 575,
+          "Cooldown": 5.5,
+          "UpgradePrice": 3750
+        },
+        {
+          "Range": 25,
+          "Damage": 650,
+          "Cooldown": 5.5,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26,
+          "Damage": 750,
+          "Cooldown": 5.5,
+          "UpgradePrice": 5500
+        },
+        {
+          "Range": 28,
+          "Damage": 850,
+          "Cooldown": 5,
+          "UpgradePrice": 6500
+        },
+        {
+          "Range": 30,
+          "Damage": 1000,
+          "Cooldown": 5,
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 32,
+          "Damage": 1200,
+          "Cooldown": 5,
+          "UpgradePrice": 9000
+        }
+      ],
+      "Passives": {
+        "Apparition": "Every 3rd attack: Follow up for 100% damage and apply 50% poison over 5s. Every time this unit performs a follow-up: Increase follow-up attack damage by an additional 5% (Cap of 40%). When a follow-up attack hits a slowed enemy in range: Stun the enemy for 1.2s. Every time a follow-up attack stuns an enemy, deal 80% damage to that enemy (10s cd)."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop (30k)"
+        ]
+      }
+    },
+    {
+	  "Name": "High Voltage Rockstar Freddy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Ricochet",
+      "Element": "Electricity",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 500,
+        "Cooldown": 4
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 600,
+          "Cooldown": 4,
+          "UpgradePrice": 2750
+        },
+        {
+          "Range": 24,
+          "Damage": 750,
+          "Cooldown": 4.5,
+          "UpgradePrice": 4250
+        },
+        {
+          "Range": 26,
+          "Damage": 950,
+          "Cooldown": 4.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 1250,
+          "Cooldown": 5,
+          "UpgradePrice": 8250
+        },
+        {
+          "Range": 30,
+          "Damage": 1600,
+          "Cooldown": 5,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 30,
+          "Damage": 2000,
+          "Cooldown": 5,
+          "UpgradePrice": 14500
+        }
+      ],
+      "Passives": {
+        "Power Grid": "Gain +5% damage per [Electricity] unit on the team (Max +20%). The nearest 3 [Electricity] units also receive this buff.",
+        "Static Shock": "Attacks apply [Static], causing enemies to deal 10% of this unit's damage every second to nearby enemies. Whenever this unit or its [Static] hits an enemy: Gain 1 [Shock]. At 50 [Shock]: Deal 250% damage in a Full AOE. Damage increases by 50% per [Electricity] unit in range (Max +500%). Stun enemies for 1.5 seconds. At 3+ enemies with [Static]: Gain +2 ricochets."
+      },
+      "Obtainability": {
+        "Base": [
+          "Bought with Tokens in the Merchant"
+        ]
+      }
+    },
+    {
+	  "Name": "DJ 101Bit",
+      "Rarity": "Nightmare",
+      "PlacementPrice": 5000,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 250,
+        "Cooldown": 1.5
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25,
+          "Damage": 290,
+          "Cooldown": 1.5,
+          "UpgradePrice": 2500
+        },
+        {
+          "Range": 26,
+          "Damage": 350,
+          "Cooldown": 1.5,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 27,
+          "Damage": 420,
+          "Cooldown": 1.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 28,
+          "Damage": 700,
+          "Cooldown": 2,
+          "UpgradePrice": 8500
+        },
+        {
+          "Range": 30,
+          "Damage": 850,
+          "Cooldown": 2,
+          "Type": "Cone",
+          "Degrees": 75,
+          "UpgradePrice": 11000
+        },
+        {
+          "Range": 32,
+          "Damage": 1000,
+          "Cooldown": 2,
+          "UpgradePrice": 14000
+        },
+        {
+          "Range": 34,
+          "Damage": 1200,
+          "Cooldown": 2,
+          "UpgradePrice": 18000
+        }
+      ],
+      "Passives": {
+        "Intense Reverb": "On hit: Knock enemies back 1 tile. Each enemy hit reverberates into the nearest 3 enemies within 5 tiles, dealing 20% damage."
+      },
+      "Actives": [
+        {
+          "Name": "Red Track",
+          "Description": "Switch to the red track. This unit and units in range gain +20% damage. Enemies in range take 25% of this unit's damage every second.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        },
+        {
+          "Name": "Green Track",
+          "Description": "Switch to the green track. This unit and units in range gain +25% range. Enemies in range are slowed by 20%.",
+          "Cooldown": 0,
+          "Upgrade": 0
+        }
+      ],
+      "Obtainability": {
+        "Base": [
+          "Bought with Tokens in the Merchant"
+        ]
+      }
+    },
+    {
+	  "Name": "Phantom Withered Chica",
+      "Rarity": "Secret",
+      "PlacementPrice": 5000,
+      "Type": "Cone",
+      "Degrees": 90,
+      "Element": [
+        "Dark",
+        "Nature"
+      ],
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 22,
+        "Damage": 220,
+        "Cooldown": 1.2,
+        "Type": "Cone",
+        "Degrees": 90
+      },
+      "UpgradeStats": [
+        {
+          "Range": 23,
+          "Damage": 260,
+          "Cooldown": 1.2,
+          "UpgradePrice": 4000
+        },
+        {
+          "Range": 24,
+          "Damage": 400,
+          "Cooldown": 1.5,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 25,
+          "Damage": 480,
+          "Cooldown": 1.5,
+          "UpgradePrice": 8000
+        },
+        {
+          "Range": 26,
+          "Damage": 725,
+          "Cooldown": 2,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 26,
+          "Damage": 850,
+          "Cooldown": 2,
+          "Type": "FullAOE",
+          "UpgradePrice": 12500
+        },
+        {
+          "Range": 26,
+          "Damage": 1000,
+          "Cooldown": 2,
+          "Type": "FullAOE",
+          "UpgradePrice": 15000
+        }
+      ],
+      "Passives": {
+        "Soulbound": "Enemies in this unit's range: Gain 1% Dark wither every second (Max 25%). Whenever an enemy with HP more than 300% of this unit's damage is in range: Deal 25% of this unit's damage every second to all enemies in range. Whenever an enemy enters this unit's range for the first time: Apply a 20% slow for 8s; when this slow expires, deal 150% damage to that enemy."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop (25K)"
+        ]
+      }
+    },
+    {
+	  "Name": "White Lily Toy Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 1000,
+      "Type": "Explosion",
+      "Element": "Nature",
+      "MaxPlaced": 2,
+      "BaseStats": {
+        "Range": 24,
+        "Damage": 260,
+        "Cooldown": 2
+      },
+      "UpgradeStats": [
+        {
+          "Range": 24,
+          "Damage": 320,
+          "Cooldown": 2,
+          "UpgradePrice": 3500
+        },
+        {
+          "Range": 25,
+          "Damage": 400,
+          "Cooldown": 2,
+          "UpgradePrice": 5000
+        },
+        {
+          "Range": 25,
+          "Damage": 500,
+          "Cooldown": 2,
+          "UpgradePrice": 7000
+        },
+        {
+          "Range": 26,
+          "Damage": 950,
+          "Cooldown": 3,
+          "UpgradePrice": 10000
+        },
+        {
+          "Range": 28,
+          "Damage": 1200,
+          "Cooldown": 3,
+          "Type": "Circle",
+          "UpgradePrice": 13500
+        }
+      ],
+      "Passives": {
+        "Fae's Blessing": "Every 10 attacks: Gain [Blessed Spear] for 5 attacks. While [Blessed Spear] is active: Attacks deal +50% damage and deal +2 shield damage. Nature units in range become immune to stuns. Every attack generates a stack of [Favor] for 10s (Cap of 3). For every stack of [Favor], activate the following effects: 1 stack: Nature units in range receive +10% range. 2 stacks: Attacks apply 50% poison over 5s. 3 stacks: Nature units receive +20% damage."
+      },
+      "Obtainability": {
+        "Base": [
+          "Quest Shop (50K)"
+        ]
+      }
     },
     {
       "Name": "Unicorn Toy Foxy",
