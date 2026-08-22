@@ -107,10 +107,10 @@
           "exists": 1230
         },
         "Shiny": {
-          "value": "15",
+          "value": "13-15",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 284
         }
       },
@@ -139,7 +139,7 @@
           "exists": 10012
         },
         "Shiny": {
-          "value": "1-1.5",
+          "value": "0.8+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -148,7 +148,7 @@
       },
       "Dirt Boss Freddy": {
         "Normal": {
-          "value": "0.2-0.3",
+          "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -228,7 +228,7 @@
       },
       "Void Shaper Shadow Freddy": {
         "Normal": {
-          "value": "0.1-0.3",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -251,10 +251,10 @@
           "exists": 4866
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 1099
         }
       },
@@ -267,26 +267,26 @@
           "exists": 709
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 150
         }
       },
       "Theory Crusher Scott": {
         "Normal": {
-          "value": "N/A",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 152
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 30
         }
       },
@@ -299,58 +299,58 @@
           "exists": 126
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 32
         }
       },
       "Scott Cawthon": {
         "Normal": {
-          "value": "N/A",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 123
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 26
         }
       },
       "Scott Plushie": {
         "Normal": {
-          "value": "8-10",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 1022
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 96
         }
       },
       "Anniversary Duo": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 32022
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 1189
         }
       },
@@ -500,7 +500,7 @@
       },
       "Happy Frog": {
         "Normal": {
-          "value": "0.1-0.15",
+          "value": "0.08+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -788,7 +788,7 @@
       },
       "Cthulhu Nightmare Foxy": {
         "Normal": {
-          "value": "2-3.5",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1111,7 +1111,7 @@
           "value": "0.05-0.08",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 6735
         },
         "Shiny": {
@@ -1143,7 +1143,7 @@
           "value": "0.05-0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 3315
         },
         "Shiny": {
@@ -1156,10 +1156,10 @@
       },
       "El Chip": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.04-0.08",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 16235
         },
         "Shiny": {
@@ -1172,14 +1172,14 @@
       },
       "Henry Emily": {
         "Normal": {
-          "value": "0.06+",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 28768
         },
         "Shiny": {
-          "value": "1+",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1191,7 +1191,7 @@
           "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 4007
         },
         "Shiny": {
@@ -1207,7 +1207,7 @@
           "value": "0.25-0.45",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 7249
         },
         "Shiny": {
@@ -1259,7 +1259,7 @@
           "exists": 14809
         },
         "Shiny": {
-          "value": "3-4",
+          "value": "3.5-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1284,7 +1284,7 @@
       },
       "Rockstar Foxy": {
         "Normal": {
-          "value": "0.05-0.08",
+          "value": "0.03",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1348,33 +1348,33 @@
       },
       "Showtime Freddy": {
         "Normal": {
-          "value": "0.04+",
+          "value": "0.02",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 25497
         },
         "Shiny": {
-          "value": "0.45+",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 1332
         }
       },
       "Funtime Bonnie": {
         "Normal": {
-          "value": "0.02-0.04",
+          "value": "0.005+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 34731
         },
         "Shiny": {
-          "value": "0.1-0.4",
+          "value": "0.1-0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 2884
         }
       },
@@ -1396,14 +1396,14 @@
       },
       "Fredtrap": {
         "Normal": {
-          "value": "0.04+",
+          "value": "0.02+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
           "exists": 25957
         },
         "Shiny": {
-          "value": "0.6",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1627,7 +1627,7 @@
           "exists": 6752
         },
         "Shiny": {
-          "value": "13-15",
+          "value": "13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -3945,7 +3945,7 @@
         "status": "Unstable"
       },
       "Anniversary Present": {
-        "value": "N/A",
+        "value": "0.025",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
