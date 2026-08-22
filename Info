@@ -68,17 +68,49 @@
       },
       "Spirit Of Willam Afton": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 0
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1-1.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Slowly Dropping",
+          "exists": 0
+        }
+      },
+      "Spirit Of Charlie Emily": {
+        "Normal": {
+          "value": "0.1",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "1+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Slowly Dropping",
+          "exists": 0
+        }
+      },
+      "Spirit Of Henry Emily": {
+        "Normal": {
+          "value": "0.1",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Unstable",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "1-1.2+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Slowly Dropping",
           "exists": 0
         }
       },
