@@ -472,14 +472,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 1674
+          "exists": 6649
         },
         "Shiny": {
-          "value": "5-6",
+          "value": "4-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 69
+          "exists": 325
         }
       },
       "Mr. Hippo": {
@@ -2715,7 +2715,7 @@
           "exists": 4770
         },
         "Shiny": {
-          "value": "80-90",
+          "value": "80",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Stable",
