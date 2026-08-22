@@ -228,7 +228,7 @@
       },
       "Void Shaper Shadow Freddy": {
         "Normal": {
-          "value": "0.1-0.3",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -251,10 +251,10 @@
           "exists": 4866
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 1099
         }
       },
@@ -267,26 +267,26 @@
           "exists": 709
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Overhyped",
+          "status": "Fluctuating",
           "exists": 150
         }
       },
       "Theory Crusher Scott": {
         "Normal": {
-          "value": "N/A",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 152
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 30
         }
       },
@@ -299,23 +299,23 @@
           "exists": 126
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 32
         }
       },
       "Scott Cawthon": {
         "Normal": {
-          "value": "N/A",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Fluctuating",
           "exists": 123
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Manipulated",
@@ -324,17 +324,17 @@
       },
       "Scott Plushie": {
         "Normal": {
-          "value": "8-10",
+          "value": "8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Overhyped",
           "exists": 1022
         },
         "Shiny": {
-          "value": "20",
+          "value": "20-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Manipulated",
+          "status": "Fluctuating",
           "exists": 96
         }
       },
