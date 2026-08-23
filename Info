@@ -1460,7 +1460,7 @@
       },
       "Mother Nature Ballora": {
         "Normal": {
-          "value": "12+",
+          "value": "14+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -1908,7 +1908,7 @@
       },
       "Thanatos": {
         "Normal": {
-          "value": "12+",
+          "value": "14+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
