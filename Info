@@ -100,14 +100,14 @@
       },
       "Pyro Springbonnie": {
         "Normal": {
-          "value": "3.5",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 1840
         },
         "Shiny": {
-          "value": "11",
+          "value": "10-11",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
