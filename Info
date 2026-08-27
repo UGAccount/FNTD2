@@ -1044,7 +1044,7 @@
       },
       "Sole Survivor Withered Bonnie": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
