@@ -100,14 +100,14 @@
       },
       "Pyro Springbonnie": {
         "Normal": {
-          "value": "3-3.5",
+          "value": "2.5-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 1840
         },
         "Shiny": {
-          "value": "10-11",
+          "value": "8-9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -164,7 +164,7 @@
       },
       "Spirit Of Willam Afton": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.07",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -180,14 +180,14 @@
       },
       "Spirit Of Charlie Emily": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.07",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 10597
         },
         "Shiny": {
-          "value": "1+",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -196,14 +196,14 @@
       },
       "Spirit Of Henry Emily": {
         "Normal": {
-          "value": "0.1",
+          "value": "0.07",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 10522
         },
         "Shiny": {
-          "value": "1-1.2+",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -251,7 +251,7 @@
           "exists": 5427
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30-35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -267,7 +267,7 @@
           "exists": 1040
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30-35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -283,7 +283,7 @@
           "exists": 194
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -299,7 +299,7 @@
           "exists": 154
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -315,7 +315,7 @@
           "exists": 148
         },
         "Shiny": {
-          "value": "25+",
+          "value": "30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -331,10 +331,10 @@
           "exists": 1241
         },
         "Shiny": {
-          "value": "20-30",
+          "value": "30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 101
         }
       },
@@ -379,7 +379,7 @@
           "exists": 1204
         },
         "Shiny": {
-          "value": "1",
+          "value": "0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -395,10 +395,10 @@
           "exists": 854
         },
         "Shiny": {
-          "value": "4",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Stable",
           "exists": 20
         }
       },
@@ -440,30 +440,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 384
+          "exists": 5348
         },
         "Shiny": {
           "value": "7.5-9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
-          "exists": 17
+          "exists": 306
         }
       },
       "Phone Guy": {
         "Normal": {
-          "value": "0.7-1",
+          "value": "0.7+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 917
+          "exists": 13853
         },
         "Shiny": {
-          "value": "10+",
+          "value": "8-10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 43
+          "exists": 623
         }
       },
       "XOR": {
@@ -475,7 +475,7 @@
           "exists": 6649
         },
         "Shiny": {
-          "value": "4-6",
+          "value": "4-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
@@ -484,14 +484,14 @@
       },
       "Mr. Hippo": {
         "Normal": {
-          "value": "0.15-0.2",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1878
         },
         "Shiny": {
-          "value": "1-1.3",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -507,7 +507,7 @@
           "exists": 11815
         },
         "Shiny": {
-          "value": "1-1.3",
+          "value": "0.7-1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -612,14 +612,14 @@
       },
       "Patient White Rabbit": {
         "Normal": {
-          "value": "1-1.5",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1295
         },
         "Shiny": {
-          "value": "10-12",
+          "value": "7-8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -635,7 +635,7 @@
           "exists": 1460
         },
         "Shiny": {
-          "value": "9",
+          "value": "7-8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -683,10 +683,10 @@
           "exists": 2372
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
+          "status": "Unstable",
           "exists": 207
         }
       },
@@ -783,7 +783,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 11
+          "exists": 18
         }
       },
       "Cthulhu Nightmare Foxy": {
@@ -791,7 +791,7 @@
           "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 3138
         },
         "Shiny": {
@@ -907,7 +907,7 @@
           "exists": 4649
         },
         "Shiny": {
-          "value": "4",
+          "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -1051,10 +1051,10 @@
           "exists": 26714
         },
         "Shiny": {
-          "value": "5-7",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 1002
         }
       },
@@ -3179,7 +3179,7 @@
           "exists": 3948
         },
         "Shiny": {
-          "value": "280-290+",
+          "value": "250",
           "soul": "2,000,000-2,400,000",
           "demand": "N/A",
           "status": "Stable",
