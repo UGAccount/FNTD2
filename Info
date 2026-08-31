@@ -20,14 +20,14 @@
       },
       "High Voltage Rockstar Freddy": {
         "Normal": {
-          "value": "0.15-0.2",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 14023
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "1-1.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -36,7 +36,7 @@
       },
       "White Lily Toy Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.3-0.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -52,7 +52,7 @@
       },
       "Malachite Foxy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.3+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -84,30 +84,30 @@
       },
       "Phantom Withered Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 989
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 34
         }
       },
       "Pyro Springbonnie": {
         "Normal": {
-          "value": "2.5-3",
+          "value": "2-2.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 2543
         },
         "Shiny": {
-          "value": "8-9",
+          "value": "7.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -244,30 +244,30 @@
       },
       "Planet Buster Scott": {
         "Normal": {
-          "value": "7-8",
+          "value": "6-7.5",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Fluctuating",
           "exists": 5953
         },
         "Shiny": {
-          "value": "30-35",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 1400
         }
       },
       "Overlord Scott": {
         "Normal": {
-          "value": "8",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 1204
         },
         "Shiny": {
-          "value": "30-35",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -276,65 +276,65 @@
       },
       "Theory Crusher Scott": {
         "Normal": {
-          "value": "8",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 215
         },
         "Shiny": {
-          "value": "30",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 42
         }
       },
       "Ragequit Scott": {
         "Normal": {
-          "value": "8",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 183
         },
         "Shiny": {
-          "value": "30",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 30
         }
       },
       "Scott Cawthon": {
         "Normal": {
-          "value": "8",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 159
         },
         "Shiny": {
-          "value": "30",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 29
         }
       },
       "Scott Plushie": {
         "Normal": {
-          "value": "8",
+          "value": "6-8",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
           "exists": 1333
         },
         "Shiny": {
-          "value": "30",
+          "value": "25-30",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Fluctuating",
           "exists": 115
         }
       },
@@ -388,7 +388,7 @@
       },
       "Stitchwraith": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -459,7 +459,7 @@
           "exists": 13853
         },
         "Shiny": {
-          "value": "8-10",
+          "value": "8-9",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -612,14 +612,14 @@
       },
       "Patient White Rabbit": {
         "Normal": {
-          "value": "1",
+          "value": "0.4-0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 4933
         },
         "Shiny": {
-          "value": "7-8",
+          "value": "5-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -628,14 +628,14 @@
       },
       "Vessel Plushtrap": {
         "Normal": {
-          "value": "0.7-0.8",
+          "value": "0.3-0.4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
           "exists": 4336
         },
         "Shiny": {
-          "value": "7-8",
+          "value": "5-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -788,14 +788,14 @@
       },
       "Cthulhu Nightmare Foxy": {
         "Normal": {
-          "value": "3-3.5",
+          "value": "5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
           "exists": 3794
         },
         "Shiny": {
-          "value": "30+",
+          "value": "30-35",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1147,7 +1147,7 @@
           "exists": 3957
         },
         "Shiny": {
-          "value": "4.5-5",
+          "value": "3-4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -2235,7 +2235,7 @@
           "exists": 7015
         },
         "Shiny": {
-          "value": "50-70",
+          "value": "60+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -3019,7 +3019,7 @@
           "exists": 4504
         },
         "Shiny": {
-          "value": "90-100",
+          "value": "80-90",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Stable",
@@ -3781,7 +3781,7 @@
     },
     "Dev": {
       "Devious Purple Guy": {
-        "value": "35-40",
+        "value": "35",
         "version": "Shiny",
         "enchant": "Champion",
         "soul": "N/A",
@@ -3945,7 +3945,7 @@
         "status": "Unstable"
       },
       "Anniversary Present": {
-        "value": "0.025",
+        "value": "0.015-0.02",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Unstable"
@@ -4419,7 +4419,7 @@
         "status": "Stable"
       },
       "Boss Raid Present": {
-        "value": "0.002-0.0025",
+        "value": "0.002-0.003",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
