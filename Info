@@ -251,7 +251,7 @@
           "exists": 5953
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -267,7 +267,7 @@
           "exists": 1204
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -279,7 +279,7 @@
           "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 215
         },
         "Shiny": {
@@ -299,7 +299,7 @@
           "exists": 183
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -315,11 +315,11 @@
           "exists": 159
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 29
+          "exists": 63
         }
       },
       "Scott Plushie": {
@@ -328,14 +328,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 1333
+          "exists": 2028
         },
         "Shiny": {
-          "value": "25-30",
+          "value": "25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 115
+          "exists": 260
         }
       },
       "Anniversary Duo": {
