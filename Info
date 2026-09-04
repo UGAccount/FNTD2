@@ -500,14 +500,14 @@
       },
       "Happy Frog": {
         "Normal": {
-          "value": "0.08+",
+          "value": "0.05-0.08",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
           "exists": 73776
         },
         "Shiny": {
-          "value": "0.7-1",
+          "value": "0.7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -2644,7 +2644,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "15-16",
+          "value": "15-17",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -2692,7 +2692,7 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "15-16",
+          "value": "15-17",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
