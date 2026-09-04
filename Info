@@ -59,7 +59,7 @@
           "exists": 892
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -644,7 +644,7 @@
       },
       "Witch of the Sea Scrapbaby": {
         "Normal": {
-          "value": "1-2",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -772,7 +772,7 @@
       },
       "Grand Strategist Chica": {
         "Normal": {
-          "value": "40+",
+          "value": "42-47.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -783,7 +783,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 19
+          "exists": 21
         }
       },
       "Cthulhu Nightmare Foxy": {
@@ -795,7 +795,7 @@
           "exists": 3794
         },
         "Shiny": {
-          "value": "30-35",
+          "value": "35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1476,7 +1476,7 @@
       },
       "Chicas Magic Rainbow": {
         "Normal": {
-          "value": "20-22",
+          "value": "17-19",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1627,7 +1627,7 @@
           "exists": 6749
         },
         "Shiny": {
-          "value": "13",
+          "value": "12-13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -2557,8 +2557,8 @@
         "Shiny": {
           "value": "20",
           "soul": "N/A",
-          "demand": "6/10",
-          "status": "Dropping",
+          "demand": "5/10",
+          "status": "Stable",
           "exists": 584
         }
       },
@@ -10168,7 +10168,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Evolves from Scott Plushie"
+          "Scott Plushie Evolution"
         ]
       }
     },
@@ -10235,7 +10235,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Evolves from Scott Cawthon"
+          "Scott Cawthon Evolution"
         ]
       }
     },
@@ -10309,7 +10309,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Evolves from Ragequit Scott"
+          "Ragequit Scott Evolution"
         ]
       }
     },
@@ -10390,7 +10390,7 @@
       },
       "Obtainability": {
         "Base": [
-          "Evolves from Theory Crusher Scott"
+          "Theory Crusher Scott Evolution"
         ]
       }
     },
@@ -10495,7 +10495,7 @@
       ],
       "Obtainability": {
         "Base": [
-          "Evolves from Overlord Scott"
+          "Overlord Scott Evolution"
         ]
       }
     },
@@ -21303,7 +21303,7 @@
           "Scarecrow Present (100%)"
         ]
       },
-      "Note": "Scarecrow Freddy is one of 2 boosters able to stack within multipe players (BB). "
+      "Note": "Scarecrow Freddy is one of 2 boosters still able to stack with multipe players using him (BB is the first). "
     },
     {
       "Name": "Shadow Knight Freddy",
