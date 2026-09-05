@@ -75,10 +75,10 @@
           "exists": 1008
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "2-3",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Unstable",
           "exists": 36
         }
       },
@@ -560,54 +560,6 @@
           "demand": "N/A",
           "status": "N/A",
           "exists": 535908
-        }
-      },
-      "Into the Pit Spring Bonnie": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 77516
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 4910
-        }
-      },
-      "Eleanor": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 185568
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 26055
-        }
-      },
-      "Count the Ways Funtime Freddy": {
-        "Normal": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 257224
-        },
-        "Shiny": {
-          "value": "N/A",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "N/A",
-          "exists": 53591
         }
       },
       "Patient White Rabbit": {
@@ -3314,6 +3266,38 @@
           "exists": 2392
         }
       },
+      "Into the Pit Spring Bonnie": {
+        "Normal": {
+          "value": "0.02+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 77516
+        },
+        "Shiny": {
+          "value": "0.1-0.2",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 4910
+        }
+      },
+      "Yenndo": {
+        "Normal": {
+          "value": "0.02+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 343866
+        },
+        "Shiny": {
+          "value": "0.1+",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 22712
+        }
+      },
       "Nightmare Mangle": {
         "Normal": {
           "value": "0.008+",
@@ -3346,36 +3330,20 @@
           "exists": 22512
         }
       },
-      "Yenndo": {
+      "Eleanor": {
         "Normal": {
-          "value": "0.02+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
-          "exists": 343866
+          "status": "N/A",
+          "exists": 185568
         },
         "Shiny": {
-          "value": "0.1+",
+          "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
-          "exists": 22712
-        }
-      },
-      "Nightmare BB": {
-        "Normal": {
-          "value": "0.001",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable",
-          "exists": 775905
-        },
-        "Shiny": {
-          "value": "0.01-0.02",
-          "soul": "N/A",
-          "demand": "N/A",
-          "status": "Stable",
-          "exists": 85519
+          "status": "N/A",
+          "exists": 26055
         }
       },
       "Elizabeth": {
@@ -3392,6 +3360,22 @@
           "demand": "N/A",
           "status": "Dropping",
           "exists": 86576
+        }
+      },
+      "Nightmare BB": {
+        "Normal": {
+          "value": "0.001",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 775905
+        },
+        "Shiny": {
+          "value": "0.01-0.02",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "Stable",
+          "exists": 85519
         }
       },
       "Withered Freddy": {
@@ -3440,6 +3424,22 @@
           "demand": "N/A",
           "status": "Stable",
           "exists": 230720
+        }
+      },
+      "Count the Ways Funtime Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 257224
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 53591
         }
       },
       "Nightmare Endo": {
