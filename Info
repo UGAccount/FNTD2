@@ -244,10 +244,10 @@
       },
       "Planet Buster Scott": {
         "Normal": {
-          "value": "6-7.5",
+          "value": "6",
           "soul": "N/A",
           "demand": "9/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 5953
         },
         "Shiny": {
