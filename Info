@@ -823,23 +823,23 @@
           "value": "0.01-0.04",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 153644
         },
         "Shiny": {
           "value": "0.3-0.4",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 8107
         }
       },
       "Arch Angler Toy Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 196
         },
         "Shiny": {
@@ -852,10 +852,10 @@
       },
       "Bombwork Cupcake": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 468
         },
         "Shiny": {
@@ -871,7 +871,7 @@
           "value": "0.1+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 599
         },
         "Shiny": {
@@ -1019,7 +1019,7 @@
           "exists": 3143
         },
         "Shiny": {
-          "value": "2-2.5",
+          "value": "1+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
@@ -1627,7 +1627,7 @@
           "exists": 6749
         },
         "Shiny": {
-          "value": "12-13",
+          "value": "11-13",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -1636,17 +1636,17 @@
       },
       "Stormbound Chica": {
         "Normal": {
-          "value": "2.5+",
+          "value": "2.2-2.5",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 9814
         },
         "Shiny": {
           "value": "40",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 508
         }
       },
@@ -1668,17 +1668,17 @@
       },
       "Lolbit": {
         "Normal": {
-          "value": "3",
+          "value": "3.5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Stable",
+          "status": "Unstable",
           "exists": 5918
         },
         "Shiny": {
           "value": "90-110",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 233
         }
       },
@@ -2651,10 +2651,10 @@
           "exists": 5616
         },
         "Shiny": {
-          "value": "300-350",
+          "value": "300-320",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Fluctuating",
+          "status": "Stable",
           "exists": 205
         }
       },
@@ -2679,7 +2679,7 @@
           "value": "0.01",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
+          "status": "Stable",
           "exists": 179331
         },
         "Shiny": {
