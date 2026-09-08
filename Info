@@ -10504,6 +10504,292 @@
       }
     },
     {
+    "Name": "Void Drifter Molten Freddy",
+    "Rarity": "Nightmare",
+    "PlacementPrice": 8000,
+    "Type": "Line",
+    "Element": "Fire",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 24.0,
+      "Damage": 650.0,
+      "Cooldown": 3.00
+    },
+    "UpgradeStats": [
+      {
+        "Range": 24.0,
+        "Damage": 725.0,
+        "Cooldown": 3.00,
+        "UpgradePrice": 3000
+      },
+      {
+        "Range": 25.0,
+        "Damage": 930.0,
+        "Cooldown": 3.50,
+        "UpgradePrice": 5000
+      },
+      {
+        "Range": 25.0,
+        "Damage": 1025.0,
+        "Cooldown": 3.50,
+        "UpgradePrice": 7500
+      },
+      {
+        "Range": 26.0,
+        "Damage": 1420.0,
+        "Cooldown": 4.20,
+        "UpgradePrice": 10000
+      },
+      {
+        "Range": 27.0,
+        "Damage": 1600.0,
+        "Cooldown": 4.20,
+        "UpgradePrice": 12000
+      },
+      {
+        "Range": 28.0,
+        "Damage": 1850.0,
+        "Cooldown": 4.20,
+        "UpgradePrice": 15000
+      },
+      {
+        "Range": 30.0,
+        "Damage": 2450.0,
+        "Cooldown": 5.00,
+        "UpgradePrice": 18000
+      },
+      {
+        "Range": 32.0,
+        "Damage": 2800.0,
+        "Cooldown": 5.00,
+        "UpgradePrice": 21000
+      }
+    ],
+    "Passives": {
+      "Cybernetic Underworld": "Whenever an enemy in range is stunned: • Deal 60% damage to that enemy • Gain +15% range for 20s (max +30%). If 3 or more Fire and/or Electricity units are in range: • Slow enemies in range by 15% • Units in range gain +20% range • Attacks apply 60% burn over 6s"
+    },
+    "Actives": [
+      {
+        "Name": "Digital Waves",
+        "Description": "Spawn a Void Drifter Molten Freddy summon that deals 250% of this unit's damage on contact.",
+        "Cooldown": 20,
+        "Upgrade": 0
+      }
+    ],
+    "Obtainability": {
+      "Base": [
+        "Cyberpunk Event (Unlocked at prestige 3 in the game mode.)"
+      ]
+    }
+  },
+  {
+    "Name": "Neon Punk Nightmare Chica",
+    "Rarity": "Secret",
+    "PlacementPrice": 4500,
+    "Type": "Circle",
+    "Element": "Dark",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 18.0,
+      "Damage": 510.1,
+      "Cooldown": 4.00
+    },
+    "UpgradeStats": [
+      {
+        "Range": 19.0,
+        "Damage": 612.1,
+        "Cooldown": 4.00,
+        "UpgradePrice": 3000
+      },
+      {
+        "Range": 20.0,
+        "Damage": 739.6,
+        "Cooldown": 3.75,
+        "UpgradePrice": 4500
+      },
+      {
+        "Range": 21.0,
+        "Damage": 892.6,
+        "Cooldown": 3.75,
+        "UpgradePrice": 6500
+      },
+      {
+        "Range": 23.0,
+        "Damage": 1122.2,
+        "Cooldown": 3.50,
+        "Type": "Line",
+        "UpgradePrice": 9000
+      },
+      {
+        "Range": 25.0,
+        "Damage": 1377.2,
+        "Cooldown": 3.50,
+        "UpgradePrice": 12000
+      },
+      {
+        "Range": 27.0,
+        "Damage": 1653.3,
+        "Cooldown": 3.25,
+        "UpgradePrice": 15000
+      },
+      {
+        "Range": 27.0,
+        "Damage": 2040.3,
+        "Cooldown": 3.00,
+        "UpgradePrice": 19000
+      }
+    ],
+    "Passives": {
+      "Encore": "Gain 1 Bass every 3 seconds and whenever a Dark unit gets a kill in range. At 20 Bass change to Full AOE for 20 seconds and gain +25% damage for 20 seconds. When Encore ends deal 200% damage to enemies in range and stun enemies hit for 1.5 seconds. Reset Bass",
+      "Lone Wolf": "If this is the only Chica unit on the team, gain +15% critical chance and +35% critical damage."
+    },
+    "Obtainability": {
+      "Base": [
+        "Cyber Event Free Tier 50",
+        "Neon Punk Nightmare Chica Present"
+      ]
+    }
+  },
+  {
+    "Name": "Cyberdata Withered Bonnie",
+    "Rarity": "Secret",
+    "PlacementPrice": 7447,
+    "Type": "Cone",
+    "Degrees": 45,
+    "Element": "Electricity",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 25.0,
+      "Damage": 229.5,
+      "Cooldown": 4.50
+    },
+    "UpgradeStats": [
+      {
+        "Range": 26.0,
+        "Damage": 295.8,
+        "Cooldown": 4.00,
+        "UpgradePrice": 4000
+      },
+      {
+        "Range": 27.0,
+        "Damage": 367.3,
+        "Cooldown": 4.00,
+        "UpgradePrice": 6000
+      },
+      {
+        "Range": 28.0,
+        "Damage": 550.9,
+        "Cooldown": 4.00,
+        "UpgradePrice": 8000
+      },
+      {
+        "Range": 29.0,
+        "Damage": 887.5,
+        "Cooldown": 4.00,
+        "UpgradePrice": 10000
+      },
+      {
+        "Range": 30.0,
+        "Damage": 714.1,
+        "Cooldown": 3.00,
+        "UpgradePrice": 12500
+      },
+      {
+        "Range": 32.0,
+        "Damage": 892.6,
+        "Cooldown": 3.00,
+        "Type": "Cone",
+        "Degrees": 75,
+        "UpgradePrice": 15000
+      },
+      {
+        "Range": 32.0,
+        "Damage": 1147.7,
+        "Cooldown": 3.00,
+        "UpgradePrice": 18000
+      }
+    ],
+    "Passives": {
+      "0FF3NS1V3 PR0T0C0L": "Gain +60% Crit Rate and +40% Crit Damage. Nearby units gain +15% Crit Rate and +10% Crit Damage. If fewer than 3 enemies are in range, or an enemy in range has at least 10x this unit's damage as health gain +50% damage. On Crit, follow up for 50% damage",
+      "F1R3W4LL": "On Hit deal +1 shield damage, slow enemies by 20%, and stun for 2s. When an enemy tries to leave range Stun for 5s and deal 200% damage"
+    },
+    "Obtainability": {
+      "Base": [
+        "Cyber Event Premium Tier 50",
+        "Cyberdata Withered Bonnie Present"
+      ]
+    }
+  },
+  {
+    "Name": "Model 2.9 Defective Funtime Foxy",
+    "Rarity": "Secret",
+    "PlacementPrice": 10000,
+    "Type": "Circle",
+    "Element": "Electricity",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 24.0,
+      "Damage": 663.1,
+      "Cooldown": 4.00
+    },
+    "UpgradeStats": [
+      {
+        "Range": 25.0,
+        "Damage": 765.1,
+        "Cooldown": 4.00,
+        "UpgradePrice": 4500
+      },
+      {
+        "Range": 26.0,
+        "Damage": 541.6,
+        "Cooldown": 3.75,
+        "UpgradePrice": 6000
+      },
+      {
+        "Range": 27.0,
+        "Damage": 969.2,
+        "Cooldown": 3.75,
+        "Type": "Line",
+        "UpgradePrice": 7500
+      },
+      {
+        "Range": 29.0,
+        "Damage": 1071.2,
+        "Cooldown": 3.50,
+        "UpgradePrice": 9000
+      },
+      {
+        "Range": 31.0,
+        "Damage": 1224.2,
+        "Cooldown": 3.50,
+        "UpgradePrice": 12000
+      },
+      {
+        "Range": 33.0,
+        "Damage": 1479.2,
+        "Cooldown": 3.25,
+        "Type": "Cone",
+        "Degrees": 120,
+        "UpgradePrice": 15000
+      },
+      {
+        "Range": 33.0,
+        "Damage": 1755.3,
+        "Cooldown": 3.00,
+        "UpgradePrice": 20000
+      }
+    ],
+    "Passives": {
+      "City of Tomorrow": "On hit apply 25% bleed over 5 seconds and deal +25% damage to slowed or bleeding enemies. When Techno-Genesis activates apply 100% bleed over 10 seconds to enemies in range, become immune to stuns for 15 seconds, and apply Malware to enemies in range for 10 seconds.",
+      "Techno-Genesis": "Whenever a unit in range uses an active ability (15s cooldown) deal 250% damage in a Full AOE, deal 10 shield damage, and slow enemies by 20% for 10 seconds. When the slow expires, stun affected enemies for 1.8 seconds"
+    },
+    "Obtainability": {
+      "Base": [
+        "Cyber Event Robux Pack"
+        ]
+      }
+    },
+    {
       "Name": "Into the Pit Spring Bonnie",
       "Rarity": "Nightmare",
       "PlacementPrice": 6000,
@@ -10553,6 +10839,75 @@
       "Obtainability": {
         "Base": [
           "Summonable Nightmare (0.01%)"
+        ]
+      }
+    },
+    {
+      "Name": "Model 2.9 Defective Funtime Foxy",
+      "Rarity": "Secret",
+      "PlacementPrice": 10000,
+      "Type": "Circle",
+      "Element": "Electricity",
+      "MaxPlaced": 1,
+      "BaseStats": {
+        "Range": 24.0,
+        "Damage": 663.1,
+        "Cooldown": 4.00
+      },
+      "UpgradeStats": [
+        {
+          "Range": 25.0,
+          "Damage": 765.1,
+          "Cooldown": 4.00,
+          "UpgradePrice": 4500
+        },
+        {
+          "Range": 26.0,
+          "Damage": 541.6,
+          "Cooldown": 3.75,
+          "UpgradePrice": 6000
+        },
+        {
+          "Range": 27.0,
+          "Damage": 969.2,
+          "Cooldown": 3.75,
+          "Type": "Line",
+          "UpgradePrice": 7500
+        },
+        {
+          "Range": 29.0,
+          "Damage": 1071.2,
+          "Cooldown": 3.50,
+          "UpgradePrice": 9000
+        },
+        {
+          "Range": 31.0,
+          "Damage": 1224.2,
+          "Cooldown": 3.50,
+          "UpgradePrice": 12000
+        },
+        {
+          "Range": 33.0,
+          "Damage": 1479.2,
+          "Cooldown": 3.25,
+          "Type": "Cone",
+          "Degrees": 120,
+          "UpgradePrice": 15000
+        },
+        {
+          "Range": 33.0,
+          "Damage": 1755.3,
+          "Cooldown": 3.00,
+          "UpgradePrice": 20000
+        }
+      ],
+      "Passives": {
+        "City of Tomorrow": "On hit apply 25% bleed over 5 seconds and deal +25% damage to slowed or bleeding enemies. When Techno-Genesis activates apply 100% bleed over 10 seconds to enemies in range, become immune to stuns for 15 seconds, and apply Malware to enemies in range for 10 seconds.",
+        "Techno-Genesis": "Whenever a unit in range uses an active ability (15s cooldown) deal 250% damage in a Full AOE, deal 10 shield damage, and slow enemies by 20% for 10 seconds. When the slow expires, stun affected enemies for 1.8 seconds"
+      },
+      "Obtainability": {
+        "Base": [
+          "Cyber Event Robux Pack (2999$)"
         ]
       }
     },
