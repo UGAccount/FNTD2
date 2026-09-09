@@ -2,6 +2,70 @@
 {
   "Values": {
     "Units": {
+      "Void Drifter Molten Freddy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Cybersata Withered Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Neon Punk Nightmare Chica": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Model 2.9 Defective Funtime Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "DJ 101Bit": {
         "Normal": {
           "value": "0.2-0.3",
@@ -3890,6 +3954,42 @@
       }
     },
     "Presents": {
+      "Cyberdata Withered Bonnie Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Neon Punk Nightmare Chica Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Malachite Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "White Lily Toy Foxy Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phantom Endo 02 Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Phantom Withered Chica Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Dirt Boss Freddy Present": {
         "value": "N/A",
         "soul": "N/A",
@@ -3927,6 +4027,12 @@
         "status": "Stable"
       },
       "Stitchwraith Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Vessel Plushtrap Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
