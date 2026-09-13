@@ -18,7 +18,7 @@
           "exists": 0
         }
       },
-      "Cyberdata Withered Bonnie": {
+      "Cybersata Withered Bonnie": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -104,14 +104,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 521
+          "exists": 2117
         },
         "Shiny": {
-          "value": "7+",
+          "value": "7-10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 72
+          "exists": 86
         }
       },
       "Malachite Foxy": {
@@ -120,14 +120,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 892
+          "exists": 2382
         },
         "Shiny": {
-          "value": "4",
+          "value": "4-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 81
+          "exists": 99
         }
       },
       "Phantom Endo 02": {
@@ -136,14 +136,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1008
+          "exists": 1870
         },
         "Shiny": {
           "value": "2-3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 36
+          "exists": 67
         }
       },
       "Phantom Withered Chica": {
@@ -152,14 +152,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 989
+          "exists": 1746
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 34
+          "exists": 72
         }
       },
       "Pyro Springbonnie": {
@@ -523,7 +523,7 @@
           "exists": 13853
         },
         "Shiny": {
-          "value": "8-9",
+          "value": "8-8.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
@@ -648,14 +648,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 4336
+          "exists": 8396
         },
         "Shiny": {
           "value": "5-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 83
+          "exists": 119
         }
       },
       "Witch of the Sea Scrapbaby": {
@@ -696,14 +696,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 7412
+          "exists": 9159
         },
         "Shiny": {
-          "value": "30+",
+          "value": "35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 352
+          "exists": 444
         }
       },
       "Cannoneer Chica": {
@@ -788,18 +788,18 @@
       },
       "Grand Strategist Chica": {
         "Normal": {
-          "value": "42-47.5",
+          "value": "43-50",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 536
+          "exists": 709
         },
         "Shiny": {
-          "value": "280",
+          "value": "280-300",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Fluctuating",
-          "exists": 21
+          "status": "Stable",
+          "exists": 27
         }
       },
       "Cthulhu Nightmare Foxy": {
@@ -919,14 +919,14 @@
           "value": "2.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 5269
         },
         "Shiny": {
           "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 6785
         }
       },
@@ -1611,7 +1611,7 @@
           "exists": 74031
         },
         "Shiny": {
-          "value": "1.5+",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -2971,7 +2971,7 @@
           "exists": 29232
         },
         "Shiny": {
-          "value": "11+",
+          "value": "10",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Fluctuating",
@@ -3131,10 +3131,10 @@
           "exists": 33775
         },
         "Shiny": {
-          "value": "28",
+          "value": "25-28",
           "soul": "N/A",
-          "demand": "8/10",
-          "status": "Overhyped",
+          "demand": "5/10",
+          "status": "Stable",
           "exists": 626
         }
       },
@@ -3182,7 +3182,7 @@
           "value": "80+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
+          "status": "Stable",
           "exists": 130
         }
       },
@@ -3415,14 +3415,14 @@
           "value": "0.005",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 719532
         },
         "Shiny": {
           "value": "0.04+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Dropping",
+          "status": "Stable",
           "exists": 86576
         }
       },
@@ -3451,7 +3451,7 @@
           "exists": 1000870
         },
         "Shiny": {
-          "value": "0.04",
+          "value": "0.06-0.1",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -3844,15 +3844,6 @@
       }
     },
     "Dev": {
-      "Void Drifter Molten Freddy": {
-        "value": "N/A",
-        "version": "Shiny",
-        "enchant": "Champion",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Unstable",
-        "exists": "500"
-      },
       "Devious Purple Guy": {
         "value": "35",
         "version": "Shiny",
@@ -3860,7 +3851,7 @@
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable",
-        "exists": "200"
+        "exists": "0"
       },
       "Mother Nature Ballora": {
         "value": "N/A",
@@ -3970,12 +3961,6 @@
         "status": "Stable"
       },
       "Neon Punk Nightmare Chica Present": {
-        "value": "N/A",
-        "soul": "N/A",
-        "demand": "N/A",
-        "status": "Stable"
-      },
-      "Model 2.9 Funtime Foxy Present": {
         "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
