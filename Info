@@ -4,50 +4,50 @@
     "Units": {
       "Void Drifter Molten Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.2-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 14055
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 1354
         }
       },
       "Cyberdata Withered Bonnie": {
         "Normal": {
-          "value": "N/A",
+          "value": "1",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 991
         },
         "Shiny": {
           "value": "N/A",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 46
         }
       },
       "Neon Punk Nightmare Chica": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.1-0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
-          "exists": 0
+          "exists": 2508
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "N/A",
-          "exists": 0
+          "status": "Unstable",
+          "exists": 103
         }
       },
       "Model 2.9 Defective Funtime Foxy": {
@@ -104,14 +104,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 2117
+          "exists": 2368
         },
         "Shiny": {
           "value": "7-10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 86
+          "exists": 91
         }
       },
       "Malachite Foxy": {
@@ -120,14 +120,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 2382
+          "exists": 2549
         },
         "Shiny": {
           "value": "4-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 99
+          "exists": 108
         }
       },
       "Phantom Endo 02": {
@@ -168,14 +168,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 2543
+          "exists": 4549
         },
         "Shiny": {
-          "value": "7.5",
+          "value": "5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 528
+          "exists": 1021
         }
       },
       "Hot Dog Guy": {
@@ -228,50 +228,50 @@
       },
       "Spirit Of Willam Afton": {
         "Normal": {
-          "value": "0.07",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 18665
+          "status": "Stable",
+          "exists": 21325
         },
         "Shiny": {
-          "value": "1",
+          "value": "1O",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
-          "exists": 737
+          "status": "Stable",
+          "exists": 832
         }
       },
       "Spirit Of Charlie Emily": {
         "Normal": {
-          "value": "0.07",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 11825
+          "status": "Stable",
+          "exists": 13490
         },
         "Shiny": {
           "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
-          "exists": 451
+          "status": "Stable",
+          "exists": 502
         }
       },
       "Spirit Of Henry Emily": {
         "Normal": {
-          "value": "0.07",
+          "value": "0.1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 11700
+          "status": "Stable",
+          "exists": 13213
         },
         "Shiny": {
           "value": "1",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Slowly Dropping",
-          "exists": 435
+          "status": "Stable",
+          "exists": 487
         }
       },
       "Ocular Nightmare BB": {
@@ -472,14 +472,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1391
+          "exists": 1780
         },
         "Shiny": {
-          "value": "45+",
+          "value": "50+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 63
+          "exists": 80
         }
       },
       "Dee Dee": {
@@ -520,14 +520,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 13853
+          "exists": 18475
         },
         "Shiny": {
           "value": "8-8.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 622
+          "exists": 828
         }
       },
       "XOR": {
@@ -632,30 +632,30 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 4933
+          "exists": 8391
         },
         "Shiny": {
           "value": "5-6",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 273
+          "exists": 481
         }
       },
       "Vessel Plushtrap": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "0.1-0.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 8396
+          "exists": 8973
         },
         "Shiny": {
-          "value": "5-6",
+          "value": "5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 119
+          "exists": 125
         }
       },
       "Witch of the Sea Scrapbaby": {
@@ -696,14 +696,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 9159
+          "exists": 9163
         },
         "Shiny": {
           "value": "35+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Unstable",
-          "exists": 444
+          "exists": 446
         }
       },
       "Cannoneer Chica": {
@@ -711,15 +711,15 @@
           "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
-          "status": "Unstable",
-          "exists": 15558
+          "status": "Stable",
+          "exists": 18608
         },
         "Shiny": {
           "value": "3",
           "soul": "N/A",
           "demand": "4/10",
           "status": "Stable",
-          "exists": 639
+          "exists": 768
         }
       },
       "Mechanic Endo 01": {
@@ -792,14 +792,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Fluctuating",
-          "exists": 709
+          "exists": 748
         },
         "Shiny": {
           "value": "280-300",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 27
+          "exists": 29
         }
       },
       "Cthulhu Nightmare Foxy": {
@@ -920,14 +920,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 5269
+          "exists": 5443
         },
         "Shiny": {
           "value": "3-3.5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 6785
+          "exists": 7253
         }
       },
       "Nature Reclaimed Foxy": {
@@ -1064,14 +1064,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Slowly Dropping",
-          "exists": 35734
+          "exists": 48276
         },
         "Shiny": {
           "value": "4",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1335
+          "exists": 1810
         }
       },
       "Roadkill Phantom Foxy": {
@@ -1720,14 +1720,14 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 35440
+          "exists": 35406
         },
         "Shiny": {
-          "value": "1.5",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 1504
+          "exists": 1506
         }
       },
       "Scooped Micheal": {
@@ -1831,15 +1831,15 @@
           "value": "2-3",
           "soul": "N/A",
           "demand": "7/10",
-          "status": "Slowly Dropping",
-          "exists": 21712
+          "status": "Stable",
+          "exists": 24067
         },
         "Shiny": {
           "value": "18-20",
           "soul": "N/A",
           "demand": "6.5/10",
-          "status": "Slowly Dropping",
-          "exists": 961
+          "status": "Stable",
+          "exists": 1064
         }
       },
       "Bear5": {
@@ -3176,7 +3176,7 @@
           "soul": "N/A",
           "demand": "5/10",
           "status": "Stable",
-          "exists": 4823
+          "exists": 4890
         },
         "Shiny": {
           "value": "80+",
