@@ -11033,6 +11033,222 @@
       }
     },
     {
+     "Name": "Daydream Rockstar Foxy",
+     "Rarity": "Nightmare",
+     "PlacementPrice": 5000,
+     "Type": "Explosion",
+     "Element": "Light",
+     "MaxPlaced": 1,
+     "BaseStats": {
+      "Range": 21,
+      "Damage": 650,
+      "Cooldown": 6
+    },
+    "UpgradeStats": [
+      {
+        "Range": 21,
+        "Damage": 700,
+        "Cooldown": 6,
+        "UpgradePrice": 4000
+      },
+      {
+        "Range": 22,
+        "Damage": 825,
+        "Cooldown": 6,
+        "UpgradePrice": 5000
+      },
+      {
+        "Range": 25,
+        "Damage": 950,
+        "Cooldown": 6,
+        "UpgradePrice": 6000
+      },
+      {
+        "Range": 25,
+        "Damage": 1300,
+        "Cooldown": 6.5,
+        "UpgradePrice": 7500,
+        "Type": "Cone"
+      },
+      {
+        "Range": 26,
+        "Damage": 1450,
+        "Cooldown": 6.5,
+        "UpgradePrice": 9000
+      },
+      {
+        "Range": 26,
+        "Damage": 1600,
+        "Cooldown": 6.5,
+        "UpgradePrice": 10500
+      },
+      {
+        "Range": 28,
+        "Damage": 2050,
+        "Cooldown": 7.5,
+        "UpgradePrice": 12000
+      },
+      {
+        "Range": 28,
+        "Damage": 2250,
+        "Cooldown": 7.5,
+        "UpgradePrice": 14000
+      },
+      {
+        "Range": 28,
+        "Damage": 2500,
+        "Cooldown": 7.5,
+        "UpgradePrice": 16000
+      }
+    ],
+    "Passives": {
+      "Radiant Dreams": "While this unit is on the team with 3+ [Light] units • When a [Light] unit attacks, follow up for 125% damage and apply 50% burn over 5 seconds (5s cooldown) • When another [Dreamer] attacks, follow up for 50% damage in a Full AOE and apply 25% burn over 5 seconds (5s cooldown)",
+      "Sunlit Mornings": "• Link to the 2 highest-damage units in range • [Dreamer] units are additionally linked and gain +20% damage and +30% critical rate. Whenever this unit or a linked unit gets a kill: • Gain 1 [Daydream]. At 10 [Daydream]: • Gain +25% critical rate and +50% critical damage for 30 seconds • The next 3 attacks deal +50% damage, or +100% damage to [Dark] enemies, and are guaranteed to critically hit"
+    },
+    "Obtainability": {
+      "Base": [
+        "Slumber Present"
+      ]
+    }
+  },
+  {
+    "Name": "Bedtime Psychic Fredbear",
+    "Rarity": "Mythical",
+    "PlacementPrice": 2500,
+    "Type": "Cone",
+    "Element": "Light",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 20,
+      "Damage": 600,
+      "Cooldown": 5
+    },
+    "UpgradeStats": [
+      {
+        "Range": 21,
+        "Damage": 750,
+        "Cooldown": 5,
+        "UpgradePrice": 2500
+      },
+      {
+        "Range": 22,
+        "Damage": 1000,
+        "Cooldown": 5,
+        "UpgradePrice": 4000
+      },
+      {
+        "Range": 24,
+        "Damage": 1200,
+        "Cooldown": 4.8,
+        "UpgradePrice": 6000
+      },
+      {
+        "Range": 26,
+        "Damage": 1500,
+        "Cooldown": 4.8,
+        "UpgradePrice": 8000
+      },
+      {
+        "Range": 28,
+        "Damage": 1750,
+        "Cooldown": 4.5,
+        "UpgradePrice": 10000
+      },
+      {
+        "Range": 30,
+        "Damage": 2150,
+        "Cooldown": 4.5,
+        "UpgradePrice": 13000
+      },
+      {
+        "Range": 33,
+        "Damage": 2550,
+        "Cooldown": 4.2,
+        "UpgradePrice": 16000
+      }
+    ],
+    "Passives": {
+      "As the Moon Shifts": "Every attack has a 50% chance to increase or decrease the TV's moon phase • Increase the chance to advance by 20% per [Dreamer] on the team. New Moon • Cone 30 • [Dreamer] units gain +5% damage. Crescent Moon • Cone 45 • [Dreamer] units gain +10% damage. Quarter Moon • Cone 75 • Apply 10% slow on hit • [Dreamer] units gain +20% damage. Gibbous Moon • Cone 120 • Apply 15% slow on hit • [Dreamer] units gain +30% damage. Full Moon • Cone 180 • Apply 20% slow on hit • [Dreamer] units gain +30% damage and +20% range • Other units gain +10% damage and +5% range"
+    },
+    "Obtainability": {
+      "Base": [
+        "Slumber Present"
+      ]
+    }
+  },
+  {
+    "Name": "Nightterror Rockstar Bonnie",
+    "Rarity": "Secret",
+    "PlacementPrice": 4000,
+    "Type": "Line",
+    "Element": "Dark",
+    "MaxPlaced": 1,
+    "BaseStats": {
+      "Range": 22,
+      "Damage": 200,
+      "Cooldown": 2
+    },
+    "UpgradeStats": [
+      {
+        "Range": 23,
+        "Damage": 250,
+        "Cooldown": 2,
+        "UpgradePrice": 3500
+      },
+      {
+        "Range": 24,
+        "Damage": 300,
+        "Cooldown": 2,
+        "UpgradePrice": 4500
+      },
+      {
+        "Range": 25,
+        "Damage": 350,
+        "Cooldown": 2.5,
+        "UpgradePrice": 5500
+      },
+      {
+        "Range": 26,
+        "Damage": 420,
+        "Cooldown": 2,
+        "UpgradePrice": 7000
+      },
+      {
+        "Range": 27,
+        "Damage": 500,
+        "Cooldown": 2,
+        "UpgradePrice": 9000
+      },
+      {
+        "Range": 30,
+        "Damage": 750,
+        "Cooldown": 2.5,
+        "UpgradePrice": 12000,
+        "Type": "Cone"
+      },
+      {
+        "Range": 31,
+        "Damage": 850,
+        "Cooldown": 2.5,
+        "UpgradePrice": 15000
+      },
+      {
+        "Range": 32,
+        "Damage": 1000,
+        "Cooldown": 2.5,
+        "UpgradePrice": 18000
+      }
+    ],
+    "Passives": {
+      "By My All Seeing Eye": "On hit • Apply 50% burn over 10 seconds, increased by 25% per other [Dreamer] on the team • Stun for 1 second, increased by 0.5 seconds per other [Dreamer] on the team. [Dark] and [Light] units • Gain +25% damage and +10% range. [Dreamer] units • Receive double this unit's buffs • On attack, apply 20% of this unit's damage as burn over 5 seconds"
+    },
+    "Obtainability": {
+      "Base": [
+        "Slumber Present"
+        ]
+      }
+    },
+    {
       "Name": "Helpy",
       "Rarity": "Exclusive",
       "PlacementPrice": 3000,
