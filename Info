@@ -18,7 +18,7 @@
           "exists": 0
         }
       },
-      "Cybersata Withered Bonnie": {
+      "Cyberdata Withered Bonnie": {
         "Normal": {
           "value": "N/A",
           "soul": "N/A",
@@ -3844,6 +3844,15 @@
       }
     },
     "Dev": {
+      "Void Drifter Molten Freddy": {
+        "value": "N/A",
+        "version": "Shiny",
+        "enchant": "Champion",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable",
+        "exists": "500"
+      },
       "Devious Purple Guy": {
         "value": "35",
         "version": "Shiny",
@@ -3954,6 +3963,12 @@
       }
     },
     "Presents": {
+      "Model 2.9 Funtime Foxy": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
       "Cyberdata Withered Bonnie Present": {
         "value": "N/A",
         "soul": "N/A",
