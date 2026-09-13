@@ -2,6 +2,54 @@
 {
   "Values": {
     "Units": {
+      "Daydream Rockstar Foxy": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Nightterror Rockstar Bonnie": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
+      "Bedtime Psychic Fredbear": {
+        "Normal": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        },
+        "Shiny": {
+          "value": "N/A",
+          "soul": "N/A",
+          "demand": "N/A",
+          "status": "N/A",
+          "exists": 0
+        }
+      },
       "Void Drifter Molten Freddy": {
         "Normal": {
           "value": "0.2-0.3",
@@ -4541,6 +4589,18 @@
       },
       "Boss Raid Present": {
         "value": "0.002-0.003",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Slumber Present": {
+        "value": "N/A",
+        "soul": "N/A",
+        "demand": "N/A",
+        "status": "Stable"
+      },
+      "Apocalypse Present": {
+        "value": "N/A",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -11107,7 +11167,7 @@
     },
     "Obtainability": {
       "Base": [
-        "Slumber Present"
+        "Slumber Present (0.1%)"
       ]
     }
   },
@@ -11172,7 +11232,7 @@
     },
     "Obtainability": {
       "Base": [
-        "Slumber Present"
+        "Slumber Present (97.9%)"
       ]
     }
   },
@@ -11244,7 +11304,7 @@
     },
     "Obtainability": {
       "Base": [
-        "Slumber Present"
+        "Slumber Present (2%)"
         ]
       }
     },
@@ -20230,6 +20290,11 @@
         {
           "Name": "Hazard Fredbear",
           "Obtainability": "S2 Clan Rewards (top 10)",
+          "Rarity": "Secret"
+        },
+        {
+          "Name": "Forever Slumber Fredbear",
+          "Obtainability": "Slumber Present (0.01%)",
           "Rarity": "Secret"
         }
       ]
